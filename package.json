@@ -1,0 +1,9 @@
+{
+  "name": "ielts-word-cards",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node ./tools/build-static.js"
+  }
+}

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>雅思考点词背诵</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">IELTS Word Cards</p>
+          <h1>雅思考点词背诵</h1>
+        </div>
+        <button class="icon-button" id="resetProgress" title="重置当前词库进度" aria-label="重置当前词库进度">↺</button>
+      </header>
+
+      <section class="controls" aria-label="词库选择">
+        <button class="tab active" data-mode="reading">阅读 538</button>
+        <button class="tab" data-mode="listening">听力 179</button>
+        <button class="tab" data-mode="mistakes">错词本</button>
+      </section>
+
+      <section class="stats" aria-live="polite">
+        <div><strong id="doneCount">0</strong><span>已测</span></div>
+        <div><strong id="leftCount">0</strong><span>剩余</span></div>
+        <div><strong id="mistakeCount">0</strong><span>错词</span></div>
+      </section>
+
+      <section class="card-wrap">
+        <div class="progress-line"><span id="progressBar"></span></div>
+        <article class="word-card" id="wordCard">
+          <p class="counter" id="counter">0 / 0</p>
+          <h2 id="term">准备开始</h2>
+          <div class="answer" id="answer" hidden>
+            <p id="meaning"></p>
+            <div class="synonyms" id="synonyms"></div>
+          </div>
+          <p class="hint" id="hint"></p>
+        </article>
+      </section>
+
+      <section class="actions">
+        <button class="soft" id="wrongBtn">不会</button>
+        <button class="primary" id="rightBtn">会</button>
+        <button class="next" id="nextBtn" hidden>下一个</button>
+      </section>
+
+      <section class="panel" id="mistakePanel" hidden>
+        <div class="panel-head">
+          <h2>错词积累本</h2>
+          <button id="clearMistakes">清空</button>
+        </div>
+        <div class="mistake-list" id="mistakeList"></div>
+      </section>
+
+      <section class="panel import-panel">
+        <details>
+          <summary>导入/补充阅读 538 词库</summary>
+          <p>每行一个词：英文｜中文｜同义替换。导入后会保存在本机浏览器。</p>
+          <textarea id="importText" placeholder="attain｜达到｜reach, hit, achieve"></textarea>
+          <button id="importBtn">加入阅读词库</button>
+        </details>
+      </section>
+    </main>
+    <script src="./data/vocab-data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
