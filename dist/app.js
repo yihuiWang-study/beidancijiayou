@@ -154,7 +154,10 @@ function render() {
   $("term").textContent = state.current.term || state.current.title;
   if (state.mode === "speaking") {
     $("meaning").textContent = `${state.current.part} · ${state.current.frequency || "常规"} · ${state.current.type || "练习题"}`;
-    $("synonyms").innerHTML = `<strong>可用表达：</strong>${(state.current.keywords || []).join(" / ")}<br><br><strong>答题提示：</strong>${state.current.hint || ""}`;
+    const cuePoints = state.current.part === "Part 2" && (state.current.cuePoints || []).length
+      ? `<strong>You should say:</strong><ul class="cue-points">${state.current.cuePoints.map((point) => `<li>${point}</li>`).join("")}</ul><br>`
+      : "";
+    $("synonyms").innerHTML = `${cuePoints}<strong>可用表达：</strong>${(state.current.keywords || []).join(" / ")}<br><br><strong>答题提示：</strong>${state.current.hint || ""}`;
     $("supportAnswer").hidden = false;
     $("synonyms").hidden = !state.supportVisible;
     $("supportToggle").textContent = state.supportVisible ? "隐藏" : "显示";
