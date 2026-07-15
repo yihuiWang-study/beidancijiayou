@@ -25,6 +25,20 @@ function keyFor(word) {
   return word.id;
 }
 
+function speakCurrentWord() {
+  if (!state.current || !("speechSynthesis" in window)) return;
+  const text = state.current.term;
+  window.speechSynthesis.cancel();
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = "en-US";
+  utterance.rate = 0.85;
+  utterance.pitch = 1;
+  const voices = window.speechSynthesis.getVoices();
+  const englishVoice = voices.find((voice) => /^en[-_]/i.test(voice.lang));
+  if (englishVoice) utterance.voice = englishVoice;
+  window.speechSynthesis.speak(utterance);
+}
+
 async function loadWords() {
   let reading = window.VOCAB_DATA?.reading || [];
   let listening = window.VOCAB_DATA?.listening || [];
@@ -84,12 +98,14 @@ function render() {
     $("hint").textContent = "";
     $("wrongBtn").disabled = true;
     $("rightBtn").disabled = true;
+    $("speakBtn").disabled = true;
     $("nextBtn").hidden = true;
     return;
   }
 
   $("wrongBtn").disabled = false;
   $("rightBtn").disabled = false;
+  $("speakBtn").disabled = !("speechSynthesis" in window);
   $("term").textContent = state.current.term;
   $("meaning").textContent = state.current.meaning || "暂无中文释义";
   $("synonyms").textContent = state.current.synonyms ? `同义替换：${state.current.synonyms}` : "暂无同义替换";
@@ -159,6 +175,7 @@ function importReading() {
 document.querySelectorAll(".tab").forEach((tab) => tab.addEventListener("click", () => setMode(tab.dataset.mode)));
 $("wrongBtn").addEventListener("click", () => answer(false));
 $("rightBtn").addEventListener("click", () => answer(true));
+$("speakBtn").addEventListener("click", speakCurrentWord);
 $("nextBtn").addEventListener("click", nextWord);
 $("importBtn").addEventListener("click", importReading);
 $("clearMistakes").addEventListener("click", () => {
