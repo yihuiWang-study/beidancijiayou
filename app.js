@@ -4,6 +4,7 @@ const state = {
   pools: { reading: [], listening: [], speaking: [] },
   current: null,
   answered: false,
+  supportVisible: false,
   referenceVisible: false,
 };
 
@@ -27,10 +28,8 @@ function keyFor(item) {
   return item.id;
 }
 
-function speakCurrentWord() {
-  if (!state.current || !("speechSynthesis" in window)) return;
-  const text = state.mode === "speaking" ? state.current.answer || "" : state.current.term || state.current.title || "";
-  if (!text) return;
+function speak(text) {
+  if (!("speechSynthesis" in window) || !text) return;
   window.speechSynthesis.cancel();
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = "en-US";
@@ -40,6 +39,16 @@ function speakCurrentWord() {
   const englishVoice = voices.find((voice) => /^en[-_]/i.test(voice.lang));
   if (englishVoice) utterance.voice = englishVoice;
   window.speechSynthesis.speak(utterance);
+}
+
+function speakQuestion() {
+  if (!state.current) return;
+  speak(state.current.term || state.current.title || "");
+}
+
+function speakAnswer() {
+  if (!state.current || state.mode !== "speaking") return;
+  speak(state.current.answer || "");
 }
 
 async function loadWords() {
@@ -94,6 +103,7 @@ function pickWord() {
   const remaining = pool.filter((item) => !doneMap[keyFor(item)] || state.mode === "mistakes" || state.speakingFilter === "practice");
   state.current = remaining[0] || pool[0] || null;
   state.answered = false;
+  state.supportVisible = false;
   state.referenceVisible = false;
   render();
 }
@@ -126,25 +136,29 @@ function render() {
     $("meaning").textContent = "";
     $("synonyms").textContent = "";
     $("answer").hidden = true;
+    $("supportAnswer").hidden = true;
     $("referenceAnswer").hidden = true;
     $("hint").textContent = "";
     $("wrongBtn").disabled = true;
     $("rightBtn").disabled = true;
-    $("speakBtn").disabled = true;
+    $("questionSpeakBtn").disabled = true;
+    $("answerSpeakBtn").disabled = true;
     $("nextBtn").hidden = true;
     return;
   }
 
   $("wrongBtn").disabled = false;
   $("rightBtn").disabled = false;
-  $("speakBtn").disabled = !("speechSynthesis" in window);
-  const speakingAudio = state.mode === "speaking";
-  $("speakBtn").title = speakingAudio ? "朗读参考答案" : "朗读当前单词";
-  $("speakBtn").setAttribute("aria-label", $("speakBtn").title);
+  $("questionSpeakBtn").disabled = !("speechSynthesis" in window);
+  $("answerSpeakBtn").disabled = state.mode !== "speaking" || !("speechSynthesis" in window);
   $("term").textContent = state.current.term || state.current.title;
   if (state.mode === "speaking") {
     $("meaning").textContent = `${state.current.part} · ${state.current.frequency || "常规"} · ${state.current.type || "练习题"}`;
     $("synonyms").innerHTML = `<strong>可用表达：</strong>${(state.current.keywords || []).join(" / ")}<br><br><strong>答题提示：</strong>${state.current.hint || ""}`;
+    $("supportAnswer").hidden = false;
+    $("synonyms").hidden = !state.supportVisible;
+    $("supportToggle").textContent = state.supportVisible ? "隐藏" : "显示";
+    $("supportToggle").setAttribute("aria-expanded", String(state.supportVisible));
     $("referenceAnswer").hidden = false;
     $("referenceText").textContent = state.current.answer || "暂无参考答案";
     $("referenceText").hidden = !state.referenceVisible;
@@ -157,6 +171,7 @@ function render() {
     $("synonyms").textContent = state.current.synonyms ? `同义替换：${state.current.synonyms}` : "暂无同义替换";
     $("wrongBtn").textContent = "不会";
     $("rightBtn").textContent = "会";
+    $("supportAnswer").hidden = true;
     $("referenceAnswer").hidden = true;
   }
   $("answer").hidden = state.mode === "speaking" ? false : !state.answered;
@@ -199,6 +214,7 @@ function nextWord() {
   const doneMap = state.mode === "speaking" ? saved.speakingDone || {} : saved.done || {};
   state.current = ordered.find((item) => state.mode === "mistakes" || state.speakingFilter === "practice" || !doneMap[keyFor(item)]) || ordered[0] || null;
   state.answered = false;
+  state.supportVisible = false;
   state.referenceVisible = false;
   render();
 }
@@ -246,7 +262,13 @@ document.querySelectorAll(".tab").forEach((tab) => tab.addEventListener("click",
 document.querySelectorAll(".speaking-filter").forEach((button) => button.addEventListener("click", () => setSpeakingFilter(button.dataset.speakingFilter)));
 $("wrongBtn").addEventListener("click", () => answer(false));
 $("rightBtn").addEventListener("click", () => answer(true));
-$("speakBtn").addEventListener("click", speakCurrentWord);
+$("questionSpeakBtn").addEventListener("click", speakQuestion);
+$("answerSpeakBtn").addEventListener("click", speakAnswer);
+$("supportToggle").addEventListener("click", () => {
+  if (state.mode !== "speaking" || !state.current) return;
+  state.supportVisible = !state.supportVisible;
+  render();
+});
 $("referenceToggle").addEventListener("click", () => {
   if (state.mode !== "speaking" || !state.current) return;
   state.referenceVisible = !state.referenceVisible;

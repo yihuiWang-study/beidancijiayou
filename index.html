@@ -43,14 +43,23 @@
           <p class="counter" id="counter">0 / 0</p>
           <div class="term-row">
             <h2 id="term">准备开始</h2>
-            <button class="speak-button" id="speakBtn" type="button" title="朗读当前内容" aria-label="朗读当前内容">🔊</button>
+            <button class="speak-button question-speak" id="questionSpeakBtn" type="button" title="朗读题目" aria-label="朗读题目">🔊</button>
           </div>
           <div class="answer" id="answer" hidden>
             <p id="meaning"></p>
-            <div class="synonyms" id="synonyms"></div>
+            <section class="reference-answer" id="supportAnswer" hidden>
+              <div class="reference-head">
+                <strong>提示</strong>
+                <button class="reference-toggle" id="supportToggle" type="button" aria-expanded="false">显示</button>
+              </div>
+              <div class="synonyms" id="synonyms" hidden></div>
+            </section>
             <section class="reference-answer" id="referenceAnswer" hidden>
               <div class="reference-head">
-                <strong>参考答案</strong>
+                <div class="reference-title">
+                  <strong>参考答案</strong>
+                  <button class="inline-speak" id="answerSpeakBtn" type="button" title="朗读参考答案" aria-label="朗读参考答案">🔊</button>
+                </div>
                 <button class="reference-toggle" id="referenceToggle" type="button" aria-expanded="false">显示</button>
               </div>
               <p class="reference-text" id="referenceText" hidden></p>
