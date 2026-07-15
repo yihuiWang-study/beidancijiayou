@@ -2,7 +2,7 @@
 <html lang="zh-CN">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
     <title>雅思考点词背诵</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
@@ -13,26 +13,38 @@
           <p class="eyebrow">IELTS Word Cards</p>
           <h1>雅思考点词背诵</h1>
         </div>
-        <button class="icon-button" id="resetProgress" title="重置当前词库进度" aria-label="重置当前词库进度">↺</button>
+        <button class="icon-button" id="resetProgress" title="重置当前词库进度" aria-label="重置当前词库进度">↻</button>
       </header>
 
       <section class="controls" aria-label="词库选择">
         <button class="tab active" data-mode="reading">阅读 538</button>
         <button class="tab" data-mode="listening">听力 179</button>
         <button class="tab" data-mode="mistakes">错词本</button>
+        <button class="tab" data-mode="speaking">口语题库</button>
+      </section>
+
+      <section class="speaking-controls" id="speakingControls" aria-label="口语题库筛选" hidden>
+        <button class="speaking-filter active" data-speaking-filter="all">全部</button>
+        <button class="speaking-filter" data-speaking-filter="Part 1">Part 1</button>
+        <button class="speaking-filter" data-speaking-filter="Part 2">Part 2</button>
+        <button class="speaking-filter" data-speaking-filter="Part 3">Part 3</button>
+        <button class="speaking-filter" data-speaking-filter="practice">待练</button>
       </section>
 
       <section class="stats" aria-live="polite">
-        <div><strong id="doneCount">0</strong><span>已测</span></div>
-        <div><strong id="leftCount">0</strong><span>剩余</span></div>
-        <div><strong id="mistakeCount">0</strong><span>错词</span></div>
+        <div><strong id="doneCount">0</strong><span id="doneLabel">已测</span></div>
+        <div><strong id="leftCount">0</strong><span id="leftLabel">剩余</span></div>
+        <div><strong id="mistakeCount">0</strong><span id="mistakeLabel">错词</span></div>
       </section>
 
       <section class="card-wrap">
         <div class="progress-line"><span id="progressBar"></span></div>
         <article class="word-card" id="wordCard">
           <p class="counter" id="counter">0 / 0</p>
-          <h2 id="term">准备开始</h2>
+          <div class="term-row">
+            <h2 id="term">准备开始</h2>
+            <button class="speak-button" id="speakBtn" type="button" title="朗读当前内容" aria-label="朗读当前内容">🔊</button>
+          </div>
           <div class="answer" id="answer" hidden>
             <p id="meaning"></p>
             <div class="synonyms" id="synonyms"></div>
@@ -65,6 +77,7 @@
       </section>
     </main>
     <script src="./data/vocab-data.js"></script>
+    <script src="./data/speaking-data.js"></script>
     <script src="./app.js"></script>
   </body>
 </html>

@@ -1,6 +1,7 @@
 const state = {
   mode: "reading",
-  pools: { reading: [], listening: [] },
+  speakingFilter: "all",
+  pools: { reading: [], listening: [], speaking: [] },
   current: null,
   answered: false,
 };
@@ -9,7 +10,7 @@ const storeKey = "ielts-word-card-v2";
 const $ = (id) => document.getElementById(id);
 
 function readStore() {
-  const fallback = { done: {}, mistakes: {}, customReading: [] };
+  const fallback = { done: {}, mistakes: {}, customReading: [], speakingDone: {}, speakingPractice: {} };
   try {
     return { ...fallback, ...JSON.parse(localStorage.getItem(storeKey) || "{}") };
   } catch {
@@ -21,8 +22,23 @@ function writeStore(data) {
   localStorage.setItem(storeKey, JSON.stringify(data));
 }
 
-function keyFor(word) {
-  return word.id;
+function keyFor(item) {
+  return item.id;
+}
+
+function speakCurrentWord() {
+  if (!state.current || !("speechSynthesis" in window)) return;
+  const text = state.current.term || state.current.title || "";
+  if (!text) return;
+  window.speechSynthesis.cancel();
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = "en-US";
+  utterance.rate = 0.85;
+  utterance.pitch = 1;
+  const voices = window.speechSynthesis.getVoices();
+  const englishVoice = voices.find((voice) => /^en[-_]/i.test(voice.lang));
+  if (englishVoice) utterance.voice = englishVoice;
+  window.speechSynthesis.speak(utterance);
 }
 
 async function loadWords() {
@@ -37,10 +53,29 @@ async function loadWords() {
   const saved = readStore();
   state.pools.reading = [...reading, ...(saved.customReading || [])];
   state.pools.listening = listening;
+  state.pools.speaking = window.SPEAKING_DATA || [];
+  if (!state.pools.speaking.length) {
+    try {
+      state.pools.speaking = await fetch("./data/ielts-speaking-topics.json").then((res) => (res.ok ? res.json() : []));
+    } catch {
+      state.pools.speaking = [];
+    }
+  }
   pickWord();
 }
 
 function activePool() {
+  if (state.mode === "speaking") {
+    const saved = readStore();
+    const speaking = state.pools.speaking || [];
+    if (state.speakingFilter === "practice") {
+      return Object.keys(saved.speakingPractice || {})
+        .map((id) => speaking.find((topic) => topic.id === id))
+        .filter(Boolean);
+    }
+    if (state.speakingFilter === "all") return speaking;
+    return speaking.filter((topic) => topic.part === state.speakingFilter);
+  }
   if (state.mode === "mistakes") {
     const saved = readStore();
     const all = [...state.pools.reading, ...state.pools.listening];
@@ -54,7 +89,8 @@ function activePool() {
 function pickWord() {
   const saved = readStore();
   const pool = activePool();
-  const remaining = pool.filter((word) => !saved.done[keyFor(word)] || state.mode === "mistakes");
+  const doneMap = state.mode === "speaking" ? saved.speakingDone || {} : saved.done || {};
+  const remaining = pool.filter((item) => !doneMap[keyFor(item)] || state.mode === "mistakes" || state.speakingFilter === "practice");
   state.current = remaining[0] || pool[0] || null;
   state.answered = false;
   render();
@@ -63,17 +99,22 @@ function pickWord() {
 function render() {
   const saved = readStore();
   const pool = activePool();
-  const doneInMode = pool.filter((word) => saved.done[keyFor(word)]).length;
-  const index = state.current ? Math.max(0, pool.findIndex((word) => word.id === state.current.id)) + 1 : 0;
+  const doneMap = state.mode === "speaking" ? saved.speakingDone || {} : saved.done || {};
+  const doneInMode = pool.filter((item) => doneMap[keyFor(item)]).length;
+  const index = state.current ? Math.max(0, pool.findIndex((item) => item.id === state.current.id)) + 1 : 0;
   const progress = pool.length ? Math.round((doneInMode / pool.length) * 100) : 0;
 
   $("doneCount").textContent = doneInMode;
   $("leftCount").textContent = Math.max(pool.length - doneInMode, 0);
-  $("mistakeCount").textContent = Object.keys(saved.mistakes || {}).length;
+  $("mistakeCount").textContent = state.mode === "speaking" ? Object.keys(saved.speakingPractice || {}).length : Object.keys(saved.mistakes || {}).length;
+  $("doneLabel").textContent = state.mode === "speaking" ? "已练" : "已测";
+  $("leftLabel").textContent = state.mode === "speaking" ? "未练" : "剩余";
+  $("mistakeLabel").textContent = state.mode === "speaking" ? "待练" : "错词";
   $("progressBar").style.width = `${progress}%`;
   $("counter").textContent = `${index} / ${pool.length}`;
 
   $("mistakePanel").hidden = state.mode !== "mistakes";
+  $("speakingControls").hidden = state.mode !== "speaking";
   renderMistakes();
 
   if (!state.current) {
@@ -84,15 +125,26 @@ function render() {
     $("hint").textContent = "";
     $("wrongBtn").disabled = true;
     $("rightBtn").disabled = true;
+    $("speakBtn").disabled = true;
     $("nextBtn").hidden = true;
     return;
   }
 
   $("wrongBtn").disabled = false;
   $("rightBtn").disabled = false;
-  $("term").textContent = state.current.term;
-  $("meaning").textContent = state.current.meaning || "暂无中文释义";
-  $("synonyms").textContent = state.current.synonyms ? `同义替换：${state.current.synonyms}` : "暂无同义替换";
+  $("speakBtn").disabled = !("speechSynthesis" in window);
+  $("term").textContent = state.current.term || state.current.title;
+  if (state.mode === "speaking") {
+    $("meaning").textContent = `${state.current.part} · ${state.current.frequency || "常规"} · ${state.current.type || "练习题"}`;
+    $("synonyms").innerHTML = `<strong>答题提示：</strong>${state.current.hint || ""}<br><br><strong>可用表达：</strong>${(state.current.keywords || []).join(" / ")}<br><br><strong>原创参考答案：</strong>${state.current.answer || ""}`;
+    $("wrongBtn").textContent = "不会说";
+    $("rightBtn").textContent = "会说";
+  } else {
+    $("meaning").textContent = state.current.meaning || "暂无中文释义";
+    $("synonyms").textContent = state.current.synonyms ? `同义替换：${state.current.synonyms}` : "暂无同义替换";
+    $("wrongBtn").textContent = "不会";
+    $("rightBtn").textContent = "会";
+  }
   $("answer").hidden = !state.answered;
   $("hint").textContent = "";
   $("nextBtn").hidden = !state.answered;
@@ -102,6 +154,18 @@ function answer(isCorrect) {
   if (!state.current) return;
   const saved = readStore();
   const id = keyFor(state.current);
+  if (state.mode === "speaking") {
+    saved.speakingDone[id] = true;
+    if (isCorrect) {
+      delete saved.speakingPractice[id];
+    } else {
+      saved.speakingPractice[id] = { at: Date.now(), part: state.current.part };
+    }
+    writeStore(saved);
+    state.answered = true;
+    render();
+    return;
+  }
   saved.done[id] = true;
   if (isCorrect) {
     delete saved.mistakes[id];
@@ -116,9 +180,10 @@ function answer(isCorrect) {
 function nextWord() {
   const saved = readStore();
   const pool = activePool();
-  const start = state.current ? pool.findIndex((word) => word.id === state.current.id) + 1 : 0;
+  const start = state.current ? pool.findIndex((item) => item.id === state.current.id) + 1 : 0;
   const ordered = [...pool.slice(start), ...pool.slice(0, start)];
-  state.current = ordered.find((word) => state.mode === "mistakes" || !saved.done[keyFor(word)]) || ordered[0] || null;
+  const doneMap = state.mode === "speaking" ? saved.speakingDone || {} : saved.done || {};
+  state.current = ordered.find((item) => state.mode === "mistakes" || state.speakingFilter === "practice" || !doneMap[keyFor(item)]) || ordered[0] || null;
   state.answered = false;
   render();
 }
@@ -140,6 +205,12 @@ function setMode(mode) {
   pickWord();
 }
 
+function setSpeakingFilter(filter) {
+  state.speakingFilter = filter;
+  document.querySelectorAll(".speaking-filter").forEach((button) => button.classList.toggle("active", button.dataset.speakingFilter === filter));
+  pickWord();
+}
+
 function importReading() {
   const lines = $("importText").value.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
   if (!lines.length) return;
@@ -157,8 +228,10 @@ function importReading() {
 }
 
 document.querySelectorAll(".tab").forEach((tab) => tab.addEventListener("click", () => setMode(tab.dataset.mode)));
+document.querySelectorAll(".speaking-filter").forEach((button) => button.addEventListener("click", () => setSpeakingFilter(button.dataset.speakingFilter)));
 $("wrongBtn").addEventListener("click", () => answer(false));
 $("rightBtn").addEventListener("click", () => answer(true));
+$("speakBtn").addEventListener("click", speakCurrentWord);
 $("nextBtn").addEventListener("click", nextWord);
 $("importBtn").addEventListener("click", importReading);
 $("clearMistakes").addEventListener("click", () => {
@@ -169,7 +242,14 @@ $("clearMistakes").addEventListener("click", () => {
 });
 $("resetProgress").addEventListener("click", () => {
   const saved = readStore();
-  activePool().forEach((word) => delete saved.done[keyFor(word)]);
+  if (state.mode === "speaking") {
+    activePool().forEach((item) => {
+      delete saved.speakingDone[keyFor(item)];
+      delete saved.speakingPractice[keyFor(item)];
+    });
+  } else {
+    activePool().forEach((item) => delete saved.done[keyFor(item)]);
+  }
   writeStore(saved);
   pickWord();
 });
