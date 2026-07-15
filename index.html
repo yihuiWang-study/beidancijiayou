@@ -20,6 +20,15 @@
         <button class="tab active" data-mode="reading">阅读 538</button>
         <button class="tab" data-mode="listening">听力 179</button>
         <button class="tab" data-mode="mistakes">错词本</button>
+        <button class="tab" data-mode="speaking">口语题库</button>
+      </section>
+
+      <section class="speaking-controls" id="speakingControls" aria-label="口语题库筛选" hidden>
+        <button class="speaking-filter active" data-speaking-filter="all">全部</button>
+        <button class="speaking-filter" data-speaking-filter="Part 1">Part 1</button>
+        <button class="speaking-filter" data-speaking-filter="Part 2">Part 2</button>
+        <button class="speaking-filter" data-speaking-filter="Part 3">Part 3</button>
+        <button class="speaking-filter" data-speaking-filter="practice">待练</button>
       </section>
 
       <section class="size-control" aria-label="页面大小调节">
@@ -30,9 +39,9 @@
       </section>
 
       <section class="stats" aria-live="polite">
-        <div><strong id="doneCount">0</strong><span>已测</span></div>
-        <div><strong id="leftCount">0</strong><span>剩余</span></div>
-        <div><strong id="mistakeCount">0</strong><span>错词</span></div>
+        <div><strong id="doneCount">0</strong><span id="doneLabel">已测</span></div>
+        <div><strong id="leftCount">0</strong><span id="leftLabel">剩余</span></div>
+        <div><strong id="mistakeCount">0</strong><span id="mistakeLabel">错词</span></div>
       </section>
 
       <section class="card-wrap">
@@ -75,6 +84,7 @@
       </section>
     </main>
     <script src="./data/vocab-data.js"></script>
+    <script src="./data/speaking-data.js"></script>
     <script src="./app.js"></script>
   </body>
 </html>
