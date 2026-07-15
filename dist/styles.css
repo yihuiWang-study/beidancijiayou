@@ -186,7 +186,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0;
+  gap: 10px;
 }
 
 #term {
@@ -214,13 +214,9 @@ body[data-mode="speaking"] .long-speaking-term #term {
 }
 
 .speak-button {
-  position: absolute;
-  right: 34px;
-  top: 50%;
-  transform: translateY(-50%);
   flex: 0 0 auto;
-  width: 40px;
-  height: 40px;
+  width: 36px;
+  height: 36px;
   border: 1px solid var(--line);
   border-radius: 50%;
   background: #f7fbfa;
@@ -269,6 +265,27 @@ body[data-mode="speaking"] .long-speaking-term #term {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
+}
+
+.reference-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.inline-speak {
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  background: #f7fbfa;
+  cursor: pointer;
+}
+
+.inline-speak:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
 }
 
 .reference-toggle {
@@ -418,7 +435,6 @@ textarea {
   }
 
   .speak-button {
-    right: 16px;
     width: 36px;
     height: 36px;
   }
