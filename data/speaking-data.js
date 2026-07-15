@@ -1,0 +1,2018 @@
+window.SPEAKING_DATA = [
+  {
+    "id": "part-1-1",
+    "part": "Part 1",
+    "title": "Headphones",
+    "rawTitle": "🎧Headphones",
+    "frequency": "高频",
+    "recent": "5329人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about headphones from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-2",
+    "part": "Part 1",
+    "title": "Mirrors",
+    "rawTitle": "🪞Mirrors",
+    "frequency": "高频",
+    "recent": "17080人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "第7天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about mirrors from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-3",
+    "part": "Part 1",
+    "title": "️Sports Programs",
+    "rawTitle": "⚾️Sports Programs「海外考题」",
+    "frequency": "高频",
+    "recent": "2394人考过",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "useful",
+      "focus",
+      "daily habit"
+    ],
+    "answer": "Yes, I can talk about ️sports programs from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-4",
+    "part": "Part 1",
+    "title": "Old buildings",
+    "rawTitle": "🏠Old buildings「海外考题」",
+    "frequency": "低频",
+    "recent": "694人考过",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about old buildings from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-5",
+    "part": "Part 1",
+    "title": "Home & Accommodation",
+    "rawTitle": "🏠Home & Accommodation",
+    "frequency": "高频",
+    "recent": "3928人考过",
+    "type": "必答题",
+    "region": "大陆、海外",
+    "plan": "第1天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about home & accommodation from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-6",
+    "part": "Part 1",
+    "title": "️Morning time",
+    "rawTitle": "☀️Morning time",
+    "frequency": "低频",
+    "recent": "2243人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第5天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about ️morning time from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-7",
+    "part": "Part 1",
+    "title": "️Views",
+    "rawTitle": "🖼️Views",
+    "frequency": "高频",
+    "recent": "9243人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第7天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about ️views from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-8",
+    "part": "Part 1",
+    "title": "Evening time",
+    "rawTitle": "🌃Evening time「海外考题」",
+    "frequency": "低频",
+    "recent": "906人考过",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about evening time from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-9",
+    "part": "Part 1",
+    "title": "⌚️Watch",
+    "rawTitle": "⌚️Watch",
+    "frequency": "高频",
+    "recent": "27380人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about ⌚️watch from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-10",
+    "part": "Part 1",
+    "title": "Reading",
+    "rawTitle": "📖Reading",
+    "frequency": "低频",
+    "recent": "2101人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第7天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about reading from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-11",
+    "part": "Part 1",
+    "title": "Tidiness",
+    "rawTitle": "📃Tidiness",
+    "frequency": "高频",
+    "recent": "6163人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about tidiness from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-12",
+    "part": "Part 1",
+    "title": "Jokes & Comedies",
+    "rawTitle": "🎭Jokes & Comedies",
+    "frequency": "中频",
+    "recent": "3220人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about jokes & comedies from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-13",
+    "part": "Part 1",
+    "title": "Building",
+    "rawTitle": "🏠Building",
+    "frequency": "中频",
+    "recent": "3366人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第7天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about building from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-14",
+    "part": "Part 1",
+    "title": "Sports team",
+    "rawTitle": "⚽Sports team",
+    "frequency": "低频",
+    "recent": "2803人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第6天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about sports team from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-15",
+    "part": "Part 1",
+    "title": "️Hometown",
+    "rawTitle": "🗺️Hometown",
+    "frequency": "高频",
+    "recent": "7723人考过",
+    "type": "必答题",
+    "region": "大陆、海外",
+    "plan": "第1天",
+    "hint": "可以准备地点、优点、变化、喜欢/不喜欢的原因。",
+    "keywords": [
+      "neighbourhood",
+      "convenient",
+      "change over time"
+    ],
+    "answer": "Yes, I can talk about ️hometown from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-16",
+    "part": "Part 1",
+    "title": "Scenery",
+    "rawTitle": "🌃Scenery",
+    "frequency": "低频",
+    "recent": "2179人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第7天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about scenery from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-17",
+    "part": "Part 1",
+    "title": "Art",
+    "rawTitle": "🎨Art「海外考题」",
+    "frequency": "中频",
+    "recent": "1491人考过",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about art from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-18",
+    "part": "Part 1",
+    "title": "Life stages",
+    "rawTitle": "☀Life stages",
+    "frequency": "低频",
+    "recent": "2384人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第6天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about life stages from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-19",
+    "part": "Part 1",
+    "title": "Music",
+    "rawTitle": "🎵Music",
+    "frequency": "高频",
+    "recent": "7775人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about music from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-20",
+    "part": "Part 1",
+    "title": "⏰Spare time",
+    "rawTitle": "⏰Spare time",
+    "frequency": "高频",
+    "recent": "5582人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第2天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about ⏰spare time from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-21",
+    "part": "Part 1",
+    "title": "Outer space and stars",
+    "rawTitle": "🪐Outer space and stars",
+    "frequency": "中频",
+    "recent": "4883人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about outer space and stars from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-22",
+    "part": "Part 1",
+    "title": "The city you live in",
+    "rawTitle": "🏙The city you live in",
+    "frequency": "高频",
+    "recent": "6574人考过",
+    "type": "必答题",
+    "region": "大陆、海外",
+    "plan": "第1天",
+    "hint": "可以准备地点、优点、变化、喜欢/不喜欢的原因。",
+    "keywords": [
+      "neighbourhood",
+      "convenient",
+      "change over time"
+    ],
+    "answer": "Yes, I can talk about the city you live in from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-23",
+    "part": "Part 1",
+    "title": "️Hobby",
+    "rawTitle": "❤️Hobby",
+    "frequency": "低频",
+    "recent": "1682人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第7天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about ️hobby from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-24",
+    "part": "Part 1",
+    "title": "History",
+    "rawTitle": "🌏History「海外考题」",
+    "frequency": "低频",
+    "recent": "431人考过",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about history from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-25",
+    "part": "Part 1",
+    "title": "Science",
+    "rawTitle": "🔬Science",
+    "frequency": "高频",
+    "recent": "5116人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about science from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-26",
+    "part": "Part 1",
+    "title": "Clothing",
+    "rawTitle": "👔Clothing",
+    "frequency": "高频",
+    "recent": "5327人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about clothing from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-27",
+    "part": "Part 1",
+    "title": "Singing",
+    "rawTitle": "🎤Singing",
+    "frequency": "中频",
+    "recent": "3998人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about singing from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-28",
+    "part": "Part 1",
+    "title": "Food",
+    "rawTitle": "🍜Food",
+    "frequency": "中频",
+    "recent": "4201人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第7天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about food from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-29",
+    "part": "Part 1",
+    "title": "Walking",
+    "rawTitle": "🚶Walking",
+    "frequency": "低频",
+    "recent": "2247人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第5天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about walking from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-30",
+    "part": "Part 1",
+    "title": "‍‍Crowded place",
+    "rawTitle": "🧑‍🧑‍🧒Crowded place",
+    "frequency": "低频",
+    "recent": "1195人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第4天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about ‍‍crowded place from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-31",
+    "part": "Part 1",
+    "title": "️Public gardens and parks",
+    "rawTitle": "⛲️Public gardens and parks",
+    "frequency": "高频",
+    "recent": "10019人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about ️public gardens and parks from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-32",
+    "part": "Part 1",
+    "title": "️Shopping",
+    "rawTitle": "🛍️Shopping",
+    "frequency": "高频",
+    "recent": "8472人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about ️shopping from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-33",
+    "part": "Part 1",
+    "title": "Childhood activities",
+    "rawTitle": "🧒Childhood activities",
+    "frequency": "中频",
+    "recent": "3221人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第5天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about childhood activities from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-34",
+    "part": "Part 1",
+    "title": "Films/cinemas",
+    "rawTitle": "🎦Films/cinemas「海外考题」",
+    "frequency": "中频",
+    "recent": "1932人考过",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about films/cinemas from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-35",
+    "part": "Part 1",
+    "title": "‍Work or studies",
+    "rawTitle": "👩🏻‍💻Work or studies ",
+    "frequency": "高频",
+    "recent": "8192人考过",
+    "type": "必答题",
+    "region": "大陆、海外",
+    "plan": "第1天",
+    "hint": "可以准备学习/工作身份、选择原因、日常安排、未来计划四个方向。",
+    "keywords": [
+      "routine",
+      "motivation",
+      "future plan"
+    ],
+    "answer": "Yes, I can talk about ‍work or studies from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-36",
+    "part": "Part 1",
+    "title": "Social media",
+    "rawTitle": "📱Social media",
+    "frequency": "中频",
+    "recent": "4696人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about social media from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-37",
+    "part": "Part 1",
+    "title": "Memory",
+    "rawTitle": "💭Memory",
+    "frequency": "低频",
+    "recent": "2178人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第3天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about memory from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-38",
+    "part": "Part 1",
+    "title": "Dream and ambition",
+    "rawTitle": "🗨Dream and ambition「海外考题」",
+    "frequency": "低频",
+    "recent": "619人考过",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about dream and ambition from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-39",
+    "part": "Part 1",
+    "title": "Morning routines",
+    "rawTitle": "🌞Morning routines「海外考题」",
+    "frequency": "低频",
+    "recent": "644人考过",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about morning routines from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-40",
+    "part": "Part 1",
+    "title": "Websites",
+    "rawTitle": "💻Websites",
+    "frequency": "高频",
+    "recent": "18340人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "第7天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about websites from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-41",
+    "part": "Part 1",
+    "title": "⌨️Typing",
+    "rawTitle": "⌨️Typing",
+    "frequency": "中频",
+    "recent": "3085人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第6天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about ⌨️typing from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-42",
+    "part": "Part 1",
+    "title": "Pets and Animals",
+    "rawTitle": "🐒Pets and Animals",
+    "frequency": "中频",
+    "recent": "3018人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about pets and animals from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-43",
+    "part": "Part 1",
+    "title": "‍Teachers",
+    "rawTitle": "🧑‍🏫Teachers ",
+    "frequency": "高频",
+    "recent": "10087人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about ‍teachers from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-44",
+    "part": "Part 1",
+    "title": "Cars",
+    "rawTitle": "🚗Cars",
+    "frequency": "高频",
+    "recent": "25830人考过",
+    "type": "新题",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about cars from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-45",
+    "part": "Part 1",
+    "title": "Gifts",
+    "rawTitle": "🎁Gifts",
+    "frequency": "中频",
+    "recent": "3150人考过",
+    "type": "保留题",
+    "region": "大陆、海外",
+    "plan": "第6天",
+    "hint": "先用一句话直接回答，再补充一个自己的小细节。尽量说真实经历，不要背长答案。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "Yes, I can talk about gifts from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-1-46",
+    "part": "Part 1",
+    "title": "The area you live in",
+    "rawTitle": "🌆The area you live in",
+    "frequency": "高频",
+    "recent": "6382人考过",
+    "type": "必答题",
+    "region": "大陆、海外",
+    "plan": "第1天",
+    "hint": "可以准备地点、优点、变化、喜欢/不喜欢的原因。",
+    "keywords": [
+      "neighbourhood",
+      "convenient",
+      "change over time"
+    ],
+    "answer": "Yes, I can talk about the area you live in from my own experience. I would not say it is a huge part of my life, but it does come up quite often. For example, on a normal day, I usually notice small details related to it, and those details make the topic easier to talk about. I think the best answer is to keep it simple: say what I normally do, give one real example, and add how I feel about it."
+  },
+  {
+    "id": "part-3-1",
+    "part": "Part 3",
+    "title": "App/程序",
+    "rawTitle": "💻App/程序",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "useful",
+      "focus",
+      "daily habit"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-2",
+    "part": "Part 3",
+    "title": "当地新闻",
+    "rawTitle": "📰当地新闻",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-3",
+    "part": "Part 3",
+    "title": "想从事的短期海外工作",
+    "rawTitle": "🧢想从事的短期海外工作",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-4",
+    "part": "Part 3",
+    "title": "鼓励别人做不愿做的事",
+    "rawTitle": "🫂鼓励别人做不愿做的事",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-5",
+    "part": "Part 3",
+    "title": "包含动物的故事或书",
+    "rawTitle": "🐒包含动物的故事或书",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-6",
+    "part": "Part 3",
+    "title": "特别场合的食物",
+    "rawTitle": "🍜特别场合的食物",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-7",
+    "part": "Part 3",
+    "title": "喜欢或不喜欢的高建筑",
+    "rawTitle": "🏛喜欢或不喜欢的高建筑",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-8",
+    "part": "Part 3",
+    "title": "交通拥堵",
+    "rawTitle": "🚗交通拥堵",
+    "frequency": "高频",
+    "recent": "",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-9",
+    "part": "Part 3",
+    "title": "‍️喜欢画画的孩子",
+    "rawTitle": "🧍‍♀️喜欢画画的孩子",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-10",
+    "part": "Part 3",
+    "title": "花费甚少的外出日",
+    "rawTitle": "💰花费甚少的外出日",
+    "frequency": "高频",
+    "recent": "",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-11",
+    "part": "Part 3",
+    "title": "在成功工司工作过的人",
+    "rawTitle": "🧓在成功工司工作过的人",
+    "frequency": "高频",
+    "recent": "",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-12",
+    "part": "Part 3",
+    "title": "‍️擅长学习和说语言的人",
+    "rawTitle": "🧍‍♀️擅长学习和说语言的人",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-13",
+    "part": "Part 3",
+    "title": "想颁布的新法律",
+    "rawTitle": "📖想颁布的新法律",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-14",
+    "part": "Part 3",
+    "title": "‍️为家人骄傲",
+    "rawTitle": "🧍‍♀️为家人骄傲",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-15",
+    "part": "Part 3",
+    "title": "去过且喜欢的城市",
+    "rawTitle": "🏙去过且喜欢的城市",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-16",
+    "part": "Part 3",
+    "title": "收到特殊蛋糕",
+    "rawTitle": "🍰收到特殊蛋糕",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-17",
+    "part": "Part 3",
+    "title": "近期改变的计划",
+    "rawTitle": "✅近期改变的计划",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-18",
+    "part": "Part 3",
+    "title": "想有空时去旅游的地方",
+    "rawTitle": "🌃想有空时去旅游的地方",
+    "frequency": "高频",
+    "recent": "",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-19",
+    "part": "Part 3",
+    "title": "想见的名人",
+    "rawTitle": "💃想见的名人",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-20",
+    "part": "Part 3",
+    "title": "拥有成功商业的人",
+    "rawTitle": "🧓拥有成功商业的人",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-21",
+    "part": "Part 3",
+    "title": "家庭重要的物品",
+    "rawTitle": "🌿家庭重要的物品",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-22",
+    "part": "Part 3",
+    "title": "坏掉的电子设备",
+    "rawTitle": "💻坏掉的电子设备",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-23",
+    "part": "Part 3",
+    "title": "‍‍朋友自学",
+    "rawTitle": "🧑‍🤝‍🧑朋友自学",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-24",
+    "part": "Part 3",
+    "title": "喜欢的现场体育赛事",
+    "rawTitle": "🤺喜欢的现场体育赛事",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-25",
+    "part": "Part 3",
+    "title": "️保护环境的法律",
+    "rawTitle": "⚖️保护环境的法律",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-26",
+    "part": "Part 3",
+    "title": "爱护自然之人",
+    "rawTitle": "🌲爱护自然之人",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-27",
+    "part": "Part 3",
+    "title": "‍️擅长做计划的人",
+    "rawTitle": "🧍‍♀️擅长做计划的人",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-28",
+    "part": "Part 3",
+    "title": "️想要颁布的环保法律",
+    "rawTitle": "♻️想要颁布的环保法律",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-29",
+    "part": "Part 3",
+    "title": "近期观影",
+    "rawTitle": "🎬近期观影",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-30",
+    "part": "Part 3",
+    "title": "发小",
+    "rawTitle": "👭🏻发小",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-31",
+    "part": "Part 3",
+    "title": "完美工作",
+    "rawTitle": "💼完美工作",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-32",
+    "part": "Part 3",
+    "title": "想拥有的科技产品",
+    "rawTitle": "💻想拥有的科技产品",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-33",
+    "part": "Part 3",
+    "title": "重要河流/湖泊",
+    "rawTitle": "🌊重要河流/湖泊",
+    "frequency": "高频",
+    "recent": "",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-34",
+    "part": "Part 3",
+    "title": "‍️乐于助人的人",
+    "rawTitle": "🧍‍♀️乐于助人的人",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-35",
+    "part": "Part 3",
+    "title": "有趣视频",
+    "rawTitle": "🎬有趣视频",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-36",
+    "part": "Part 3",
+    "title": "‍️想从事医疗行业的人",
+    "rawTitle": "🧑‍⚕️想从事医疗行业的人",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-37",
+    "part": "Part 3",
+    "title": "️语言学习",
+    "rawTitle": "🗣️语言学习",
+    "frequency": "高频",
+    "recent": "",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-38",
+    "part": "Part 3",
+    "title": "自行车/摩托车/汽车旅行",
+    "rawTitle": "🚴自行车/摩托车/汽车旅行",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-39",
+    "part": "Part 3",
+    "title": "机智解决问题的人",
+    "rawTitle": "👧机智解决问题的人",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-40",
+    "part": "Part 3",
+    "title": "花费超过预期的物品",
+    "rawTitle": "💰花费超过预期的物品",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-41",
+    "part": "Part 3",
+    "title": "️生活中离不开的东西",
+    "rawTitle": "✍️生活中离不开的东西",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-42",
+    "part": "Part 3",
+    "title": "‍名人出演的广告",
+    "rawTitle": "🧑‍🎨名人出演的广告",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-43",
+    "part": "Part 3",
+    "title": "在团队中工作",
+    "rawTitle": "👥在团队中工作",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-44",
+    "part": "Part 3",
+    "title": "长久目标/抱负",
+    "rawTitle": "🎯长久目标/抱负",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-45",
+    "part": "Part 3",
+    "title": "去过的无聊地方",
+    "rawTitle": "🏛去过的无聊地方",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-46",
+    "part": "Part 3",
+    "title": "喜欢在家/花园种植物的人",
+    "rawTitle": "🌳喜欢在家/花园种植物的人",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-47",
+    "part": "Part 3",
+    "title": "给别人建议",
+    "rawTitle": "💬给别人建议",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-48",
+    "part": "Part 3",
+    "title": "重要的决定",
+    "rawTitle": "💬重要的决定",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-49",
+    "part": "Part 3",
+    "title": "️发挥想象力",
+    "rawTitle": "🖼️发挥想象力",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-50",
+    "part": "Part 3",
+    "title": "推荐旅行过的地方",
+    "rawTitle": "🌆推荐旅行过的地方",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-51",
+    "part": "Part 3",
+    "title": "禁用手机的场合",
+    "rawTitle": "📱禁用手机的场合",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-52",
+    "part": "Part 3",
+    "title": "️早起的经历",
+    "rawTitle": "🛏️早起的经历",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-53",
+    "part": "Part 3",
+    "title": "很久没收到回复的信息",
+    "rawTitle": "📧很久没收到回复的信息",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-54",
+    "part": "Part 3",
+    "title": "最近看过的电视/网络节目",
+    "rawTitle": "📺最近看过的电视/网络节目",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-55",
+    "part": "Part 3",
+    "title": "快乐活动",
+    "rawTitle": "🎉快乐活动",
+    "frequency": "高频",
+    "recent": "",
+    "type": "海外考题",
+    "region": "海外",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-56",
+    "part": "Part 3",
+    "title": "喜欢拜访但不想住的家",
+    "rawTitle": "🏠喜欢拜访但不想住的家",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-57",
+    "part": "Part 3",
+    "title": "去过的最喜欢的城市",
+    "rawTitle": "🏙去过的最喜欢的城市",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-58",
+    "part": "Part 3",
+    "title": "？遇到的科技问题",
+    "rawTitle": "？遇到的科技问题",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-59",
+    "part": "Part 3",
+    "title": "⬆️改变重要想法",
+    "rawTitle": "⬆️改变重要想法",
+    "frequency": "高频",
+    "recent": "",
+    "type": "新题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-60",
+    "part": "Part 3",
+    "title": "不享受的音乐活动",
+    "rawTitle": "🎵不享受的音乐活动",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-3-61",
+    "part": "Part 3",
+    "title": "商店",
+    "rawTitle": "🏬商店",
+    "frequency": "高频",
+    "recent": "",
+    "type": "保留题",
+    "region": "海外、大陆",
+    "plan": "",
+    "hint": "先明确观点，再解释原因，最后补一个现实例子。回答不必长，但要有逻辑。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "For this topic, I would give a clear opinion first instead of trying to sound complicated. In real life, people do not always have a perfect answer ready, so I would say something natural, then explain one or two reasons. A useful way to develop the answer is to connect it with daily life, such as family, school, work, social media, or the city I live in. That makes the answer easier to follow and less like a memorised paragraph."
+  },
+  {
+    "id": "part-2-story-1",
+    "part": "Part 2",
+    "title": "A cousin who studies at a top university",
+    "rawTitle": "故事1: 名校的表妹/表弟",
+    "frequency": "高频",
+    "recent": "",
+    "type": "串题故事",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "这个故事适合串人物、学习、建议、鼓励、未来计划、语言学习和一次外出。重点不是背完整稿，而是记住人物关系和三四个真实细节。",
+    "keywords": [
+      "routine",
+      "motivation",
+      "future plan"
+    ],
+    "answer": "I would talk about my cousin Summer. She is the kind of person who makes you feel a little more motivated after a short conversation. She studies at a very good university, but what I admire is not just the school name. A few years ago, she actually had a difficult time with her entrance exam, and she had to pick herself up and try again. I still remember visiting her campus library once. Phones were not allowed there, so at first I felt a bit trapped, but later I realised why she could stay so focused. She also recommended a language-exchange app to me when I was preparing for IELTS. It was not magic, of course, but it made speaking English feel less scary. What I like about her is that she never gives advice in a bossy way. She just tells me what worked for her, and somehow that makes me want to try harder too."
+  },
+  {
+    "id": "part-2-story-2",
+    "part": "Part 2",
+    "title": "An elderly neighbour",
+    "rawTitle": "故事2: 邻居老人",
+    "frequency": "高频",
+    "recent": "",
+    "type": "串题故事",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "适合串陌生人、老人、帮助、社区、传统生活方式、一次对话。核心是“一个具体的人 + 一个小互动”。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "I would describe an elderly neighbour who lives in my community. I do not know him extremely well, but he has left a warm impression on me. He often sits downstairs in the late afternoon, usually with a small cloth bag and a cup of tea. One day I was carrying a heavy parcel, and he noticed that I was struggling, so he told me to put it on his little trolley. It was such a small thing, but it made my day easier. What I remember most is the way he talks. He is not trying to teach anyone a lesson, but when he chats about the old neighbourhood, you can feel that he has seen the place change slowly over many years. I think people like him make a community feel less cold. They remind me that life is not only about rushing from one task to another."
+  },
+  {
+    "id": "part-2-story-3",
+    "part": "Part 2",
+    "title": "Drawing on an iPad",
+    "rawTitle": "故事3: 用 iPad 画画",
+    "frequency": "高频",
+    "recent": "",
+    "type": "串题故事",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "适合串物品、技能、科技、创意、放松方式、想学的东西。要讲清楚“为什么它对你有用”。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "I would talk about drawing on my iPad. I am not a professional artist at all, but that is exactly why I enjoy it. There is no pressure to be perfect. I usually open a drawing app at night, choose a simple brush, and sketch whatever comes to mind, maybe a coffee cup, a room corner, or a silly little character. The good thing is that I can erase things without wasting paper, so I become less afraid of making mistakes. It has become a quiet way for me to slow down after a busy day. Sometimes I even use it to organise ideas, because a rough picture can explain my mood better than a long note. For me, the iPad is not just a device. It gives me a small private space where I can play with colour and feel creative again."
+  },
+  {
+    "id": "part-2-story-4",
+    "part": "Part 2",
+    "title": "Cooking during Spring Festival",
+    "rawTitle": "故事4: 春节做饭",
+    "frequency": "高频",
+    "recent": "",
+    "type": "串题故事",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "适合串节日、家庭、一次经历、学会的技能、传统、开心的一天。重点放在烟火气和家人互动。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "I would describe a time when I cooked during Spring Festival. To be honest, I am not the most confident cook in my family, so at first I was mainly helping with small jobs, like washing vegetables and passing plates. But that year I decided to make one dish myself. It was not fancy, just a simple stir-fried dish, but I was surprisingly nervous because everyone was waiting around the table. My family kept giving me different advice at the same time, which was a little chaotic but also very funny. In the end, the dish was not perfect, but it tasted decent, and my parents praised it more than it deserved. What made the experience memorable was not the food itself, but the feeling of being useful in a family tradition. It made the festival feel warmer and more personal."
+  },
+  {
+    "id": "part-2-story-5",
+    "part": "Part 2",
+    "title": "A trip to Singapore",
+    "rawTitle": "故事5: 新加坡旅行",
+    "frequency": "高频",
+    "recent": "",
+    "type": "串题故事",
+    "region": "大陆、海外",
+    "plan": "",
+    "hint": "适合串地点、旅行、城市、文化差异、一次开心经历、想再去的地方。多准备感官细节。",
+    "keywords": [
+      "real example",
+      "personal detail",
+      "natural follow-up"
+    ],
+    "answer": "I would talk about a trip to Singapore. What impressed me was how organised the city felt, but not in a boring way. The streets were clean, the public transport was easy to use, and there were so many different kinds of food in one place. I remember going to a hawker centre and feeling a bit overwhelmed because everything looked good. I tried a local dish, and even though I cannot say I understood all the ingredients, it tasted comforting and fresh. Another thing I liked was the mix of modern buildings and greenery. You could walk from a busy shopping area to a quiet garden quite quickly. The trip gave me the feeling that a city can be efficient and still have personality. I would definitely like to go back, maybe with more time and less of a tourist checklist."
+  }
+];
