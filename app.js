@@ -129,12 +129,15 @@ function render() {
   $("mistakePanel").hidden = state.mode !== "mistakes";
   $("speakingControls").hidden = state.mode !== "speaking";
   $("wordCard").classList.toggle("long-speaking-term", state.mode === "speaking" && (state.current?.title || "").length > 52);
+  $("wordCard").classList.toggle("speaking-part-2", state.mode === "speaking" && state.current?.part === "Part 2");
+  $("wordCard").classList.toggle("speaking-part-3", state.mode === "speaking" && state.current?.part === "Part 3");
   renderMistakes();
 
   if (!state.current) {
     $("term").textContent = state.mode === "mistakes" ? "错词本是空的" : "词库为空";
     $("meaning").textContent = "";
     $("synonyms").textContent = "";
+    $("questionCue").hidden = true;
     $("answer").hidden = true;
     $("supportAnswer").hidden = true;
     $("referenceAnswer").hidden = true;
@@ -157,7 +160,10 @@ function render() {
     const cuePoints = state.current.part === "Part 2" && (state.current.cuePoints || []).length
       ? `<strong>You should say:</strong><ul class="cue-points">${state.current.cuePoints.map((point) => `<li>${point}</li>`).join("")}</ul><br>`
       : "";
+    $("questionCue").hidden = !cuePoints;
+    $("questionCue").innerHTML = cuePoints ? cuePoints.replace("<br>", "") : "";
     $("synonyms").innerHTML = `${cuePoints}<strong>可用表达：</strong>${(state.current.keywords || []).join(" / ")}<br><br><strong>答题提示：</strong>${state.current.hint || ""}`;
+    $("synonyms").innerHTML = $("synonyms").innerHTML.replace(cuePoints, "");
     $("supportAnswer").hidden = false;
     $("synonyms").hidden = !state.supportVisible;
     $("supportToggle").textContent = state.supportVisible ? "隐藏" : "显示";
@@ -170,6 +176,7 @@ function render() {
     $("wrongBtn").textContent = "不会说";
     $("rightBtn").textContent = "会说";
   } else {
+    $("questionCue").hidden = true;
     $("meaning").textContent = state.current.meaning || "暂无中文释义";
     $("synonyms").textContent = state.current.synonyms ? `同义替换：${state.current.synonyms}` : "暂无同义替换";
     $("wrongBtn").textContent = "不会";
