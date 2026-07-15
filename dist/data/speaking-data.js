@@ -1,1320 +1,5778 @@
 window.SPEAKING_DATA = [
   {
-    "id": "part-1-work-studies-q1",
+    "id": "p1-1",
+    "part": "Part 1",
+    "topic": "Headphones",
+    "title": "Do you often use headphones?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you often use headphones is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-2",
+    "part": "Part 1",
+    "topic": "Headphones",
+    "title": "When do you usually wear headphones?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. When do you usually wear headphones is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-3",
+    "part": "Part 1",
+    "topic": "Mirrors",
+    "title": "Do you often look at yourself in the mirror?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you often look at yourself in the mirror is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-4",
+    "part": "Part 1",
+    "topic": "Mirrors",
+    "title": "Have you ever bought a mirror for your home?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Have you ever bought a mirror for your home is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-5",
+    "part": "Part 1",
+    "topic": "Sports programmes",
+    "title": "Do you enjoy watching sports programmes?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you enjoy watching sports programmes is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-6",
+    "part": "Part 1",
+    "topic": "Sports programmes",
+    "title": "What kind of sports programmes are popular in your country?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What kind of sports programmes are popular in your country is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-7",
+    "part": "Part 1",
+    "topic": "Old buildings",
+    "title": "Do you like old buildings?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you like old buildings is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-8",
+    "part": "Part 1",
+    "topic": "Old buildings",
+    "title": "Should old buildings be protected?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Should old buildings be protected is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-9",
+    "part": "Part 1",
+    "topic": "Home and accommodation",
+    "title": "What kind of home do you live in?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What kind of home do you live in is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-10",
+    "part": "Part 1",
+    "topic": "Home and accommodation",
+    "title": "What do you like most about your home?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What do you like most about your home is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-11",
     "part": "Part 1",
     "topic": "Work or studies",
     "title": "What subjects are you studying?",
-    "rawTitle": "What subjects are you studying?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "broad field: 广泛的领域，用于强调学科的多样性和复杂性。",
-      "different topics: 不同的主题，突出了学习内容的多样性。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "At the moment, I'm mainly studying economics. It's a pretty broad subject, so one day I might be looking at consumer behaviour, and the next day I'm trying to understand why prices keep changing. I wouldn't say it's always easy, but I like that it helps me make sense of things I see in real life, like shopping, jobs, and news about the economy."
+    "answer": "Yes, I would say so. What subjects are you studying is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q2",
+    "id": "p1-12",
     "part": "Part 1",
     "topic": "Work or studies",
     "title": "Do you like your subject?",
-    "rawTitle": "Do you like your subject?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "challenging: 有挑战性的，表明学科的难度，也暗示了克服挑战的成就感。",
-      "rewarding: 有意义的，表达带来的深远影响和个人满足感。",
-      "fascinating: 非常有趣的，用于形容学科的吸引力。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "Yes, I do. It can be a bit heavy sometimes, especially when there are too many theories and graphs, but I still find it rewarding. What I like most is that it is not just textbook knowledge. It gives me a way to understand how people, companies and governments make decisions."
+    "answer": "Yes, I would say so. Do you like your subject is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q3",
+    "id": "p1-13",
     "part": "Part 1",
     "topic": "Work or studies",
     "title": "Why did you choose to study that subject?",
-    "rawTitle": "Why did you choose to study that subject?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "factors: 因素，用于讨论影响经济的不同变量，是经济学中的一个重要概念。",
-      "unique perspective: 独特的视角，强调独到的分析视点。",
-      "unlocking the secrets: 解开秘密，比喻性强，用于形容学习过程中的发现和理解。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "I chose it because I've always been curious about how money and decisions work in the real world. To be honest, I also thought it sounded practical for my future career. Later I realised it was not just about making money, but more about understanding people's choices, which is actually more interesting."
+    "answer": "Yes, I would say so. Why did you choose to study that subject is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q4",
+    "id": "p1-14",
     "part": "Part 1",
     "topic": "Work or studies",
-    "title": "Do you think that your subject is popular in your country?",
-    "rawTitle": "Do you think that your subject is popular in your country?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "title": "What would you like to do after you finish your studies?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "quite popular: 挺流行的。",
-      "relevant: 相关的，表明密切联系。",
-      "hot topic: 热门话题，强调了该学科在公众讨论中的高关注度。",
-      "economic stability and growth: 经济稳定与增长，关系到国家和个人的福祉。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "Yes, I think it is quite popular, especially among students who want to work in business, finance or government-related jobs. In my country, people talk about housing prices, jobs and economic pressure all the time, so economics feels very connected to everyday life."
+    "answer": "Yes, I would say so. What would you like to do after you finish your studies is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q5",
+    "id": "p1-15",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "Is it very interesting?",
-    "rawTitle": "Is it very interesting?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "topic": "Hometown",
+    "title": "Where is your hometown?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "eye-opening: 开眼界，用来形容学到新知识或新观点后的惊奇和启发。",
-      "applied: 应用的，表明了在实际生活中的实用性和广泛性。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "Yes, I find it interesting, though not in a flashy way. It becomes interesting when I can connect it with real situations, like why some products suddenly become expensive or why people spend money differently. Those little connections make the subject feel alive."
+    "answer": "Yes, I would say so. Where is your hometown is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q6",
+    "id": "p1-16",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "Do you have any plans for your studies in the next five years?",
-    "rawTitle": "Do you have any plans for your studies in the next five years?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "topic": "Hometown",
+    "title": "What do you like most about your hometown?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "behavioral economics: 专业词汇，你的专业你也可以找一些专业的词汇，哪怕考官可能不知道，主要是增加回答的专业性。",
-      "fascinated by: 表达强烈的兴趣和动机，使得回答更有情感投入。",
-      "apply: 显示了将学习内容转化为实际行动的能力，非常实用。",
-      "putting theory into practice: 这个短语很实用，强调了知识的实际应用，增加了话语的吸引力。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "Yes, I have a rough plan. I'd like to finish my degree first and then maybe continue with a master's programme. I'm especially interested in areas that connect economics with human behaviour, because I like studying not only numbers, but also the reasons behind people's decisions."
+    "answer": "Yes, I would say so. What do you like most about your hometown is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q7",
+    "id": "p1-17",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "What are the benefits of being your age?",
-    "rawTitle": "What are the benefits of being your age?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "topic": "Public transport",
+    "title": "Do you often use public transport?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "freedom: 强调在生活和职业选择中的自主性。",
-      "self-discovery: 描述了这个年龄段的心理和情感探索过程。",
-      "energy: 强调了青年的活力和动力。",
-      "experiment: 描述了探索和尝试新事物的行为，强调了成长的必要性。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "I think the biggest benefit is that I still have room to try different things. I don't have everything figured out yet, but that can actually be a good thing. I can explore different interests, make a few mistakes, and slowly find out what kind of life or career suits me."
+    "answer": "Yes, I would say so. Do you often use public transport is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q8",
+    "id": "p1-18",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "Do you want to change your major?",
-    "rawTitle": "Do you want to change your major?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "topic": "Public transport",
+    "title": "What would make public transport better in your city?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "challenging: 表达了学习过程的困难和需要克服的障碍，增加了表达的深度。",
-      "rewarding: 常用来形容经历或工作带来的满足感。",
-      "demand: 描述了市场需求，突出了职业选择的现实考量。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "Not really. I sometimes complain about the workload, but deep down I still think economics suits me. It is challenging, but it also feels useful. So unless something really changes, I don't think I would switch to another major."
+    "answer": "Yes, I would say so. What would make public transport better in your city is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q9",
+    "id": "p1-19",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "Do you prefer to study in the mornings or in the afternoons?",
-    "rawTitle": "Do you prefer to study in the mornings or in the afternoons?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "topic": "Social media",
+    "title": "Do you use social media every day?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "alert: 强调了早晨清醒的心态。",
-      "focused: 描述了高度集中的状态，有助于学习效率。",
-      "dive deep: dive其实是潜水，这个词主要描述了深入研究或探索的行为。",
-      "projects: 强调了与实际工作相关的学习活动。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "I prefer studying in the morning. My brain feels clearer then, and I'm less likely to get distracted. In the afternoon, I can still study, but I usually need coffee or a short break before I can really focus."
+    "answer": "Yes, I would say so. Do you use social media every day is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q10",
+    "id": "p1-20",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "How much time do you spend on your studies each week?",
-    "rawTitle": "How much time do you spend on your studies each week?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "topic": "Social media",
+    "title": "Has social media changed the way you keep in touch with friends?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "balanced: 强调了时间管理和生活平衡的重要性。",
-      "organized: 描述了有序和系统性的学习方法。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "It depends on the week, but usually I spend around thirty hours on my studies. I try not to make my schedule too extreme, because if I study all day without a break, I end up remembering less. A balanced routine works better for me."
+    "answer": "Yes, I would say so. Has social media changed the way you keep in touch with friends is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q11",
+    "id": "p1-21",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "Are you looking forward to working?",
-    "rawTitle": "Are you looking forward to working?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "topic": "Reading",
+    "title": "Do you enjoy reading?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "looking forward to working: 表达对未来某事的期待，非常适合用于描述对工作的期待。",
-      "problem-solving: 常用于描述职业技能，特别是在产品管理等需要策略和解决方案的领域。",
-      "innovate: 表达创新的行为，常见于工作和科技相关的讨论中。",
-      "lead projects: 强调领导力和项目管理能力，是职场中的一个重要技能。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "Yes, I am, although I'm also a little nervous about it. I'm looking forward to using what I've learned in a real workplace, not just in exams. I think work will be stressful at first, but it will also help me grow up quite quickly."
+    "answer": "Yes, I would say so. Do you enjoy reading is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q12",
+    "id": "p1-22",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "What technology do you use when you study?",
-    "rawTitle": "What technology do you use when you study?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "topic": "Reading",
+    "title": "What kinds of books do you like to read?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "annotating: 这个词就是标注，添加注释的意思，要掌握，以后在国外学习和工作中会常用。",
-      "handy: 方便，形容东西使用起来简便易行。",
-      "statistical software: 指使用统计分析软件，是学术和技术讨论中常见的工具。",
-      "visualize: 描述将数据通过图表等形式展示出来，用于增强理解和表达。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "I mainly use my laptop and iPad. My laptop is better for writing essays and doing research, while my iPad is handy for reading articles and making notes. I like being able to highlight things directly on the screen, because it makes revision much easier."
+    "answer": "Yes, I would say so. What kinds of books do you like to read is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q13",
+    "id": "p1-23",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "Is it very interesting?",
-    "rawTitle": "Is it very interesting?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
+    "topic": "Writing",
+    "title": "Do you enjoy writing by hand?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "gives you insights into: 你们最喜欢用的 broaden your horizons，但是这个用的太多了，我一般都说 gives you insights into",
-      "fascinating: 比interesting更强的形容词，用来描述极其吸引人的事物或观点。"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "已参考原文结构，改写为原创答案",
-    "answer": "Yes, I find it interesting, though not in a flashy way. It becomes interesting when I can connect it with real situations, like why some products suddenly become expensive or why people spend money differently. Those little connections make the subject feel alive."
+    "answer": "Yes, I would say so. Do you enjoy writing by hand is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-1-work-studies-q14",
+    "id": "p1-24",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "What changes would you like to see in your school?",
-    "rawTitle": "What changes would you like to see in your school?",
-    "frequency": "高频",
-    "recent": "8192人考过",
-    "type": "必答题",
-    "region": "大陆、海外",
-    "hint": "这是 Work or studies 主题下的具体问题。先直接回答，再加一个真实细节，最后补一点感受或原因。",
-    "keywords": [],
-    "sourceStyle": "原创答案",
-    "answer": "I'd like my school to offer more practical courses or workshops. Some classes are useful, but they can be a bit too theoretical. It would be nice to have more chances to work on real projects, because that would make the learning feel more connected to future jobs."
-  },
-  {
-    "id": "part-2-q1",
-    "part": "Part 2",
-    "topic": "Useful app",
-    "title": "Describe an app that you use regularly and find helpful.",
-    "rawTitle": "Describe an app that you use regularly and find helpful.",
-    "frequency": "高频",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "topic": "Writing",
+    "title": "When do you usually need to write something?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with useful app. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "Yes, I would say so. When do you usually need to write something is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-2-q2",
-    "part": "Part 2",
-    "topic": "Local news",
-    "title": "Describe a piece of local news that interested you.",
-    "rawTitle": "Describe a piece of local news that interested you.",
-    "frequency": "高频",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "id": "p1-25",
+    "part": "Part 1",
+    "topic": "Music",
+    "title": "What kind of music do you enjoy?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with local news. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "Yes, I would say so. What kind of music do you enjoy is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-2-q3",
-    "part": "Part 2",
-    "topic": "Short-term work abroad",
-    "title": "Describe a short-term job you would like to do abroad.",
-    "rawTitle": "Describe a short-term job you would like to do abroad.",
-    "frequency": "高频",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "id": "p1-26",
+    "part": "Part 1",
+    "topic": "Music",
+    "title": "Do you often listen to music while studying?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with short-term work abroad. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "Yes, I would say so. Do you often listen to music while studying is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-2-q4",
-    "part": "Part 2",
-    "topic": "Encouragement",
-    "title": "Describe a time when you encouraged someone to do something they did not want to do.",
-    "rawTitle": "Describe a time when you encouraged someone to do something they did not want to do.",
-    "frequency": "高频",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "id": "p1-27",
+    "part": "Part 1",
+    "topic": "Films",
+    "title": "Do you enjoy watching films?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with encouragement. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "Yes, I would say so. Do you enjoy watching films is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-2-q5",
-    "part": "Part 2",
-    "topic": "A story with an animal",
-    "title": "Describe a story or book that includes an animal.",
-    "rawTitle": "Describe a story or book that includes an animal.",
-    "frequency": "高频",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "id": "p1-28",
+    "part": "Part 1",
+    "topic": "Films",
+    "title": "Do you prefer watching films at home or at the cinema?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a story with an animal. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "Yes, I would say so. Do you prefer watching films at home or at the cinema is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-2-q6",
-    "part": "Part 2",
-    "topic": "Food for a special occasion",
-    "title": "Describe a special meal you had on an important occasion.",
-    "rawTitle": "Describe a special meal you had on an important occasion.",
-    "frequency": "高频",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "id": "p1-29",
+    "part": "Part 1",
+    "topic": "Photography",
+    "title": "Do you like taking photos?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with food for a special occasion. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "Yes, I would say so. Do you like taking photos is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-2-q7",
-    "part": "Part 2",
-    "topic": "A tall building",
-    "title": "Describe a tall building that you like or dislike.",
-    "rawTitle": "Describe a tall building that you like or dislike.",
-    "frequency": "高频",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "id": "p1-30",
+    "part": "Part 1",
+    "topic": "Photography",
+    "title": "What kinds of photos do you usually take?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a tall building. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "Yes, I would say so. What kinds of photos do you usually take is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-2-q8",
-    "part": "Part 2",
-    "topic": "Traffic congestion",
-    "title": "Describe a time when you were stuck in traffic.",
-    "rawTitle": "Describe a time when you were stuck in traffic.",
-    "frequency": "高频",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "id": "p1-31",
+    "part": "Part 1",
+    "topic": "Shopping",
+    "title": "Do you enjoy shopping?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with traffic congestion. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "Yes, I would say so. Do you enjoy shopping is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-2-q9",
-    "part": "Part 2",
-    "topic": "A child who likes drawing",
-    "title": "Describe a child you know who enjoys drawing or painting.",
-    "rawTitle": "Describe a child you know who enjoys drawing or painting.",
-    "frequency": "高频",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "id": "p1-32",
+    "part": "Part 1",
+    "topic": "Shopping",
+    "title": "Do you prefer shopping online or in shops?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a child who likes drawing. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "Yes, I would say so. Do you prefer shopping online or in shops is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-2-q10",
-    "part": "Part 2",
-    "topic": "An inexpensive day out",
-    "title": "Describe an enjoyable day out that cost you very little money.",
-    "rawTitle": "Describe an enjoyable day out that cost you very little money.",
-    "frequency": "高频",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "id": "p1-33",
+    "part": "Part 1",
+    "topic": "Chocolate",
+    "title": "Do you like eating chocolate?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with an inexpensive day out. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "Yes, I would say so. Do you like eating chocolate is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-2-q11",
-    "part": "Part 2",
-    "topic": "A successful company",
-    "title": "Describe someone who has worked for a successful company.",
-    "rawTitle": "Describe someone who has worked for a successful company.",
-    "frequency": "高频",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "id": "p1-34",
+    "part": "Part 1",
+    "topic": "Chocolate",
+    "title": "Did you often eat chocolate when you were a child?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
     "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
+      "To be honest",
+      "It depends",
+      "What I like most is"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a successful company. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "Yes, I would say so. Did you often eat chocolate when you were a child is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
   },
   {
-    "id": "part-2-q12",
+    "id": "p1-35",
+    "part": "Part 1",
+    "topic": "Morning routine",
+    "title": "What do you usually do in the morning?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What do you usually do in the morning is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-36",
+    "part": "Part 1",
+    "topic": "Morning routine",
+    "title": "Do you like getting up early?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you like getting up early is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-37",
+    "part": "Part 1",
+    "topic": "Weekends",
+    "title": "What do you usually do at weekends?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What do you usually do at weekends is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-38",
+    "part": "Part 1",
+    "topic": "Weekends",
+    "title": "Do you prefer busy or relaxing weekends?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you prefer busy or relaxing weekends is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-39",
+    "part": "Part 1",
+    "topic": "Weather",
+    "title": "What kind of weather do you like most?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What kind of weather do you like most is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-40",
+    "part": "Part 1",
+    "topic": "Weather",
+    "title": "Does the weather affect your mood?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Does the weather affect your mood is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-41",
+    "part": "Part 1",
+    "topic": "Parks and gardens",
+    "title": "Do you often go to parks?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you often go to parks is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-42",
+    "part": "Part 1",
+    "topic": "Parks and gardens",
+    "title": "Are there many green spaces near where you live?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Are there many green spaces near where you live is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-43",
+    "part": "Part 1",
+    "topic": "Plants",
+    "title": "Do you keep plants at home?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you keep plants at home is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-44",
+    "part": "Part 1",
+    "topic": "Plants",
+    "title": "Did you learn about plants at school?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Did you learn about plants at school is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-45",
+    "part": "Part 1",
+    "topic": "Birthdays",
+    "title": "Do you enjoy celebrating birthdays?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you enjoy celebrating birthdays is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-46",
+    "part": "Part 1",
+    "topic": "Birthdays",
+    "title": "How did you celebrate birthdays when you were younger?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. How did you celebrate birthdays when you were younger is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-47",
+    "part": "Part 1",
+    "topic": "Cooking",
+    "title": "Do you enjoy cooking?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you enjoy cooking is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-48",
+    "part": "Part 1",
+    "topic": "Cooking",
+    "title": "What food can you cook well?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What food can you cook well is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-49",
+    "part": "Part 1",
+    "topic": "Teachers",
+    "title": "Did you have a favourite teacher at school?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Did you have a favourite teacher at school is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-50",
+    "part": "Part 1",
+    "topic": "Teachers",
+    "title": "What makes a teacher memorable?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What makes a teacher memorable is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-51",
+    "part": "Part 1",
+    "topic": "Friends",
+    "title": "Do you prefer spending time with one close friend or a group?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you prefer spending time with one close friend or a group is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-52",
+    "part": "Part 1",
+    "topic": "Friends",
+    "title": "How often do you meet your friends?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. How often do you meet your friends is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-53",
+    "part": "Part 1",
+    "topic": "Names",
+    "title": "Do you like your name?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you like your name is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-54",
+    "part": "Part 1",
+    "topic": "Names",
+    "title": "How do people usually choose names for children in your country?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. How do people usually choose names for children in your country is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-55",
+    "part": "Part 1",
+    "topic": "Keeping things",
+    "title": "Do you like keeping old things?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you like keeping old things is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-56",
+    "part": "Part 1",
+    "topic": "Keeping things",
+    "title": "What kinds of things are difficult for you to throw away?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What kinds of things are difficult for you to throw away is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-57",
+    "part": "Part 1",
+    "topic": "Borrowing and lending",
+    "title": "Do you often borrow things from others?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you often borrow things from others is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-58",
+    "part": "Part 1",
+    "topic": "Borrowing and lending",
+    "title": "Do you like lending your belongings to friends?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you like lending your belongings to friends is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-59",
+    "part": "Part 1",
+    "topic": "Maps",
+    "title": "Do you often use maps on your phone?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you often use maps on your phone is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-60",
+    "part": "Part 1",
+    "topic": "Maps",
+    "title": "Do you have a good sense of direction?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you have a good sense of direction is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-61",
+    "part": "Part 1",
+    "topic": "Concentration",
+    "title": "When is it easiest for you to concentrate?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. When is it easiest for you to concentrate is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-62",
+    "part": "Part 1",
+    "topic": "Concentration",
+    "title": "What usually distracts you when you are studying?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What usually distracts you when you are studying is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-63",
+    "part": "Part 1",
+    "topic": "Meetings",
+    "title": "Do you often have meetings or group discussions?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you often have meetings or group discussions is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-64",
+    "part": "Part 1",
+    "topic": "Meetings",
+    "title": "What makes a meeting effective?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What makes a meeting effective is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-65",
+    "part": "Part 1",
+    "topic": "Patience",
+    "title": "Do you think you are a patient person?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you think you are a patient person is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-66",
+    "part": "Part 1",
+    "topic": "Patience",
+    "title": "When do people need patience most?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. When do people need patience most is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-67",
+    "part": "Part 1",
+    "topic": "Computers",
+    "title": "How often do you use a computer?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. How often do you use a computer is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-68",
+    "part": "Part 1",
+    "topic": "Computers",
+    "title": "What do you mainly use computers for?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What do you mainly use computers for is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-69",
+    "part": "Part 1",
+    "topic": "Mobile phones",
+    "title": "What do you usually use your phone for?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What do you usually use your phone for is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-70",
+    "part": "Part 1",
+    "topic": "Mobile phones",
+    "title": "Is there a time when you try not to use your phone?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Is there a time when you try not to use your phone is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-71",
+    "part": "Part 1",
+    "topic": "Online learning",
+    "title": "Have you ever taken an online course?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Have you ever taken an online course is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-72",
+    "part": "Part 1",
+    "topic": "Online learning",
+    "title": "Do you think online learning suits everyone?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you think online learning suits everyone is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-73",
+    "part": "Part 1",
+    "topic": "Travel",
+    "title": "Do you enjoy travelling?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you enjoy travelling is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-74",
+    "part": "Part 1",
+    "topic": "Travel",
+    "title": "What kind of places do you like to visit?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What kind of places do you like to visit is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-75",
+    "part": "Part 1",
+    "topic": "Colours",
+    "title": "What is your favourite colour?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What is your favourite colour is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-76",
+    "part": "Part 1",
+    "topic": "Colours",
+    "title": "Do colours affect the clothes you choose?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do colours affect the clothes you choose is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-77",
+    "part": "Part 1",
+    "topic": "Jewellery",
+    "title": "Do you often wear jewellery?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you often wear jewellery is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-78",
+    "part": "Part 1",
+    "topic": "Jewellery",
+    "title": "Have you ever received jewellery as a gift?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Have you ever received jewellery as a gift is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-79",
+    "part": "Part 1",
+    "topic": "Sunglasses",
+    "title": "Do you often wear sunglasses?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you often wear sunglasses is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-80",
+    "part": "Part 1",
+    "topic": "Sunglasses",
+    "title": "Do you think sunglasses are mainly practical or fashionable?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you think sunglasses are mainly practical or fashionable is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-81",
+    "part": "Part 1",
+    "topic": "Noise",
+    "title": "Is your neighbourhood usually quiet or noisy?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Is your neighbourhood usually quiet or noisy is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-82",
+    "part": "Part 1",
+    "topic": "Noise",
+    "title": "What kinds of noise bother you most?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What kinds of noise bother you most is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-83",
+    "part": "Part 1",
+    "topic": "Collecting",
+    "title": "Did you collect anything when you were a child?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Did you collect anything when you were a child is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-84",
+    "part": "Part 1",
+    "topic": "Collecting",
+    "title": "Do you still like collecting things?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you still like collecting things is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-85",
+    "part": "Part 1",
+    "topic": "Helping others",
+    "title": "Do you often help other people?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you often help other people is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-86",
+    "part": "Part 1",
+    "topic": "Helping others",
+    "title": "Who do you usually ask for help when you need it?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Who do you usually ask for help when you need it is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-87",
+    "part": "Part 1",
+    "topic": "Newspapers and news",
+    "title": "How do you usually get the news?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. How do you usually get the news is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-88",
+    "part": "Part 1",
+    "topic": "Newspapers and news",
+    "title": "Do you prefer reading news or watching it?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you prefer reading news or watching it is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-89",
+    "part": "Part 1",
+    "topic": "Dreams",
+    "title": "Do you often remember your dreams?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you often remember your dreams is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-90",
+    "part": "Part 1",
+    "topic": "Dreams",
+    "title": "Do you think dreams can influence people?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you think dreams can influence people is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-91",
+    "part": "Part 1",
+    "topic": "Free time",
+    "title": "What do you like to do in your free time?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What do you like to do in your free time is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-92",
+    "part": "Part 1",
+    "topic": "Free time",
+    "title": "Do you have enough free time these days?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Do you have enough free time these days is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-93",
+    "part": "Part 1",
+    "topic": "Apps",
+    "title": "What apps do you use most often?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. What apps do you use most often is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p1-94",
+    "part": "Part 1",
+    "topic": "Apps",
+    "title": "Is there an app you could not live without?",
+    "frequency": "大陆题库",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
+    "keywords": [
+      "To be honest",
+      "It depends",
+      "What I like most is"
+    ],
+    "answer": "Yes, I would say so. Is there an app you could not live without is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+  },
+  {
+    "id": "p2-1",
     "part": "Part 2",
-    "topic": "A good language learner",
+    "topic": "A person who is good at learning languages",
+    "story": "Story 1: My cousin at a top university",
+    "storyCn": "名校的表妹/表弟",
     "title": "Describe a person who is good at learning and speaking languages.",
-    "rawTitle": "Describe a person who is good at learning and speaking languages.",
-    "frequency": "高频",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a good language learner. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with a person who is good at learning languages. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q13",
+    "id": "p2-2",
     "part": "Part 2",
-    "topic": "A new law",
-    "title": "Describe a law that you would like to introduce.",
-    "rawTitle": "Describe a law that you would like to introduce.",
-    "frequency": "高频",
+    "topic": "A recent change",
+    "story": "Story 1: My cousin at a top university",
+    "storyCn": "名校的表妹/表弟",
+    "title": "Describe a change that you made recently.",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What was the change?",
+      "What caused the change?",
+      "What did you do for the change?",
+      "And explain how you feel about the change."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a new law. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with a recent change. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q14",
+    "id": "p2-3",
     "part": "Part 2",
-    "topic": "Pride in a family member",
+    "topic": "A useful app",
+    "story": "Story 1: My cousin at a top university",
+    "storyCn": "名校的表妹/表弟",
+    "title": "Describe an app that you use regularly and find helpful.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a useful app. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-4",
+    "part": "Part 2",
+    "topic": "An important decision",
+    "story": "Story 1: My cousin at a top university",
+    "storyCn": "名校的表妹/表弟",
+    "title": "Describe an important decision that you made.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with an important decision. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-5",
+    "part": "Part 2",
+    "topic": "A person you are proud of",
+    "story": "Story 1: My cousin at a top university",
+    "storyCn": "名校的表妹/表弟",
     "title": "Describe a family member you are proud of.",
-    "rawTitle": "Describe a family member you are proud of.",
-    "frequency": "高频",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with pride in a family member. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with a person you are proud of. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q15",
+    "id": "p2-6",
     "part": "Part 2",
-    "topic": "A city you enjoyed visiting",
-    "title": "Describe a city you have visited and enjoyed.",
-    "rawTitle": "Describe a city you have visited and enjoyed.",
-    "frequency": "高频",
+    "topic": "A time you gave advice",
+    "story": "Story 1: My cousin at a top university",
+    "storyCn": "名校的表妹/表弟",
+    "title": "Describe a time when you gave someone advice.",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a city you enjoyed visiting. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with a time you gave advice. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q16",
+    "id": "p2-7",
     "part": "Part 2",
-    "topic": "A special cake",
-    "title": "Describe a time when you received a special cake.",
-    "rawTitle": "Describe a time when you received a special cake.",
-    "frequency": "高频",
+    "topic": "A short-term job abroad",
+    "story": "Story 1: My cousin at a top university",
+    "storyCn": "名校的表妹/表弟",
+    "title": "Describe a short-term job you would like to do abroad.",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a special cake. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with a short-term job abroad. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q17",
+    "id": "p2-8",
     "part": "Part 2",
-    "topic": "A changed plan",
-    "title": "Describe a plan that changed recently.",
-    "rawTitle": "Describe a plan that changed recently.",
-    "frequency": "常规",
+    "topic": "A place where phones are not allowed",
+    "story": "Story 1: My cousin at a top university",
+    "storyCn": "名校的表妹/表弟",
+    "title": "Describe a place where you think people should not use mobile phones.",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a changed plan. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with a place where phones are not allowed. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q18",
-    "part": "Part 2",
-    "topic": "A future trip",
-    "title": "Describe a place you would like to visit when you have time.",
-    "rawTitle": "Describe a place you would like to visit when you have time.",
-    "frequency": "常规",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a future trip. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
-  },
-  {
-    "id": "part-2-q19",
-    "part": "Part 2",
-    "topic": "A celebrity",
-    "title": "Describe a celebrity you would like to meet.",
-    "rawTitle": "Describe a celebrity you would like to meet.",
-    "frequency": "常规",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a celebrity. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
-  },
-  {
-    "id": "part-2-q20",
-    "part": "Part 2",
-    "topic": "A business person",
-    "title": "Describe a person who owns a successful business.",
-    "rawTitle": "Describe a person who owns a successful business.",
-    "frequency": "常规",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a business person. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
-  },
-  {
-    "id": "part-2-q21",
-    "part": "Part 2",
-    "topic": "An important family item",
-    "title": "Describe an object that is important to your family.",
-    "rawTitle": "Describe an object that is important to your family.",
-    "frequency": "常规",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with an important family item. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
-  },
-  {
-    "id": "part-2-q22",
-    "part": "Part 2",
-    "topic": "A broken device",
-    "title": "Describe a piece of technology that stopped working.",
-    "rawTitle": "Describe a piece of technology that stopped working.",
-    "frequency": "常规",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a broken device. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
-  },
-  {
-    "id": "part-2-q23",
-    "part": "Part 2",
-    "topic": "Self-learning",
-    "title": "Describe a friend who learned a useful skill by themselves.",
-    "rawTitle": "Describe a friend who learned a useful skill by themselves.",
-    "frequency": "常规",
-    "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with self-learning. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
-  },
-  {
-    "id": "part-2-q24",
+    "id": "p2-9",
     "part": "Part 2",
     "topic": "A live sports event",
+    "story": "Story 1: My cousin at a top university",
+    "storyCn": "名校的表妹/表弟",
     "title": "Describe a live sports event that you enjoyed watching.",
-    "rawTitle": "Describe a live sports event that you enjoyed watching.",
-    "frequency": "常规",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a live sports event. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with a live sports event. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q25",
+    "id": "p2-10",
     "part": "Part 2",
-    "topic": "An environmental law",
-    "title": "Describe an environmental law that you would like to see.",
-    "rawTitle": "Describe an environmental law that you would like to see.",
-    "frequency": "常规",
+    "topic": "An interesting programme",
+    "story": "Story 1: My cousin at a top university",
+    "storyCn": "名校的表妹/表弟",
+    "title": "Describe a TV or online programme you watched recently.",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with an environmental law. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with an interesting programme. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q26",
+    "id": "p2-11",
     "part": "Part 2",
-    "topic": "Someone who cares for nature",
-    "title": "Describe a person who does something to protect nature.",
-    "rawTitle": "Describe a person who does something to protect nature.",
-    "frequency": "常规",
+    "topic": "A person who works in healthcare",
+    "story": "Story 2: An elderly neighbour",
+    "storyCn": "邻居老人",
+    "title": "Describe a person who would like to work in the healthcare industry.",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with someone who cares for nature. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with a person who works in healthcare. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q27",
+    "id": "p2-12",
     "part": "Part 2",
-    "topic": "A good planner",
+    "topic": "A person who helped you",
+    "story": "Story 2: An elderly neighbour",
+    "storyCn": "邻居老人",
+    "title": "Describe a person who is always willing to help others.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a person who helped you. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-13",
+    "part": "Part 2",
+    "topic": "A helpful piece of advice",
+    "story": "Story 2: An elderly neighbour",
+    "storyCn": "邻居老人",
+    "title": "Describe a time when someone gave you useful advice.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a helpful piece of advice. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-14",
+    "part": "Part 2",
+    "topic": "A person with a good plan",
+    "story": "Story 2: An elderly neighbour",
+    "storyCn": "邻居老人",
     "title": "Describe a person who is good at making plans.",
-    "rawTitle": "Describe a person who is good at making plans.",
-    "frequency": "常规",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a good planner. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with a person with a good plan. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q28",
+    "id": "p2-15",
     "part": "Part 2",
-    "topic": "A film you watched",
-    "title": "Describe a film you watched recently and enjoyed.",
-    "rawTitle": "Describe a film you watched recently and enjoyed.",
-    "frequency": "常规",
+    "topic": "An interesting building",
+    "story": "Story 2: An elderly neighbour",
+    "storyCn": "邻居老人",
+    "title": "Describe an interesting building you have seen.",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a film you watched. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with an interesting building. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q29",
+    "id": "p2-16",
     "part": "Part 2",
-    "topic": "A childhood friend",
-    "title": "Describe a friend you have known since childhood.",
-    "rawTitle": "Describe a friend you have known since childhood.",
-    "frequency": "常规",
+    "topic": "A person who solved a problem",
+    "story": "Story 2: An elderly neighbour",
+    "storyCn": "邻居老人",
+    "title": "Describe a clever person who solved a problem.",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a childhood friend. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with a person who solved a problem. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q30",
+    "id": "p2-17",
     "part": "Part 2",
-    "topic": "Your ideal job",
-    "title": "Describe a job that you would consider perfect for you.",
-    "rawTitle": "Describe a job that you would consider perfect for you.",
-    "frequency": "常规",
+    "topic": "A special meal",
+    "story": "Story 2: An elderly neighbour",
+    "storyCn": "邻居老人",
+    "title": "Describe a special meal you had with other people.",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with your ideal job. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with a special meal. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-2-q31",
+    "id": "p2-18",
+    "part": "Part 2",
+    "topic": "A person who protects nature",
+    "story": "Story 2: An elderly neighbour",
+    "storyCn": "邻居老人",
+    "title": "Describe a person who does something to protect nature.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a person who protects nature. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-19",
+    "part": "Part 2",
+    "topic": "An enjoyable visit",
+    "story": "Story 2: An elderly neighbour",
+    "storyCn": "邻居老人",
+    "title": "Describe a home that you enjoy visiting but would not want to live in.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with an enjoyable visit. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-20",
+    "part": "Part 2",
+    "topic": "A memorable conversation",
+    "story": "Story 2: An elderly neighbour",
+    "storyCn": "邻居老人",
+    "title": "Describe a conversation that you remember well.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a memorable conversation. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-21",
+    "part": "Part 2",
+    "topic": "A child who enjoys drawing",
+    "story": "Story 3: Drawing on an iPad",
+    "storyCn": "用 iPad 画画",
+    "title": "Describe a child you know who enjoys drawing or painting.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a child who enjoys drawing. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-22",
     "part": "Part 2",
     "topic": "A technology product",
-    "title": "Describe a piece of technology that you would like to own.",
-    "rawTitle": "Describe a piece of technology that you would like to own.",
-    "frequency": "常规",
+    "story": "Story 3: Drawing on an iPad",
+    "storyCn": "用 iPad 画画",
+    "title": "Describe a piece of technology that you use often.",
+    "frequency": "大陆题库",
     "type": "话题卡",
-    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
     "keywords": [
       "To begin with",
       "What stood out to me was",
       "Looking back"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would choose a real example connected with a technology product. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+    "answer": "I would talk about a real experience connected with a technology product. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
   },
   {
-    "id": "part-3-q1",
+    "id": "p2-23",
+    "part": "Part 2",
+    "topic": "An imaginative person",
+    "story": "Story 3: Drawing on an iPad",
+    "storyCn": "用 iPad 画画",
+    "title": "Describe a person who has a lot of imagination.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with an imaginative person. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-24",
+    "part": "Part 2",
+    "topic": "A skill learned by yourself",
+    "story": "Story 3: Drawing on an iPad",
+    "storyCn": "用 iPad 画画",
+    "title": "Describe a useful skill you learned by yourself.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a skill learned by yourself. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-25",
+    "part": "Part 2",
+    "topic": "A useful object",
+    "story": "Story 3: Drawing on an iPad",
+    "storyCn": "用 iPad 画画",
+    "title": "Describe an object that is important in your daily life.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a useful object. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-26",
+    "part": "Part 2",
+    "topic": "A problem with technology",
+    "story": "Story 3: Drawing on an iPad",
+    "storyCn": "用 iPad 画画",
+    "title": "Describe a time when you had a problem with a piece of technology.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a problem with technology. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-27",
+    "part": "Part 2",
+    "topic": "A creative activity",
+    "story": "Story 3: Drawing on an iPad",
+    "storyCn": "用 iPad 画画",
+    "title": "Describe a creative activity you would like to try.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a creative activity. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-28",
+    "part": "Part 2",
+    "topic": "A picture you like",
+    "story": "Story 3: Drawing on an iPad",
+    "storyCn": "用 iPad 画画",
+    "title": "Describe a picture or photograph that you like.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a picture you like. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-29",
+    "part": "Part 2",
+    "topic": "A time you learned something",
+    "story": "Story 3: Drawing on an iPad",
+    "storyCn": "用 iPad 画画",
+    "title": "Describe a time when you learned something new.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a time you learned something. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-30",
+    "part": "Part 2",
+    "topic": "A gift you enjoyed",
+    "story": "Story 3: Drawing on an iPad",
+    "storyCn": "用 iPad 画画",
+    "title": "Describe a gift that you enjoyed receiving.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a gift you enjoyed. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-31",
+    "part": "Part 2",
+    "topic": "A special cake",
+    "story": "Story 4: Cooking during Spring Festival",
+    "storyCn": "春节做饭",
+    "title": "Describe a time when you received a special cake.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a special cake. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-32",
+    "part": "Part 2",
+    "topic": "A family item",
+    "story": "Story 4: Cooking during Spring Festival",
+    "storyCn": "春节做饭",
+    "title": "Describe an object that is important to your family.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a family item. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-33",
+    "part": "Part 2",
+    "topic": "A person who enjoys cooking",
+    "story": "Story 4: Cooking during Spring Festival",
+    "storyCn": "春节做饭",
+    "title": "Describe a person you know who enjoys cooking.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a person who enjoys cooking. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-34",
+    "part": "Part 2",
+    "topic": "A celebration",
+    "story": "Story 4: Cooking during Spring Festival",
+    "storyCn": "春节做饭",
+    "title": "Describe a celebration that you enjoyed.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a celebration. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-35",
+    "part": "Part 2",
+    "topic": "A time you spent more than expected",
+    "story": "Story 4: Cooking during Spring Festival",
+    "storyCn": "春节做饭",
+    "title": "Describe something you bought that cost more than you expected.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a time you spent more than expected. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-36",
+    "part": "Part 2",
+    "topic": "An event you did not enjoy",
+    "story": "Story 4: Cooking during Spring Festival",
+    "storyCn": "春节做饭",
+    "title": "Describe a music or entertainment event that you did not enjoy.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with an event you did not enjoy. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-37",
+    "part": "Part 2",
+    "topic": "A useful tradition",
+    "story": "Story 4: Cooking during Spring Festival",
+    "storyCn": "春节做饭",
+    "title": "Describe a tradition that is important to your family.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a useful tradition. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-38",
+    "part": "Part 2",
+    "topic": "A time you encouraged someone",
+    "story": "Story 4: Cooking during Spring Festival",
+    "storyCn": "春节做饭",
+    "title": "Describe a time when you encouraged someone to do something.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a time you encouraged someone. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-39",
+    "part": "Part 2",
+    "topic": "A happy memory",
+    "story": "Story 4: Cooking during Spring Festival",
+    "storyCn": "春节做饭",
+    "title": "Describe a happy memory from your childhood.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a happy memory. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-40",
+    "part": "Part 2",
+    "topic": "An item you keep",
+    "story": "Story 4: Cooking during Spring Festival",
+    "storyCn": "春节做饭",
+    "title": "Describe something old that you still keep.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with an item you keep. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-41",
+    "part": "Part 2",
+    "topic": "A city you enjoyed visiting",
+    "story": "Story 5: A trip to Singapore",
+    "storyCn": "新加坡旅行",
+    "title": "Describe a city you have visited and enjoyed.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a city you enjoyed visiting. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-42",
+    "part": "Part 2",
+    "topic": "A quiet place",
+    "story": "Story 5: A trip to Singapore",
+    "storyCn": "新加坡旅行",
+    "title": "Describe a quiet place you like to go to.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a quiet place. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-43",
+    "part": "Part 2",
+    "topic": "A boring place",
+    "story": "Story 5: A trip to Singapore",
+    "storyCn": "新加坡旅行",
+    "title": "Describe a place you visited that you found boring.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a boring place. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-44",
+    "part": "Part 2",
+    "topic": "A place to recommend",
+    "story": "Story 5: A trip to Singapore",
+    "storyCn": "新加坡旅行",
+    "title": "Describe a place you have travelled to that you would recommend.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a place to recommend. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-45",
+    "part": "Part 2",
+    "topic": "A new law",
+    "story": "Story 5: A trip to Singapore",
+    "storyCn": "新加坡旅行",
+    "title": "Describe a new law you would like to introduce in your country.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a new law. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-46",
+    "part": "Part 2",
+    "topic": "A future plan",
+    "story": "Story 5: A trip to Singapore",
+    "storyCn": "新加坡旅行",
+    "title": "Describe a plan you have for the near future.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a future plan. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-47",
+    "part": "Part 2",
+    "topic": "A bicycle, motorbike or car journey",
+    "story": "Story 5: A trip to Singapore",
+    "storyCn": "新加坡旅行",
+    "title": "Describe a journey you made by bicycle, motorbike or car.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a bicycle, motorbike or car journey. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-48",
+    "part": "Part 2",
+    "topic": "A business person",
+    "story": "Story 5: A trip to Singapore",
+    "storyCn": "新加坡旅行",
+    "title": "Describe a person who owns a successful business.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a business person. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-49",
+    "part": "Part 2",
+    "topic": "A long-term goal",
+    "story": "Story 5: A trip to Singapore",
+    "storyCn": "新加坡旅行",
+    "title": "Describe a long-term goal or ambition you have.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a long-term goal. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p2-50",
+    "part": "Part 2",
+    "topic": "A fascinating video",
+    "story": "Story 5: A trip to Singapore",
+    "storyCn": "新加坡旅行",
+    "title": "Describe an interesting video you watched.",
+    "frequency": "大陆题库",
+    "type": "话题卡",
+    "region": "大陆",
+    "cuePoints": [
+      "What it was or who was involved.",
+      "When and where it happened.",
+      "What happened or what you did.",
+      "And explain why it was important to you."
+    ],
+    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "answer": "I would talk about a real experience connected with a fascinating video. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+  },
+  {
+    "id": "p3-1",
     "part": "Part 3",
-    "topic": "Technology and apps",
-    "title": "How have apps changed the way people organise their daily lives?",
-    "rawTitle": "How have apps changed the way people organise their daily lives?",
-    "frequency": "常规",
+    "topic": "Childhood friends",
+    "title": "Why is childhood friends important to people today?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that childhood friends affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q2",
+    "id": "p3-2",
     "part": "Part 3",
-    "topic": "Local media",
-    "title": "Why do some people pay more attention to local news than national news?",
-    "rawTitle": "Why do some people pay more attention to local news than national news?",
-    "frequency": "常规",
+    "topic": "Childhood friends",
+    "title": "How has childhood friends changed in recent years?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that childhood friends affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q3",
+    "id": "p3-3",
     "part": "Part 3",
-    "topic": "Working abroad",
-    "title": "What can young people learn from working in another country?",
-    "rawTitle": "What can young people learn from working in another country?",
-    "frequency": "常规",
+    "topic": "Childhood friends",
+    "title": "What should schools, families or governments do about childhood friends?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that childhood friends affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q4",
+    "id": "p3-4",
     "part": "Part 3",
-    "topic": "Giving encouragement",
-    "title": "Why is encouragement important when people are learning something difficult?",
-    "rawTitle": "Why is encouragement important when people are learning something difficult?",
-    "frequency": "常规",
+    "topic": "A new law",
+    "title": "Why is a new law important to people today?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that a new law affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q5",
+    "id": "p3-5",
     "part": "Part 3",
-    "topic": "Animals in stories",
-    "title": "Why are animals often used as characters in children's stories?",
-    "rawTitle": "Why are animals often used as characters in children's stories?",
-    "frequency": "常规",
+    "topic": "A new law",
+    "title": "How has a new law changed in recent years?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that a new law affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q6",
+    "id": "p3-6",
+    "part": "Part 3",
+    "topic": "A new law",
+    "title": "What should schools, families or governments do about a new law?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that a new law affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-7",
+    "part": "Part 3",
+    "topic": "Plans that have changed",
+    "title": "Why is plans that have changed important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that plans that have changed affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-8",
+    "part": "Part 3",
+    "topic": "Plans that have changed",
+    "title": "How has plans that have changed changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that plans that have changed affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-9",
+    "part": "Part 3",
+    "topic": "Plans that have changed",
+    "title": "What should schools, families or governments do about plans that have changed?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that plans that have changed affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-10",
+    "part": "Part 3",
+    "topic": "Important decisions",
+    "title": "Why is important decisions important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that important decisions affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-11",
+    "part": "Part 3",
+    "topic": "Important decisions",
+    "title": "How has important decisions changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that important decisions affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-12",
+    "part": "Part 3",
+    "topic": "Important decisions",
+    "title": "What should schools, families or governments do about important decisions?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that important decisions affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-13",
+    "part": "Part 3",
+    "topic": "Boring places",
+    "title": "Why is boring places important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that boring places affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-14",
+    "part": "Part 3",
+    "topic": "Boring places",
+    "title": "How has boring places changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that boring places affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-15",
+    "part": "Part 3",
+    "topic": "Boring places",
+    "title": "What should schools, families or governments do about boring places?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that boring places affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-16",
+    "part": "Part 3",
+    "topic": "Tall buildings",
+    "title": "Why is tall buildings important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that tall buildings affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-17",
+    "part": "Part 3",
+    "topic": "Tall buildings",
+    "title": "How has tall buildings changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that tall buildings affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-18",
+    "part": "Part 3",
+    "topic": "Tall buildings",
+    "title": "What should schools, families or governments do about tall buildings?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that tall buildings affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-19",
+    "part": "Part 3",
+    "topic": "Getting up early",
+    "title": "Why is getting up early important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that getting up early affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-20",
+    "part": "Part 3",
+    "topic": "Getting up early",
+    "title": "How has getting up early changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that getting up early affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-21",
+    "part": "Part 3",
+    "topic": "Getting up early",
+    "title": "What should schools, families or governments do about getting up early?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that getting up early affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-22",
+    "part": "Part 3",
+    "topic": "Healthcare careers",
+    "title": "Why is healthcare careers important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that healthcare careers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-23",
+    "part": "Part 3",
+    "topic": "Healthcare careers",
+    "title": "How has healthcare careers changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that healthcare careers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-24",
+    "part": "Part 3",
+    "topic": "Healthcare careers",
+    "title": "What should schools, families or governments do about healthcare careers?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that healthcare careers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-25",
+    "part": "Part 3",
+    "topic": "Growing plants",
+    "title": "Why is growing plants important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that growing plants affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-26",
+    "part": "Part 3",
+    "topic": "Growing plants",
+    "title": "How has growing plants changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that growing plants affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-27",
+    "part": "Part 3",
+    "topic": "Growing plants",
+    "title": "What should schools, families or governments do about growing plants?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that growing plants affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-28",
+    "part": "Part 3",
+    "topic": "Favourite cities",
+    "title": "Why is favourite cities important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that favourite cities affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-29",
+    "part": "Part 3",
+    "topic": "Favourite cities",
+    "title": "How has favourite cities changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that favourite cities affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-30",
+    "part": "Part 3",
+    "topic": "Favourite cities",
+    "title": "What should schools, families or governments do about favourite cities?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that favourite cities affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-31",
+    "part": "Part 3",
+    "topic": "Interesting videos",
+    "title": "Why is interesting videos important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that interesting videos affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-32",
+    "part": "Part 3",
+    "topic": "Interesting videos",
+    "title": "How has interesting videos changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that interesting videos affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-33",
+    "part": "Part 3",
+    "topic": "Interesting videos",
+    "title": "What should schools, families or governments do about interesting videos?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that interesting videos affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-34",
+    "part": "Part 3",
+    "topic": "Successful business people",
+    "title": "Why is successful business people important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that successful business people affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-35",
+    "part": "Part 3",
+    "topic": "Successful business people",
+    "title": "How has successful business people changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that successful business people affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-36",
+    "part": "Part 3",
+    "topic": "Successful business people",
+    "title": "What should schools, families or governments do about successful business people?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that successful business people affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-37",
+    "part": "Part 3",
+    "topic": "Special cakes",
+    "title": "Why is special cakes important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that special cakes affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-38",
+    "part": "Part 3",
+    "topic": "Special cakes",
+    "title": "How has special cakes changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that special cakes affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-39",
+    "part": "Part 3",
+    "topic": "Special cakes",
+    "title": "What should schools, families or governments do about special cakes?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that special cakes affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-40",
+    "part": "Part 3",
+    "topic": "Live sports events",
+    "title": "Why is live sports events important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that live sports events affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-41",
+    "part": "Part 3",
+    "topic": "Live sports events",
+    "title": "How has live sports events changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that live sports events affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-42",
+    "part": "Part 3",
+    "topic": "Live sports events",
+    "title": "What should schools, families or governments do about live sports events?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that live sports events affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-43",
+    "part": "Part 3",
+    "topic": "Homes to visit",
+    "title": "Why is homes to visit important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that homes to visit affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-44",
+    "part": "Part 3",
+    "topic": "Homes to visit",
+    "title": "How has homes to visit changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that homes to visit affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-45",
+    "part": "Part 3",
+    "topic": "Homes to visit",
+    "title": "What should schools, families or governments do about homes to visit?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that homes to visit affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-46",
+    "part": "Part 3",
+    "topic": "Language learners",
+    "title": "Why is language learners important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that language learners affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-47",
+    "part": "Part 3",
+    "topic": "Language learners",
+    "title": "How has language learners changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that language learners affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-48",
+    "part": "Part 3",
+    "topic": "Language learners",
+    "title": "What should schools, families or governments do about language learners?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that language learners affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-49",
+    "part": "Part 3",
+    "topic": "Apps and daily life",
+    "title": "Why is apps and daily life important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that apps and daily life affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-50",
+    "part": "Part 3",
+    "topic": "Apps and daily life",
+    "title": "How has apps and daily life changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that apps and daily life affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-51",
+    "part": "Part 3",
+    "topic": "Apps and daily life",
+    "title": "What should schools, families or governments do about apps and daily life?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that apps and daily life affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-52",
+    "part": "Part 3",
+    "topic": "Local news",
+    "title": "Why is local news important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that local news affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-53",
+    "part": "Part 3",
+    "topic": "Local news",
+    "title": "How has local news changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that local news affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-54",
+    "part": "Part 3",
+    "topic": "Local news",
+    "title": "What should schools, families or governments do about local news?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that local news affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-55",
+    "part": "Part 3",
+    "topic": "Short-term work abroad",
+    "title": "Why is short-term work abroad important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that short-term work abroad affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-56",
+    "part": "Part 3",
+    "topic": "Short-term work abroad",
+    "title": "How has short-term work abroad changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that short-term work abroad affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-57",
+    "part": "Part 3",
+    "topic": "Short-term work abroad",
+    "title": "What should schools, families or governments do about short-term work abroad?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that short-term work abroad affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-58",
+    "part": "Part 3",
+    "topic": "Encouraging others",
+    "title": "Why is encouraging others important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that encouraging others affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-59",
+    "part": "Part 3",
+    "topic": "Encouraging others",
+    "title": "How has encouraging others changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that encouraging others affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-60",
+    "part": "Part 3",
+    "topic": "Encouraging others",
+    "title": "What should schools, families or governments do about encouraging others?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that encouraging others affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-61",
+    "part": "Part 3",
+    "topic": "Stories with animals",
+    "title": "Why is stories with animals important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that stories with animals affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-62",
+    "part": "Part 3",
+    "topic": "Stories with animals",
+    "title": "How has stories with animals changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that stories with animals affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-63",
+    "part": "Part 3",
+    "topic": "Stories with animals",
+    "title": "What should schools, families or governments do about stories with animals?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that stories with animals affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-64",
     "part": "Part 3",
     "topic": "Food and celebrations",
-    "title": "Why does food play such an important role in celebrations?",
-    "rawTitle": "Why does food play such an important role in celebrations?",
-    "frequency": "常规",
+    "title": "Why is food and celebrations important to people today?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that food and celebrations affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q7",
+    "id": "p3-65",
     "part": "Part 3",
-    "topic": "Urban buildings",
-    "title": "Do tall buildings improve city life, or create new problems?",
-    "rawTitle": "Do tall buildings improve city life, or create new problems?",
-    "frequency": "常规",
+    "topic": "Food and celebrations",
+    "title": "How has food and celebrations changed in recent years?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that food and celebrations affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q8",
+    "id": "p3-66",
     "part": "Part 3",
-    "topic": "Transport",
-    "title": "What should cities do to reduce traffic congestion?",
-    "rawTitle": "What should cities do to reduce traffic congestion?",
-    "frequency": "常规",
+    "topic": "Food and celebrations",
+    "title": "What should schools, families or governments do about food and celebrations?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that food and celebrations affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q9",
+    "id": "p3-67",
+    "part": "Part 3",
+    "topic": "Traffic congestion",
+    "title": "Why is traffic congestion important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that traffic congestion affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-68",
+    "part": "Part 3",
+    "topic": "Traffic congestion",
+    "title": "How has traffic congestion changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that traffic congestion affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-69",
+    "part": "Part 3",
+    "topic": "Traffic congestion",
+    "title": "What should schools, families or governments do about traffic congestion?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that traffic congestion affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-70",
     "part": "Part 3",
     "topic": "Children and art",
-    "title": "How can schools help children stay interested in art?",
-    "rawTitle": "How can schools help children stay interested in art?",
-    "frequency": "常规",
+    "title": "Why is children and art important to people today?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that children and art affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q10",
+    "id": "p3-71",
     "part": "Part 3",
-    "topic": "Free time",
-    "title": "Do people need to spend a lot of money to have an enjoyable weekend?",
-    "rawTitle": "Do people need to spend a lot of money to have an enjoyable weekend?",
-    "frequency": "常规",
+    "topic": "Children and art",
+    "title": "How has children and art changed in recent years?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that children and art affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q11",
+    "id": "p3-72",
     "part": "Part 3",
-    "topic": "Career choices",
-    "title": "What makes a company attractive to young job seekers?",
-    "rawTitle": "What makes a company attractive to young job seekers?",
-    "frequency": "常规",
+    "topic": "Children and art",
+    "title": "What should schools, families or governments do about children and art?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that children and art affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q12",
+    "id": "p3-73",
     "part": "Part 3",
-    "topic": "Language learning",
-    "title": "Is it easier to learn a language now than it was in the past?",
-    "rawTitle": "Is it easier to learn a language now than it was in the past?",
-    "frequency": "常规",
+    "topic": "Inexpensive days out",
+    "title": "Why is inexpensive days out important to people today?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that inexpensive days out affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q13",
+    "id": "p3-74",
     "part": "Part 3",
-    "topic": "Laws and society",
-    "title": "What makes people willing to follow a new law?",
-    "rawTitle": "What makes people willing to follow a new law?",
-    "frequency": "常规",
+    "topic": "Inexpensive days out",
+    "title": "How has inexpensive days out changed in recent years?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that inexpensive days out affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q14",
+    "id": "p3-75",
     "part": "Part 3",
-    "topic": "Families",
-    "title": "How can families show support for one another?",
-    "rawTitle": "How can families show support for one another?",
-    "frequency": "常规",
+    "topic": "Inexpensive days out",
+    "title": "What should schools, families or governments do about inexpensive days out?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that inexpensive days out affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q15",
+    "id": "p3-76",
     "part": "Part 3",
-    "topic": "Tourism",
-    "title": "What are the advantages and disadvantages of popular cities receiving many tourists?",
-    "rawTitle": "What are the advantages and disadvantages of popular cities receiving many tourists?",
-    "frequency": "常规",
+    "topic": "Successful companies",
+    "title": "Why is successful companies important to people today?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that successful companies affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q16",
+    "id": "p3-77",
     "part": "Part 3",
-    "topic": "Gifts and traditions",
-    "title": "Why do people remember small gifts from special occasions?",
-    "rawTitle": "Why do people remember small gifts from special occasions?",
-    "frequency": "常规",
+    "topic": "Successful companies",
+    "title": "How has successful companies changed in recent years?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that successful companies affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q17",
+    "id": "p3-78",
     "part": "Part 3",
-    "topic": "Making plans",
-    "title": "Why do plans sometimes need to change, even when people prepare carefully?",
-    "rawTitle": "Why do plans sometimes need to change, even when people prepare carefully?",
-    "frequency": "常规",
+    "topic": "Successful companies",
+    "title": "What should schools, families or governments do about successful companies?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that successful companies affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q18",
+    "id": "p3-79",
     "part": "Part 3",
-    "topic": "Travel",
-    "title": "How does travel change people's understanding of other places?",
-    "rawTitle": "How does travel change people's understanding of other places?",
-    "frequency": "常规",
+    "topic": "Family pride",
+    "title": "Why is family pride important to people today?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that family pride affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q19",
+    "id": "p3-80",
     "part": "Part 3",
-    "topic": "Celebrities",
-    "title": "Why do some people feel close to celebrities they have never met?",
-    "rawTitle": "Why do some people feel close to celebrities they have never met?",
-    "frequency": "常规",
+    "topic": "Family pride",
+    "title": "How has family pride changed in recent years?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that family pride affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q20",
+    "id": "p3-81",
     "part": "Part 3",
-    "topic": "Business",
-    "title": "What qualities help a small business become successful?",
-    "rawTitle": "What qualities help a small business become successful?",
-    "frequency": "常规",
+    "topic": "Family pride",
+    "title": "What should schools, families or governments do about family pride?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that family pride affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q21",
-    "part": "Part 3",
-    "topic": "Family possessions",
-    "title": "Why do some old objects become meaningful to families?",
-    "rawTitle": "Why do some old objects become meaningful to families?",
-    "frequency": "常规",
-    "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
-  },
-  {
-    "id": "part-3-q22",
-    "part": "Part 3",
-    "topic": "Technology habits",
-    "title": "Are people becoming too dependent on electronic devices?",
-    "rawTitle": "Are people becoming too dependent on electronic devices?",
-    "frequency": "常规",
-    "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
-  },
-  {
-    "id": "part-3-q23",
-    "part": "Part 3",
-    "topic": "Learning independently",
-    "title": "What are the benefits and challenges of learning without a teacher?",
-    "rawTitle": "What are the benefits and challenges of learning without a teacher?",
-    "frequency": "常规",
-    "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
-  },
-  {
-    "id": "part-3-q24",
-    "part": "Part 3",
-    "topic": "Sport",
-    "title": "Why do live sports events create such strong emotions for spectators?",
-    "rawTitle": "Why do live sports events create such strong emotions for spectators?",
-    "frequency": "常规",
-    "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
-  },
-  {
-    "id": "part-3-q25",
-    "part": "Part 3",
-    "topic": "The environment",
-    "title": "Should environmental protection rely more on laws or individual choices?",
-    "rawTitle": "Should environmental protection rely more on laws or individual choices?",
-    "frequency": "常规",
-    "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
-  },
-  {
-    "id": "part-3-q26",
-    "part": "Part 3",
-    "topic": "Planning",
-    "title": "Do young people need to make detailed long-term plans?",
-    "rawTitle": "Do young people need to make detailed long-term plans?",
-    "frequency": "常规",
-    "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
-  },
-  {
-    "id": "part-3-q27",
-    "part": "Part 3",
-    "topic": "Films and media",
-    "title": "How do films influence the way people understand other cultures?",
-    "rawTitle": "How do films influence the way people understand other cultures?",
-    "frequency": "常规",
-    "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
-  },
-  {
-    "id": "part-3-q28",
-    "part": "Part 3",
-    "topic": "Friendship",
-    "title": "Why are childhood friendships sometimes easier to maintain than new friendships?",
-    "rawTitle": "Why are childhood friendships sometimes easier to maintain than new friendships?",
-    "frequency": "常规",
-    "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
-  },
-  {
-    "id": "part-3-q29",
-    "part": "Part 3",
-    "topic": "Work",
-    "title": "How might people's idea of a perfect job change in the future?",
-    "rawTitle": "How might people's idea of a perfect job change in the future?",
-    "frequency": "常规",
-    "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
-  },
-  {
-    "id": "part-3-q30",
+    "id": "p3-82",
     "part": "Part 3",
     "topic": "Technology products",
-    "title": "How do new technology products affect the way people communicate?",
-    "rawTitle": "How do new technology products affect the way people communicate?",
-    "frequency": "常规",
+    "title": "Why is technology products important to people today?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that technology products affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   },
   {
-    "id": "part-3-q31",
+    "id": "p3-83",
     "part": "Part 3",
-    "topic": "Consumer choices",
-    "title": "What should people consider before buying an expensive technology product?",
-    "rawTitle": "What should people consider before buying an expensive technology product?",
-    "frequency": "常规",
+    "topic": "Technology products",
+    "title": "How has technology products changed in recent years?",
+    "frequency": "大陆题库",
     "type": "深入讨论",
-    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
     "keywords": [
       "In my view",
       "One reason is that",
       "For example"
     ],
-    "sourceStyle": "原创答题框架",
-    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that technology products affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-84",
+    "part": "Part 3",
+    "topic": "Technology products",
+    "title": "What should schools, families or governments do about technology products?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that technology products affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-85",
+    "part": "Part 3",
+    "topic": "Learning independently",
+    "title": "Why is learning independently important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that learning independently affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-86",
+    "part": "Part 3",
+    "topic": "Learning independently",
+    "title": "How has learning independently changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that learning independently affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-87",
+    "part": "Part 3",
+    "topic": "Learning independently",
+    "title": "What should schools, families or governments do about learning independently?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that learning independently affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-88",
+    "part": "Part 3",
+    "topic": "Environmental protection",
+    "title": "Why is environmental protection important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that environmental protection affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-89",
+    "part": "Part 3",
+    "topic": "Environmental protection",
+    "title": "How has environmental protection changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that environmental protection affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-90",
+    "part": "Part 3",
+    "topic": "Environmental protection",
+    "title": "What should schools, families or governments do about environmental protection?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that environmental protection affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-91",
+    "part": "Part 3",
+    "topic": "Films and online media",
+    "title": "Why is films and online media important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that films and online media affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-92",
+    "part": "Part 3",
+    "topic": "Films and online media",
+    "title": "How has films and online media changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that films and online media affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-93",
+    "part": "Part 3",
+    "topic": "Films and online media",
+    "title": "What should schools, families or governments do about films and online media?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that films and online media affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-94",
+    "part": "Part 3",
+    "topic": "Long-term goals",
+    "title": "Why is long-term goals important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that long-term goals affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-95",
+    "part": "Part 3",
+    "topic": "Long-term goals",
+    "title": "How has long-term goals changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that long-term goals affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-96",
+    "part": "Part 3",
+    "topic": "Long-term goals",
+    "title": "What should schools, families or governments do about long-term goals?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that long-term goals affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-97",
+    "part": "Part 3",
+    "topic": "Places to recommend",
+    "title": "Why is places to recommend important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that places to recommend affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-98",
+    "part": "Part 3",
+    "topic": "Places to recommend",
+    "title": "How has places to recommend changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that places to recommend affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-99",
+    "part": "Part 3",
+    "topic": "Places to recommend",
+    "title": "What should schools, families or governments do about places to recommend?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that places to recommend affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-100",
+    "part": "Part 3",
+    "topic": "Phone-free places",
+    "title": "Why is phone-free places important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that phone-free places affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-101",
+    "part": "Part 3",
+    "topic": "Phone-free places",
+    "title": "How has phone-free places changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that phone-free places affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-102",
+    "part": "Part 3",
+    "topic": "Phone-free places",
+    "title": "What should schools, families or governments do about phone-free places?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that phone-free places affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-103",
+    "part": "Part 3",
+    "topic": "Messages without replies",
+    "title": "Why is messages without replies important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that messages without replies affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-104",
+    "part": "Part 3",
+    "topic": "Messages without replies",
+    "title": "How has messages without replies changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that messages without replies affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-105",
+    "part": "Part 3",
+    "topic": "Messages without replies",
+    "title": "What should schools, families or governments do about messages without replies?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that messages without replies affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-106",
+    "part": "Part 3",
+    "topic": "Teamwork",
+    "title": "Why is teamwork important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that teamwork affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-107",
+    "part": "Part 3",
+    "topic": "Teamwork",
+    "title": "How has teamwork changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that teamwork affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-108",
+    "part": "Part 3",
+    "topic": "Teamwork",
+    "title": "What should schools, families or governments do about teamwork?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that teamwork affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-109",
+    "part": "Part 3",
+    "topic": "Celebrities in advertising",
+    "title": "Why is celebrities in advertising important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that celebrities in advertising affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-110",
+    "part": "Part 3",
+    "topic": "Celebrities in advertising",
+    "title": "How has celebrities in advertising changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that celebrities in advertising affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-111",
+    "part": "Part 3",
+    "topic": "Celebrities in advertising",
+    "title": "What should schools, families or governments do about celebrities in advertising?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that celebrities in advertising affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-112",
+    "part": "Part 3",
+    "topic": "Changing important ideas",
+    "title": "Why is changing important ideas important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that changing important ideas affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-113",
+    "part": "Part 3",
+    "topic": "Changing important ideas",
+    "title": "How has changing important ideas changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that changing important ideas affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-114",
+    "part": "Part 3",
+    "topic": "Changing important ideas",
+    "title": "What should schools, families or governments do about changing important ideas?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that changing important ideas affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-115",
+    "part": "Part 3",
+    "topic": "Music events",
+    "title": "Why is music events important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that music events affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-116",
+    "part": "Part 3",
+    "topic": "Music events",
+    "title": "How has music events changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that music events affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-117",
+    "part": "Part 3",
+    "topic": "Music events",
+    "title": "What should schools, families or governments do about music events?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that music events affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-118",
+    "part": "Part 3",
+    "topic": "Shops",
+    "title": "Why is shops important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that shops affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-119",
+    "part": "Part 3",
+    "topic": "Shops",
+    "title": "How has shops changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that shops affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-120",
+    "part": "Part 3",
+    "topic": "Shops",
+    "title": "What should schools, families or governments do about shops?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that shops affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-121",
+    "part": "Part 3",
+    "topic": "Family possessions",
+    "title": "Why is family possessions important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that family possessions affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-122",
+    "part": "Part 3",
+    "topic": "Family possessions",
+    "title": "How has family possessions changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that family possessions affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-123",
+    "part": "Part 3",
+    "topic": "Family possessions",
+    "title": "What should schools, families or governments do about family possessions?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that family possessions affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-124",
+    "part": "Part 3",
+    "topic": "Imagination",
+    "title": "Why is imagination important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that imagination affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-125",
+    "part": "Part 3",
+    "topic": "Imagination",
+    "title": "How has imagination changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that imagination affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-126",
+    "part": "Part 3",
+    "topic": "Imagination",
+    "title": "What should schools, families or governments do about imagination?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that imagination affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-127",
+    "part": "Part 3",
+    "topic": "Spending more than expected",
+    "title": "Why is spending more than expected important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that spending more than expected affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-128",
+    "part": "Part 3",
+    "topic": "Spending more than expected",
+    "title": "How has spending more than expected changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that spending more than expected affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-129",
+    "part": "Part 3",
+    "topic": "Spending more than expected",
+    "title": "What should schools, families or governments do about spending more than expected?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that spending more than expected affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-130",
+    "part": "Part 3",
+    "topic": "Travel by vehicle",
+    "title": "Why is travel by vehicle important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that travel by vehicle affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-131",
+    "part": "Part 3",
+    "topic": "Travel by vehicle",
+    "title": "How has travel by vehicle changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that travel by vehicle affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-132",
+    "part": "Part 3",
+    "topic": "Travel by vehicle",
+    "title": "What should schools, families or governments do about travel by vehicle?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that travel by vehicle affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-133",
+    "part": "Part 3",
+    "topic": "People who solve problems",
+    "title": "Why is people who solve problems important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that people who solve problems affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-134",
+    "part": "Part 3",
+    "topic": "People who solve problems",
+    "title": "How has people who solve problems changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that people who solve problems affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-135",
+    "part": "Part 3",
+    "topic": "People who solve problems",
+    "title": "What should schools, families or governments do about people who solve problems?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that people who solve problems affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-136",
+    "part": "Part 3",
+    "topic": "Interesting architecture",
+    "title": "Why is interesting architecture important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that interesting architecture affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-137",
+    "part": "Part 3",
+    "topic": "Interesting architecture",
+    "title": "How has interesting architecture changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that interesting architecture affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-138",
+    "part": "Part 3",
+    "topic": "Interesting architecture",
+    "title": "What should schools, families or governments do about interesting architecture?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that interesting architecture affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-139",
+    "part": "Part 3",
+    "topic": "People who make plans",
+    "title": "Why is people who make plans important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that people who make plans affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-140",
+    "part": "Part 3",
+    "topic": "People who make plans",
+    "title": "How has people who make plans changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that people who make plans affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-141",
+    "part": "Part 3",
+    "topic": "People who make plans",
+    "title": "What should schools, families or governments do about people who make plans?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that people who make plans affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-142",
+    "part": "Part 3",
+    "topic": "Giving advice",
+    "title": "Why is giving advice important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that giving advice affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-143",
+    "part": "Part 3",
+    "topic": "Giving advice",
+    "title": "How has giving advice changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that giving advice affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-144",
+    "part": "Part 3",
+    "topic": "Giving advice",
+    "title": "What should schools, families or governments do about giving advice?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that giving advice affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-145",
+    "part": "Part 3",
+    "topic": "Helping others",
+    "title": "Why is helping others important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that helping others affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-146",
+    "part": "Part 3",
+    "topic": "Helping others",
+    "title": "How has helping others changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that helping others affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-147",
+    "part": "Part 3",
+    "topic": "Helping others",
+    "title": "What should schools, families or governments do about helping others?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that helping others affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-148",
+    "part": "Part 3",
+    "topic": "Nature lovers",
+    "title": "Why is nature lovers important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that nature lovers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-149",
+    "part": "Part 3",
+    "topic": "Nature lovers",
+    "title": "How has nature lovers changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that nature lovers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-150",
+    "part": "Part 3",
+    "topic": "Nature lovers",
+    "title": "What should schools, families or governments do about nature lovers?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that nature lovers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-151",
+    "part": "Part 3",
+    "topic": "Technology problems",
+    "title": "Why is technology problems important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that technology problems affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-152",
+    "part": "Part 3",
+    "topic": "Technology problems",
+    "title": "How has technology problems changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that technology problems affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-153",
+    "part": "Part 3",
+    "topic": "Technology problems",
+    "title": "What should schools, families or governments do about technology problems?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that technology problems affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-154",
+    "part": "Part 3",
+    "topic": "Old objects",
+    "title": "Why is old objects important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that old objects affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-155",
+    "part": "Part 3",
+    "topic": "Old objects",
+    "title": "How has old objects changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that old objects affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-156",
+    "part": "Part 3",
+    "topic": "Old objects",
+    "title": "What should schools, families or governments do about old objects?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that old objects affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-157",
+    "part": "Part 3",
+    "topic": "Cooking at home",
+    "title": "Why is cooking at home important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that cooking at home affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-158",
+    "part": "Part 3",
+    "topic": "Cooking at home",
+    "title": "How has cooking at home changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that cooking at home affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-159",
+    "part": "Part 3",
+    "topic": "Cooking at home",
+    "title": "What should schools, families or governments do about cooking at home?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that cooking at home affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-160",
+    "part": "Part 3",
+    "topic": "Social media communication",
+    "title": "Why is social media communication important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that social media communication affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-161",
+    "part": "Part 3",
+    "topic": "Social media communication",
+    "title": "How has social media communication changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that social media communication affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-162",
+    "part": "Part 3",
+    "topic": "Social media communication",
+    "title": "What should schools, families or governments do about social media communication?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that social media communication affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-163",
+    "part": "Part 3",
+    "topic": "Friendship across ages",
+    "title": "Why is friendship across ages important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that friendship across ages affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-164",
+    "part": "Part 3",
+    "topic": "Friendship across ages",
+    "title": "How has friendship across ages changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that friendship across ages affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-165",
+    "part": "Part 3",
+    "topic": "Friendship across ages",
+    "title": "What should schools, families or governments do about friendship across ages?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that friendship across ages affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-166",
+    "part": "Part 3",
+    "topic": "Tourism and cities",
+    "title": "Why is tourism and cities important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that tourism and cities affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-167",
+    "part": "Part 3",
+    "topic": "Tourism and cities",
+    "title": "How has tourism and cities changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that tourism and cities affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-168",
+    "part": "Part 3",
+    "topic": "Tourism and cities",
+    "title": "What should schools, families or governments do about tourism and cities?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that tourism and cities affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-169",
+    "part": "Part 3",
+    "topic": "Work and careers",
+    "title": "Why is work and careers important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that work and careers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-170",
+    "part": "Part 3",
+    "topic": "Work and careers",
+    "title": "How has work and careers changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that work and careers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-171",
+    "part": "Part 3",
+    "topic": "Work and careers",
+    "title": "What should schools, families or governments do about work and careers?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that work and careers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-172",
+    "part": "Part 3",
+    "topic": "Consumer choices",
+    "title": "Why is consumer choices important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that consumer choices affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-173",
+    "part": "Part 3",
+    "topic": "Consumer choices",
+    "title": "How has consumer choices changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that consumer choices affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-174",
+    "part": "Part 3",
+    "topic": "Consumer choices",
+    "title": "What should schools, families or governments do about consumer choices?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that consumer choices affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-175",
+    "part": "Part 3",
+    "topic": "Public spaces",
+    "title": "Why is public spaces important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that public spaces affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-176",
+    "part": "Part 3",
+    "topic": "Public spaces",
+    "title": "How has public spaces changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that public spaces affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-177",
+    "part": "Part 3",
+    "topic": "Public spaces",
+    "title": "What should schools, families or governments do about public spaces?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that public spaces affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-178",
+    "part": "Part 3",
+    "topic": "Cultural exchange",
+    "title": "Why is cultural exchange important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that cultural exchange affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-179",
+    "part": "Part 3",
+    "topic": "Cultural exchange",
+    "title": "How has cultural exchange changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that cultural exchange affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-180",
+    "part": "Part 3",
+    "topic": "Cultural exchange",
+    "title": "What should schools, families or governments do about cultural exchange?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that cultural exchange affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-181",
+    "part": "Part 3",
+    "topic": "Education and schools",
+    "title": "Why is education and schools important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that education and schools affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-182",
+    "part": "Part 3",
+    "topic": "Education and schools",
+    "title": "How has education and schools changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that education and schools affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-183",
+    "part": "Part 3",
+    "topic": "Education and schools",
+    "title": "What should schools, families or governments do about education and schools?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that education and schools affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-184",
+    "part": "Part 3",
+    "topic": "Health and exercise",
+    "title": "Why is health and exercise important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that health and exercise affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-185",
+    "part": "Part 3",
+    "topic": "Health and exercise",
+    "title": "How has health and exercise changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that health and exercise affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-186",
+    "part": "Part 3",
+    "topic": "Health and exercise",
+    "title": "What should schools, families or governments do about health and exercise?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that health and exercise affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-187",
+    "part": "Part 3",
+    "topic": "Modern lifestyles",
+    "title": "Why is modern lifestyles important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that modern lifestyles affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-188",
+    "part": "Part 3",
+    "topic": "Modern lifestyles",
+    "title": "How has modern lifestyles changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that modern lifestyles affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-189",
+    "part": "Part 3",
+    "topic": "Modern lifestyles",
+    "title": "What should schools, families or governments do about modern lifestyles?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that modern lifestyles affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-190",
+    "part": "Part 3",
+    "topic": "The environment and responsibility",
+    "title": "Why is the environment and responsibility important to people today?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that the environment and responsibility affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-191",
+    "part": "Part 3",
+    "topic": "The environment and responsibility",
+    "title": "How has the environment and responsibility changed in recent years?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that the environment and responsibility affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+  },
+  {
+    "id": "p3-192",
+    "part": "Part 3",
+    "topic": "The environment and responsibility",
+    "title": "What should schools, families or governments do about the environment and responsibility?",
+    "frequency": "大陆题库",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that the environment and responsibility affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
   }
 ];
