@@ -252,6 +252,15 @@ body[data-mode="speaking"] .long-speaking-term #term {
   text-align: left;
 }
 
+.cue-points {
+  margin: 10px 0 0;
+  padding-left: 22px;
+}
+
+.cue-points li + li {
+  margin-top: 5px;
+}
+
 .reference-answer {
   padding: 16px 18px;
   border: 1px solid #dfe8e5;
