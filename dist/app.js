@@ -97,6 +97,7 @@ function pickWord() {
 }
 
 function render() {
+  document.body.dataset.mode = state.mode;
   const saved = readStore();
   const pool = activePool();
   const doneMap = state.mode === "speaking" ? saved.speakingDone || {} : saved.done || {};
