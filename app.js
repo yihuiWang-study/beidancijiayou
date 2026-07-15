@@ -7,6 +7,19 @@ const state = {
 
 const storeKey = "ielts-word-card-v2";
 const $ = (id) => document.getElementById(id);
+const sizeKey = "ielts-word-card-size";
+
+function clampSize(value) {
+  return Math.min(125, Math.max(85, Number(value) || 100));
+}
+
+function applySize(value) {
+  const size = clampSize(value);
+  document.documentElement.style.setProperty("--ui-scale", String(size / 100));
+  $("sizeSlider").value = String(size);
+  $("sizeValue").textContent = `${size}%`;
+  localStorage.setItem(sizeKey, String(size));
+}
 
 function readStore() {
   const fallback = { done: {}, mistakes: {}, customReading: [] };
@@ -178,6 +191,8 @@ $("rightBtn").addEventListener("click", () => answer(true));
 $("speakBtn").addEventListener("click", speakCurrentWord);
 $("nextBtn").addEventListener("click", nextWord);
 $("importBtn").addEventListener("click", importReading);
+$("sizeSlider").addEventListener("input", (event) => applySize(event.target.value));
+$("resetSize").addEventListener("click", () => applySize(100));
 $("clearMistakes").addEventListener("click", () => {
   const saved = readStore();
   saved.mistakes = {};
@@ -191,4 +206,5 @@ $("resetProgress").addEventListener("click", () => {
   pickWord();
 });
 
+applySize(localStorage.getItem(sizeKey) || 100);
 loadWords();

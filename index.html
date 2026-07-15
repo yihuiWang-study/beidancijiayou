@@ -22,6 +22,13 @@
         <button class="tab" data-mode="mistakes">错词本</button>
       </section>
 
+      <section class="size-control" aria-label="页面大小调节">
+        <span>大小</span>
+        <input id="sizeSlider" type="range" min="85" max="125" step="5" value="100" aria-label="页面大小" />
+        <strong id="sizeValue">100%</strong>
+        <button id="resetSize" type="button">默认</button>
+      </section>
+
       <section class="stats" aria-live="polite">
         <div><strong id="doneCount">0</strong><span>已测</span></div>
         <div><strong id="leftCount">0</strong><span>剩余</span></div>

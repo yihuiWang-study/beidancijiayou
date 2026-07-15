@@ -1,6 +1,7 @@
 :root {
   color-scheme: light;
   font-family: Inter, "Microsoft YaHei", "PingFang SC", system-ui, sans-serif;
+  --ui-scale: 1;
   --ink: #243040;
   --muted: #76808f;
   --line: #e7ebf0;
@@ -80,6 +81,41 @@ h1 {
   background: rgba(255, 255, 255, 0.72);
 }
 
+.size-control {
+  display: grid;
+  grid-template-columns: auto 1fr auto auto;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 16px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.size-control span,
+.size-control strong {
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.size-control input {
+  width: 100%;
+  accent-color: var(--teal);
+}
+
+.size-control button {
+  min-height: 34px;
+  padding: 0 14px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--ink);
+  color: #fff;
+  font-weight: 900;
+  cursor: pointer;
+}
+
 .tab {
   min-height: 44px;
   border: 0;
@@ -111,7 +147,7 @@ h1 {
 
 .stats strong {
   display: block;
-  font-size: 22px;
+  font-size: calc(22px * var(--ui-scale));
 }
 
 .stats span {
@@ -139,10 +175,10 @@ h1 {
 }
 
 .word-card {
-  width: min(100%, 520px);
-  min-height: 380px;
+  width: min(100%, calc(520px * var(--ui-scale)));
+  min-height: calc(380px * var(--ui-scale));
   margin: 34px auto 0;
-  padding: 34px 30px;
+  padding: calc(34px * var(--ui-scale)) calc(30px * var(--ui-scale));
   border: 1px solid rgba(255,255,255,0.8);
   border-radius: 8px;
   background: var(--card);
@@ -155,7 +191,7 @@ h1 {
 
 .counter {
   color: var(--muted);
-  font-size: 13px;
+  font-size: calc(13px * var(--ui-scale));
 }
 
 .term-row {
@@ -168,14 +204,14 @@ h1 {
 #term {
   min-width: 0;
   overflow-wrap: anywhere;
-  font-size: clamp(34px, 8vw, 58px);
+  font-size: clamp(30px, calc(8vw * var(--ui-scale)), calc(58px * var(--ui-scale)));
   line-height: 1.08;
 }
 
 .speak-button {
   flex: 0 0 auto;
-  width: 42px;
-  height: 42px;
+  width: calc(42px * var(--ui-scale));
+  height: calc(42px * var(--ui-scale));
   border: 1px solid var(--line);
   border-radius: 50%;
   background: #f7fbfa;
@@ -196,12 +232,12 @@ h1 {
 
 #meaning {
   color: #5e6672;
-  font-size: 20px;
+  font-size: calc(20px * var(--ui-scale));
   line-height: 1.5;
 }
 
 .synonyms {
-  padding: 18px;
+  padding: calc(18px * var(--ui-scale));
   border-left: 4px solid var(--teal);
   border-radius: 8px;
   background: #f7fbfa;
@@ -212,21 +248,21 @@ h1 {
 }
 
 .hint {
-  min-height: 22px;
+  min-height: calc(22px * var(--ui-scale));
   color: var(--muted);
-  font-size: 14px;
+  font-size: calc(14px * var(--ui-scale));
 }
 
 .actions {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 14px;
-  width: min(100%, 430px);
+  width: min(100%, calc(430px * var(--ui-scale)));
   margin: 0 auto;
 }
 
 .actions button, .panel button {
-  min-height: 52px;
+  min-height: calc(52px * var(--ui-scale));
   border: 0;
   border-radius: 999px;
   font-weight: 900;
@@ -319,9 +355,18 @@ textarea {
   .shell { padding-inline: 14px; }
   .controls, .stats { gap: 7px; }
   .tab { font-size: 14px; }
+  .size-control {
+    grid-template-columns: auto 1fr auto;
+  }
+
+  .size-control button {
+    grid-column: 1 / -1;
+    justify-self: end;
+  }
+
   .word-card {
-    min-height: 350px;
-    padding: 28px 20px;
+    min-height: calc(350px * var(--ui-scale));
+    padding: calc(28px * var(--ui-scale)) calc(20px * var(--ui-scale));
   }
 
   .term-row {
