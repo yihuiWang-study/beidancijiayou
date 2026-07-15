@@ -202,15 +202,15 @@ h1 {
 
 body[data-mode="speaking"] #term {
   max-width: none;
-  font-size: clamp(25px, 3vw, 34px);
-  line-height: 1.18;
+  font-size: clamp(23px, 2.25vw, 29px);
+  line-height: 1.32;
   font-weight: 850;
-  white-space: nowrap;
+  white-space: normal;
 }
 
-body[data-mode="speaking"] .long-speaking-term #term {
-  max-width: 28ch;
-  white-space: normal;
+body[data-mode="speaking"] .speaking-part-2 #term,
+body[data-mode="speaking"] .speaking-part-3 #term {
+  max-width: 34ch;
 }
 
 .speak-button {
@@ -259,6 +259,24 @@ body[data-mode="speaking"] .long-speaking-term #term {
 
 .cue-points li + li {
   margin-top: 5px;
+}
+
+.question-cue {
+  width: min(100%, 560px);
+  margin: 8px auto 4px;
+  padding: 14px 18px;
+  border-left: 4px solid #1db99e;
+  border-radius: 6px;
+  background: #f3f8f7;
+  color: #263b54;
+  font-size: 18px;
+  font-weight: 650;
+  line-height: 1.55;
+  text-align: left;
+}
+
+.question-cue .cue-points {
+  margin: 7px 0 0;
 }
 
 .reference-answer {
@@ -439,8 +457,14 @@ textarea {
 
   body[data-mode="speaking"] #term {
     max-width: 100%;
-    font-size: clamp(22px, 6.4vw, 30px);
+    font-size: clamp(21px, 5.7vw, 27px);
     white-space: normal;
+  }
+
+  .question-cue {
+    width: 100%;
+    padding: 12px 14px;
+    font-size: 16px;
   }
 
   .speak-button {
