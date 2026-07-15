@@ -262,5 +262,1059 @@ window.SPEAKING_DATA = [
     "keywords": [],
     "sourceStyle": "原创答案",
     "answer": "I'd like my school to offer more practical courses or workshops. Some classes are useful, but they can be a bit too theoretical. It would be nice to have more chances to work on real projects, because that would make the learning feel more connected to future jobs."
+  },
+  {
+    "id": "part-2-q1",
+    "part": "Part 2",
+    "topic": "Useful app",
+    "title": "Describe an app that you use regularly and find helpful.",
+    "rawTitle": "Describe an app that you use regularly and find helpful.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with useful app. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q2",
+    "part": "Part 2",
+    "topic": "Local news",
+    "title": "Describe a piece of local news that interested you.",
+    "rawTitle": "Describe a piece of local news that interested you.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with local news. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q3",
+    "part": "Part 2",
+    "topic": "Short-term work abroad",
+    "title": "Describe a short-term job you would like to do abroad.",
+    "rawTitle": "Describe a short-term job you would like to do abroad.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with short-term work abroad. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q4",
+    "part": "Part 2",
+    "topic": "Encouragement",
+    "title": "Describe a time when you encouraged someone to do something they did not want to do.",
+    "rawTitle": "Describe a time when you encouraged someone to do something they did not want to do.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with encouragement. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q5",
+    "part": "Part 2",
+    "topic": "A story with an animal",
+    "title": "Describe a story or book that includes an animal.",
+    "rawTitle": "Describe a story or book that includes an animal.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a story with an animal. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q6",
+    "part": "Part 2",
+    "topic": "Food for a special occasion",
+    "title": "Describe a special meal you had on an important occasion.",
+    "rawTitle": "Describe a special meal you had on an important occasion.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with food for a special occasion. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q7",
+    "part": "Part 2",
+    "topic": "A tall building",
+    "title": "Describe a tall building that you like or dislike.",
+    "rawTitle": "Describe a tall building that you like or dislike.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a tall building. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q8",
+    "part": "Part 2",
+    "topic": "Traffic congestion",
+    "title": "Describe a time when you were stuck in traffic.",
+    "rawTitle": "Describe a time when you were stuck in traffic.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with traffic congestion. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q9",
+    "part": "Part 2",
+    "topic": "A child who likes drawing",
+    "title": "Describe a child you know who enjoys drawing or painting.",
+    "rawTitle": "Describe a child you know who enjoys drawing or painting.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a child who likes drawing. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q10",
+    "part": "Part 2",
+    "topic": "An inexpensive day out",
+    "title": "Describe an enjoyable day out that cost you very little money.",
+    "rawTitle": "Describe an enjoyable day out that cost you very little money.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with an inexpensive day out. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q11",
+    "part": "Part 2",
+    "topic": "A successful company",
+    "title": "Describe someone who has worked for a successful company.",
+    "rawTitle": "Describe someone who has worked for a successful company.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a successful company. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q12",
+    "part": "Part 2",
+    "topic": "A good language learner",
+    "title": "Describe a person who is good at learning and speaking languages.",
+    "rawTitle": "Describe a person who is good at learning and speaking languages.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a good language learner. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q13",
+    "part": "Part 2",
+    "topic": "A new law",
+    "title": "Describe a law that you would like to introduce.",
+    "rawTitle": "Describe a law that you would like to introduce.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a new law. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q14",
+    "part": "Part 2",
+    "topic": "Pride in a family member",
+    "title": "Describe a family member you are proud of.",
+    "rawTitle": "Describe a family member you are proud of.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with pride in a family member. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q15",
+    "part": "Part 2",
+    "topic": "A city you enjoyed visiting",
+    "title": "Describe a city you have visited and enjoyed.",
+    "rawTitle": "Describe a city you have visited and enjoyed.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a city you enjoyed visiting. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q16",
+    "part": "Part 2",
+    "topic": "A special cake",
+    "title": "Describe a time when you received a special cake.",
+    "rawTitle": "Describe a time when you received a special cake.",
+    "frequency": "高频",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a special cake. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q17",
+    "part": "Part 2",
+    "topic": "A changed plan",
+    "title": "Describe a plan that changed recently.",
+    "rawTitle": "Describe a plan that changed recently.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a changed plan. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q18",
+    "part": "Part 2",
+    "topic": "A future trip",
+    "title": "Describe a place you would like to visit when you have time.",
+    "rawTitle": "Describe a place you would like to visit when you have time.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a future trip. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q19",
+    "part": "Part 2",
+    "topic": "A celebrity",
+    "title": "Describe a celebrity you would like to meet.",
+    "rawTitle": "Describe a celebrity you would like to meet.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a celebrity. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q20",
+    "part": "Part 2",
+    "topic": "A business person",
+    "title": "Describe a person who owns a successful business.",
+    "rawTitle": "Describe a person who owns a successful business.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a business person. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q21",
+    "part": "Part 2",
+    "topic": "An important family item",
+    "title": "Describe an object that is important to your family.",
+    "rawTitle": "Describe an object that is important to your family.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with an important family item. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q22",
+    "part": "Part 2",
+    "topic": "A broken device",
+    "title": "Describe a piece of technology that stopped working.",
+    "rawTitle": "Describe a piece of technology that stopped working.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a broken device. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q23",
+    "part": "Part 2",
+    "topic": "Self-learning",
+    "title": "Describe a friend who learned a useful skill by themselves.",
+    "rawTitle": "Describe a friend who learned a useful skill by themselves.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with self-learning. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q24",
+    "part": "Part 2",
+    "topic": "A live sports event",
+    "title": "Describe a live sports event that you enjoyed watching.",
+    "rawTitle": "Describe a live sports event that you enjoyed watching.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a live sports event. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q25",
+    "part": "Part 2",
+    "topic": "An environmental law",
+    "title": "Describe an environmental law that you would like to see.",
+    "rawTitle": "Describe an environmental law that you would like to see.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with an environmental law. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q26",
+    "part": "Part 2",
+    "topic": "Someone who cares for nature",
+    "title": "Describe a person who does something to protect nature.",
+    "rawTitle": "Describe a person who does something to protect nature.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with someone who cares for nature. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q27",
+    "part": "Part 2",
+    "topic": "A good planner",
+    "title": "Describe a person who is good at making plans.",
+    "rawTitle": "Describe a person who is good at making plans.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a good planner. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q28",
+    "part": "Part 2",
+    "topic": "A film you watched",
+    "title": "Describe a film you watched recently and enjoyed.",
+    "rawTitle": "Describe a film you watched recently and enjoyed.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a film you watched. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q29",
+    "part": "Part 2",
+    "topic": "A childhood friend",
+    "title": "Describe a friend you have known since childhood.",
+    "rawTitle": "Describe a friend you have known since childhood.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a childhood friend. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q30",
+    "part": "Part 2",
+    "topic": "Your ideal job",
+    "title": "Describe a job that you would consider perfect for you.",
+    "rawTitle": "Describe a job that you would consider perfect for you.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with your ideal job. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-2-q31",
+    "part": "Part 2",
+    "topic": "A technology product",
+    "title": "Describe a piece of technology that you would like to own.",
+    "rawTitle": "Describe a piece of technology that you would like to own.",
+    "frequency": "常规",
+    "type": "话题卡",
+    "hint": "先交代人物、时间或地点，再讲两三个具体细节，最后说感受或影响。控制在两分钟左右即可。",
+    "keywords": [
+      "To begin with",
+      "What stood out to me was",
+      "Looking back"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would choose a real example connected with a technology product. I would briefly explain the background, describe two or three clear details, and finish with why it mattered to me. That gives the answer a natural story instead of a memorised list."
+  },
+  {
+    "id": "part-3-q1",
+    "part": "Part 3",
+    "topic": "Technology and apps",
+    "title": "How have apps changed the way people organise their daily lives?",
+    "rawTitle": "How have apps changed the way people organise their daily lives?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q2",
+    "part": "Part 3",
+    "topic": "Local media",
+    "title": "Why do some people pay more attention to local news than national news?",
+    "rawTitle": "Why do some people pay more attention to local news than national news?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q3",
+    "part": "Part 3",
+    "topic": "Working abroad",
+    "title": "What can young people learn from working in another country?",
+    "rawTitle": "What can young people learn from working in another country?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q4",
+    "part": "Part 3",
+    "topic": "Giving encouragement",
+    "title": "Why is encouragement important when people are learning something difficult?",
+    "rawTitle": "Why is encouragement important when people are learning something difficult?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q5",
+    "part": "Part 3",
+    "topic": "Animals in stories",
+    "title": "Why are animals often used as characters in children's stories?",
+    "rawTitle": "Why are animals often used as characters in children's stories?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q6",
+    "part": "Part 3",
+    "topic": "Food and celebrations",
+    "title": "Why does food play such an important role in celebrations?",
+    "rawTitle": "Why does food play such an important role in celebrations?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q7",
+    "part": "Part 3",
+    "topic": "Urban buildings",
+    "title": "Do tall buildings improve city life, or create new problems?",
+    "rawTitle": "Do tall buildings improve city life, or create new problems?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q8",
+    "part": "Part 3",
+    "topic": "Transport",
+    "title": "What should cities do to reduce traffic congestion?",
+    "rawTitle": "What should cities do to reduce traffic congestion?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q9",
+    "part": "Part 3",
+    "topic": "Children and art",
+    "title": "How can schools help children stay interested in art?",
+    "rawTitle": "How can schools help children stay interested in art?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q10",
+    "part": "Part 3",
+    "topic": "Free time",
+    "title": "Do people need to spend a lot of money to have an enjoyable weekend?",
+    "rawTitle": "Do people need to spend a lot of money to have an enjoyable weekend?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q11",
+    "part": "Part 3",
+    "topic": "Career choices",
+    "title": "What makes a company attractive to young job seekers?",
+    "rawTitle": "What makes a company attractive to young job seekers?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q12",
+    "part": "Part 3",
+    "topic": "Language learning",
+    "title": "Is it easier to learn a language now than it was in the past?",
+    "rawTitle": "Is it easier to learn a language now than it was in the past?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q13",
+    "part": "Part 3",
+    "topic": "Laws and society",
+    "title": "What makes people willing to follow a new law?",
+    "rawTitle": "What makes people willing to follow a new law?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q14",
+    "part": "Part 3",
+    "topic": "Families",
+    "title": "How can families show support for one another?",
+    "rawTitle": "How can families show support for one another?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q15",
+    "part": "Part 3",
+    "topic": "Tourism",
+    "title": "What are the advantages and disadvantages of popular cities receiving many tourists?",
+    "rawTitle": "What are the advantages and disadvantages of popular cities receiving many tourists?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q16",
+    "part": "Part 3",
+    "topic": "Gifts and traditions",
+    "title": "Why do people remember small gifts from special occasions?",
+    "rawTitle": "Why do people remember small gifts from special occasions?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q17",
+    "part": "Part 3",
+    "topic": "Making plans",
+    "title": "Why do plans sometimes need to change, even when people prepare carefully?",
+    "rawTitle": "Why do plans sometimes need to change, even when people prepare carefully?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q18",
+    "part": "Part 3",
+    "topic": "Travel",
+    "title": "How does travel change people's understanding of other places?",
+    "rawTitle": "How does travel change people's understanding of other places?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q19",
+    "part": "Part 3",
+    "topic": "Celebrities",
+    "title": "Why do some people feel close to celebrities they have never met?",
+    "rawTitle": "Why do some people feel close to celebrities they have never met?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q20",
+    "part": "Part 3",
+    "topic": "Business",
+    "title": "What qualities help a small business become successful?",
+    "rawTitle": "What qualities help a small business become successful?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q21",
+    "part": "Part 3",
+    "topic": "Family possessions",
+    "title": "Why do some old objects become meaningful to families?",
+    "rawTitle": "Why do some old objects become meaningful to families?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q22",
+    "part": "Part 3",
+    "topic": "Technology habits",
+    "title": "Are people becoming too dependent on electronic devices?",
+    "rawTitle": "Are people becoming too dependent on electronic devices?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q23",
+    "part": "Part 3",
+    "topic": "Learning independently",
+    "title": "What are the benefits and challenges of learning without a teacher?",
+    "rawTitle": "What are the benefits and challenges of learning without a teacher?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q24",
+    "part": "Part 3",
+    "topic": "Sport",
+    "title": "Why do live sports events create such strong emotions for spectators?",
+    "rawTitle": "Why do live sports events create such strong emotions for spectators?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q25",
+    "part": "Part 3",
+    "topic": "The environment",
+    "title": "Should environmental protection rely more on laws or individual choices?",
+    "rawTitle": "Should environmental protection rely more on laws or individual choices?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q26",
+    "part": "Part 3",
+    "topic": "Planning",
+    "title": "Do young people need to make detailed long-term plans?",
+    "rawTitle": "Do young people need to make detailed long-term plans?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q27",
+    "part": "Part 3",
+    "topic": "Films and media",
+    "title": "How do films influence the way people understand other cultures?",
+    "rawTitle": "How do films influence the way people understand other cultures?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q28",
+    "part": "Part 3",
+    "topic": "Friendship",
+    "title": "Why are childhood friendships sometimes easier to maintain than new friendships?",
+    "rawTitle": "Why are childhood friendships sometimes easier to maintain than new friendships?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q29",
+    "part": "Part 3",
+    "topic": "Work",
+    "title": "How might people's idea of a perfect job change in the future?",
+    "rawTitle": "How might people's idea of a perfect job change in the future?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q30",
+    "part": "Part 3",
+    "topic": "Technology products",
+    "title": "How do new technology products affect the way people communicate?",
+    "rawTitle": "How do new technology products affect the way people communicate?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
+  },
+  {
+    "id": "part-3-q31",
+    "part": "Part 3",
+    "topic": "Consumer choices",
+    "title": "What should people consider before buying an expensive technology product?",
+    "rawTitle": "What should people consider before buying an expensive technology product?",
+    "frequency": "常规",
+    "type": "深入讨论",
+    "hint": "先明确自己的观点，再解释原因；需要时用一个生活中的例子补充。可以承认例外情况，让回答更自然。",
+    "keywords": [
+      "In my view",
+      "One reason is that",
+      "For example"
+    ],
+    "sourceStyle": "原创答题框架",
+    "answer": "I would answer this directly first, then explain one main reason and add a simple example. For a question like this, a balanced answer is usually stronger than trying to use too many complicated ideas."
   }
 ];
