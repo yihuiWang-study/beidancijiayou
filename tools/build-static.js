@@ -9,7 +9,7 @@ for (const file of ["index.html", "styles.css", "app.js"]) {
   cpSync(file, `dist/${file}`);
 }
 
-for (const file of ["vocab-data.js"]) {
+for (const file of ["vocab-data.js", "speaking-data.js", "ielts-speaking-topics.json"]) {
   cpSync(`data/${file}`, `dist/data/${file}`);
 }
 
@@ -23,6 +23,8 @@ const assets = {
   "/styles.css": readFileSync("styles.css", "utf8"),
   "/app.js": readFileSync("app.js", "utf8"),
   "/data/vocab-data.js": readFileSync("data/vocab-data.js", "utf8"),
+  "/data/speaking-data.js": readFileSync("data/speaking-data.js", "utf8"),
+  "/data/ielts-speaking-topics.json": readFileSync("data/ielts-speaking-topics.json", "utf8"),
 };
 
 writeFileSync(
