@@ -4,6 +4,7 @@ const state = {
   pools: { reading: [], listening: [], speaking: [] },
   current: null,
   answered: false,
+  referenceVisible: false,
 };
 
 const storeKey = "ielts-word-card-v2";
@@ -28,7 +29,7 @@ function keyFor(item) {
 
 function speakCurrentWord() {
   if (!state.current || !("speechSynthesis" in window)) return;
-  const text = state.current.term || state.current.title || "";
+  const text = state.mode === "speaking" ? state.current.answer || "" : state.current.term || state.current.title || "";
   if (!text) return;
   window.speechSynthesis.cancel();
   const utterance = new SpeechSynthesisUtterance(text);
@@ -93,6 +94,7 @@ function pickWord() {
   const remaining = pool.filter((item) => !doneMap[keyFor(item)] || state.mode === "mistakes" || state.speakingFilter === "practice");
   state.current = remaining[0] || pool[0] || null;
   state.answered = false;
+  state.referenceVisible = false;
   render();
 }
 
@@ -116,6 +118,7 @@ function render() {
 
   $("mistakePanel").hidden = state.mode !== "mistakes";
   $("speakingControls").hidden = state.mode !== "speaking";
+  $("wordCard").classList.toggle("long-speaking-term", state.mode === "speaking" && (state.current?.title || "").length > 52);
   renderMistakes();
 
   if (!state.current) {
@@ -123,6 +126,7 @@ function render() {
     $("meaning").textContent = "";
     $("synonyms").textContent = "";
     $("answer").hidden = true;
+    $("referenceAnswer").hidden = true;
     $("hint").textContent = "";
     $("wrongBtn").disabled = true;
     $("rightBtn").disabled = true;
@@ -134,10 +138,18 @@ function render() {
   $("wrongBtn").disabled = false;
   $("rightBtn").disabled = false;
   $("speakBtn").disabled = !("speechSynthesis" in window);
+  const speakingAudio = state.mode === "speaking";
+  $("speakBtn").title = speakingAudio ? "朗读参考答案" : "朗读当前单词";
+  $("speakBtn").setAttribute("aria-label", $("speakBtn").title);
   $("term").textContent = state.current.term || state.current.title;
   if (state.mode === "speaking") {
     $("meaning").textContent = `${state.current.part} · ${state.current.frequency || "常规"} · ${state.current.type || "练习题"}`;
-    $("synonyms").innerHTML = `<strong>答题提示：</strong>${state.current.hint || ""}<br><br><strong>可用表达：</strong>${(state.current.keywords || []).join(" / ")}<br><br><strong>原创参考答案：</strong>${state.current.answer || ""}`;
+    $("synonyms").innerHTML = `<strong>可用表达：</strong>${(state.current.keywords || []).join(" / ")}<br><br><strong>答题提示：</strong>${state.current.hint || ""}`;
+    $("referenceAnswer").hidden = false;
+    $("referenceText").textContent = state.current.answer || "暂无参考答案";
+    $("referenceText").hidden = !state.referenceVisible;
+    $("referenceToggle").textContent = state.referenceVisible ? "隐藏" : "显示";
+    $("referenceToggle").setAttribute("aria-expanded", String(state.referenceVisible));
     $("wrongBtn").textContent = "不会说";
     $("rightBtn").textContent = "会说";
   } else {
@@ -145,8 +157,9 @@ function render() {
     $("synonyms").textContent = state.current.synonyms ? `同义替换：${state.current.synonyms}` : "暂无同义替换";
     $("wrongBtn").textContent = "不会";
     $("rightBtn").textContent = "会";
+    $("referenceAnswer").hidden = true;
   }
-  $("answer").hidden = !state.answered;
+  $("answer").hidden = state.mode === "speaking" ? false : !state.answered;
   $("hint").textContent = "";
   $("nextBtn").hidden = !state.answered;
 }
@@ -186,6 +199,7 @@ function nextWord() {
   const doneMap = state.mode === "speaking" ? saved.speakingDone || {} : saved.done || {};
   state.current = ordered.find((item) => state.mode === "mistakes" || state.speakingFilter === "practice" || !doneMap[keyFor(item)]) || ordered[0] || null;
   state.answered = false;
+  state.referenceVisible = false;
   render();
 }
 
@@ -233,6 +247,11 @@ document.querySelectorAll(".speaking-filter").forEach((button) => button.addEven
 $("wrongBtn").addEventListener("click", () => answer(false));
 $("rightBtn").addEventListener("click", () => answer(true));
 $("speakBtn").addEventListener("click", speakCurrentWord);
+$("referenceToggle").addEventListener("click", () => {
+  if (state.mode !== "speaking" || !state.current) return;
+  state.referenceVisible = !state.referenceVisible;
+  render();
+});
 $("nextBtn").addEventListener("click", nextWord);
 $("importBtn").addEventListener("click", importReading);
 $("clearMistakes").addEventListener("click", () => {

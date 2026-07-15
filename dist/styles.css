@@ -163,7 +163,7 @@ h1 {
 
 .word-card {
   position: relative;
-  width: min(100%, 600px);
+  width: min(100%, 760px);
   min-height: 340px;
   margin: 34px auto 0;
   padding: 34px 72px;
@@ -201,10 +201,16 @@ h1 {
 }
 
 body[data-mode="speaking"] #term {
-  max-width: 24ch;
-  font-size: clamp(28px, 3.5vw, 40px);
+  max-width: none;
+  font-size: clamp(25px, 3vw, 34px);
   line-height: 1.18;
   font-weight: 850;
+  white-space: nowrap;
+}
+
+body[data-mode="speaking"] .long-speaking-term #term {
+  max-width: 28ch;
+  white-space: normal;
 }
 
 .speak-button {
@@ -248,6 +254,40 @@ body[data-mode="speaking"] #term {
   font-weight: 800;
   line-height: 1.6;
   text-align: left;
+}
+
+.reference-answer {
+  padding: 16px 18px;
+  border: 1px solid #dfe8e5;
+  border-radius: 8px;
+  background: #fff;
+  text-align: left;
+}
+
+.reference-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.reference-toggle {
+  min-height: 34px;
+  padding: 0 14px;
+  border: 1px solid var(--teal);
+  border-radius: 999px;
+  background: #fff;
+  color: #108f78;
+  font-size: 14px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.reference-text {
+  margin-top: 14px;
+  color: var(--ink);
+  font-weight: 700;
+  line-height: 1.65;
 }
 
 .hint {
@@ -372,8 +412,9 @@ textarea {
   }
 
   body[data-mode="speaking"] #term {
-    max-width: 21ch;
-    font-size: clamp(24px, 7vw, 32px);
+    max-width: 100%;
+    font-size: clamp(22px, 6.4vw, 30px);
+    white-space: normal;
   }
 
   .speak-button {
