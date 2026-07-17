@@ -71,7 +71,7 @@ h1 {
 
 .controls {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   gap: 10px;
   margin: 26px 0 16px;
   padding: 6px;
@@ -425,6 +425,259 @@ details summary {
   color: var(--muted);
 }
 
+body[data-mode="writing"] .stats,
+body[data-mode="writing"] .card-wrap,
+body[data-mode="writing"] .actions,
+body[data-mode="writing"] .panel {
+  display: none;
+}
+
+.writing-workspace {
+  width: min(100%, 860px);
+  margin: 24px auto 0;
+}
+
+.writing-toolbar,
+.writing-prompt-head,
+.editor-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.writing-toolbar {
+  margin-bottom: 14px;
+}
+
+.writing-tabs,
+.timer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.writing-filter,
+.timer button,
+#nextWriting {
+  min-height: 36px;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--muted);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.writing-filter.active {
+  border-color: var(--ink);
+  background: var(--ink);
+  color: #fff;
+}
+
+.timer {
+  color: var(--ink);
+  font-weight: 900;
+}
+
+.timer > span {
+  min-width: 52px;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.timer button:first-of-type,
+#nextWriting {
+  border-color: var(--teal);
+  color: #108f78;
+}
+
+#timerReset {
+  width: 36px;
+  padding: 0;
+}
+
+.writing-prompt,
+.writing-editor,
+.writing-guide {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.writing-prompt {
+  padding: 22px;
+}
+
+.writing-prompt-head {
+  margin-bottom: 14px;
+  color: #108f78;
+  font-size: 14px;
+  font-weight: 900;
+}
+
+.writing-prompt h2 {
+  max-width: 760px;
+  font-size: clamp(20px, 2.5vw, 27px);
+  line-height: 1.45;
+}
+
+.writing-table {
+  display: grid;
+  gap: 1px;
+  margin-top: 18px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--line);
+}
+
+.writing-table-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+}
+
+.writing-table-row:has(span:nth-child(4)) {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.writing-table span {
+  min-height: 32px;
+  padding: 7px 8px;
+  background: #fff;
+  font-size: 14px;
+  text-align: center;
+}
+
+.writing-table .table-heading span {
+  background: #f3f8f7;
+  font-weight: 900;
+}
+
+.writing-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.writing-guide {
+  padding: 16px 18px;
+}
+
+.writing-guide h2 {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.writing-guide ol,
+.writing-guide ul {
+  display: grid;
+  gap: 7px;
+  margin: 0;
+  padding-left: 20px;
+  color: #536273;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.writing-editor {
+  margin-top: 12px;
+  overflow: hidden;
+}
+
+.editor-head {
+  padding: 13px 16px;
+  border-bottom: 1px solid var(--line);
+}
+
+#wordCount {
+  color: var(--muted);
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}
+
+#writingDraft {
+  min-height: 360px;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--ink);
+  line-height: 1.7;
+  outline: none;
+}
+
+.writing-library {
+  margin-top: 12px;
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.writing-library-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.writing-library-head .eyebrow {
+  margin-bottom: 4px;
+}
+
+.writing-library-head h2 {
+  font-size: 18px;
+}
+
+.writing-library-head > span {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.writing-library-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.writing-library-grid article {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 16px;
+  border: 1px solid #dfe8e5;
+  border-radius: 6px;
+  background: #f7fbfa;
+}
+
+.writing-library-grid strong {
+  display: block;
+  font-size: 16px;
+}
+
+.writing-library-grid p {
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.writing-library-grid a {
+  flex: 0 0 auto;
+  padding: 9px 12px;
+  border: 1px solid var(--teal);
+  border-radius: 6px;
+  color: #108f78;
+  font-size: 13px;
+  font-weight: 800;
+  text-decoration: none;
+}
+
 textarea {
   width: 100%;
   min-height: 120px;
@@ -441,6 +694,7 @@ textarea {
 @media (max-width: 560px) {
   .shell { padding-inline: 14px; }
   .controls, .stats { gap: 7px; }
+  .controls { grid-template-columns: repeat(3, 1fr); }
   .tab { font-size: 13px; }
   .speaking-controls {
     grid-template-columns: repeat(3, 1fr);
@@ -470,5 +724,31 @@ textarea {
   .speak-button {
     width: 36px;
     height: 36px;
+  }
+
+  .writing-toolbar,
+  .writing-prompt-head {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .timer {
+    width: 100%;
+  }
+
+  .writing-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .writing-library-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .writing-prompt {
+    padding: 17px;
+  }
+
+  #writingDraft {
+    min-height: 300px;
   }
 }

@@ -1,7 +1,11 @@
 const state = {
   mode: "reading",
   speakingFilter: "all",
-  pools: { reading: [], listening: [], speaking: [] },
+  writingFilter: "Task 1",
+  writingIndex: 0,
+  writingSeconds: 20 * 60,
+  writingTimerId: null,
+  pools: { reading: [], listening: [], speaking: [], writing: [] },
   current: null,
   answered: false,
   supportVisible: false,
@@ -12,7 +16,7 @@ const storeKey = "ielts-word-card-v2";
 const $ = (id) => document.getElementById(id);
 
 function readStore() {
-  const fallback = { done: {}, mistakes: {}, customReading: [], speakingDone: {}, speakingPractice: {} };
+  const fallback = { done: {}, mistakes: {}, customReading: [], speakingDone: {}, speakingPractice: {}, writingDrafts: {} };
   try {
     return { ...fallback, ...JSON.parse(localStorage.getItem(storeKey) || "{}") };
   } catch {
@@ -64,6 +68,7 @@ async function loadWords() {
   state.pools.reading = [...reading, ...(saved.customReading || [])];
   state.pools.listening = listening;
   state.pools.speaking = window.SPEAKING_DATA || [];
+  state.pools.writing = window.WRITING_DATA || [];
   if (!state.pools.speaking.length) {
     try {
       state.pools.speaking = await fetch("./data/ielts-speaking-topics.json").then((res) => (res.ok ? res.json() : []));
@@ -109,6 +114,10 @@ function pickWord() {
 }
 
 function render() {
+  if (state.mode === "writing") {
+    renderWriting();
+    return;
+  }
   document.body.dataset.mode = state.mode;
   const saved = readStore();
   const pool = activePool();
@@ -189,6 +198,84 @@ function render() {
   $("nextBtn").hidden = !state.answered;
 }
 
+function writingPool() {
+  return (state.pools.writing || []).filter((item) => item.task === state.writingFilter);
+}
+
+function formatTime(totalSeconds) {
+  const minutes = Math.floor(totalSeconds / 60);
+  const seconds = totalSeconds % 60;
+  return `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+}
+
+function renderWriting() {
+  document.body.dataset.mode = "writing";
+  $("writingWorkspace").hidden = false;
+  $("writingTimer").textContent = formatTime(state.writingSeconds);
+  document.querySelectorAll(".writing-filter").forEach((button) => button.classList.toggle("active", button.dataset.writingFilter === state.writingFilter));
+
+  const pool = writingPool();
+  const item = pool[state.writingIndex % pool.length];
+  if (!item) return;
+  $("writingType").textContent = `${item.task} · ${item.type}`;
+  $("writingTitle").textContent = item.title;
+  $("writingPlan").innerHTML = item.plan.map((line) => `<li>${line}</li>`).join("");
+  $("writingChecklist").innerHTML = item.checklist.map((line) => `<li>${line}</li>`).join("");
+  $("writingTable").hidden = !(item.data || []).length;
+  $("writingTable").innerHTML = (item.data || []).map((row, index) => `<div class="writing-table-row ${index === 0 ? "table-heading" : ""}">${row.map((cell) => `<span>${cell}</span>`).join("")}</div>`).join("");
+
+  const saved = readStore();
+  const draft = saved.writingDrafts?.[item.id] || "";
+  $("writingDraft").value = draft;
+  $("wordCount").textContent = `${draft.trim() ? draft.trim().split(/\s+/).length : 0} words`;
+}
+
+function setWritingFilter(filter) {
+  state.writingFilter = filter;
+  state.writingIndex = 0;
+  state.writingSeconds = filter === "Task 1" ? 20 * 60 : 40 * 60;
+  if (state.writingTimerId) {
+    clearInterval(state.writingTimerId);
+    state.writingTimerId = null;
+  }
+  $("timerToggle").textContent = "开始计时";
+  renderWriting();
+}
+
+function nextWriting() {
+  const pool = writingPool();
+  state.writingIndex = pool.length ? (state.writingIndex + 1) % pool.length : 0;
+  renderWriting();
+}
+
+function toggleWritingTimer() {
+  if (state.writingTimerId) {
+    clearInterval(state.writingTimerId);
+    state.writingTimerId = null;
+    $("timerToggle").textContent = "继续计时";
+    return;
+  }
+  state.writingTimerId = setInterval(() => {
+    if (state.writingSeconds <= 0) {
+      clearInterval(state.writingTimerId);
+      state.writingTimerId = null;
+      $("timerToggle").textContent = "时间到";
+      return;
+    }
+    state.writingSeconds -= 1;
+    $("writingTimer").textContent = formatTime(state.writingSeconds);
+  }, 1000);
+  $("timerToggle").textContent = "暂停计时";
+}
+
+function resetWritingTimer() {
+  if (state.writingTimerId) clearInterval(state.writingTimerId);
+  state.writingTimerId = null;
+  state.writingSeconds = state.writingFilter === "Task 1" ? 20 * 60 : 40 * 60;
+  $("timerToggle").textContent = "开始计时";
+  $("writingTimer").textContent = formatTime(state.writingSeconds);
+}
+
 function answer(isCorrect) {
   if (!state.current) return;
   const saved = readStore();
@@ -241,8 +328,18 @@ function renderMistakes() {
 }
 
 function setMode(mode) {
+  if (mode !== "writing" && state.writingTimerId) {
+    clearInterval(state.writingTimerId);
+    state.writingTimerId = null;
+    $("timerToggle").textContent = "继续计时";
+  }
   state.mode = mode;
   document.querySelectorAll(".tab").forEach((tab) => tab.classList.toggle("active", tab.dataset.mode === mode));
+  $("writingWorkspace").hidden = mode !== "writing";
+  if (mode === "writing") {
+    renderWriting();
+    return;
+  }
   pickWord();
 }
 
@@ -270,6 +367,7 @@ function importReading() {
 
 document.querySelectorAll(".tab").forEach((tab) => tab.addEventListener("click", () => setMode(tab.dataset.mode)));
 document.querySelectorAll(".speaking-filter").forEach((button) => button.addEventListener("click", () => setSpeakingFilter(button.dataset.speakingFilter)));
+document.querySelectorAll(".writing-filter").forEach((button) => button.addEventListener("click", () => setWritingFilter(button.dataset.writingFilter)));
 $("wrongBtn").addEventListener("click", () => answer(false));
 $("rightBtn").addEventListener("click", () => answer(true));
 $("questionSpeakBtn").addEventListener("click", speakQuestion);
@@ -286,6 +384,18 @@ $("referenceToggle").addEventListener("click", () => {
 });
 $("nextBtn").addEventListener("click", nextWord);
 $("importBtn").addEventListener("click", importReading);
+$("nextWriting").addEventListener("click", nextWriting);
+$("timerToggle").addEventListener("click", toggleWritingTimer);
+$("timerReset").addEventListener("click", resetWritingTimer);
+$("writingDraft").addEventListener("input", () => {
+  const item = writingPool()[state.writingIndex % writingPool().length];
+  if (!item) return;
+  const saved = readStore();
+  saved.writingDrafts[item.id] = $("writingDraft").value;
+  writeStore(saved);
+  const words = $("writingDraft").value.trim();
+  $("wordCount").textContent = `${words ? words.split(/\s+/).length : 0} words`;
+});
 $("clearMistakes").addEventListener("click", () => {
   const saved = readStore();
   saved.mistakes = {};

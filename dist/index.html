@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+    <link rel="icon" href="data:," />
     <title>雅思考点词背诵</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
@@ -21,6 +22,7 @@
         <button class="tab" data-mode="listening">听力 179</button>
         <button class="tab" data-mode="mistakes">错词本</button>
         <button class="tab" data-mode="speaking">口语题库</button>
+        <button class="tab" data-mode="writing">写作练习</button>
       </section>
 
       <section class="speaking-controls" id="speakingControls" aria-label="口语题库筛选" hidden>
@@ -70,6 +72,39 @@
         </article>
       </section>
 
+      <section class="writing-workspace" id="writingWorkspace" hidden>
+        <div class="writing-toolbar">
+          <div class="writing-tabs" role="tablist" aria-label="写作任务选择">
+            <button class="writing-filter active" data-writing-filter="Task 1" type="button">Task 1</button>
+            <button class="writing-filter" data-writing-filter="Task 2" type="button">Task 2</button>
+          </div>
+          <div class="timer" aria-live="polite"><span id="writingTimer">40:00</span><button id="timerToggle" type="button">开始计时</button><button id="timerReset" type="button" title="重置计时">↻</button></div>
+        </div>
+        <article class="writing-prompt">
+          <div class="writing-prompt-head"><span id="writingType">Task 1</span><button id="nextWriting" type="button">换一题</button></div>
+          <h2 id="writingTitle">准备开始</h2>
+          <div class="writing-table" id="writingTable" hidden></div>
+        </article>
+        <div class="writing-grid">
+          <section class="writing-guide"><h2>写作结构</h2><ol id="writingPlan"></ol></section>
+          <section class="writing-guide"><h2>提交前检查</h2><ul id="writingChecklist"></ul></section>
+        </div>
+        <section class="writing-editor"><div class="editor-head"><strong>我的草稿</strong><span id="wordCount">0 words</span></div><textarea id="writingDraft" placeholder="在这里写作。草稿会自动保存在这台设备的浏览器中。"></textarea></section>
+        <section class="writing-library" aria-label="授权写作资料库">
+          <div class="writing-library-head"><div><p class="eyebrow">Soro Writing Library</p><h2>写作范文资料库</h2></div><span>已授权个人学习使用</span></div>
+          <div class="writing-library-grid">
+            <article>
+              <div><strong>小作文范文库</strong><p>图表、流程图、地图与小作文必会表达。</p></div>
+              <a href="./data/ielts-task-1-soro.pdf" target="_blank" rel="noopener">打开 Task 1 原版资料</a>
+            </article>
+            <article>
+              <div><strong>大作文范文库</strong><p>Task 2 题型方法、论证思路与完整范文。</p></div>
+              <a href="./data/ielts-task-2-soro.pdf" target="_blank" rel="noopener">打开 Task 2 原版资料</a>
+            </article>
+          </div>
+        </section>
+      </section>
+
       <section class="actions">
         <button class="soft" id="wrongBtn">不会</button>
         <button class="primary" id="rightBtn">会</button>
@@ -95,6 +130,7 @@
     </main>
     <script src="./data/vocab-data.js"></script>
     <script src="./data/speaking-data.js"></script>
+    <script src="./data/writing-data.js"></script>
     <script src="./app.js"></script>
   </body>
 </html>
