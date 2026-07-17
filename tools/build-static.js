@@ -9,8 +9,12 @@ for (const file of ["index.html", "styles.css", "app.js"]) {
   cpSync(file, `dist/${file}`);
 }
 
-for (const file of ["vocab-data.js", "speaking-data.js", "ielts-speaking-topics.json"]) {
+for (const file of ["vocab-data.js", "speaking-data.js", "writing-data.js", "ielts-speaking-topics.json"]) {
   cpSync(`data/${file}`, `dist/data/${file}`);
+}
+
+for (const file of ["ielts-task-1-soro.pdf", "ielts-task-2-soro.pdf"]) {
+  if (existsSync(`data/${file}`)) cpSync(`data/${file}`, `dist/data/${file}`);
 }
 
 if (existsSync(".openai/hosting.json")) {
@@ -24,6 +28,7 @@ const assets = {
   "/app.js": readFileSync("app.js", "utf8"),
   "/data/vocab-data.js": readFileSync("data/vocab-data.js", "utf8"),
   "/data/speaking-data.js": readFileSync("data/speaking-data.js", "utf8"),
+  "/data/writing-data.js": readFileSync("data/writing-data.js", "utf8"),
   "/data/ielts-speaking-topics.json": readFileSync("data/ielts-speaking-topics.json", "utf8"),
 };
 
