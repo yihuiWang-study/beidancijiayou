@@ -1,0 +1,2297 @@
+{
+  "1NGZqCGsbOf1RBcLLfqQoX": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778915136923,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "1NGZqCGsbOf1RBcLLfqQoX",
+      "parentId": "vvlTM8rZpQe6uvzDgFTcSd",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778915136937,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "2K309wDysZRDPJg4r7v61m": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309715,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "2K309wDysZRDPJg4r7v61m",
+      "parentId": "ZJeKHP5uTX4zVVyht67mPd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "串题的串词你可以提前读一下，但是我更建议你在具体的回答中熟悉。因为你直接背串词是碎片的，会很痛苦，而你从故事里面记会更自然，并且你会发现，同样的情节都是用这些话，所以会记忆得更快",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214240473,
+      "updatedBy": "144115381524278509",
+      "version": 7
+    }
+  },
+  "2mLkxNa2oNNHfJ93WUwfoZ": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214009261,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "2mLkxNa2oNNHfJ93WUwfoZ",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "城市介绍",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082625,
+      "updatedBy": "144115381524278509",
+      "version": 11
+    }
+  },
+  "5ev4TxJ2EXz2aPbSAakgXB": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309017,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "5ev4TxJ2EXz2aPbSAakgXB",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "因为想省钱坐廉航，在办理回家登机手续时，我们发现行李严重超重，必须支付一大笔超重费。我朋友立刻想到一个聪明办法：让我多穿上几条裤子，几件T恤和外套，把重物塞进背包，完美避开超重费！",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(机智解决问题的人)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699309017,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "5ygFQj8ledtFgoiLN9BZ48": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214241776,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "5ygFQj8ledtFgoiLN9BZ48",
+      "parentId": "ZJeKHP5uTX4zVVyht67mPd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "新加坡这个地方有很多中国元素，不至于让你彻底找不到对这个地方的描述，防止Part3给自己挖坑。另外"
+          ],
+          [
+            "新加坡既是国家也是城市",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，所以我说新加坡是串题王，每一季口语Part2"
+          ],
+          [
+            "问到城市/国家都可以用新加坡",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，准备一个应付两类题。最bug的是新加坡这个地方被称为花园城市。"
+          ],
+          [
+            "自然也有，都市也有，历史文化也有一点",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，所以这3类题都可以串，也"
+          ],
+          [
+            "很好串旅行类，冒险类的话题",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，单单这一季话题，一个新加坡串了26道题，所以建议可以熟悉一下背景故事中对新加坡的简要描述，为你省下不少时间。"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214241776,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "7nBcG9E5YthwTKOq8qTGhO": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308207,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "7nBcG9E5YthwTKOq8qTGhO",
+      "parentId": "B378nsovDxmTCLR8kfgpyP",
+      "parentTable": "block",
+      "props": {
+        "displaySource": "https://docimg9.docs.qq.com/image/AgAALQpsrO2e2tr2yAdIDK5fhcRXQHYh.png?w=1556&h=1088",
+        "height": 154.5544909591195,
+        "imageFillStyle": "cover",
+        "title": [
+          [
+            "表格视图"
+          ]
+        ],
+        "width": 221
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699308207,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "8TToRYwyCBzIPGDPqFKTEn": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309681,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "8TToRYwyCBzIPGDPqFKTEn",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "串13题故事：",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "header1",
+      "updatedAt": 1780201100398,
+      "updatedBy": "144115381524278509",
+      "version": 7
+    }
+  },
+  "8gIyviYHNp9XSiJVpmWnwQ": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017610,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "8gIyviYHNp9XSiJVpmWnwQ",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "So, the city I want to talk about is Singapore. It’s located in Southeast Asia, and honestly, it’s one of the cleanest and most modern cities I’ve ever been to.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082629,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "9Te4QnjXH91UGRRuov0uL6": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309697,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "9Te4QnjXH91UGRRuov0uL6",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "高分回答：",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "header1",
+      "updatedAt": 1778338719350,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "AGfJqy1duJgxxDCcup4MQp": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214047765,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "AGfJqy1duJgxxDCcup4MQp",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214047770,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "B378nsovDxmTCLR8kfgpyP": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "7nBcG9E5YthwTKOq8qTGhO"
+      ],
+      "createdAt": 1777699309023,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "B378nsovDxmTCLR8kfgpyP",
+      "parentId": "X2S6VYtlWeuYafowbenG5g",
+      "parentTable": "block",
+      "props": {
+        "columnRatio": 0.3189196145824723
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column",
+      "updatedAt": 1777699309023,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "DOwCrxa7nte0NTh2cgc3IQ": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017624,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "DOwCrxa7nte0NTh2cgc3IQ",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "I went there last summer. You know, there is a visa waiver policy between China and Singapore, so traveling there felt much more convenient. I remember thinking that it was a perfect chance to take a short trip and see what Singapore was really like.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082642,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "Ebcd2QLR7VRs6g9YySlO0D": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214053880,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Ebcd2QLR7VRs6g9YySlO0D",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214053885,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "FPd12aC3unaRPsfTPS4bPp": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214092824,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "FPd12aC3unaRPsfTPS4bPp",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214092838,
+      "updatedBy": "144115381524278509",
+      "version": 3
+    }
+  },
+  "FUAJZ9x8fKVSpGPucHp0Gs": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778915136920,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "FUAJZ9x8fKVSpGPucHp0Gs",
+      "parentId": "vvlTM8rZpQe6uvzDgFTcSd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Honestly, I really admire her. Traveling with her made me feel much more relaxed and less stressed. I’m the kind of person who just goes with the flow and figures things out later, so having someone like her around was a huge help. She made the whole trip smoother and more efficient, and being with her made me feel safe and taken care of.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778915150227,
+      "updatedBy": "144115381524278509",
+      "version": 7
+    }
+  },
+  "GY3Lnln6FcAffnk357nSMZ": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308194,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "GY3Lnln6FcAffnk357nSMZ",
+      "parentId": "lZDjnQrTttepu8pKkPFOTh",
+      "parentTable": "block",
+      "props": {
+        "numberType": "continue",
+        "title": [
+          [
+            "题目打开后为"
+          ],
+          [
+            "半屏视图",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "方便切换，如图所示："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699308194,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "Geqzn6JK3L5K0jfWckOb6d": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017678,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Geqzn6JK3L5K0jfWckOb6d",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Honestly, this park feels like a small sanctuary to me. Every time I go there, I feel a sense of peace. It cuts out the noise of the city and gives me a quiet space to slow down. I usually just walk around, enjoy the scenery, or sit somewhere and watch the light change. It is an ideal place to recharge when I feel tired or stressed.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082697,
+      "updatedBy": "144115381524278509",
+      "version": 5
+    }
+  },
+  "HHsawoEuq3g8A9L2ZTl6ao": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017668,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "HHsawoEuq3g8A9L2ZTl6ao",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "公园",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082688,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "JEdRuCuaiPpOckAV7gAwVl": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214034447,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "JEdRuCuaiPpOckAV7gAwVl",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214034451,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "K9otN26CxKhmuAjgBZXQ02": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778915136913,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "K9otN26CxKhmuAjgBZXQ02",
+      "parentId": "vvlTM8rZpQe6uvzDgFTcSd",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778915136968,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "LDMa7PAsxvWJp1LZd9iInt": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778915136916,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "LDMa7PAsxvWJp1LZd9iInt",
+      "parentId": "vvlTM8rZpQe6uvzDgFTcSd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "对她的感受",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778915149013,
+      "updatedBy": "144115381524278509",
+      "version": 6
+    }
+  },
+  "MDGAl4geA8P3crCaDdWSYs": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "0yyn6w2Yfk8RAZAKzc2GJx",
+        "GdF4RZWg6ieghypHjq0ra8",
+        "VnbtLKpM472YF8eThXas7Q",
+        "X6WJFkB7s7voNYq1hDFAgc",
+        "cEu989skl9jCIevcgY2B0W",
+        "CVbQgH6XtrPuTx8xQvxFB6",
+        "2qXhBHPjMbnZH42Q7YcB8J",
+        "UAUzjvFvLF7RkpPJ56k1j2",
+        "BgXurodmEamDI85Ub46Tfj"
+      ],
+      "createdAt": 1777699307385,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "MDGAl4geA8P3crCaDdWSYs",
+      "parentId": "q0sAM17VdDhEsSiNMTwn6R",
+      "parentTable": "block",
+      "props": {
+        "pageCover": "https://docimg2.docs.qq.com/image/AgAALQpsrO2PIoaMDwJN0oOQHkWGQ_Zd.jpeg?w=9458&h=1645",
+        "pageCoverPosition": 50,
+        "pageIcon": "🥈",
+        "title": [
+          [
+            "Part 2 串题故事"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1777699307385,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "NvdhBsWXyQQaGNvfoaoZX8": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017620,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "NvdhBsWXyQQaGNvfoaoZX8",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "旅行时间",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082639,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "OS6wz9icj0g69G8zgXC6yH": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017654,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "OS6wz9icj0g69G8zgXC6yH",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "建筑外观",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082675,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "PbpkXFHUQHmlPxBvxKkOWa": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306586,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "PbpkXFHUQHmlPxBvxKkOWa",
+      "parentId": "UaySfA5tJ7TfvDDnCFT4hx",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699306586,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "SKQ18AFCxXLq6PqiCB7n9y": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309011,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "SKQ18AFCxXLq6PqiCB7n9y",
+      "parentId": "lZDjnQrTttepu8pKkPFOTh",
+      "parentTable": "block",
+      "props": {
+        "numberType": "continue",
+        "title": [
+          [
+            "如果希望全屏显示，可点击"
+          ],
+          [
+            "右上角【展开符号】",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，如图所示"
+          ],
+          [
+            "：",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699309011,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "SZ1MX9jCYZkLlbT4dDijuc": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778915136910,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "SZ1MX9jCYZkLlbT4dDijuc",
+      "parentId": "vvlTM8rZpQe6uvzDgFTcSd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "She plans almost everything in advance. Before the trip even started, she had already checked the routes, looked up the metro lines, and roughly planned how much time we should spend at each place. Every morning, she would remind us when to leave the hotel, which attraction to visit first, and how to get there in the most efficient way. She also always had a backup plan ready, so it felt like she was already one step ahead of the situation.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778915146583,
+      "updatedBy": "144115381524278509",
+      "version": 7
+    }
+  },
+  "UAUzjvFvLF7RkpPJ56k1j2": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "ZJeKHP5uTX4zVVyht67mPd",
+        "xeIhxAq8rHviYRdapEc9ag",
+        "8TToRYwyCBzIPGDPqFKTEn",
+        "n6Q41SVqzJqUlC5pLLt7vL",
+        "y7Wyr4cdojVSmg8fAoWXHH",
+        "5ev4TxJ2EXz2aPbSAakgXB",
+        "ooA4E3tO7MLvjVgKec9rrR",
+        "oV3QfzwPADoVrl0LxoYvaq",
+        "UaySfA5tJ7TfvDDnCFT4hx",
+        "lZDjnQrTttepu8pKkPFOTh",
+        "q8O2jnbynpy8kkbWrCgKnR",
+        "9Te4QnjXH91UGRRuov0uL6",
+        "ZWOZ7D0ne9YqulXGU8FTIN",
+        "VfVeL4imKKVhao97V7LACT",
+        "zMoQUhro65jAATHOLZdURk"
+      ],
+      "createdAt": 1777699308987,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentId": "MDGAl4geA8P3crCaDdWSYs",
+      "parentTable": "block",
+      "props": {
+        "pageIcon": "🇸🇬",
+        "title": [
+          [
+            "故事5: 新加坡旅行"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1780409054060,
+      "updatedBy": "144115381524278509",
+      "version": 10
+    }
+  },
+  "UFeM0lBbwoFy8Sc96izEFc": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017630,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "UFeM0lBbwoFy8Sc96izEFc",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "I stayed there for about five days. I think it was just enough time to explore the main parts of the city without feeling too rushed. Of course, there were still many places I didn’t get to visit, but overall, the trip felt quite fulfilling.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214092819,
+      "updatedBy": "144115381524278509",
+      "version": 6
+    }
+  },
+  "UaySfA5tJ7TfvDDnCFT4hx": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "iI0xpdzcVE5mU7XXBC8jE4",
+        "X2S6VYtlWeuYafowbenG5g",
+        "PbpkXFHUQHmlPxBvxKkOWa"
+      ],
+      "createdAt": 1777699308974,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "UaySfA5tJ7TfvDDnCFT4hx",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "表格视图和题卡视图的切换",
+            [
+              [
+                "b"
+              ],
+              [
+                "g",
+                "light_purple_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1777699308974,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "UhgtyN5KZEWbpgvbN3jNmF": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017613,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "UhgtyN5KZEWbpgvbN3jNmF",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "喜欢原因",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082632,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "VEiZ2ntDa5DjPbJFod1ibA": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308220,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "VEiZ2ntDa5DjPbJFod1ibA",
+      "parentId": "lZDjnQrTttepu8pKkPFOTh",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "鼠标悬停在相应题目上",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，点击"
+          ],
+          [
+            "最左侧的【方框】（如图所示）",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "即可打开题目："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699308220,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "VdQuedW1MGBRdpPqWFNdXK": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214051511,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "VdQuedW1MGBRdpPqWFNdXK",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214051515,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "VfVeL4imKKVhao97V7LACT": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308187,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "VfVeL4imKKVhao97V7LACT",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {
+        "collectionId": "03xGXQCXCryg9VZDbqbTEy",
+        "newViewType": 1,
+        "secretId": "DTkVKQm9wUGVTWkZR",
+        "tableId": "ThQ3Sc",
+        "title": [
+          [
+            "新加坡旅行串题"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "smartsheet",
+      "updatedAt": 1777699308187,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "X2S6VYtlWeuYafowbenG5g": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "gj2S769kdhUse2Anc80eP0",
+        "B378nsovDxmTCLR8kfgpyP",
+        "c7XPF2TCvrgyJM9jLPoZlv"
+      ],
+      "createdAt": 1777699308970,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "X2S6VYtlWeuYafowbenG5g",
+      "parentId": "UaySfA5tJ7TfvDDnCFT4hx",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column_list",
+      "updatedAt": 1777699308970,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "Z1Is7EfRZQZt8mRGpXLoac": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017651,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Z1Is7EfRZQZt8mRGpXLoac",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "It is right in the heart of Singapore, surrounded by other famous landmarks, so it is very easy to find and visit. Now, it is used as a museum, and it is home to a large collection of modern art from Southeast Asia.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082671,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "Z9uW81LpP07K8l3j50nRvX": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017647,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Z9uW81LpP07K8l3j50nRvX",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "建筑简介",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082668,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "ZJeKHP5uTX4zVVyht67mPd": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "2K309wDysZRDPJg4r7v61m",
+        "pb9A5bFIrdiTSWdM6GmHxM",
+        "iIDRNCskEXb1i045oBlhb9",
+        "5ygFQj8ledtFgoiLN9BZ48",
+        "x5m1qRyjMCRAc4xj90z9cM",
+        "sHMQdVfPcoebdxGJlIq611",
+        "kJvkkjHWw42wjt8hLPIGSe",
+        "vvlTM8rZpQe6uvzDgFTcSd"
+      ],
+      "createdAt": 1777699309017,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "ZJeKHP5uTX4zVVyht67mPd",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {
+        "blockColor": "light_rose_red_background",
+        "pageIcon": "💡"
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "callout",
+      "updatedAt": 1778214243006,
+      "updatedBy": "144115381524278509",
+      "version": 19
+    }
+  },
+  "ZWOZ7D0ne9YqulXGU8FTIN": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1780409054053,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "ZWOZ7D0ne9YqulXGU8FTIN",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1780409054055,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "ZsGJHLgS21Aen0E0u7K8mI": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307391,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "ZsGJHLgS21Aen0E0u7K8mI",
+      "parentId": "lZDjnQrTttepu8pKkPFOTh",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg3.docs.qq.com/image/AgAALQpsrO2wFAR2UsxGZaSghX6tVOKt.png?w=1640&h=570",
+        "height": 117.10595128676472,
+        "imageFillStyle": "cover",
+        "width": 337
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699307391,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "aOPrmYYPYieeOkra4sbWNz": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214056271,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "aOPrmYYPYieeOkra4sbWNz",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214056285,
+      "updatedBy": "144115381524278509",
+      "version": 3
+    }
+  },
+  "c7XPF2TCvrgyJM9jLPoZlv": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "kDGrTrtTLCbZDf7KcXO1yU"
+      ],
+      "createdAt": 1777699307405,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "c7XPF2TCvrgyJM9jLPoZlv",
+      "parentId": "X2S6VYtlWeuYafowbenG5g",
+      "parentTable": "block",
+      "props": {
+        "columnRatio": 0.39042259559332
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column",
+      "updatedAt": 1777699307405,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "cCClZtHsI4cu423fFPLYd4": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017661,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "cCClZtHsI4cu423fFPLYd4",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "建筑有趣原因",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082681,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "cFFpMiEsjWQfaboLA3FAqH": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214027954,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "cFFpMiEsjWQfaboLA3FAqH",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214027957,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "f0S8Hqqe1j1yDNIqmmv8k4": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214045316,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "f0S8Hqqe1j1yDNIqmmv8k4",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214045321,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "gj2S769kdhUse2Anc80eP0": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "xEBnPeyA9F93nW5AdQ0JEK"
+      ],
+      "createdAt": 1777699308958,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "gj2S769kdhUse2Anc80eP0",
+      "parentId": "X2S6VYtlWeuYafowbenG5g",
+      "parentTable": "block",
+      "props": {
+        "columnRatio": 0.29065778982420765
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column",
+      "updatedAt": 1777699308958,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "iI0xpdzcVE5mU7XXBC8jE4": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309659,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "iI0xpdzcVE5mU7XXBC8jE4",
+      "parentId": "UaySfA5tJ7TfvDDnCFT4hx",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "点击"
+          ],
+          [
+            "表格左上角视图",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，可以自由切换【题卡视图】以及【表格视图】，如图所示："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699309659,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "iIDRNCskEXb1i045oBlhb9": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214241772,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "iIDRNCskEXb1i045oBlhb9",
+      "parentId": "ZJeKHP5uTX4zVVyht67mPd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "地点选择新加坡，因为这个是很多老外都去过的地方。"
+          ],
+          [
+            "你说出来考官就容易想象",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，不至于像你描述一个考官没听过的国内城市，风险很大，你说完考官能想象出来，证明你水平可以。但是大部分同学描述完考官都很难想象出来。所以这里我选了新加坡，至少你在说的时候考官能根据你说的在记忆中找到对应的东西，"
+          ],
+          [
+            "避免一些因为我们描述的问题造成考官无法理解的情况",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "。"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214241772,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "jRXytJGtdGR7qfnr9BwKxS": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306622,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "jRXytJGtdGR7qfnr9BwKxS",
+      "parentId": "lZDjnQrTttepu8pKkPFOTh",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg4.docs.qq.com/image/AgAALQpsrO2Zwe0kgDFMlbsDuiXU6_FQ.png?w=2922&h=1462",
+        "height": 165.20589192708334,
+        "imageFillStyle": "cover",
+        "width": 330
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699306622,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "kDGrTrtTLCbZDf7KcXO1yU": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308253,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "kDGrTrtTLCbZDf7KcXO1yU",
+      "parentId": "c7XPF2TCvrgyJM9jLPoZlv",
+      "parentTable": "block",
+      "props": {
+        "displaySource": "https://docimg3.docs.qq.com/image/AgAALQpsrO2LWJuqq_pJU7NGHk8jh44j.png?w=1632&h=918",
+        "height": 918,
+        "imageFillStyle": "cover",
+        "title": [
+          [
+            "题卡视图"
+          ]
+        ],
+        "width": 1632
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699308253,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "kJvkkjHWw42wjt8hLPIGSe": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214220756,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "kJvkkjHWw42wjt8hLPIGSe",
+      "parentId": "ZJeKHP5uTX4zVVyht67mPd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "另外有一些题比如擅长做计划的人，助人为乐的人之类的，为了让故事更生动，帮你多拿分，我串到了这个故事而不是名校表妹那里，下面有一些人物描述的串词"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214222086,
+      "updatedBy": "144115381524278509",
+      "version": 5
+    }
+  },
+  "kWcm8aZeD3HmpDMFZHYpZo": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214032050,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "kWcm8aZeD3HmpDMFZHYpZo",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214032053,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "kvNryIVLo3SKnAfYVTJkJl": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017658,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "kvNryIVLo3SKnAfYVTJkJl",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "The building looks really impressive. It is huge, with big white columns and grand staircases, so it feels very majestic. What I like most is the way it mixes old and new elements. The historical features are still there, but there are also modern touches, like the glass rooftop. This combination gives the building a special charm that feels both classic and contemporary.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082678,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "lFmLXvCo9braYT9LNuEovb": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017627,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "lFmLXvCo9braYT9LNuEovb",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "停留时间",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082645,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "lZDjnQrTttepu8pKkPFOTh": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "VEiZ2ntDa5DjPbJFod1ibA",
+        "ZsGJHLgS21Aen0E0u7K8mI",
+        "GY3Lnln6FcAffnk357nSMZ",
+        "jRXytJGtdGR7qfnr9BwKxS",
+        "SKQ18AFCxXLq6PqiCB7n9y",
+        "o9hwH3RER8nI6kDOytN72w"
+      ],
+      "createdAt": 1777699306594,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "lZDjnQrTttepu8pKkPFOTh",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "如果以PC网页版本打开表格，题目查看方法",
+            [
+              [
+                "b"
+              ],
+              [
+                "g",
+                "light_yellow_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1777699306594,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "levEzRi4iyBpTRyqQKZI03": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214048990,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "levEzRi4iyBpTRyqQKZI03",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "I think it is interesting because it is not just about art or history. The building itself tells a story. The way they preserved its historical features while adding modern elements shows respect for both the past and the future. Walking through it made me feel amazed, because it showed me how beautifully history and modern life can exist together.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082684,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "n6Q41SVqzJqUlC5pLLt7vL": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307395,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "n6Q41SVqzJqUlC5pLLt7vL",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "新加坡和中国互免旅游签证了之后（visa waiver/visa-free），对我来说去新加坡旅行变得方便了，我和表妹一起去了新加坡",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(擅长做计划的人)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ],
+          [
+            "(乐于助人的人)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "green"
+              ]
+            ]
+          ],
+          [
+            "。新加坡是一个",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(去过且喜欢的城市)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "(推荐旅行过的地方)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "purple"
+              ]
+            ]
+          ],
+          [
+            "(想有空时去旅游的地方)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "blue"
+              ]
+            ]
+          ],
+          [
+            "，到处都充满了热带的自然氛围，感觉非常放松。我和家人去了不少著名的地方，我印象最深刻的是新加坡的国家美术馆",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(有趣的建筑)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "(喜欢或不喜欢的高建筑)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "purple"
+              ]
+            ]
+          ],
+          [
+            "(近期改变的计划)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ],
+          [
+            "，这个讲述了新加坡的历史故事。",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1780201108590,
+      "updatedBy": "144115381524278509",
+      "version": 32
+    }
+  },
+  "o9hwH3RER8nI6kDOytN72w": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308218,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "o9hwH3RER8nI6kDOytN72w",
+      "parentId": "lZDjnQrTttepu8pKkPFOTh",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg2.docs.qq.com/image/AgAALQpsrO0taC9okJZDpY6X-aKxsYzD.png?w=1476&h=930",
+        "height": 196.55845905172413,
+        "imageFillStyle": "cover",
+        "width": 312
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699308218,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "oV3QfzwPADoVrl0LxoYvaq": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307353,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "oV3QfzwPADoVrl0LxoYvaq",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "个性化题目视图使用方法",
+            [
+              [
+                "h",
+                "rose_red"
+              ],
+              [
+                "g",
+                "light_rose_red_background"
+              ]
+            ]
+          ],
+          [
+            "："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "header5",
+      "updatedAt": 1777699307353,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "ooA4E3tO7MLvjVgKec9rrR": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310368,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "ooA4E3tO7MLvjVgKec9rrR",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699310368,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "pb9A5bFIrdiTSWdM6GmHxM": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214240478,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "pb9A5bFIrdiTSWdM6GmHxM",
+      "parentId": "ZJeKHP5uTX4zVVyht67mPd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "这个故事是串题王，题目很多，所以故事比较长，建议开始看题前要仔细熟悉故事，部分题目也涉及微改编。但是整体内核不变，都是"
+          ],
+          [
+            "去新加坡旅游的时候发生的一系列事",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "。"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214241789,
+      "updatedBy": "144115381524278509",
+      "version": 5
+    }
+  },
+  "q0sAM17VdDhEsSiNMTwn6R": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "bXzpynANawci0oEYUzhSuU",
+        "rR3pvNbGXQaJDQhpQXWSkQ",
+        "aUUJE0PuL6xGI56xb8LSJv",
+        "aEz0Y4EZ7mTLuF6KRua8Oa",
+        "MDGAl4geA8P3crCaDdWSYs",
+        "jyQMrGrhiArApGSG8cTqN2",
+        "xcJMVv8RSb77mUmqkWOHkW",
+        "1ZZqVkSxMBGUPG3rOQceQw",
+        "aXy68wbwtEVtir8a6luoNn",
+        "O36eL3Uf9C0EIVHaQH57S8",
+        "ErHyEBwek2NcxujOcW8R2I",
+        "Uaj3jf5mbqcZ4J40Yyy3VR",
+        "kyGsqqvdljeFHTZT1sVFHd",
+        "zVANimgLPnDtK1LdjaYOIO",
+        "B0JadMeGcohSKYDBinrFuH",
+        "DNTenD4b08RIK7loLrm2yg",
+        "OtdaXUAYiydU5ZJt02wYrD",
+        "lHZ9KuDHREA5iFmjeid3A3"
+      ],
+      "createdAt": 1777699309674,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "q0sAM17VdDhEsSiNMTwn6R",
+      "parentId": "300000000$NjSNnIQtBabS",
+      "parentTable": "space",
+      "props": {
+        "pageCover": "https://docimg5.docs.qq.com/image/AgAALQpsrO0ec4YNLG1OTYeOR48rrYVT.jpeg?w=9458&h=1645",
+        "pageCoverPosition": 50,
+        "title": [
+          [
+            "雅思口语2026年5-8月语料库（P1+P2+P3）"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1780218801925,
+      "updatedBy": "144115381524278509",
+      "version": 10
+    }
+  },
+  "q8O2jnbynpy8kkbWrCgKnR": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308950,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "q8O2jnbynpy8kkbWrCgKnR",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308950,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "sHMQdVfPcoebdxGJlIq611": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "2mLkxNa2oNNHfJ93WUwfoZ",
+        "8gIyviYHNp9XSiJVpmWnwQ",
+        "cFFpMiEsjWQfaboLA3FAqH",
+        "UhgtyN5KZEWbpgvbN3jNmF",
+        "vOdDdGv7NWV3piznp38piK",
+        "kWcm8aZeD3HmpDMFZHYpZo",
+        "NvdhBsWXyQQaGNvfoaoZX8",
+        "DOwCrxa7nte0NTh2cgc3IQ",
+        "JEdRuCuaiPpOckAV7gAwVl",
+        "lFmLXvCo9braYT9LNuEovb",
+        "UFeM0lBbwoFy8Sc96izEFc",
+        "FPd12aC3unaRPsfTPS4bPp",
+        "Z9uW81LpP07K8l3j50nRvX",
+        "Z1Is7EfRZQZt8mRGpXLoac",
+        "f0S8Hqqe1j1yDNIqmmv8k4",
+        "OS6wz9icj0g69G8zgXC6yH",
+        "kvNryIVLo3SKnAfYVTJkJl",
+        "AGfJqy1duJgxxDCcup4MQp",
+        "cCClZtHsI4cu423fFPLYd4",
+        "levEzRi4iyBpTRyqQKZI03",
+        "VdQuedW1MGBRdpPqWFNdXK",
+        "HHsawoEuq3g8A9L2ZTl6ao",
+        "z32CA2BoCv5AHsdNdHo1Ez",
+        "Ebcd2QLR7VRs6g9YySlO0D",
+        "xizRuxd4xUafU8A70Js24u",
+        "Geqzn6JK3L5K0jfWckOb6d",
+        "aOPrmYYPYieeOkra4sbWNz"
+      ],
+      "createdAt": 1777699308218,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "sHMQdVfPcoebdxGJlIq611",
+      "parentId": "ZJeKHP5uTX4zVVyht67mPd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "新加坡串词",
+            [
+              [
+                "g",
+                "yellow_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1778214242999,
+      "updatedBy": "144115381524278509",
+      "version": 74
+    }
+  },
+  "vOdDdGv7NWV3piznp38piK": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017617,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "vOdDdGv7NWV3piznp38piK",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Honestly, I really enjoyed visiting Singapore because it feels like a perfect mix of nature and modern life. You can see lush parks right next to tall buildings, and the streets are almost always clean and well-maintained. It is a busy city, but somehow it still feels peaceful and orderly. The whole trip made me feel relaxed, energized, and inspired.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082636,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "vvlTM8rZpQe6uvzDgFTcSd": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "y3sp0WghreL2Cx9mppgyTs",
+        "SZ1MX9jCYZkLlbT4dDijuc",
+        "K9otN26CxKhmuAjgBZXQ02",
+        "LDMa7PAsxvWJp1LZd9iInt",
+        "FUAJZ9x8fKVSpGPucHp0Gs",
+        "1NGZqCGsbOf1RBcLLfqQoX"
+      ],
+      "createdAt": 1778214222076,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "vvlTM8rZpQe6uvzDgFTcSd",
+      "parentId": "ZJeKHP5uTX4zVVyht67mPd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "描述人物的补充串词",
+            [
+              [
+                "g",
+                "yellow_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1778915140679,
+      "updatedBy": "144115381524278509",
+      "version": 13
+    }
+  },
+  "x5m1qRyjMCRAc4xj90z9cM": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214241779,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "x5m1qRyjMCRAc4xj90z9cM",
+      "parentId": "ZJeKHP5uTX4zVVyht67mPd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "这道串题你没去过新加坡，也不太想说的这个城市的话，"
+          ],
+          [
+            "可以找一个你去过的城市替换即可",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "rose_red"
+              ]
+            ]
+          ],
+          [
+            "。"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214241779,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "xEBnPeyA9F93nW5AdQ0JEK": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309728,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "xEBnPeyA9F93nW5AdQ0JEK",
+      "parentId": "gj2S769kdhUse2Anc80eP0",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg9.docs.qq.com/image/AgAALQpsrO2FY1oDdfVPh4olCih1eRkl.png?w=1016&h=786",
+        "height": 154.74811422413794,
+        "imageFillStyle": "cover",
+        "title": [
+          [
+            "切换按钮位置"
+          ]
+        ],
+        "width": 200
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699309728,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "xeIhxAq8rHviYRdapEc9ag": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214120898,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "xeIhxAq8rHviYRdapEc9ag",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214122144,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "xizRuxd4xUafU8A70Js24u": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017674,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "xizRuxd4xUafU8A70Js24u",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "公园感受",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082694,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "y3sp0WghreL2Cx9mppgyTs": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778915135686,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "y3sp0WghreL2Cx9mppgyTs",
+      "parentId": "vvlTM8rZpQe6uvzDgFTcSd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "做计划",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778915141853,
+      "updatedBy": "144115381524278509",
+      "version": 14
+    }
+  },
+  "y7Wyr4cdojVSmg8fAoWXHH": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308964,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "y7Wyr4cdojVSmg8fAoWXHH",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "我们还去了滨海湾花园",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(早起的经历)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "green"
+              ]
+            ]
+          ],
+          [
+            "(自行车/摩托车/汽车旅行)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ],
+          [
+            "【这里可微改编成为你所在的城市或家乡的公园"
+          ],
+          [
+            "(安静的地方)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "purple"
+              ]
+            ]
+          ],
+          [
+            "这个公园可能要被拆了"
+          ],
+          [
+            "(当地新闻)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "】",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "。",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ],
+          [
+            "因为那里可以拍到新加坡的地标建筑金沙酒店。去了一家出名甜品店",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(商店)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "，发现菜单上都是密密麻麻的英文，点菜变得很难，但店员很耐心地给我们解释，并且也推荐了很好吃的甜品。",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1780409084362,
+      "updatedBy": "144115381524278509",
+      "version": 28
+    }
+  },
+  "z32CA2BoCv5AHsdNdHo1Ez": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778214017671,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "z32CA2BoCv5AHsdNdHo1Ez",
+      "parentId": "sHMQdVfPcoebdxGJlIq611",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "It is not just an ordinary park. It feels like a place where you can step away from the noise of the city and get close to nature. The park is quite large, with green spaces, different plants, walking paths, and quiet corners where people can sit and relax.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778214082691,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "zMoQUhro65jAATHOLZdURk": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310368,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "zMoQUhro65jAATHOLZdURk",
+      "parentId": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699310368,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  }
+}

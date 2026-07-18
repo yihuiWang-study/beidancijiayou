@@ -1,0 +1,962 @@
+{
+  "1wc3jEcZxFVnTKCJjfHSbd": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "KlPBT3seHlmCMeu1iGKQIB",
+        "yxRZeM4eVTXopL1Ugp5T1o",
+        "R3AAEloOO5bw9Ho2Rv5kXC",
+        "uZP1Bv9C6XahnPTCHtIYLO",
+        "b08n9NCfOeizGWAKtcpCjq",
+        "6JX3Er9IqIbK1ShKe037de",
+        "BM7jEbGn7ltzwk4S1ZHYcp",
+        "h4rtRpOTxiaQd57lXiGvcW",
+        "Z4x2lQsosLfePcJ4n0ShVE",
+        "iA5SIZzfWs4MVfRqt6Hy04"
+      ],
+      "createdAt": 1777699308253,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "1wc3jEcZxFVnTKCJjfHSbd",
+      "parentId": "jyQMrGrhiArApGSG8cTqN2",
+      "parentTable": "block",
+      "props": {
+        "blockColor": "light_yellow_background",
+        "pageIcon": "💡"
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "callout",
+      "updatedAt": 1777699308253,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "6JX3Er9IqIbK1ShKe037de": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310376,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "6JX3Er9IqIbK1ShKe037de",
+      "parentId": "1wc3jEcZxFVnTKCJjfHSbd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "有的同学可能听完问题之后需要思考，这是很正常的，但是有同学可能想了好几秒还没有太多头绪，这个时候不要慌张，可以用一些很自然的方式为自己争取思考的时间，你可以说： "
+          ],
+          [
+            "Well, let me guess, it should be …",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699310376,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "6NSYGifOgFgo5151By29WM": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308191,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "6NSYGifOgFgo5151By29WM",
+      "parentId": "lZP607c5w0cbhVuid4PUu9",
+      "parentTable": "block",
+      "props": {
+        "numberType": "continue",
+        "title": [
+          [
+            "如果希望全屏显示，可点击"
+          ],
+          [
+            "右上角【展开符号】",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，如图所示"
+          ],
+          [
+            "：",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699308191,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "8P99ms16mGuwkWAdfITR05": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306665,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "8P99ms16mGuwkWAdfITR05",
+      "parentId": "lZP607c5w0cbhVuid4PUu9",
+      "parentTable": "block",
+      "props": {
+        "numberType": "continue",
+        "title": [
+          [
+            "题目打开后为"
+          ],
+          [
+            "半屏视图",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "方便切换，如图所示："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699306665,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "BM7jEbGn7ltzwk4S1ZHYcp": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308196,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "BM7jEbGn7ltzwk4S1ZHYcp",
+      "parentId": "1wc3jEcZxFVnTKCJjfHSbd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "或者也可以通过重复考官的问题来争取一些时间，比如考官问："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308196,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "Fm3xH1snF5QDUqgkK2GkeX": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308245,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Fm3xH1snF5QDUqgkK2GkeX",
+      "parentId": "jyQMrGrhiArApGSG8cTqN2",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "个性化题目视图使用方法",
+            [
+              [
+                "h",
+                "rose_red"
+              ],
+              [
+                "g",
+                "light_rose_red_background"
+              ]
+            ]
+          ],
+          [
+            "："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "header5",
+      "updatedAt": 1777699308245,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "FoCaXl0ex7jm3GWG3WVaW0": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "vPiusZ1Kr7dNlX8SwggvpB"
+      ],
+      "createdAt": 1777699309681,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "FoCaXl0ex7jm3GWG3WVaW0",
+      "parentId": "ujDdv6UVebZssx6ocndROq",
+      "parentTable": "block",
+      "props": {
+        "columnRatio": 0.29065778982420765
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column",
+      "updatedAt": 1777699309681,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "Iu5RSpgZ7L1SEyVbmOJ4kp": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307383,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Iu5RSpgZ7L1SEyVbmOJ4kp",
+      "parentId": "LCdqftv8ik43dYGI9YVP7X",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "点击"
+          ],
+          [
+            "表格左上角视图",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，可以自由切换【题卡视图】以及【表格视图】，如图所示："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699307383,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "KlPBT3seHlmCMeu1iGKQIB": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307393,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "KlPBT3seHlmCMeu1iGKQIB",
+      "parentId": "1wc3jEcZxFVnTKCJjfHSbd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Part 3，考官会针对你抽到的Part 2的题目和你的回答做出一个延展性的对话，他所问的问题不一定能准确预测，以下是一些针对每个话题考官可能会问的问题。此外，因为无法100%预测Part 3被问到的问题，"
+          ],
+          [
+            "所以你需要掌握回答Part 3的技巧。简单来说就是两步：",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307393,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "LCdqftv8ik43dYGI9YVP7X": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "Iu5RSpgZ7L1SEyVbmOJ4kp",
+        "ujDdv6UVebZssx6ocndROq",
+        "MB4186snYsgETtiTIQH3nR"
+      ],
+      "createdAt": 1777699307423,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "LCdqftv8ik43dYGI9YVP7X",
+      "parentId": "jyQMrGrhiArApGSG8cTqN2",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "表格视图和题卡视图的切换",
+            [
+              [
+                "b"
+              ],
+              [
+                "g",
+                "light_purple_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1777699307423,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "MB4186snYsgETtiTIQH3nR": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309018,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "MB4186snYsgETtiTIQH3nR",
+      "parentId": "LCdqftv8ik43dYGI9YVP7X",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699309018,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "R3AAEloOO5bw9Ho2Rv5kXC": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309672,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "R3AAEloOO5bw9Ho2Rv5kXC",
+      "parentId": "1wc3jEcZxFVnTKCJjfHSbd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "针对你的回答做出一些延伸，如同雅思写作的思路一般，论证你的观点。如果论证之后你觉得还短还不够，可以举出一些实际的例子来回答（例子不是不必须的）。",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699309672,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "UnSSzph6nXypA1S4eDNxYg": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "d0PxUMQGPLut55dSYuikud"
+      ],
+      "createdAt": 1777699307393,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "UnSSzph6nXypA1S4eDNxYg",
+      "parentId": "ujDdv6UVebZssx6ocndROq",
+      "parentTable": "block",
+      "props": {
+        "columnRatio": 0.3189196145824723
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column",
+      "updatedAt": 1777699307393,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "VCKfIstvMPGzbFFDFSbhUv": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308231,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "VCKfIstvMPGzbFFDFSbhUv",
+      "parentId": "lZP607c5w0cbhVuid4PUu9",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg3.docs.qq.com/image/AgAALQpsrO2wFAR2UsxGZaSghX6tVOKt.png?w=1640&h=570",
+        "height": 117.10595128676472,
+        "imageFillStyle": "cover",
+        "width": 337
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699308231,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "Y98Tz47C4dcMymbQoAPyB6": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309004,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Y98Tz47C4dcMymbQoAPyB6",
+      "parentId": "i3AiWkgTp3RSFJOcBj8Lnw",
+      "parentTable": "block",
+      "props": {
+        "displaySource": "https://docimg3.docs.qq.com/image/AgAALQpsrO2LWJuqq_pJU7NGHk8jh44j.png?w=1632&h=918",
+        "height": 918,
+        "imageFillStyle": "cover",
+        "title": [
+          [
+            "题卡视图"
+          ]
+        ],
+        "width": 1632
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699309004,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "Z4x2lQsosLfePcJ4n0ShVE": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307391,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Z4x2lQsosLfePcJ4n0ShVE",
+      "parentId": "1wc3jEcZxFVnTKCJjfHSbd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "这个时候你可以重复题目信息说：",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307391,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "b08n9NCfOeizGWAKtcpCjq": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308981,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "b08n9NCfOeizGWAKtcpCjq",
+      "parentId": "1wc3jEcZxFVnTKCJjfHSbd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "❤️小技巧：",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "pink"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308981,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "c6h2sdh3oMgp7DLr3kt2nf": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308968,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "c6h2sdh3oMgp7DLr3kt2nf",
+      "parentId": "jyQMrGrhiArApGSG8cTqN2",
+      "parentTable": "block",
+      "props": {
+        "collectionId": "1GQneAG0P1EQkBbE7CIQYF",
+        "newViewType": 1,
+        "secretId": "DTkVKQm9wUGVTWkZR",
+        "tableId": "gTuFZH",
+        "title": [
+          [
+            "P3深入讨论"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "smartsheet",
+      "updatedAt": 1777699308968,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "d0PxUMQGPLut55dSYuikud": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310374,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "d0PxUMQGPLut55dSYuikud",
+      "parentId": "UnSSzph6nXypA1S4eDNxYg",
+      "parentTable": "block",
+      "props": {
+        "displaySource": "https://docimg9.docs.qq.com/image/AgAALQpsrO2e2tr2yAdIDK5fhcRXQHYh.png?w=1556&h=1088",
+        "height": 154.5544909591195,
+        "imageFillStyle": "cover",
+        "title": [
+          [
+            "表格视图"
+          ]
+        ],
+        "width": 221
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699310374,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "h4rtRpOTxiaQd57lXiGvcW": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310355,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "h4rtRpOTxiaQd57lXiGvcW",
+      "parentId": "1wc3jEcZxFVnTKCJjfHSbd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Why are many music competitions popular in China?",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699310355,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "i3AiWkgTp3RSFJOcBj8Lnw": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "Y98Tz47C4dcMymbQoAPyB6"
+      ],
+      "createdAt": 1777699308965,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "i3AiWkgTp3RSFJOcBj8Lnw",
+      "parentId": "ujDdv6UVebZssx6ocndROq",
+      "parentTable": "block",
+      "props": {
+        "columnRatio": 0.39042259559332
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column",
+      "updatedAt": 1777699308965,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "iA5SIZzfWs4MVfRqt6Hy04": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310358,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "iA5SIZzfWs4MVfRqt6Hy04",
+      "parentId": "1wc3jEcZxFVnTKCJjfHSbd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Well, I think music competitions are popular in China because ...",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699310358,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "jyQMrGrhiArApGSG8cTqN2": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "1wc3jEcZxFVnTKCJjfHSbd",
+        "Fm3xH1snF5QDUqgkK2GkeX",
+        "LCdqftv8ik43dYGI9YVP7X",
+        "lZP607c5w0cbhVuid4PUu9",
+        "c6h2sdh3oMgp7DLr3kt2nf",
+        "uqSSmZJ3uVhrI4muX4VMwr"
+      ],
+      "createdAt": 1777699306626,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "jyQMrGrhiArApGSG8cTqN2",
+      "parentId": "q0sAM17VdDhEsSiNMTwn6R",
+      "parentTable": "block",
+      "props": {
+        "pageCover": "https://docimg3.docs.qq.com/image/AgAALQpsrO3fOKLK0mxHG59YQZV6Ie76.jpeg?w=9458&h=1645",
+        "pageCoverPosition": 50,
+        "pageIcon": "🥉",
+        "title": [
+          [
+            "Part 3 深入讨论"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1777699306626,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "lZP607c5w0cbhVuid4PUu9": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "oG3RAlWcpri7hXPTjNoqLI",
+        "VCKfIstvMPGzbFFDFSbhUv",
+        "8P99ms16mGuwkWAdfITR05",
+        "mfhquVtVFPKHZJzNO6IAfJ",
+        "6NSYGifOgFgo5151By29WM",
+        "mLxYpTY5c5p1f9mfGGYNl9"
+      ],
+      "createdAt": 1777699308982,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "lZP607c5w0cbhVuid4PUu9",
+      "parentId": "jyQMrGrhiArApGSG8cTqN2",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "如果以PC网页版本打开表格，题目查看方法",
+            [
+              [
+                "b"
+              ],
+              [
+                "g",
+                "light_yellow_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1777699308982,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "mLxYpTY5c5p1f9mfGGYNl9": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310357,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "mLxYpTY5c5p1f9mfGGYNl9",
+      "parentId": "lZP607c5w0cbhVuid4PUu9",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg2.docs.qq.com/image/AgAALQpsrO0taC9okJZDpY6X-aKxsYzD.png?w=1476&h=930",
+        "height": 196.55845905172413,
+        "imageFillStyle": "cover",
+        "width": 312
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699310357,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "mfhquVtVFPKHZJzNO6IAfJ": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307376,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "mfhquVtVFPKHZJzNO6IAfJ",
+      "parentId": "lZP607c5w0cbhVuid4PUu9",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg4.docs.qq.com/image/AgAALQpsrO2Zwe0kgDFMlbsDuiXU6_FQ.png?w=2922&h=1462",
+        "height": 165.20589192708334,
+        "imageFillStyle": "cover",
+        "width": 330
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699307376,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "oG3RAlWcpri7hXPTjNoqLI": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308219,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "oG3RAlWcpri7hXPTjNoqLI",
+      "parentId": "lZP607c5w0cbhVuid4PUu9",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "鼠标悬停在相应题目上",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，点击"
+          ],
+          [
+            "最左侧的【方框】（如图所示）",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "即可打开题目："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699308219,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "q0sAM17VdDhEsSiNMTwn6R": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "bXzpynANawci0oEYUzhSuU",
+        "rR3pvNbGXQaJDQhpQXWSkQ",
+        "aUUJE0PuL6xGI56xb8LSJv",
+        "aEz0Y4EZ7mTLuF6KRua8Oa",
+        "MDGAl4geA8P3crCaDdWSYs",
+        "jyQMrGrhiArApGSG8cTqN2",
+        "xcJMVv8RSb77mUmqkWOHkW",
+        "1ZZqVkSxMBGUPG3rOQceQw",
+        "aXy68wbwtEVtir8a6luoNn",
+        "O36eL3Uf9C0EIVHaQH57S8",
+        "ErHyEBwek2NcxujOcW8R2I",
+        "Uaj3jf5mbqcZ4J40Yyy3VR",
+        "kyGsqqvdljeFHTZT1sVFHd",
+        "zVANimgLPnDtK1LdjaYOIO",
+        "B0JadMeGcohSKYDBinrFuH",
+        "DNTenD4b08RIK7loLrm2yg",
+        "OtdaXUAYiydU5ZJt02wYrD",
+        "lHZ9KuDHREA5iFmjeid3A3"
+      ],
+      "createdAt": 1777699309674,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "q0sAM17VdDhEsSiNMTwn6R",
+      "parentId": "300000000$NjSNnIQtBabS",
+      "parentTable": "space",
+      "props": {
+        "pageCover": "https://docimg5.docs.qq.com/image/AgAALQpsrO0ec4YNLG1OTYeOR48rrYVT.jpeg?w=9458&h=1645",
+        "pageCoverPosition": 50,
+        "title": [
+          [
+            "雅思口语2026年5-8月语料库（P1+P2+P3）"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1780218801925,
+      "updatedBy": "144115381524278509",
+      "version": 10
+    }
+  },
+  "uZP1Bv9C6XahnPTCHtIYLO": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307402,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "uZP1Bv9C6XahnPTCHtIYLO",
+      "parentId": "1wc3jEcZxFVnTKCJjfHSbd",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307402,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "ujDdv6UVebZssx6ocndROq": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "FoCaXl0ex7jm3GWG3WVaW0",
+        "UnSSzph6nXypA1S4eDNxYg",
+        "i3AiWkgTp3RSFJOcBj8Lnw"
+      ],
+      "createdAt": 1777699306622,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "ujDdv6UVebZssx6ocndROq",
+      "parentId": "LCdqftv8ik43dYGI9YVP7X",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column_list",
+      "updatedAt": 1777699306622,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "uqSSmZJ3uVhrI4muX4VMwr": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308217,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "uqSSmZJ3uVhrI4muX4VMwr",
+      "parentId": "jyQMrGrhiArApGSG8cTqN2",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308217,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "vPiusZ1Kr7dNlX8SwggvpB": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307385,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "vPiusZ1Kr7dNlX8SwggvpB",
+      "parentId": "FoCaXl0ex7jm3GWG3WVaW0",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg9.docs.qq.com/image/AgAALQpsrO2FY1oDdfVPh4olCih1eRkl.png?w=1016&h=786",
+        "height": 154.74811422413794,
+        "imageFillStyle": "cover",
+        "title": [
+          [
+            "切换按钮位置"
+          ]
+        ],
+        "width": 200
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699307385,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "yxRZeM4eVTXopL1Ugp5T1o": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308253,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "yxRZeM4eVTXopL1Ugp5T1o",
+      "parentId": "1wc3jEcZxFVnTKCJjfHSbd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "直接回答考官的问题，不要回避，或者答非所问。这个回答需要尽量简洁，用一句话就概括出来。",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699308253,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  }
+}

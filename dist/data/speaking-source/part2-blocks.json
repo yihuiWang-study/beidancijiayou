@@ -1,0 +1,549 @@
+{
+  "0yyn6w2Yfk8RAZAKzc2GJx": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "yZkGm8jGNGcs1o8ZuSQUhk",
+        "smM7rM1fac3VK2wPcZKb4U",
+        "FSn5rJOeLA94BtQCmcVgFv"
+      ],
+      "createdAt": 1777699308245,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "0yyn6w2Yfk8RAZAKzc2GJx",
+      "parentId": "MDGAl4geA8P3crCaDdWSYs",
+      "parentTable": "block",
+      "props": {
+        "blockColor": "light_rose_red_background",
+        "pageIcon": "💖"
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "callout",
+      "updatedAt": 1777699308245,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "2qXhBHPjMbnZH42Q7YcB8J": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "IrY71auCzaarNS20mLtFIQ",
+        "8bpmiyh3i3NUCJh744ggQS",
+        "PpSZNFZci9rwq44MJeUrg7",
+        "jsUp5S61TlsJmKc25Rp0am",
+        "hsmjl040DOsLfE36Jfw4Mx",
+        "51FPgh6wcKpzrdAmt4eaSe",
+        "sbvKKUs4kY8MqMoRXauFgO",
+        "wUP4vqyxVhwoJfm0hs4WZw",
+        "2ooiiunGzES6L8R5hDmsjp",
+        "fUZR21jkf69vUcyYeTcmZJ",
+        "Kd4M1ZMZ8sLCXCy5lXwrli",
+        "KWVc92c2X821r66OZvMXPS",
+        "IUuQ7QwQaPyBdROvwjs2db"
+      ],
+      "createdAt": 1777699307392,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "2qXhBHPjMbnZH42Q7YcB8J",
+      "parentId": "MDGAl4geA8P3crCaDdWSYs",
+      "parentTable": "block",
+      "props": {
+        "pageIcon": "🍳",
+        "title": [
+          [
+            "故事4: 春节做饭"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1780209618449,
+      "updatedBy": "144115381524278509",
+      "version": 11
+    }
+  },
+  "BgXurodmEamDI85Ub46Tfj": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306595,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "BgXurodmEamDI85Ub46Tfj",
+      "parentId": "MDGAl4geA8P3crCaDdWSYs",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699306595,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "CVbQgH6XtrPuTx8xQvxFB6": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "uZGljIosW9HCXTXoLKVtuJ",
+        "FX0oQECG9MUQNwmrA2JQR1",
+        "IZKJzXnHORm22E20ecdtIy",
+        "oEQGhS7u4MRg5YB9RDQ4nn",
+        "axpizej2ViAqouoGJ57eio",
+        "h0Fje1hnlOZ1Mim8hmWKMJ",
+        "9NS1dISa4SYi1yysGZuZcu",
+        "L2BhPEkVvz6YQ4O4DgcRyB",
+        "ZCfc23AGHYrIKyLBJgqYg6",
+        "IVJUHuTGOxnVQ9G1N3S9Hd",
+        "BawHagw6gHfiuQyIZlZqmb",
+        "DR38WQ1jf3gSjM8chiC8mD",
+        "j3zbPjnuOBvEp59DEZt6e6"
+      ],
+      "createdAt": 1777699308195,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "CVbQgH6XtrPuTx8xQvxFB6",
+      "parentId": "MDGAl4geA8P3crCaDdWSYs",
+      "parentTable": "block",
+      "props": {
+        "pageIcon": "🖼️",
+        "title": [
+          [
+            "故事3: 用iPad画画"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1779022749810,
+      "updatedBy": "144115381524278509",
+      "version": 5
+    }
+  },
+  "FSn5rJOeLA94BtQCmcVgFv": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306633,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "FSn5rJOeLA94BtQCmcVgFv",
+      "parentId": "0yyn6w2Yfk8RAZAKzc2GJx",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "这样的5个故事可以",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ],
+          [
+            "囊括一切雅思的Part2题目",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ],
+          [
+            "，因为任何一个Part2的题目都会和这5个事故中的1到2个发生联系，比如偶像的题就可以串到陌生人，朋友家人的题就串到熟人，技能的题就可串到事件或者物品，所以任何题，都是可以用这5个故事串的！因为这5个故事是我为你挑选出来最好用的了。只要你熟悉过故事+里面的题目，很快就能上口，只要能在考试前过一遍这些题，哪怕只有一点印象，都不至于无话可说。",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699306633,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "GdF4RZWg6ieghypHjq0ra8": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306559,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "GdF4RZWg6ieghypHjq0ra8",
+      "parentId": "MDGAl4geA8P3crCaDdWSYs",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699306559,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "MDGAl4geA8P3crCaDdWSYs": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "0yyn6w2Yfk8RAZAKzc2GJx",
+        "GdF4RZWg6ieghypHjq0ra8",
+        "VnbtLKpM472YF8eThXas7Q",
+        "X6WJFkB7s7voNYq1hDFAgc",
+        "cEu989skl9jCIevcgY2B0W",
+        "CVbQgH6XtrPuTx8xQvxFB6",
+        "2qXhBHPjMbnZH42Q7YcB8J",
+        "UAUzjvFvLF7RkpPJ56k1j2",
+        "BgXurodmEamDI85Ub46Tfj"
+      ],
+      "createdAt": 1777699307385,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "MDGAl4geA8P3crCaDdWSYs",
+      "parentId": "q0sAM17VdDhEsSiNMTwn6R",
+      "parentTable": "block",
+      "props": {
+        "pageCover": "https://docimg2.docs.qq.com/image/AgAALQpsrO2PIoaMDwJN0oOQHkWGQ_Zd.jpeg?w=9458&h=1645",
+        "pageCoverPosition": 50,
+        "pageIcon": "🥈",
+        "title": [
+          [
+            "Part 2 串题故事"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1777699307385,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "UAUzjvFvLF7RkpPJ56k1j2": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "ZJeKHP5uTX4zVVyht67mPd",
+        "xeIhxAq8rHviYRdapEc9ag",
+        "8TToRYwyCBzIPGDPqFKTEn",
+        "n6Q41SVqzJqUlC5pLLt7vL",
+        "y7Wyr4cdojVSmg8fAoWXHH",
+        "5ev4TxJ2EXz2aPbSAakgXB",
+        "ooA4E3tO7MLvjVgKec9rrR",
+        "oV3QfzwPADoVrl0LxoYvaq",
+        "UaySfA5tJ7TfvDDnCFT4hx",
+        "lZDjnQrTttepu8pKkPFOTh",
+        "q8O2jnbynpy8kkbWrCgKnR",
+        "9Te4QnjXH91UGRRuov0uL6",
+        "ZWOZ7D0ne9YqulXGU8FTIN",
+        "VfVeL4imKKVhao97V7LACT",
+        "zMoQUhro65jAATHOLZdURk"
+      ],
+      "createdAt": 1777699308987,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "UAUzjvFvLF7RkpPJ56k1j2",
+      "parentId": "MDGAl4geA8P3crCaDdWSYs",
+      "parentTable": "block",
+      "props": {
+        "pageIcon": "🇸🇬",
+        "title": [
+          [
+            "故事5: 新加坡旅行"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1780409054060,
+      "updatedBy": "144115381524278509",
+      "version": 10
+    }
+  },
+  "VnbtLKpM472YF8eThXas7Q": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307389,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "VnbtLKpM472YF8eThXas7Q",
+      "parentId": "MDGAl4geA8P3crCaDdWSYs",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "【",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ],
+          [
+            "5个故事",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "pink"
+              ]
+            ]
+          ],
+          [
+            "串",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "Part2考题】",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307389,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "X6WJFkB7s7voNYq1hDFAgc": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "15xBSN2UI90vHWSHfwboAh",
+        "5ASXoIA2FSLJdHoFpjU8ZL",
+        "Hlci10aDVxUx6BdAWUQ1iq",
+        "Z5spndK2prVGOQl2Hv4WM4",
+        "YpqHUHIopG0qDLe1Ykj5qu",
+        "yr5TcNRv5d0vBp0y2UgYt7",
+        "AQAButg9ATOWRqGFwKzY7z",
+        "ZtjSv4877k6JjixzUK3VJb",
+        "x035vQYJJcctiyQElgGQIi",
+        "OpMEhN9sRzvd5Zp90YkoCj",
+        "qDwlB5vIki0hVvNAaWL5k9",
+        "GYI5Ty4Nwr24Gg4SuD9wWJ",
+        "M71rsLstZu90IchWTUWIfb",
+        "cR0ctjh9PvnfWojhp0NavA"
+      ],
+      "createdAt": 1777699310362,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentId": "MDGAl4geA8P3crCaDdWSYs",
+      "parentTable": "block",
+      "props": {
+        "pageCoverPosition": 50,
+        "pageIcon": "👩🏻‍🎓",
+        "title": [
+          [
+            "故事1: 名校的表妹/表弟"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1779022775639,
+      "updatedBy": "144115381524278509",
+      "version": 25
+    }
+  },
+  "cEu989skl9jCIevcgY2B0W": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "YCtrxxl9jYDGJ2JORwjUiE",
+        "haa0MLPYS9ylewhbnsuv0X",
+        "bxABJx5va4atcCWGQwrJso",
+        "SVqXESf51qFexY067lr8Sp",
+        "dzOvwu80lGvhVnzDeBx5NQ",
+        "rJGyRIDUvdIyiLQYA80REm",
+        "p9GGUlcmiB7QqvgT28qNIV",
+        "hL4k94TaFkvt2pee6R1aKl",
+        "f429tigAGwm9k1YA9pQM8z",
+        "qygtWEeRRfp2WyoHqwn52p",
+        "R1GA0cBflnleZmQ2Vdsi1c",
+        "6hJtsmpBiZ7vCiRwXeluIg"
+      ],
+      "createdAt": 1777699308216,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "cEu989skl9jCIevcgY2B0W",
+      "parentId": "MDGAl4geA8P3crCaDdWSYs",
+      "parentTable": "block",
+      "props": {
+        "pageIcon": "👩🏻‍🔬",
+        "title": [
+          [
+            "故事2: 邻居老人"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1782809279032,
+      "updatedBy": "144115381524278509",
+      "version": 22
+    }
+  },
+  "q0sAM17VdDhEsSiNMTwn6R": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "bXzpynANawci0oEYUzhSuU",
+        "rR3pvNbGXQaJDQhpQXWSkQ",
+        "aUUJE0PuL6xGI56xb8LSJv",
+        "aEz0Y4EZ7mTLuF6KRua8Oa",
+        "MDGAl4geA8P3crCaDdWSYs",
+        "jyQMrGrhiArApGSG8cTqN2",
+        "xcJMVv8RSb77mUmqkWOHkW",
+        "1ZZqVkSxMBGUPG3rOQceQw",
+        "aXy68wbwtEVtir8a6luoNn",
+        "O36eL3Uf9C0EIVHaQH57S8",
+        "ErHyEBwek2NcxujOcW8R2I",
+        "Uaj3jf5mbqcZ4J40Yyy3VR",
+        "kyGsqqvdljeFHTZT1sVFHd",
+        "zVANimgLPnDtK1LdjaYOIO",
+        "B0JadMeGcohSKYDBinrFuH",
+        "DNTenD4b08RIK7loLrm2yg",
+        "OtdaXUAYiydU5ZJt02wYrD",
+        "lHZ9KuDHREA5iFmjeid3A3"
+      ],
+      "createdAt": 1777699309674,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "q0sAM17VdDhEsSiNMTwn6R",
+      "parentId": "300000000$NjSNnIQtBabS",
+      "parentTable": "space",
+      "props": {
+        "pageCover": "https://docimg5.docs.qq.com/image/AgAALQpsrO0ec4YNLG1OTYeOR48rrYVT.jpeg?w=9458&h=1645",
+        "pageCoverPosition": 50,
+        "title": [
+          [
+            "雅思口语2026年5-8月语料库（P1+P2+P3）"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1780218801925,
+      "updatedBy": "144115381524278509",
+      "version": 10
+    }
+  },
+  "smM7rM1fac3VK2wPcZKb4U": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307424,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "smM7rM1fac3VK2wPcZKb4U",
+      "parentId": "0yyn6w2Yfk8RAZAKzc2GJx",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "一个熟人的，一个陌生人的，一个物品，一个事件，一个地点",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "purple"
+              ]
+            ]
+          ],
+          [
+            "。",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307424,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "yZkGm8jGNGcs1o8ZuSQUhk": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306562,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "yZkGm8jGNGcs1o8ZuSQUhk",
+      "parentId": "0yyn6w2Yfk8RAZAKzc2GJx",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "我串题的思路，",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ],
+          [
+            "5个故事：",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "blue"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699306562,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  }
+}

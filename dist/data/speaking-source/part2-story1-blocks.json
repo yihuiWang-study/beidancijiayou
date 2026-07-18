@@ -1,0 +1,2815 @@
+{
+  "0IrxmEpVjr4SfQ16aABhlc": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309019,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "0IrxmEpVjr4SfQ16aABhlc",
+      "parentId": "x035vQYJJcctiyQElgGQIi",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg3.docs.qq.com/image/AgAALQpsrO2wFAR2UsxGZaSghX6tVOKt.png?w=1640&h=570",
+        "height": 117.10595128676472,
+        "imageFillStyle": "cover",
+        "width": 337
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699309019,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "15xBSN2UI90vHWSHfwboAh": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "7e1sFknMjWhGmh9BWqXK1K",
+        "zEaSxjAL0yuj0A6lwECyTo",
+        "SfAw6ArfKVo7nn5sYMzepX",
+        "yq8bOoigr4dxQSuDlpRCUC",
+        "59kBIqHhZP5KeiLxp1NO54",
+        "EKyHmPYHORKV7IwjFk7uNh"
+      ],
+      "createdAt": 1777699309703,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "15xBSN2UI90vHWSHfwboAh",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {
+        "blockColor": "light_rose_red_background",
+        "pageIcon": "💡"
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "callout",
+      "updatedAt": 1778125464713,
+      "updatedBy": "144115381524278509",
+      "version": 121
+    }
+  },
+  "1hQ8PWzRQ8sGIuT9LIVc4K": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307415,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "1hQ8PWzRQ8sGIuT9LIVc4K",
+      "parentId": "x035vQYJJcctiyQElgGQIi",
+      "parentTable": "block",
+      "props": {
+        "numberType": "continue",
+        "title": [
+          [
+            "如果希望全屏显示，可点击"
+          ],
+          [
+            "右上角【展开符号】",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，如图所示"
+          ],
+          [
+            "：",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699307415,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "1pUTcxIIcMuT3u9IVTKUEF": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306619,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "1pUTcxIIcMuT3u9IVTKUEF",
+      "parentId": "x035vQYJJcctiyQElgGQIi",
+      "parentTable": "block",
+      "props": {
+        "numberType": "continue",
+        "title": [
+          [
+            "题目打开后为"
+          ],
+          [
+            "半屏视图",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "方便切换，如图所示："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699306619,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "3NZWdldAzjlIRs5Rmoynqo": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744707,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "3NZWdldAzjlIRs5Rmoynqo",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "学习语言的困难",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744773,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "3TyGbjMpTen4kdfQvyWggd": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744685,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "3TyGbjMpTen4kdfQvyWggd",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744841,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "3XKmSh8xCdjde8UzxwZgYO": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778125453944,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "3XKmSh8xCdjde8UzxwZgYO",
+      "parentId": "yq8bOoigr4dxQSuDlpRCUC",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "What I really like about Summer is that she is not only smart, but also very kind. Even when she was good at many things, she never made me feel less confident. When I had problems with study or life, she would explain things to me patiently. You know, being with her always felt easy and comfortable.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132818942,
+      "updatedBy": "144115381524278509",
+      "version": 3
+    }
+  },
+  "534QOzcXa1ZtirTgkThAYj": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124106462,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "534QOzcXa1ZtirTgkThAYj",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "事情初始",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132545950,
+      "updatedBy": "144115381524278509",
+      "version": 12
+    }
+  },
+  "59kBIqHhZP5KeiLxp1NO54": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "pIIP6Ykkiu2N2P8UT6uGTR"
+      ],
+      "createdAt": 1777699309704,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "59kBIqHhZP5KeiLxp1NO54",
+      "parentId": "15xBSN2UI90vHWSHfwboAh",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "一个"
+          ],
+          [
+            "故事线是表妹高考失利后复读的故事",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "（部分谈你的题，也可以说是你高考失利）。"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1778124122750,
+      "updatedBy": "144115381524278509",
+      "version": 138
+    }
+  },
+  "5ASXoIA2FSLJdHoFpjU8ZL": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307360,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "5ASXoIA2FSLJdHoFpjU8ZL",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "串18题故事：",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "header1",
+      "updatedAt": 1780200497078,
+      "updatedBy": "144115381524278509",
+      "version": 3
+    }
+  },
+  "5kDj8Yg9RLbDTysFnxgCSs": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308198,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "5kDj8Yg9RLbDTysFnxgCSs",
+      "parentId": "x035vQYJJcctiyQElgGQIi",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg2.docs.qq.com/image/AgAALQpsrO0taC9okJZDpY6X-aKxsYzD.png?w=1476&h=930",
+        "height": 196.55845905172413,
+        "imageFillStyle": "cover",
+        "width": 312
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699308198,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "6qxqouheHHqSYavrAdoADW": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "fHsQh4MOe04vkW9WNgw2ur",
+        "H1we4cwt99GwVKWzgjI2Dj",
+        "7suGy3diFBeMG8yVA4W0A3",
+        "VbqP23hFImDZUG66FYb5zs",
+        "gijMv8N66xPXASTbEeNNRI",
+        "BkNFiQfVwaiVXGB9X3IBHz",
+        "eEMGdozwU8OHfc3T4Y1HzY",
+        "KMGGfw6lM2ztVuwCSztg8B",
+        "3TyGbjMpTen4kdfQvyWggd",
+        "JBt7SjqIGQN1zabrxBQQRM",
+        "Xzl8OLeP1xJQsijqRk2pzx",
+        "fgcuhRq0L5icLgDMttCc4q",
+        "8uWKQkjWS2Qx3EUz9u0niM",
+        "shN6kBVoO5lj5TwMXrBGFQ",
+        "BPbr7srTgOAySKjtAYiQAy",
+        "3NZWdldAzjlIRs5Rmoynqo",
+        "NWIQ9YWM9e9TIUywd6cVKH",
+        "CKlqnfd5uhQbxaB0dJjSDk",
+        "klET96WflFIUgaw0vTlZIi",
+        "d9X2cQKvsdXNDtpjSjwYcx"
+      ],
+      "createdAt": 1777719678571,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "6qxqouheHHqSYavrAdoADW",
+      "parentId": "EKyHmPYHORKV7IwjFk7uNh",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "学习内容串词",
+            [
+              [
+                "g",
+                "yellow_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1778124304790,
+      "updatedBy": "144115381524278509",
+      "version": 50
+    }
+  },
+  "7e1sFknMjWhGmh9BWqXK1K": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309659,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "7e1sFknMjWhGmh9BWqXK1K",
+      "parentId": "15xBSN2UI90vHWSHfwboAh",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "⭐串题的串词你可以提前读一下，但是我更建议你在具体的回答中熟悉。因为你直接背串词是碎片的，会很痛苦，而你从故事里面记会更自然，并且你会发现，同样的情节都是用这些话，所以会记忆得更快",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778124543823,
+      "updatedBy": "144115381524278509",
+      "version": 86
+    }
+  },
+  "7suGy3diFBeMG8yVA4W0A3": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778123954577,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "7suGy3diFBeMG8yVA4W0A3",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778123954586,
+      "updatedBy": "144115381524278509",
+      "version": 3
+    }
+  },
+  "7wr1aSOYqcGqyKsRD7E1ph": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124106534,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "7wr1aSOYqcGqyKsRD7E1ph",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "收获",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778124106566,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "8uWKQkjWS2Qx3EUz9u0niM": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744698,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "8uWKQkjWS2Qx3EUz9u0niM",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "学习语言过程",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744802,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "9z5ZhVItOvkFA0Rgh2XDAK": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124106468,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "9z5ZhVItOvkFA0Rgh2XDAK",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Summer高考失利再考过程（如果这题需要说是你高考失利，需要再考，就把主语都替换成你自己）",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778124402554,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "AQAButg9ATOWRqGFwKzY7z": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308195,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "AQAButg9ATOWRqGFwKzY7z",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "个性化题目视图使用方法",
+            [
+              [
+                "h",
+                "rose_red"
+              ],
+              [
+                "g",
+                "light_rose_red_background"
+              ]
+            ]
+          ],
+          [
+            "："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "header5",
+      "updatedAt": 1777699308195,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "AeuHfjvIVrEf8a7YRnXRB9": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124106531,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "AeuHfjvIVrEf8a7YRnXRB9",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778124106576,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "BEWG6zk8pAzAgNBZcJkqmu": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124402545,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "BEWG6zk8pAzAgNBZcJkqmu",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "After she got her results from the national college entrance exam, they weren’t as high as she had hoped. She could still go to university, but it wouldn’t be the one she truly wanted. At that point, she really didn’t want to try again. She was exhausted and nervous just thinking about another year of high-pressure study, and she kept saying things like, “What if I try again and still fail?”",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132753276,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "BPbr7srTgOAySKjtAYiQAy": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744704,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "BPbr7srTgOAySKjtAYiQAy",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744783,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "BQQ1CK0mzXIl0OVs2Sfmjt": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124106521,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "BQQ1CK0mzXIl0OVs2Sfmjt",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778124106606,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "BkNFiQfVwaiVXGB9X3IBHz": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744675,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "BkNFiQfVwaiVXGB9X3IBHz",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744870,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "CKlqnfd5uhQbxaB0dJjSDk": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744714,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "CKlqnfd5uhQbxaB0dJjSDk",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744753,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "DkjIQKmpQHezIuJ9izL16d": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310376,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "DkjIQKmpQHezIuJ9izL16d",
+      "parentId": "ZtjSv4877k6JjixzUK3VJb",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "点击"
+          ],
+          [
+            "表格左上角视图",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，可以自由切换【题卡视图】以及【表格视图】，如图所示："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699310376,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "EKyHmPYHORKV7IwjFk7uNh": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "6qxqouheHHqSYavrAdoADW"
+      ],
+      "createdAt": 1777711871791,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "EKyHmPYHORKV7IwjFk7uNh",
+      "parentId": "15xBSN2UI90vHWSHfwboAh",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "另外会涉及到一些"
+          ],
+          [
+            "学校或者场景的内容",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，比方说表妹推荐你一款"
+          ],
+          [
+            "APP程序",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "帮你集中注意力帮你学习英语（或者很简单改变成你想教老外汉语等内容）。"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1778124084118,
+      "updatedBy": "144115381524278509",
+      "version": 26
+    }
+  },
+  "FUZmMCfc0sfEtpyuLYJU9c": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "WDYG8y3dkOICvRh2l3uYTJ"
+      ],
+      "createdAt": 1777699308187,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "FUZmMCfc0sfEtpyuLYJU9c",
+      "parentId": "ccQH3Ju1CYgsPXwSSpcLzi",
+      "parentTable": "block",
+      "props": {
+        "columnRatio": 0.29065778982420765
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column",
+      "updatedAt": 1777699308187,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "GPUmLFEYphEAHmrmd61JC0": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124106528,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "GPUmLFEYphEAHmrmd61JC0",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "In the end, everything turned out much better than we expected. She managed to overcome the difficulties and finally achieved her goal. This result not only changed her life, but also made everyone around her feel proud and happy.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778124106586,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "GYI5Ty4Nwr24Gg4SuD9wWJ": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778914964606,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "GYI5Ty4Nwr24Gg4SuD9wWJ",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778914964609,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "H1we4cwt99GwVKWzgjI2Dj": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778123970982,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "H1we4cwt99GwVKWzgjI2Dj",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "We decided to go there because both of us needed a quiet place to review our lessons. Well, at first, we thought the library would be perfect. It had comfortable seats, bright lights, and a serious study atmosphere. We even planned to stay there for several hours and finish a lot of work.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778123970996,
+      "updatedBy": "144115381524278509",
+      "version": 3
+    }
+  },
+  "HAZiC5em3XcALH3sULtaTv": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308980,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "HAZiC5em3XcALH3sULtaTv",
+      "parentId": "x035vQYJJcctiyQElgGQIi",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg4.docs.qq.com/image/AgAALQpsrO2Zwe0kgDFMlbsDuiXU6_FQ.png?w=2922&h=1462",
+        "height": 165.20589192708334,
+        "imageFillStyle": "cover",
+        "width": 330
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699308980,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "HatEwxrT2z4OFJXkX7ZV3T": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778132753281,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "HatEwxrT2z4OFJXkX7ZV3T",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132753294,
+      "updatedBy": "144115381524278509",
+      "version": 3
+    }
+  },
+  "Hlci10aDVxUx6BdAWUQ1iq": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306556,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Hlci10aDVxUx6BdAWUQ1iq",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Summer，我的表妹",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(发小)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "在清华读书。有次去她们图书馆复习",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(禁用手机的场合)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ],
+          [
+            "(不享受的音乐活动)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "rose_red"
+              ]
+            ]
+          ],
+          [
+            "(去过的无聊地方)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "green"
+              ]
+            ]
+          ],
+          [
+            "，她会几门语言",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(擅长学习和说语言的人)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "purple"
+              ]
+            ]
+          ],
+          [
+            "，",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ],
+          [
+            "我为了考雅思找她帮我模拟对话",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(语言学习)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "green"
+              ]
+            ]
+          ],
+          [
+            "。我常去她家找她玩",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(喜欢拜访但不想住的家)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "rose_red"
+              ]
+            ]
+          ],
+          [
+            "，最近我们还去了一个跳蚤市场淘东西",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(花费甚少的外出日)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1780200420804,
+      "updatedBy": "144115381524278509",
+      "version": 91
+    }
+  },
+  "JBt7SjqIGQN1zabrxBQQRM": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744688,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "JBt7SjqIGQN1zabrxBQQRM",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "APP介绍",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744832,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "JgVG42rQNfBGYIp6RE8zIg": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124106538,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "JgVG42rQNfBGYIp6RE8zIg",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "So, looking back on this experience, I feel really proud and grateful. I would say it taught me that challenges are not something to be afraid of. Instead, they are opportunities to grow and become stronger. Anyway, this experience has had a lasting impact on me, and I believe it will always stay in my memory.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778124106556,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "KMGGfw6lM2ztVuwCSztg8B": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744682,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "KMGGfw6lM2ztVuwCSztg8B",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Honestly, I felt surprisingly good about it. Being completely cut off from the internet forced me to slow down and really concentrate. It reminded me what it’s like to study without constant distractions. By the time we left, I actually felt calmer and more productive than usual. So even though I wasn’t allowed to use my phone, I realized that sometimes being disconnected is exactly what we need. It was a small but eye-opening experience for me.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744851,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "LIBHvD1pllUMLe0eSWoEyb": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124106524,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "LIBHvD1pllUMLe0eSWoEyb",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "结果",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778124106596,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "M71rsLstZu90IchWTUWIfb": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306560,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "M71rsLstZu90IchWTUWIfb",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {
+        "collectionId": "EHLgziC7TQ5G8cfalkcDsG",
+        "newViewType": 1,
+        "secretId": "DTkVKQm9wUGVTWkZR",
+        "tableId": "RdlOD8",
+        "title": [
+          [
+            "名校的表妹/表弟串题"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "smartsheet",
+      "updatedAt": 1777699306560,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "MDGAl4geA8P3crCaDdWSYs": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "0yyn6w2Yfk8RAZAKzc2GJx",
+        "GdF4RZWg6ieghypHjq0ra8",
+        "VnbtLKpM472YF8eThXas7Q",
+        "X6WJFkB7s7voNYq1hDFAgc",
+        "cEu989skl9jCIevcgY2B0W",
+        "CVbQgH6XtrPuTx8xQvxFB6",
+        "2qXhBHPjMbnZH42Q7YcB8J",
+        "UAUzjvFvLF7RkpPJ56k1j2",
+        "BgXurodmEamDI85Ub46Tfj"
+      ],
+      "createdAt": 1777699307385,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "MDGAl4geA8P3crCaDdWSYs",
+      "parentId": "q0sAM17VdDhEsSiNMTwn6R",
+      "parentTable": "block",
+      "props": {
+        "pageCover": "https://docimg2.docs.qq.com/image/AgAALQpsrO2PIoaMDwJN0oOQHkWGQ_Zd.jpeg?w=9458&h=1645",
+        "pageCoverPosition": 50,
+        "pageIcon": "🥈",
+        "title": [
+          [
+            "Part 2 串题故事"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1777699307385,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "NWIQ9YWM9e9TIUywd6cVKH": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744710,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "NWIQ9YWM9e9TIUywd6cVKH",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "I truly believe that having someone to guide and support you makes a huge difference when learning a language. Through HelloTalk, I’ve seen how language exchange can help people learn in a more natural way.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744763,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "OYDQyMfYArLZ2zn0kS3SRB": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124401363,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "OYDQyMfYArLZ2zn0kS3SRB",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778124401367,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "Oi2Bk2JYs3MSxBIe9vT4jW": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124382023,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Oi2Bk2JYs3MSxBIe9vT4jW",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778124382036,
+      "updatedBy": "144115381524278509",
+      "version": 3
+    }
+  },
+  "OpMEhN9sRzvd5Zp90YkoCj": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308187,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "OpMEhN9sRzvd5Zp90YkoCj",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308187,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "PJyyF5gY8tkNJ3PGpyGyGS": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778132765352,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "PJyyF5gY8tkNJ3PGpyGyGS",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "But I advised her to retake the exam and spend another year preparing intensely. So, I told her, “If you think you can do better, you should try again. Wouldn’t you rather be somewhere you truly like, studying what you really love?” I encouraged her to give herself one more chance instead of settling for something she would regret later.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132765365,
+      "updatedBy": "144115381524278509",
+      "version": 3
+    }
+  },
+  "Pgt6WRbx5FtwSeYrOkJa63": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778132757544,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Pgt6WRbx5FtwSeYrOkJa63",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "你的鼓励",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132765348,
+      "updatedBy": "144115381524278509",
+      "version": 14
+    }
+  },
+  "SfAw6ArfKVo7nn5sYMzepX": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777711873849,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "SfAw6ArfKVo7nn5sYMzepX",
+      "parentId": "15xBSN2UI90vHWSHfwboAh",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "另外根据可能出现的故事线整理了归属它们的串词，我放在归属的故事线下了方便你区分。"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778125019185,
+      "updatedBy": "144115381524278509",
+      "version": 57
+    }
+  },
+  "TeHOGwiVctjLcyGi53De2X": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778132818946,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "TeHOGwiVctjLcyGi53De2X",
+      "parentId": "yq8bOoigr4dxQSuDlpRCUC",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132818959,
+      "updatedBy": "144115381524278509",
+      "version": 3
+    }
+  },
+  "VQmlLIsyjNXpOrHBQ184zm": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778125453935,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "VQmlLIsyjNXpOrHBQ184zm",
+      "parentId": "yq8bOoigr4dxQSuDlpRCUC",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "怎么认识的",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778125453982,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "VbqP23hFImDZUG66FYb5zs": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719743350,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "VbqP23hFImDZUG66FYb5zs",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "不能用手机的过程",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744730,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "WDYG8y3dkOICvRh2l3uYTJ": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310362,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "WDYG8y3dkOICvRh2l3uYTJ",
+      "parentId": "FUZmMCfc0sfEtpyuLYJU9c",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg9.docs.qq.com/image/AgAALQpsrO2FY1oDdfVPh4olCih1eRkl.png?w=1016&h=786",
+        "height": 154.74811422413794,
+        "imageFillStyle": "cover",
+        "title": [
+          [
+            "切换按钮位置"
+          ]
+        ],
+        "width": 200
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699310362,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "X6WJFkB7s7voNYq1hDFAgc": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "15xBSN2UI90vHWSHfwboAh",
+        "5ASXoIA2FSLJdHoFpjU8ZL",
+        "Hlci10aDVxUx6BdAWUQ1iq",
+        "Z5spndK2prVGOQl2Hv4WM4",
+        "YpqHUHIopG0qDLe1Ykj5qu",
+        "yr5TcNRv5d0vBp0y2UgYt7",
+        "AQAButg9ATOWRqGFwKzY7z",
+        "ZtjSv4877k6JjixzUK3VJb",
+        "x035vQYJJcctiyQElgGQIi",
+        "OpMEhN9sRzvd5Zp90YkoCj",
+        "qDwlB5vIki0hVvNAaWL5k9",
+        "GYI5Ty4Nwr24Gg4SuD9wWJ",
+        "M71rsLstZu90IchWTUWIfb",
+        "cR0ctjh9PvnfWojhp0NavA"
+      ],
+      "createdAt": 1777699310362,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentId": "MDGAl4geA8P3crCaDdWSYs",
+      "parentTable": "block",
+      "props": {
+        "pageCoverPosition": 50,
+        "pageIcon": "👩🏻‍🎓",
+        "title": [
+          [
+            "故事1: 名校的表妹/表弟"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1779022775639,
+      "updatedBy": "144115381524278509",
+      "version": 25
+    }
+  },
+  "Xzl8OLeP1xJQsijqRk2pzx": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744691,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Xzl8OLeP1xJQsijqRk2pzx",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "So, my cousin, Summer, recommended an app called HelloTalk to me, which is a language exchange app where you can talk to people from different countries. After using it for a while, I realized that many people are actually interested in learning Chinese.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744822,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "YpqHUHIopG0qDLe1Ykj5qu": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306556,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "YpqHUHIopG0qDLe1Ykj5qu",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "【这个题改编可以串"
+          ],
+          [
+            "(喜欢的现场体育赛事)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "，就说表妹参加她们学校的电竞比赛，串",
+            [
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ],
+          [
+            "(喜欢的电视/网络节目)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "blue"
+              ]
+            ]
+          ],
+          [
+            "是因为看这个节目的时候我能联想到我的表妹"
+          ],
+          [
+            "，",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ],
+          [
+            "有一个不是很好串进去的题，我放在这个故事里，就说是summer分享给你的，这样你比较不容易漏掉这个题"
+          ],
+          [
+            "(包含动物的故事或书)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "rose_red"
+              ]
+            ]
+          ],
+          [
+            "】",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1780200350675,
+      "updatedBy": "144115381524278509",
+      "version": 80
+    }
+  },
+  "Z5spndK2prVGOQl2Hv4WM4": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306662,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Z5spndK2prVGOQl2Hv4WM4",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "当我对未来感到迷茫时，我会先想到和她聊聊，因为她总是那个鼓励我，给我提出建议的人",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(学习朋友好习惯)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "(App/程序)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ],
+          [
+            "。",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "她给我推荐的语言交换的app，帮我学英语，也给了我灵感，让",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "我想去国外当中文助教帮别人学中文，我也可以学英语",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ],
+          [
+            "(近期改变)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "blue"
+              ]
+            ]
+          ],
+          [
+            "(想从事的短期海外工作)。",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ],
+          [
+            "Summer高考失利，在我的鼓励下，她重新参加了高考",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "(为家人骄傲)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "rose_red"
+              ]
+            ]
+          ],
+          [
+            "(鼓励别人做不愿做的事)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ],
+          [
+            "(给别人建议)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "【",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "这里可以改编成是你自己，"
+          ],
+          [
+            "(改变重要想法)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "rose_red"
+              ]
+            ]
+          ],
+          [
+            "(重要的决定)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "blue"
+              ]
+            ]
+          ],
+          [
+            "我高考后，家人给了我一个"
+          ],
+          [
+            "(收到特殊蛋糕)",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "】",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1782016138493,
+      "updatedBy": "144115381524278509",
+      "version": 97
+    }
+  },
+  "ZtjSv4877k6JjixzUK3VJb": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "DkjIQKmpQHezIuJ9izL16d",
+        "ccQH3Ju1CYgsPXwSSpcLzi",
+        "woOd3jXKE8d4stV1UcSKZv"
+      ],
+      "createdAt": 1777699308218,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "ZtjSv4877k6JjixzUK3VJb",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "表格视图和题卡视图的切换",
+            [
+              [
+                "b"
+              ],
+              [
+                "g",
+                "light_purple_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1777699308218,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "cR0ctjh9PvnfWojhp0NavA": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308195,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "cR0ctjh9PvnfWojhp0NavA",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308195,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "ccQH3Ju1CYgsPXwSSpcLzi": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "FUZmMCfc0sfEtpyuLYJU9c",
+        "ep9ZZQVQ8uXquLAEKCOxkg",
+        "iagQ9tuKJML3eTeag8GSBy"
+      ],
+      "createdAt": 1777699310355,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "ccQH3Ju1CYgsPXwSSpcLzi",
+      "parentId": "ZtjSv4877k6JjixzUK3VJb",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column_list",
+      "updatedAt": 1777699310355,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "d9X2cQKvsdXNDtpjSjwYcx": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744720,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "d9X2cQKvsdXNDtpjSjwYcx",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "It’s about mutual learning and connection. I can help others improve their Chinese, while also improving my own English in a real-life setting. For me, it’s the perfect balance between work, learning, and cultural exchange.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744734,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "eEMGdozwU8OHfc3T4Y1HzY": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744678,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "eEMGdozwU8OHfc3T4Y1HzY",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "不能用手机的感受",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744860,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "ep9ZZQVQ8uXquLAEKCOxkg": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "tLy2Y4yuommvrFlQiXTcwg"
+      ],
+      "createdAt": 1777699306623,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "ep9ZZQVQ8uXquLAEKCOxkg",
+      "parentId": "ccQH3Ju1CYgsPXwSSpcLzi",
+      "parentTable": "block",
+      "props": {
+        "columnRatio": 0.3189196145824723
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column",
+      "updatedAt": 1777699306623,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "fHsQh4MOe04vkW9WNgw2ur": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778123952227,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "fHsQh4MOe04vkW9WNgw2ur",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "去学习的场景",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778123977259,
+      "updatedBy": "144115381524278509",
+      "version": 12
+    }
+  },
+  "fgcuhRq0L5icLgDMttCc4q": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744694,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "fgcuhRq0L5icLgDMttCc4q",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744812,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "gijMv8N66xPXASTbEeNNRI": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744672,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "gijMv8N66xPXASTbEeNNRI",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Without my phone, I had no choice but to focus. I couldn’t check messages, scroll through social media, or look anything up online. For those few hours, all I did was read books and go through my notes. At first, it felt a bit uncomfortable, because I’m so used to reaching for my phone whenever I get bored. But after a while, I started to notice how quiet my mind became, and how much more focused I was.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744897,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "hLhDHQWKJVS8um9YZMqZHX": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124106465,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "hLhDHQWKJVS8um9YZMqZHX",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "It was right after my cousin, Summer, received her results from the national college entrance exam. It was a very stressful and emotional period for her. Normally, she’s confident and determined, but at that moment, she was clearly shaken and unsure about what to do next.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132581803,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "hkWxiF1nCAIQeoVzOtiawh": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306624,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "hkWxiF1nCAIQeoVzOtiawh",
+      "parentId": "x035vQYJJcctiyQElgGQIi",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "鼠标悬停在相应题目上",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，点击"
+          ],
+          [
+            "最左侧的【方框】（如图所示）",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "即可打开题目："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699306624,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "iagQ9tuKJML3eTeag8GSBy": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "mQ1kKN2Wl2Iiwn2Zc4kJW9"
+      ],
+      "createdAt": 1777699307391,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "iagQ9tuKJML3eTeag8GSBy",
+      "parentId": "ccQH3Ju1CYgsPXwSSpcLzi",
+      "parentTable": "block",
+      "props": {
+        "columnRatio": 0.39042259559332
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column",
+      "updatedAt": 1777699307391,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "igdrjGK42D4rlvYKO6hB8o": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124106475,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "igdrjGK42D4rlvYKO6hB8o",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "At that time, she was going through a very stressful period in her life. You know, she felt really nervous and unsure about what to do next. Well, normally, she’s a confident person, but in that moment, I felt that she seemed to lose her confidence and started to doubt herself. ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132757539,
+      "updatedBy": "144115381524278509",
+      "version": 5
+    }
+  },
+  "jq5chhgb7S6muMp5fMRdPT": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778125453939,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "jq5chhgb7S6muMp5fMRdPT",
+      "parentId": "yq8bOoigr4dxQSuDlpRCUC",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778125453969,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "klET96WflFIUgaw0vTlZIi": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744717,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "klET96WflFIUgaw0vTlZIi",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "共同学习",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744744,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "ktWb2pbAlM17ONe5JlRGCo": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778132758776,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "ktWb2pbAlM17ONe5JlRGCo",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132758780,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "lbwoKWdqSu7aiYp6vGfDQI": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778125453928,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "lbwoKWdqSu7aiYp6vGfDQI",
+      "parentId": "yq8bOoigr4dxQSuDlpRCUC",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "人物介绍",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778125454002,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "mQ1kKN2Wl2Iiwn2Zc4kJW9": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309654,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "mQ1kKN2Wl2Iiwn2Zc4kJW9",
+      "parentId": "iagQ9tuKJML3eTeag8GSBy",
+      "parentTable": "block",
+      "props": {
+        "displaySource": "https://docimg3.docs.qq.com/image/AgAALQpsrO2LWJuqq_pJU7NGHk8jh44j.png?w=1632&h=918",
+        "height": 918,
+        "imageFillStyle": "cover",
+        "title": [
+          [
+            "题卡视图"
+          ]
+        ],
+        "width": 1632
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699309654,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "mkRuIn84nFXhB6rynooSFZ": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778125453930,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "mkRuIn84nFXhB6rynooSFZ",
+      "parentId": "yq8bOoigr4dxQSuDlpRCUC",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "The person I want to talk about is my cousin, Summer. We’re very close, and we basically grew up together, so I’ve known her my whole life. Over the years, we’ve spent a lot of time together, sharing our daily lives and supporting each other.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778125453996,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "nRYEDeZ3p0g4FeeZc3bf1W": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778125453937,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "nRYEDeZ3p0g4FeeZc3bf1W",
+      "parentId": "yq8bOoigr4dxQSuDlpRCUC",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Our families were also quite close, so we spent a lot of time together from the very beginning. To be honest, I don’t even remember exactly when we first met, because she has always been a part of my life.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778125453976,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "pIIP6Ykkiu2N2P8UT6uGTR": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "534QOzcXa1ZtirTgkThAYj",
+        "hLhDHQWKJVS8um9YZMqZHX",
+        "OYDQyMfYArLZ2zn0kS3SRB",
+        "9z5ZhVItOvkFA0Rgh2XDAK",
+        "BEWG6zk8pAzAgNBZcJkqmu",
+        "HatEwxrT2z4OFJXkX7ZV3T",
+        "uZpmQpX09wm6377PU7En7k",
+        "igdrjGK42D4rlvYKO6hB8o",
+        "ktWb2pbAlM17ONe5JlRGCo",
+        "Pgt6WRbx5FtwSeYrOkJa63",
+        "PJyyF5gY8tkNJ3PGpyGyGS",
+        "Oi2Bk2JYs3MSxBIe9vT4jW",
+        "vhKnEBOD02WTkseEh2dvg4",
+        "znjDx5QogbRGmRHjzNEOMp",
+        "BQQ1CK0mzXIl0OVs2Sfmjt",
+        "LIBHvD1pllUMLe0eSWoEyb",
+        "GPUmLFEYphEAHmrmd61JC0",
+        "AeuHfjvIVrEf8a7YRnXRB9",
+        "7wr1aSOYqcGqyKsRD7E1ph",
+        "JgVG42rQNfBGYIp6RE8zIg"
+      ],
+      "createdAt": 1777719868778,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentId": "59kBIqHhZP5KeiLxp1NO54",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "高考失利故事线串词",
+            [
+              [
+                "g",
+                "yellow_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1778132765362,
+      "updatedBy": "144115381524278509",
+      "version": 78
+    }
+  },
+  "q0sAM17VdDhEsSiNMTwn6R": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "bXzpynANawci0oEYUzhSuU",
+        "rR3pvNbGXQaJDQhpQXWSkQ",
+        "aUUJE0PuL6xGI56xb8LSJv",
+        "aEz0Y4EZ7mTLuF6KRua8Oa",
+        "MDGAl4geA8P3crCaDdWSYs",
+        "jyQMrGrhiArApGSG8cTqN2",
+        "xcJMVv8RSb77mUmqkWOHkW",
+        "1ZZqVkSxMBGUPG3rOQceQw",
+        "aXy68wbwtEVtir8a6luoNn",
+        "O36eL3Uf9C0EIVHaQH57S8",
+        "ErHyEBwek2NcxujOcW8R2I",
+        "Uaj3jf5mbqcZ4J40Yyy3VR",
+        "kyGsqqvdljeFHTZT1sVFHd",
+        "zVANimgLPnDtK1LdjaYOIO",
+        "B0JadMeGcohSKYDBinrFuH",
+        "DNTenD4b08RIK7loLrm2yg",
+        "OtdaXUAYiydU5ZJt02wYrD",
+        "lHZ9KuDHREA5iFmjeid3A3"
+      ],
+      "createdAt": 1777699309674,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "q0sAM17VdDhEsSiNMTwn6R",
+      "parentId": "300000000$NjSNnIQtBabS",
+      "parentTable": "space",
+      "props": {
+        "pageCover": "https://docimg5.docs.qq.com/image/AgAALQpsrO0ec4YNLG1OTYeOR48rrYVT.jpeg?w=9458&h=1645",
+        "pageCoverPosition": 50,
+        "title": [
+          [
+            "雅思口语2026年5-8月语料库（P1+P2+P3）"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1780218801925,
+      "updatedBy": "144115381524278509",
+      "version": 10
+    }
+  },
+  "qDwlB5vIki0hVvNAaWL5k9": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308218,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "qDwlB5vIki0hVvNAaWL5k9",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "高分回答：",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "header1",
+      "updatedAt": 1777699308218,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "shN6kBVoO5lj5TwMXrBGFQ": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777719744701,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "shN6kBVoO5lj5TwMXrBGFQ",
+      "parentId": "6qxqouheHHqSYavrAdoADW",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "I helped those who want to learn Chinese, especially with speaking and daily conversation. It was more about practicing oral Chinese, correcting simple mistakes, and giving them confidence to speak.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777719744792,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "tLy2Y4yuommvrFlQiXTcwg": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308202,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "tLy2Y4yuommvrFlQiXTcwg",
+      "parentId": "ep9ZZQVQ8uXquLAEKCOxkg",
+      "parentTable": "block",
+      "props": {
+        "displaySource": "https://docimg9.docs.qq.com/image/AgAALQpsrO2e2tr2yAdIDK5fhcRXQHYh.png?w=1556&h=1088",
+        "height": 154.5544909591195,
+        "imageFillStyle": "cover",
+        "title": [
+          [
+            "表格视图"
+          ]
+        ],
+        "width": 221
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699308202,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "uZpmQpX09wm6377PU7En7k": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124106472,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "uZpmQpX09wm6377PU7En7k",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "困难状态(对summer而言，对你自己替换主语)",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132384857,
+      "updatedBy": "144115381524278509",
+      "version": 9
+    }
+  },
+  "vOoOpvEIX6ViQpXcdQnjhp": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778125453933,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "vOoOpvEIX6ViQpXcdQnjhp",
+      "parentId": "yq8bOoigr4dxQSuDlpRCUC",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778125453989,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "vhKnEBOD02WTkseEh2dvg4": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124106502,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "vhKnEBOD02WTkseEh2dvg4",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "适应过程(对summer而言，对你自己替换主语)",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132431798,
+      "updatedBy": "144115381524278509",
+      "version": 11
+    }
+  },
+  "woOd3jXKE8d4stV1UcSKZv": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306579,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "woOd3jXKE8d4stV1UcSKZv",
+      "parentId": "ZtjSv4877k6JjixzUK3VJb",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699306579,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "x035vQYJJcctiyQElgGQIi": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "hkWxiF1nCAIQeoVzOtiawh",
+        "0IrxmEpVjr4SfQ16aABhlc",
+        "1pUTcxIIcMuT3u9IVTKUEF",
+        "HAZiC5em3XcALH3sULtaTv",
+        "1hQ8PWzRQ8sGIuT9LIVc4K",
+        "5kDj8Yg9RLbDTysFnxgCSs"
+      ],
+      "createdAt": 1777699306561,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "x035vQYJJcctiyQElgGQIi",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "如果以PC网页版本打开表格，题目查看方法",
+            [
+              [
+                "b"
+              ],
+              [
+                "g",
+                "light_yellow_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1777699306561,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "yq8bOoigr4dxQSuDlpRCUC": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "lbwoKWdqSu7aiYp6vGfDQI",
+        "mkRuIn84nFXhB6rynooSFZ",
+        "vOoOpvEIX6ViQpXcdQnjhp",
+        "VQmlLIsyjNXpOrHBQ184zm",
+        "nRYEDeZ3p0g4FeeZc3bf1W",
+        "jq5chhgb7S6muMp5fMRdPT",
+        "zg0mDOMEjI75IwDEsS82Gk",
+        "3XKmSh8xCdjde8UzxwZgYO",
+        "TeHOGwiVctjLcyGi53De2X"
+      ],
+      "createdAt": 1778124979845,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "yq8bOoigr4dxQSuDlpRCUC",
+      "parentId": "15xBSN2UI90vHWSHfwboAh",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "人物背景串词",
+            [
+              [
+                "g",
+                "yellow_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1778132818956,
+      "updatedBy": "144115381524278509",
+      "version": 29
+    }
+  },
+  "yr5TcNRv5d0vBp0y2UgYt7": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307424,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "yr5TcNRv5d0vBp0y2UgYt7",
+      "parentId": "X6WJFkB7s7voNYq1hDFAgc",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307424,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "zEaSxjAL0yuj0A6lwECyTo": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306613,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "zEaSxjAL0yuj0A6lwECyTo",
+      "parentId": "15xBSN2UI90vHWSHfwboAh",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "故事主人公的名字可以换成你觉得舒服的名字。这个故事展现的更多是同性之间的欣赏。如果你是女生，可以用she来说明是表妹/表姐，如果你是男生，可以用he来说成是表哥/表弟。"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777711873845,
+      "updatedBy": "144115381524278509",
+      "version": 4
+    }
+  },
+  "zg0mDOMEjI75IwDEsS82Gk": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778125453941,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "zg0mDOMEjI75IwDEsS82Gk",
+      "parentId": "yq8bOoigr4dxQSuDlpRCUC",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "你和这个人物的关系",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778125453963,
+      "updatedBy": "144115381524278509",
+      "version": 2
+    }
+  },
+  "znjDx5QogbRGmRHjzNEOMp": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1778124379559,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "znjDx5QogbRGmRHjzNEOMp",
+      "parentId": "pIIP6Ykkiu2N2P8UT6uGTR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "After thinking carefully, she made an important decision to keep trying instead of giving up. She decided to work harder and spend more time preparing for the future. Even though it wasn’t an easy choice, she believed that putting in more effort would give her a better chance to succeed.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1778132424119,
+      "updatedBy": "144115381524278509",
+      "version": 3
+    }
+  }
+}

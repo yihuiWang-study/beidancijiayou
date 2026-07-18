@@ -1,0 +1,2992 @@
+{
+  "0L2JjhGfxtYPUq9stSvWHB": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307425,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "0L2JjhGfxtYPUq9stSvWHB",
+      "parentId": "m8HPkugbDT1sKYg0dqq57F",
+      "parentTable": "block",
+      "props": {
+        "numberType": "continue",
+        "title": [
+          [
+            "如果希望全屏显示，可点击"
+          ],
+          [
+            "右上角【展开符号】",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，如图所示"
+          ],
+          [
+            "：",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699307425,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "0iTAWx7WM93noDKRx8Evur": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310376,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "0iTAWx7WM93noDKRx8Evur",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "obviously",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 指出明显的事实或情况，比如：\"Obviously, we need to start earlier.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699310376,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "0t07vAQcPC9ru3UL45k7gI": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308985,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "0t07vAQcPC9ru3UL45k7gI",
+      "parentId": "Pjj7NOAIxKBDZ8s6JjGNbu",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308985,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "2EPBT3tRRtjL2MgrMP78St": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306620,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "2EPBT3tRRtjL2MgrMP78St",
+      "parentId": "aEz0Y4EZ7mTLuF6KRua8Oa",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "P1题目及回答",
+            [
+              [
+                "h",
+                "orange"
+              ],
+              [
+                "g",
+                "light_purple_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "header3",
+      "updatedAt": 1777699306620,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "2JT4FkJwfH6AaMaTvbgLgB": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308948,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "2JT4FkJwfH6AaMaTvbgLgB",
+      "parentId": "NvQGFSkZZYgvpY45CJzsgZ",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "⭐",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "「海外考题」",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ],
+          [
+            "目前大陆地区不考察，仅在境外考场出现，大陆考生不需要看这类题",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308948,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "2dwzWmRrkRiZ0fPh8XNu4t": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307424,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "2dwzWmRrkRiZ0fPh8XNu4t",
+      "parentId": "3GzGiwhwJiQHEU1KBXIdkR",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307424,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "2vR8Vj3gpb7fxdSSr3uRFa": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309655,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "2vR8Vj3gpb7fxdSSr3uRFa",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "seriously",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 表达惊讶或强调真诚，比如：\"Seriously, that was an amazing performance.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699309655,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "3GzGiwhwJiQHEU1KBXIdkR": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "WjmqSIRCrpPryNcHl9xjOd",
+        "h4ecV6B1JKT4b022htofH7",
+        "2dwzWmRrkRiZ0fPh8XNu4t"
+      ],
+      "createdAt": 1777699308981,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "3GzGiwhwJiQHEU1KBXIdkR",
+      "parentId": "aEz0Y4EZ7mTLuF6KRua8Oa",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "表格视图和题卡视图的切换",
+            [
+              [
+                "b"
+              ],
+              [
+                "g",
+                "light_purple_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1777699308981,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "5VsQL2kZvOqDbu6oyMLQ9d": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310366,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "5VsQL2kZvOqDbu6oyMLQ9d",
+      "parentId": "m8HPkugbDT1sKYg0dqq57F",
+      "parentTable": "block",
+      "props": {
+        "numberType": "continue",
+        "title": [
+          [
+            "题目打开后为"
+          ],
+          [
+            "半屏视图",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "方便切换，如图所示："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699310366,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "5uFSLZENCiXI1cbWbYleVU": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306560,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "5uFSLZENCiXI1cbWbYleVU",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "let’s say",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 假设或引入假设情况，比如：\"Let’s say we meet at six.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699306560,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "6UW2gUA0YxSCE97EhDrD7b": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308946,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "6UW2gUA0YxSCE97EhDrD7b",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "sure",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 表示同意或许可，比如：\"Sure, you can borrow my book.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699308946,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "6Xh7ieIGITFfIWRKk17jWA": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "Pjj7NOAIxKBDZ8s6JjGNbu",
+        "EjaTQGB2sczhRh20AUkasX"
+      ],
+      "createdAt": 1777699306562,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "6Xh7ieIGITFfIWRKk17jWA",
+      "parentId": "aEz0Y4EZ7mTLuF6KRua8Oa",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Part 1高分技巧",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "rose_red"
+              ],
+              [
+                "g",
+                "light_red_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1777699306562,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "6aHBuXik4R1lTa1E7A7rgm": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "c29yiyHFg3gCJATU6ha0LM"
+      ],
+      "createdAt": 1777699308189,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "6aHBuXik4R1lTa1E7A7rgm",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "sort of",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " / "
+          ],
+          [
+            "kind of",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 表示程度或不确定，比如：\"It was sort of cold outside.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699308189,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "9O8RL3oTKecHxXSLyy2nej": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308987,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "9O8RL3oTKecHxXSLyy2nej",
+      "parentId": "aEz0Y4EZ7mTLuF6KRua8Oa",
+      "parentTable": "block",
+      "props": {
+        "collectionId": "t0S5T6RMEvFCiH6xpz2qXT",
+        "newViewType": 1,
+        "secretId": "DTkVKQm9wUGVTWkZR",
+        "tableId": "tjawyq",
+        "title": [
+          [
+            "P1题目及回答"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "smartsheet",
+      "updatedAt": 1777699308987,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "9T8jQxRkFVJZz0P20LBSET": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306585,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "9T8jQxRkFVJZz0P20LBSET",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "I mean",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 用于更正或详细解释，比如：\"I mean, it wasn't exactly what I expected.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699306585,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "9yXjynqrO0PG7JSzTMukAS": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "i7XynYJ0XOsgiMGWkE3V05"
+      ],
+      "createdAt": 1777699306627,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "9yXjynqrO0PG7JSzTMukAS",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "literally ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "/"
+          ],
+          [
+            " really",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 强调事物的字面意义或夸张表达，比如：\"It was literally the worst day ever.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699306627,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "AtZ88hnvpVezTwdYmlm6yh": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "qp5bGhbKX6zJNhLx0KjU1r",
+        "DKiShuoXYYenFTaHGUz7JP"
+      ],
+      "createdAt": 1777699309015,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "AtZ88hnvpVezTwdYmlm6yh",
+      "parentId": "Pjj7NOAIxKBDZ8s6JjGNbu",
+      "parentTable": "block",
+      "props": {
+        "blockColor": "teal_background",
+        "pageIcon": "1️⃣"
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "callout",
+      "updatedAt": 1777699309015,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "DKiShuoXYYenFTaHGUz7JP": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307405,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "DKiShuoXYYenFTaHGUz7JP",
+      "parentId": "AtZ88hnvpVezTwdYmlm6yh",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "一定要意识到这个不是一个你问我答的考试面试，而是尽量当作是"
+          ],
+          [
+            "日常的交流状态",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "pink"
+              ]
+            ]
+          ],
+          [
+            "（也是考官想考察你和别人日常交流的时候是什么状态）。所以你可以适度幽默，因为老外真的很喜欢用比喻呀，玩梗这一类的，但是"
+          ],
+          [
+            "不是要把自己塑造成一个逗比",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，Part 1 的回答中，我给大家写了有很多玩梗回答，不是每一个都有，你可以挑选喜欢的，你觉得舒服的来熟悉，在Part 1的考试中，"
+          ],
+          [
+            "有1-3个回答是这样的幽默的就足够了",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "，能够帮助你放松，也能帮你在考官那里留下一个舒服的印象。"
+          ],
+          [
+            "【我不建议每个都玩梗，这样反而会适得其反，大家只是喜欢幽默的人，不是喜欢纯逗比】",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307405,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "Dm7zAsy5IrgGDBUn1BC75m": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "cUFmdOkjr6LHWS67kpwTgg",
+        "W2zo9oAAZmetJcG6M5ZucL",
+        "mq0WLV2CxolYnyjFzPEU6m",
+        "aDsGzFgDWmFzMEsmsXJTsO",
+        "9T8jQxRkFVJZz0P20LBSET",
+        "TPV4e5cWjueHDsFNFB0DoR",
+        "KEmpmay24DTS1ioz4qWOQD",
+        "OsWB2Sj1hpUR6L8e1F4kWL",
+        "GtLvPQmxkUYr7f4t3QS5ga",
+        "5uFSLZENCiXI1cbWbYleVU",
+        "6aHBuXik4R1lTa1E7A7rgm",
+        "lmaVc1vJQZKC6LLBmHiaW4",
+        "wqNDDJNRFvN8vrTboCFaW9",
+        "XqsrKxEk5s797p6i9cZDHB",
+        "sd2162mlqepOIQ0aXwThFw",
+        "tQTYyAhhdWDCWnbWkmXcnf",
+        "9yXjynqrO0PG7JSzTMukAS",
+        "0iTAWx7WM93noDKRx8Evur",
+        "2vR8Vj3gpb7fxdSSr3uRFa",
+        "wJVHHeqmNL5YjlA518ruVd",
+        "TN4fVIEVVWTSepsTrUPfUk",
+        "6UW2gUA0YxSCE97EhDrD7b",
+        "scv8aATv9OaCGWp78LCv85"
+      ],
+      "createdAt": 1777699306586,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentId": "Pjj7NOAIxKBDZ8s6JjGNbu",
+      "parentTable": "block",
+      "props": {
+        "pageIcon": "2️⃣"
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "callout",
+      "updatedAt": 1777699306586,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "DtD0ITH2lKmawBP2BpcZvB": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310371,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "DtD0ITH2lKmawBP2BpcZvB",
+      "parentId": "LiUYem75HLbg5xSwBcND5r",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "老实说，我不喜欢。我一直对艺术和文学更感兴趣。科学对我这种创造性精神来说，似乎太公式化了。",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699310371,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "EhHGC9JNyrGhru5IJmoZEf": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306650,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "EhHGC9JNyrGhru5IJmoZEf",
+      "parentId": "m8HPkugbDT1sKYg0dqq57F",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg3.docs.qq.com/image/AgAALQpsrO2wFAR2UsxGZaSghX6tVOKt.png?w=1640&h=570",
+        "height": 117.10595128676472,
+        "imageFillStyle": "cover",
+        "width": 337
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699306650,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "EjaTQGB2sczhRh20AUkasX": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "FDq4mu57UPjYwOfZTBL7Uk",
+        "pIxVDNobovCoGgwJQoiMhV",
+        "KjeZe7eIRMxevqgQFIAmK9",
+        "cDcA8BM7Y6AxWz9qC69U7c",
+        "YZRZAtGml5hipXEsGujtIN",
+        "ZPcigQS86O3imdpgv93eMu",
+        "eXo49I10lBjxy8vgU3EEus",
+        "PKQLWFziGvdrZTDnSUkU0E",
+        "qb0cl3nGqAlP6DXqekemyU",
+        "eMTlvjBYwaVXdzfSSAieHB",
+        "ilvaFXvksogVemMtjqNBvH"
+      ],
+      "createdAt": 1777699308974,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "EjaTQGB2sczhRh20AUkasX",
+      "parentId": "6Xh7ieIGITFfIWRKk17jWA",
+      "parentTable": "block",
+      "props": {
+        "blockColor": "light_red_background",
+        "pageIcon": "💡"
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "callout",
+      "updatedAt": 1777699308974,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "FDq4mu57UPjYwOfZTBL7Uk": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307389,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "FDq4mu57UPjYwOfZTBL7Uk",
+      "parentId": "EjaTQGB2sczhRh20AUkasX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "一个保命小技巧：",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307389,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "GtLvPQmxkUYr7f4t3QS5ga": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307408,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "GtLvPQmxkUYr7f4t3QS5ga",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "like",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 用于举例或解释，比如：\"I was like, 'No way!'\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699307408,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "KEmpmay24DTS1ioz4qWOQD": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308977,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "KEmpmay24DTS1ioz4qWOQD",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "anyway",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 转换话题或回到主题，比如：\"Anyway, how is your new job?\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699308977,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "KjeZe7eIRMxevqgQFIAmK9": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310367,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "KjeZe7eIRMxevqgQFIAmK9",
+      "parentId": "EjaTQGB2sczhRh20AUkasX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "你可以说： "
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699310367,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "L3pUUfwqnLIXLnNZE2YTqX": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "fiUOKYkGdCLR6yyDchvor1",
+        "f86fAC83rvGQOBxibUTemh",
+        "OfFBIGqet3809pOsDAPJKO",
+        "TjQIxtv8Mt3g6WtjXU6Kkn",
+        "LiUYem75HLbg5xSwBcND5r",
+        "namUIhbKKeu2ftTcCyVq4L"
+      ],
+      "createdAt": 1777699306672,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "L3pUUfwqnLIXLnNZE2YTqX",
+      "parentId": "sxG904zkHWxBiZtJWUsBGA",
+      "parentTable": "block",
+      "props": {
+        "blockColor": "light_yellow_background",
+        "pageIcon": "💡"
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "callout",
+      "updatedAt": 1777699306672,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "LiUYem75HLbg5xSwBcND5r": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "zm08Az4KRhqxj4wGSykKcd",
+        "qwUMyKJuHf00Uv6tXYFRBz",
+        "n20tomUWcCFbwDmTGBnszm",
+        "DtD0ITH2lKmawBP2BpcZvB"
+      ],
+      "createdAt": 1777699309696,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "LiUYem75HLbg5xSwBcND5r",
+      "parentId": "L3pUUfwqnLIXLnNZE2YTqX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Do you like science?",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699309696,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "NvQGFSkZZYgvpY45CJzsgZ": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "mqHSxV73TLTq1AYaSye5h0",
+        "2JT4FkJwfH6AaMaTvbgLgB",
+        "pFGkKgTHYxjBYVtmvJWrNy",
+        "w6wddBmffo9ROlYb602fNo"
+      ],
+      "createdAt": 1777699309654,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "NvQGFSkZZYgvpY45CJzsgZ",
+      "parentId": "aEz0Y4EZ7mTLuF6KRua8Oa",
+      "parentTable": "block",
+      "props": {
+        "blockColor": "light_orange_background",
+        "pageIcon": "💡"
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "callout",
+      "updatedAt": 1777699309654,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "OfFBIGqet3809pOsDAPJKO": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310364,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "OfFBIGqet3809pOsDAPJKO",
+      "parentId": "L3pUUfwqnLIXLnNZE2YTqX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "扩展答案",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "：不要只回答“yes”或“no”。即使问题很简单，也应该尽量扩展答案，提供一些额外的信息。例如，如果被问到你是否喜欢运动，可以回答“是的，我非常喜欢运动，特别是游泳和篮球，因为它们让我感觉放松并且健康。”"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699310364,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "OsWB2Sj1hpUR6L8e1F4kWL": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310368,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "OsWB2Sj1hpUR6L8e1F4kWL",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "so",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 引出解释或结果，比如：\"So, what happened next?\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699310368,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "PEdRZUuzaMwSyjkh6KupJJ": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306623,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "PEdRZUuzaMwSyjkh6KupJJ",
+      "parentId": "sd2162mlqepOIQ0aXwThFw",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "【这个很高频，我平时更喜欢用essentially，还是那个原因，我比较“装”，出门在外身份都是自己给的，这个词一听都知道是有受过良好教育的。我也鼓励大家用我习惯的这些词，因为考官每天听很多人，你就是要和别人拉开差距，你说到这个词的时候看到考官抬了一下眉你就懂了——哎呀，又被我装到了！】",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699306623,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "PKQLWFziGvdrZTDnSUkU0E": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308971,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "PKQLWFziGvdrZTDnSUkU0E",
+      "parentId": "EjaTQGB2sczhRh20AUkasX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Could you pardon me, please? Sorry, the connection was really bad, it was lagging again. ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "quote",
+      "updatedAt": 1777699308971,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "Pjj7NOAIxKBDZ8s6JjGNbu": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "fJpay5h2eILeXJtxrD5oLn",
+        "0t07vAQcPC9ru3UL45k7gI",
+        "YlhapYvU3MfZEvwrf34Rdq",
+        "AtZ88hnvpVezTwdYmlm6yh",
+        "Dm7zAsy5IrgGDBUn1BC75m"
+      ],
+      "createdAt": 1777699309654,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Pjj7NOAIxKBDZ8s6JjGNbu",
+      "parentId": "6Xh7ieIGITFfIWRKk17jWA",
+      "parentTable": "block",
+      "props": {
+        "blockColor": "light_yellow_background",
+        "pageIcon": "💡"
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "callout",
+      "updatedAt": 1777699309654,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "RaqNnUejld91OhtNeLkcCR": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306587,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "RaqNnUejld91OhtNeLkcCR",
+      "parentId": "adM40u4iELIvQNEN7csZZO",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg9.docs.qq.com/image/AgAALQpsrO2FY1oDdfVPh4olCih1eRkl.png?w=1016&h=786",
+        "height": 154.74811422413794,
+        "imageFillStyle": "cover",
+        "title": [
+          [
+            "切换按钮位置"
+          ]
+        ],
+        "width": 200
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699306587,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "TN4fVIEVVWTSepsTrUPfUk": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309688,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "TN4fVIEVVWTSepsTrUPfUk",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "maybe",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 表示可能性或不确定，比如：\"Maybe we can try a different approach.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699309688,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "TPV4e5cWjueHDsFNFB0DoR": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307383,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "TPV4e5cWjueHDsFNFB0DoR",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "right?",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 寻求确认或同意，比如：\"We need to leave now, right?\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699307383,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "TjQIxtv8Mt3g6WtjXU6Kkn": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308987,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "TjQIxtv8Mt3g6WtjXU6Kkn",
+      "parentId": "L3pUUfwqnLIXLnNZE2YTqX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "保持真实感",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "："
+          ],
+          [
+            "注意是真实感不是诚实",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ],
+          [
+            "。我们可以编，但是要合理，要让考官觉得是真的，如果你不了解某个话题或对某个问题不确定如何回答，可以诚实地告诉考官。然后，尝试将话题引导到你更熟悉的领域。这里给出一个示范。比如假如考官问到科学类的题目："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699308987,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "UgEEqLNkGMEptqJ8nfN8SV": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307389,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "UgEEqLNkGMEptqJ8nfN8SV",
+      "parentId": "wJVHHeqmNL5YjlA518ruVd",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "【",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ],
+          [
+            "我又来装了，平时回答“是的”，你偶尔不用回答Yes, Yep. 你可以边点头边大声说exactly，表示强烈认同，毕竟有谁不喜欢被肯定呢？】",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699307389,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "W2zo9oAAZmetJcG6M5ZucL": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309017,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "W2zo9oAAZmetJcG6M5ZucL",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "比如：you know/well/so… 等等。如果你在Part 1的整个回答中没"
+          ],
+          [
+            "有出现一些英语的口语化词汇，意味着你的英语口语，还没有入门",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "pink"
+              ]
+            ]
+          ],
+          [
+            "。通常没有这些口语化词汇的回答，意味着考官不是在和你交流，甚至可能不是在听你说话，而是在听你背答案。这样"
+          ],
+          [
+            "是非常消极的",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，一定要学会有意识地加入一些口语化词汇。常用的口语化词汇有很多，它们可以帮助说话者更自然地表达思维过程或是强调某些观点。这里有一些超级好用的口语化词汇："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699309017,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "WjmqSIRCrpPryNcHl9xjOd": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308194,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "WjmqSIRCrpPryNcHl9xjOd",
+      "parentId": "3GzGiwhwJiQHEU1KBXIdkR",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "点击"
+          ],
+          [
+            "表格左上角视图",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，可以自由切换【题卡视图】以及【表格视图】，如图所示："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699308194,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "XAGLkhir7HwrHCHBKxYyrd": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310378,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "XAGLkhir7HwrHCHBKxYyrd",
+      "parentId": "aEz0Y4EZ7mTLuF6KRua8Oa",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699310378,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "Xe4wo8G3WserOccf9mKlqB": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "gaR6f1HhykSroqXQ5p73oY"
+      ],
+      "createdAt": 1777699307427,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "Xe4wo8G3WserOccf9mKlqB",
+      "parentId": "h4ecV6B1JKT4b022htofH7",
+      "parentTable": "block",
+      "props": {
+        "columnRatio": 0.3189196145824723
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column",
+      "updatedAt": 1777699307427,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "XqsrKxEk5s797p6i9cZDHB": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310368,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "XqsrKxEk5s797p6i9cZDHB",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "definitely",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 强烈同意或确认，比如：\"Definitely, we should meet up soon.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699310368,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "YZRZAtGml5hipXEsGujtIN": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310362,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "YZRZAtGml5hipXEsGujtIN",
+      "parentId": "EjaTQGB2sczhRh20AUkasX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "不好意思，网有点卡，你可以重复一下吗？😏"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "quote",
+      "updatedAt": 1777699310362,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "YlhapYvU3MfZEvwrf34Rdq": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306650,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "YlhapYvU3MfZEvwrf34Rdq",
+      "parentId": "Pjj7NOAIxKBDZ8s6JjGNbu",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "基于这个原因，我建议在练习Part 1的时候，大家需要真的把自己置入到和一个“"
+          ],
+          [
+            "真正的人",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "”交流的状态中，意味着"
+          ],
+          [
+            "我们不是演讲冠军，不是辩论能手，也不是TED演讲嘉宾",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，我们所回答的东西，一定是"
+          ],
+          [
+            "非常生活化",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，"
+          ],
+          [
+            "非常接近英语使用者日常交流的状态的",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "。这就要求我们在回答中要做到以下两点："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699306650,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "ZPcigQS86O3imdpgv93eMu": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307413,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "ZPcigQS86O3imdpgv93eMu",
+      "parentId": "EjaTQGB2sczhRh20AUkasX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "这样他就会以为是网卡不是你没听懂！",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307413,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "aDsGzFgDWmFzMEsmsXJTsO": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306623,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "aDsGzFgDWmFzMEsmsXJTsO",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "you know",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 引起注意或确认，比如：\"You know, it's not that easy.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699306623,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "aEz0Y4EZ7mTLuF6KRua8Oa": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "NvQGFSkZZYgvpY45CJzsgZ",
+        "c7ynJy460ra9ZEIm4xyuUI",
+        "3GzGiwhwJiQHEU1KBXIdkR",
+        "m8HPkugbDT1sKYg0dqq57F",
+        "XAGLkhir7HwrHCHBKxYyrd",
+        "2EPBT3tRRtjL2MgrMP78St",
+        "sxG904zkHWxBiZtJWUsBGA",
+        "6Xh7ieIGITFfIWRKk17jWA",
+        "9O8RL3oTKecHxXSLyy2nej",
+        "cOr6jckyaHbuzgJhksPpjU"
+      ],
+      "createdAt": 1777699309659,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "aEz0Y4EZ7mTLuF6KRua8Oa",
+      "parentId": "q0sAM17VdDhEsSiNMTwn6R",
+      "parentTable": "block",
+      "props": {
+        "pageCover": "https://docimg9.docs.qq.com/image/AgAALQpsrO03rlWiDxZBp4y1kw67X9by.jpeg?w=9458&h=1645",
+        "pageCoverPosition": 50,
+        "pageIcon": "🥇",
+        "title": [
+          [
+            "Part 1 短问题"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1777699309659,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "adM40u4iELIvQNEN7csZZO": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "RaqNnUejld91OhtNeLkcCR"
+      ],
+      "createdAt": 1777699307422,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "adM40u4iELIvQNEN7csZZO",
+      "parentId": "h4ecV6B1JKT4b022htofH7",
+      "parentTable": "block",
+      "props": {
+        "columnRatio": 0.29065778982420765
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column",
+      "updatedAt": 1777699307422,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "c29yiyHFg3gCJATU6ha0LM": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306669,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "c29yiyHFg3gCJATU6ha0LM",
+      "parentId": "6aHBuXik4R1lTa1E7A7rgm",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "【这个很高频，我平时和朋友交流更倾向于用sort of，因为用这个词会感觉比kind of更地道一点儿😂，有点小装那种感觉，你懂吧】",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699306669,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "c7ynJy460ra9ZEIm4xyuUI": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309649,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "c7ynJy460ra9ZEIm4xyuUI",
+      "parentId": "aEz0Y4EZ7mTLuF6KRua8Oa",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "个性化题目视图使用方法",
+            [
+              [
+                "h",
+                "rose_red"
+              ],
+              [
+                "g",
+                "light_rose_red_background"
+              ]
+            ]
+          ],
+          [
+            "："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "header5",
+      "updatedAt": 1777699309649,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "cDcA8BM7Y6AxWz9qC69U7c": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308187,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "cDcA8BM7Y6AxWz9qC69U7c",
+      "parentId": "EjaTQGB2sczhRh20AUkasX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Sorry, the connection was a bit lagging. Could you please repeat that?",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " "
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "quote",
+      "updatedAt": 1777699308187,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "cOr6jckyaHbuzgJhksPpjU": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309003,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "cOr6jckyaHbuzgJhksPpjU",
+      "parentId": "aEz0Y4EZ7mTLuF6KRua8Oa",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699309003,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "cUFmdOkjr6LHWS67kpwTgg": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309660,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "cUFmdOkjr6LHWS67kpwTgg",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "要自然的加入",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "口语化词汇",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "orange"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699309660,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "ds8nZum6kpTcFyTjMRmYrR": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307407,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "ds8nZum6kpTcFyTjMRmYrR",
+      "parentId": "m8HPkugbDT1sKYg0dqq57F",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "鼠标悬停在相应题目上",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，点击"
+          ],
+          [
+            "最左侧的【方框】（如图所示）",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "即可打开题目："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "numbered_list",
+      "updatedAt": 1777699307407,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "eMTlvjBYwaVXdzfSSAieHB": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306664,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "eMTlvjBYwaVXdzfSSAieHB",
+      "parentId": "EjaTQGB2sczhRh20AUkasX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "再有第三次我也救不了你了！考完多烧几柱香吧！",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "pink"
+              ]
+            ]
+          ],
+          [
+            "🙏"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699306664,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "eXo49I10lBjxy8vgU3EEus": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306616,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "eXo49I10lBjxy8vgU3EEus",
+      "parentId": "EjaTQGB2sczhRh20AUkasX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "但是，用一次就好了。",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "万一万一万一另一个题又没听懂，你就说："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699306616,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "f86fAC83rvGQOBxibUTemh": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308207,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "f86fAC83rvGQOBxibUTemh",
+      "parentId": "L3pUUfwqnLIXLnNZE2YTqX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "注意要："
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308207,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "fJpay5h2eILeXJtxrD5oLn": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308992,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "fJpay5h2eILeXJtxrD5oLn",
+      "parentId": "Pjj7NOAIxKBDZ8s6JjGNbu",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "在雅思口语的考试的Part 1中，考官不是真的关心你说了什么内容，而是你"
+          ],
+          [
+            "能否有效自然地用英语与人沟通和表达",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，他更看重你和他对话时，你们两方"
+          ],
+          [
+            "是不是舒服",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "。这个部分更像是"
+          ],
+          [
+            "热身",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，以及创造一个考官了解你的机会，以便过渡到Part 2。"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308992,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "fiUOKYkGdCLR6yyDchvor1": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309004,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "fiUOKYkGdCLR6yyDchvor1",
+      "parentId": "L3pUUfwqnLIXLnNZE2YTqX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Part 1通常包括一系列"
+          ],
+          [
+            "关于日常话题的简短问题",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，这一部分大约持续4到5分钟。他会面试官会询问考生一些关于个人信息、家庭、工作、学习、兴趣爱好等基本话题。比如，他们可能会问你的家乡是哪里，你的爱好是什么，或者你的日常工作和学习情况。考官有问题数量的KPI，如果你噼里啪啦呼头盖脸的答，他怕问不完就会打断你。有人推荐说你就一直说说到他打断，但是我不建议，说实话不是特别积极，因为有一点太过度，没有交流的那种乐趣，我建议"
+          ],
+          [
+            "只需要在2-4个句子以内回答考官的问题即可，参考时间大概在10-20s之间。",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699309004,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "gaR6f1HhykSroqXQ5p73oY": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308977,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "gaR6f1HhykSroqXQ5p73oY",
+      "parentId": "Xe4wo8G3WserOccf9mKlqB",
+      "parentTable": "block",
+      "props": {
+        "displaySource": "https://docimg9.docs.qq.com/image/AgAALQpsrO2e2tr2yAdIDK5fhcRXQHYh.png?w=1556&h=1088",
+        "height": 154.5544909591195,
+        "imageFillStyle": "cover",
+        "title": [
+          [
+            "表格视图"
+          ]
+        ],
+        "width": 221
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699308977,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "h4ecV6B1JKT4b022htofH7": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "adM40u4iELIvQNEN7csZZO",
+        "Xe4wo8G3WserOccf9mKlqB",
+        "j8J1jT6FAcX4lDr6A0CXKP"
+      ],
+      "createdAt": 1777699307408,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "h4ecV6B1JKT4b022htofH7",
+      "parentId": "3GzGiwhwJiQHEU1KBXIdkR",
+      "parentTable": "block",
+      "props": {},
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column_list",
+      "updatedAt": 1777699307408,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "i7XynYJ0XOsgiMGWkE3V05": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308245,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "i7XynYJ0XOsgiMGWkE3V05",
+      "parentId": "9yXjynqrO0PG7JSzTMukAS",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "【这里额外说一下，口语我一般不怎么说very，那我会怎么说呢？比如 very good我会说 really good！我个人会感觉really说起来更顺口，very装太过头了，也是为了和别人不一样吧】",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699308245,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "ilvaFXvksogVemMtjqNBvH": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308230,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "ilvaFXvksogVemMtjqNBvH",
+      "parentId": "EjaTQGB2sczhRh20AUkasX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "说不定考官还会暂停，会问你要不要叫巡考，巡考真的会来听考官说话有没有在卡，没卡就会让你继续答题，如果运气好，卡了，会问你要换个考官还是继续。这种情况你答得不好倒是也可以说换一个考官。"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308230,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "j8J1jT6FAcX4lDr6A0CXKP": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "xaM4DjruHoDgewZNCrZhQR"
+      ],
+      "createdAt": 1777699308174,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "j8J1jT6FAcX4lDr6A0CXKP",
+      "parentId": "h4ecV6B1JKT4b022htofH7",
+      "parentTable": "block",
+      "props": {
+        "columnRatio": 0.39042259559332
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "column",
+      "updatedAt": 1777699308174,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "lmaVc1vJQZKC6LLBmHiaW4": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306556,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "lmaVc1vJQZKC6LLBmHiaW4",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "honestly",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 强调真诚或坦率，比如：\"Honestly, I didn’t like the movie.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699306556,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "m39e8Z7CuJKyWR1xAGJzK4": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307413,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "m39e8Z7CuJKyWR1xAGJzK4",
+      "parentId": "m8HPkugbDT1sKYg0dqq57F",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg4.docs.qq.com/image/AgAALQpsrO2Zwe0kgDFMlbsDuiXU6_FQ.png?w=2922&h=1462",
+        "height": 165.20589192708334,
+        "imageFillStyle": "cover",
+        "width": 330
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699307413,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "m8HPkugbDT1sKYg0dqq57F": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "ds8nZum6kpTcFyTjMRmYrR",
+        "EhHGC9JNyrGhru5IJmoZEf",
+        "5VsQL2kZvOqDbu6oyMLQ9d",
+        "m39e8Z7CuJKyWR1xAGJzK4",
+        "0L2JjhGfxtYPUq9stSvWHB",
+        "pngexxdeJ8ZOMfK1Ppl7a9"
+      ],
+      "createdAt": 1777699309023,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "m8HPkugbDT1sKYg0dqq57F",
+      "parentId": "aEz0Y4EZ7mTLuF6KRua8Oa",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "如果以PC网页版本打开表格，题目查看方法",
+            [
+              [
+                "b"
+              ],
+              [
+                "g",
+                "light_yellow_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1777699309023,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "mq0WLV2CxolYnyjFzPEU6m": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308231,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "mq0WLV2CxolYnyjFzPEU6m",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "well",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 引入话题或反应，比如：\"Well, I think we should go.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699308231,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "mqHSxV73TLTq1AYaSye5h0": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307392,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "mqHSxV73TLTq1AYaSye5h0",
+      "parentId": "NvQGFSkZZYgvpY45CJzsgZ",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "⭐",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "「新题」",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "为新增考",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "default"
+              ]
+            ]
+          ],
+          [
+            "题，考察频率较高",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307392,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "n20tomUWcCFbwDmTGBnszm": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309003,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "n20tomUWcCFbwDmTGBnszm",
+      "parentId": "LiUYem75HLbg5xSwBcND5r",
+      "parentTable": "block",
+      "props": {
+        "fileClassify": "audio",
+        "fileName": "5-1.mp3",
+        "fileObjKey": "7604e62028e1483e9230f0aea2f4d0b2",
+        "fileShowType": "preview",
+        "fileSize": 125387,
+        "fileType": "mp3"
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "file",
+      "updatedAt": 1777699309003,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "namUIhbKKeu2ftTcCyVq4L": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306561,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "namUIhbKKeu2ftTcCyVq4L",
+      "parentId": "L3pUUfwqnLIXLnNZE2YTqX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "上考场前，文档中的这些常见话题一定要练习过，可以根据你的情况自行调整，特别是",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "准备一些关于个人信息、家庭、兴趣等常见话题的回答。"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699306561,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "pFGkKgTHYxjBYVtmvJWrNy": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308220,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "pFGkKgTHYxjBYVtmvJWrNy",
+      "parentId": "NvQGFSkZZYgvpY45CJzsgZ",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "⭐时间紧张的同学，下面【高频】考题优先复习。",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308220,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "pIxVDNobovCoGgwJQoiMhV": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699308191,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "pIxVDNobovCoGgwJQoiMhV",
+      "parentId": "EjaTQGB2sczhRh20AUkasX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "如果是机考，你没听懂考官说什么，这个时候不要说：Pardon? 考官当然是可以给你重复并解释，问题是他可能就知道你没听懂了，印象不好。"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699308191,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "pngexxdeJ8ZOMfK1Ppl7a9": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307414,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "pngexxdeJ8ZOMfK1Ppl7a9",
+      "parentId": "m8HPkugbDT1sKYg0dqq57F",
+      "parentTable": "block",
+      "props": {
+        "align": "left",
+        "displaySource": "https://docimg2.docs.qq.com/image/AgAALQpsrO0taC9okJZDpY6X-aKxsYzD.png?w=1476&h=930",
+        "height": 196.55845905172413,
+        "imageFillStyle": "cover",
+        "width": 312
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699307414,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "q0sAM17VdDhEsSiNMTwn6R": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "bXzpynANawci0oEYUzhSuU",
+        "rR3pvNbGXQaJDQhpQXWSkQ",
+        "aUUJE0PuL6xGI56xb8LSJv",
+        "aEz0Y4EZ7mTLuF6KRua8Oa",
+        "MDGAl4geA8P3crCaDdWSYs",
+        "jyQMrGrhiArApGSG8cTqN2",
+        "xcJMVv8RSb77mUmqkWOHkW",
+        "1ZZqVkSxMBGUPG3rOQceQw",
+        "aXy68wbwtEVtir8a6luoNn",
+        "O36eL3Uf9C0EIVHaQH57S8",
+        "ErHyEBwek2NcxujOcW8R2I",
+        "Uaj3jf5mbqcZ4J40Yyy3VR",
+        "kyGsqqvdljeFHTZT1sVFHd",
+        "zVANimgLPnDtK1LdjaYOIO",
+        "B0JadMeGcohSKYDBinrFuH",
+        "DNTenD4b08RIK7loLrm2yg",
+        "OtdaXUAYiydU5ZJt02wYrD",
+        "lHZ9KuDHREA5iFmjeid3A3"
+      ],
+      "createdAt": 1777699309674,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "q0sAM17VdDhEsSiNMTwn6R",
+      "parentId": "300000000$NjSNnIQtBabS",
+      "parentTable": "space",
+      "props": {
+        "pageCover": "https://docimg5.docs.qq.com/image/AgAALQpsrO0ec4YNLG1OTYeOR48rrYVT.jpeg?w=9458&h=1645",
+        "pageCoverPosition": 50,
+        "title": [
+          [
+            "雅思口语2026年5-8月语料库（P1+P2+P3）"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "page",
+      "updatedAt": 1780218801925,
+      "updatedBy": "144115381524278509",
+      "version": 10
+    }
+  },
+  "qb0cl3nGqAlP6DXqekemyU": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309658,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "qb0cl3nGqAlP6DXqekemyU",
+      "parentId": "EjaTQGB2sczhRh20AUkasX",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "能重复一下吗？抱歉这个网真的很烂，又卡了。😏"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "quote",
+      "updatedAt": 1777699309658,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "qp5bGhbKX6zJNhLx0KjU1r": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309682,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "qp5bGhbKX6zJNhLx0KjU1r",
+      "parentId": "AtZ88hnvpVezTwdYmlm6yh",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "适度的幽默",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699309682,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "qwUMyKJuHf00Uv6tXYFRBz": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307385,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "qwUMyKJuHf00Uv6tXYFRBz",
+      "parentId": "LiUYem75HLbg5xSwBcND5r",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Honestly, I don`t like it. I’ve always been more into arts and literature. Science just seems too formulaic for my creative spirit.",
+            [
+              [
+                "b"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307385,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "scv8aATv9OaCGWp78LCv85": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307393,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "scv8aATv9OaCGWp78LCv85",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "一定要学会在你的回答里插入这些口语词，"
+          ],
+          [
+            "不必要每个句子都有，也不要太频繁",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "，但是至少保证你回答"
+          ],
+          [
+            "两个问题",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "pink"
+              ]
+            ]
+          ],
+          [
+            "的时候",
+            [
+              [
+                "h",
+                "pink"
+              ]
+            ]
+          ],
+          [
+            "至少出现一个",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "pink"
+              ]
+            ]
+          ],
+          [
+            "。（意味着有的回答可以没有，特别是在Part3没有也可以接受，但是Part1和Part2最好有）"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699307393,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "sd2162mlqepOIQ0aXwThFw": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "PEdRZUuzaMwSyjkh6KupJJ"
+      ],
+      "createdAt": 1777699306559,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "sd2162mlqepOIQ0aXwThFw",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "essentially ",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            "/"
+          ],
+          [
+            " actually",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 用来强调或更正之前的陈述，比如：\"Essentially, I forgot to send the email.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699306559,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "sxG904zkHWxBiZtJWUsBGA": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "L3pUUfwqnLIXLnNZE2YTqX"
+      ],
+      "createdAt": 1777699308946,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "sxG904zkHWxBiZtJWUsBGA",
+      "parentId": "aEz0Y4EZ7mTLuF6KRua8Oa",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "Part 1 你需要知道的事",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "sky_blue"
+              ],
+              [
+                "g",
+                "light_sky_blue_background"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "toggle",
+      "updatedAt": 1777699308946,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "tQTYyAhhdWDCWnbWkmXcnf": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306649,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "tQTYyAhhdWDCWnbWkmXcnf",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "basically",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 用于概括或简化信息，比如：\"Basically, it’s a simple task.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699306649,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "w6wddBmffo9ROlYb602fNo": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699310368,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "w6wddBmffo9ROlYb602fNo",
+      "parentId": "NvQGFSkZZYgvpY45CJzsgZ",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "✅",
+            [
+              [
+                "g",
+                "default_background"
+              ]
+            ]
+          ],
+          [
+            "建议以",
+            [
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "平板或PC下载【腾讯文档APP】",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ],
+          [
+            "，以获得最佳使用体验。",
+            [
+              [
+                "h",
+                "red"
+              ]
+            ]
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699310368,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "wJVHHeqmNL5YjlA518ruVd": {
+    "role": "editor",
+    "value": {
+      "children": [
+        "UgEEqLNkGMEptqJ8nfN8SV"
+      ],
+      "createdAt": 1777699307390,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "wJVHHeqmNL5YjlA518ruVd",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "exactly",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 完全正确或同意，比如：\"Exactly! That’s what I was thinking.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699307390,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "wqNDDJNRFvN8vrTboCFaW9": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699307388,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "wqNDDJNRFvN8vrTboCFaW9",
+      "parentId": "Dm7zAsy5IrgGDBUn1BC75m",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "totally",
+            [
+              [
+                "b"
+              ]
+            ]
+          ],
+          [
+            " - 完全同意，比如：\"I totally understand where you’re coming from.\""
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "bulleted_list",
+      "updatedAt": 1777699307388,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "xaM4DjruHoDgewZNCrZhQR": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699309658,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "xaM4DjruHoDgewZNCrZhQR",
+      "parentId": "j8J1jT6FAcX4lDr6A0CXKP",
+      "parentTable": "block",
+      "props": {
+        "displaySource": "https://docimg3.docs.qq.com/image/AgAALQpsrO2LWJuqq_pJU7NGHk8jh44j.png?w=1632&h=918",
+        "height": 918,
+        "imageFillStyle": "cover",
+        "title": [
+          [
+            "题卡视图"
+          ]
+        ],
+        "width": 1632
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "image",
+      "updatedAt": 1777699309658,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  },
+  "zm08Az4KRhqxj4wGSykKcd": {
+    "role": "editor",
+    "value": {
+      "createdAt": 1777699306664,
+      "createdBy": "144115381524278509",
+      "enabled": true,
+      "id": "zm08Az4KRhqxj4wGSykKcd",
+      "parentId": "LiUYem75HLbg5xSwBcND5r",
+      "parentTable": "block",
+      "props": {
+        "title": [
+          [
+            "【这里你准备说不喜欢，那你就要准备一个原因。你可以说很无聊，你更喜欢文学等等——但是就要做好准备考官会给你换题，如果你考到真的不想答这个，可以说明原因】",
+            [
+              [
+                "b"
+              ],
+              [
+                "h",
+                "pink"
+              ]
+            ]
+          ],
+          [
+            "【给大家一个不喜欢，然后引导到自己想答的题目的参考】"
+          ]
+        ]
+      },
+      "spaceId": "300000000$NjSNnIQtBabS",
+      "type": "text",
+      "updatedAt": 1777699306664,
+      "updatedBy": "144115381524278509",
+      "version": 1
+    }
+  }
+}
