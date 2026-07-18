@@ -2,1506 +2,2706 @@ window.SPEAKING_DATA = [
   {
     "id": "p1-1",
     "part": "Part 1",
-    "topic": "Headphones",
-    "title": "Do you often use headphones?",
-    "frequency": "大陆题库",
+    "topic": "Websites",
+    "title": "What kinds of websites do you often visit?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you often use headphones is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI mostly visit video websites. They're great for relaxing after a long day and catching up on my favorite shows or learning something new through tutorials. It's a nice way to unwind.\n\n【e人回答】\nI'm usually all about social media, but with the IELTS coming up, I've shifted my focus a bit. I've been hitting up the IELTS official website and some sites for mock exams to make sure I'm ready for the real thing.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-2",
     "part": "Part 1",
-    "topic": "Headphones",
-    "title": "When do you usually wear headphones?",
-    "frequency": "大陆题库",
+    "topic": "Websites",
+    "title": "What is your favorite website?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. When do you usually wear headphones is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nMy favorite website has to be YouTube. Whether it's learning a new recipe or just chilling with some music, it's got everything. Plus, you can lose hours just browsing through videos—it's like a black hole for productivity!\n\n【e人回答】\nDefinitely YouTube! It's like a playground for adults—full of videos on every topic you can imagine. It's perfect for killing time or getting inspired. It keeps me engaged and always curious.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-3",
     "part": "Part 1",
-    "topic": "Mirrors",
-    "title": "Do you often look at yourself in the mirror?",
-    "frequency": "大陆题库",
+    "topic": "Websites",
+    "title": "Are there any changes to the websites you often visit?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you often look at yourself in the mirror is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot much really, though some sites have been updating their interface to be more user-friendly, which is nice. It makes things a bit easier to navigate.\n\n【e人回答】\nOh yeah, definitely. My favorite video site just got a revamp with more interactive features. It's like they're really stepping up their website to engage more with us users.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-4",
     "part": "Part 1",
-    "topic": "Mirrors",
-    "title": "Have you ever bought a mirror for your home?",
-    "frequency": "大陆题库",
+    "topic": "Websites",
+    "title": "What kinds of websites are popular in your country?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Have you ever bought a mirror for your home is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nIn my country, e-commerce and social media websites are incredibly popular. Everyone seems to be either shopping online or chatting on WeChat and QQ.\n\n【e人回答】\nStreaming sites are all the rage these days. People love watching shows and movies online. It's all about staying entertained!",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-5",
     "part": "Part 1",
-    "topic": "Sports programmes",
-    "title": "Do you enjoy watching sports programmes?",
-    "frequency": "大陆题库",
+    "topic": "Mirrors",
+    "title": "Do you like looking at yourself in the mirror? How often?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you enjoy watching sports programmes is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do like looking at myself in the mirror, mainly to make sure everything looks okay before I step out. Probably, I check myself in the mirror like twice a day, once in the morning and once before I go out in the evening.\n\n【e人回答】\nOh, absolutely! I love checking myself out in the mirror. I probably do it more than I should, maybe like four or five times a day? It's just a quick glance to see if I'm still looking good.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-6",
     "part": "Part 1",
-    "topic": "Sports programmes",
-    "title": "What kind of sports programmes are popular in your country?",
-    "frequency": "大陆题库",
+    "topic": "Mirrors",
+    "title": "Have you ever bought mirrors?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What kind of sports programmes are popular in your country is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I have. I bought a full-length mirror for my room last year. It's really helpful for checking outfits before I go out.\n\n【e人回答】\nSure, mirrors are like a must-have for me. I've bought a couple, especially small handheld mirrors that I can take anywhere. They're super handy for quick touch-ups.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-7",
     "part": "Part 1",
-    "topic": "Old buildings",
-    "title": "Do you like old buildings?",
-    "frequency": "大陆题库",
+    "topic": "Mirrors",
+    "title": "Do you usually take a mirror with you？",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you like old buildings is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNo, I don't usually carry a mirror with me. I just rely on my phone's camera if I really need to check something. It’s more convenient, and it saves space in my bag.\n\n【e人回答】\nYeah, I always have a mirror with me. You never know when you'll need a quick check to make sure everything's in place.\n\n【玩梗回答】\nAlways! I like to keep a mirror handy—not just for vanity, but because you never know when you’ll need to check if you have spinach in your teeth.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-8",
     "part": "Part 1",
-    "topic": "Old buildings",
-    "title": "Should old buildings be protected?",
-    "frequency": "大陆题库",
+    "topic": "Mirrors",
+    "title": "Would you use mirrors to decorate your room?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Should old buildings be protected is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I think mirrors can really brighten up a room and make it look bigger. I've used a few decorative mirrors in my living area to enhance the space.\n\n【e人回答】\nDefinitely! Mirrors are a great way to add some style to any room. I love how they reflect light and add a bit of glamour.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-9",
     "part": "Part 1",
-    "topic": "Home and accommodation",
-    "title": "What kind of home do you live in?",
-    "frequency": "大陆题库",
+    "topic": "Teachers",
+    "title": "Do you have a favorite teacher?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What kind of home do you live in is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nWell, yeah, I do have a favorite teacher, Mrs. Li. She taught us English in high school. She was really kind and always made sure that everyone in the class understood the lessons. It's like she had a special way of explaining things that made them so clear. You know, I always looked forward to her classes because they were never boring.\n\n【e人回答】\nOh, definitely! My favorite teacher was Mr. Xiao. He was our math teacher and honestly, he was amazing. He had this energy that just made every lesson so exciting. Anyway, he always encouraged us to think critically and apply what we learned in real-life situations.\n\n【玩梗回答】\nWell, yeah, I do have a favorite teacher. He taught history, and he was hilarious! Always cracking jokes about ancient emperors as if they were gossiping neighbors. It made learning history feel like watching a sitcom.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-10",
     "part": "Part 1",
-    "topic": "Home and accommodation",
-    "title": "What do you like most about your home?",
-    "frequency": "大陆题库",
+    "topic": "Teachers",
+    "title": "In what way has your favorite teacher helped you?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What do you like most about your home is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nMrs. Li helped me a lot, especially with my confidence in speaking English. You know, I was really shy and nervous about making mistakes, but she was always supportive and gave me practical tips on how to improve. It's like she always knew the right thing to say to encourage me.\n\n【e人回答】\nMr. Xiao was great at explaining complex concepts in a way that was easy to understand. He really helped me with my problem-solving skills, you know? He'd often stay after class to go over problems I didn't understand and pushed me to find the solutions myself, which was incredibly helpful.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-11",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "What subjects are you studying?",
-    "frequency": "大陆题库",
+    "topic": "Teachers",
+    "title": "Are you still in touch with your primary school teachers?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What subjects are you studying is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot really, it's been a long time, and you know, life gets busy. But I do remember them fondly and appreciate what they did for me back then.\n\n【e人回答】\nYeah, I actually am! We're connected on social media, and sometimes we chat about the good old days. It's really nice to keep in touch with them and see what they're up to now.\n\n【玩梗回答】\nHonestly, no. After I graduated, I only saw them on social media, liking my photos or posts. It's like they’re silently cheering me on from the sidelines!",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-12",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "Do you like your subject?",
-    "frequency": "大陆题库",
+    "topic": "Teachers",
+    "title": "Do you have a teacher from your past that you still remember?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you like your subject is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, there was this one teacher, Mr. Wu. He taught us history, and his stories about the past were so vivid that I still remember a lot of what he taught. It was like traveling back in time\n\n【e人回答】\nAbsolutely! Miss Li, my science teacher. She had such a unique way of teaching that made you really think and engage. I still remember her experiments and the fun we had in her class.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-13",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "Why did you choose to study that subject?",
-    "frequency": "大陆题库",
+    "topic": "Teachers",
+    "title": "Do you want to be a teacher in the future?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Why did you choose to study that subject is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nWell, I've thought about it. Being a teacher seems really rewarding, but I'm not sure if it's the right path for me. I guess I'm still exploring my options.\n\n【e人回答】\nYes, I do! I really enjoy helping others and sharing knowledge. I think being a teacher would be the perfect way for me to contribute to society and make a difference.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-14",
     "part": "Part 1",
-    "topic": "Work or studies",
-    "title": "What would you like to do after you finish your studies?",
-    "frequency": "大陆题库",
+    "topic": "Public gardens and parks",
+    "title": "Did you like going to parks as a child?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What would you like to do after you finish your studies is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I did. When I was a child, parks felt like a small world where I could run around and forget about schoolwork. I especially liked sitting on the swings and watching other kids play. It was simple, but it gave me a real sense of freedom.\n\n【e人回答】\nDefinitely! I loved going to parks because there were always other kids to play with. We would chase each other, play games, and sometimes make new friends in five minutes. Parks were basically my childhood social playground.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-15",
     "part": "Part 1",
-    "topic": "Hometown",
-    "title": "Where is your hometown?",
-    "frequency": "大陆题库",
+    "topic": "Public gardens and parks",
+    "title": "Do you still like going to parks now?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Where is your hometown is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I still like going to parks, but for different reasons now. When I was little, I went there to play, but now I go there to relax. Walking among trees helps me clear my head after a busy day.\n\n【e人回答】\nYes, I do. I like going to parks with friends, especially when the weather is nice. We can walk, take pictures, or just sit there and chat. It’s a nice way to slow down without staying at home.\n\n【玩梗回答】\nYes, I still like parks, especially because they make me feel healthy without actually doing much. I can walk for ten minutes and suddenly feel like a fitness influencer. Then I reward myself with bubble tea. That’s called balance.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-16",
     "part": "Part 1",
-    "topic": "Hometown",
-    "title": "What do you like most about your hometown?",
-    "frequency": "大陆题库",
+    "topic": "Public gardens and parks",
+    "title": "Would you like to see more parks in your city?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What do you like most about your hometown is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, definitely. I think cities can feel stressful when there are too many buildings and cars. More parks would give people a place to breathe and rest. They make city life more livable.\n\n【e人回答】\nAbsolutely. More parks would make the city more fun and friendly. People could exercise, walk their dogs, have picnics, or just hang out. A good park can really bring people together.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-17",
     "part": "Part 1",
-    "topic": "Public transport",
-    "title": "Do you often use public transport?",
-    "frequency": "大陆题库",
+    "topic": "Public gardens and parks",
+    "title": "Are there any parks you want to go to in the future?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you often use public transport is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I’d like to visit some large national parks in the future. I want to see mountains, lakes, and forests in a quieter environment. It would be a good chance to get closer to nature.\n\n【e人回答】\nYes, I’d love to visit famous parks in other countries, like those big city parks with open lawns and lakes. I think it would be fun to walk around, take photos, and experience the local lifestyle. Parks are a great way to see how people live.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-18",
     "part": "Part 1",
-    "topic": "Public transport",
-    "title": "What would make public transport better in your city?",
-    "frequency": "大陆题库",
+    "topic": "Public gardens and parks",
+    "title": "Would you prefer to play in a personal garden or public garden？",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What would make public transport better in your city is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI’d prefer a personal garden because it feels quieter and more private. I can relax there without worrying about too many people around. For me, a personal garden feels like a small safe corner where I can slow down.\n\n【e人回答】\nI’d choose a public garden because it feels more lively. You can see families, children, pets, and people doing different activities. I like places with a bit of human energy.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-19",
     "part": "Part 1",
-    "topic": "Social media",
-    "title": "Do you use social media every day?",
-    "frequency": "大陆题库",
+    "topic": "Public gardens and parks",
+    "title": "How are the parks today different from those you visited as a kid?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you use social media every day is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI think parks today are more modern and better designed. When I was a kid, parks were mostly simple playgrounds, but now they often have walking paths, fitness areas, and nice lighting. They feel more user-friendly now.\n\n【e人回答】\nParks today are much more interesting. Many of them have cafés, sports areas, photo spots, and even weekend activities. They’re not just green spaces anymore, they’re more like mini lifestyle centers.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-20",
     "part": "Part 1",
-    "topic": "Social media",
-    "title": "Has social media changed the way you keep in touch with friends?",
-    "frequency": "大陆题库",
+    "topic": "Public gardens and parks",
+    "title": "What do you like to do when visiting a park？",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Has social media changed the way you keep in touch with friends is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nWhen I visit a park, I usually like walking slowly and enjoying the quiet atmosphere. Sometimes I listen to music or just sit on a bench and watch people pass by. It’s a simple way to clear my head.\n\n【e人回答】\nI like doing a bit of everything in a park. I might walk, take pictures, have a picnic, or chat with friends. Parks are great because you can enjoy nature and hang out at the same time.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-21",
     "part": "Part 1",
-    "topic": "Reading",
-    "title": "Do you enjoy reading?",
-    "frequency": "大陆题库",
+    "topic": "Public gardens and parks",
+    "title": "Would you like to play in a public garden or park？",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you enjoy reading is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I would, but I’d prefer a quiet public garden rather than a very crowded one. I like places where I can walk, sit, and relax without too much noise. A peaceful park can feel like a little escape from daily life.\n\n【e人回答】\nYes, definitely. I think public gardens and parks are perfect for casual fun. You can play games, meet friends, or just enjoy the fresh air. It’s an easy way to spend quality time outdoors.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-22",
     "part": "Part 1",
-    "topic": "Reading",
-    "title": "What kinds of books do you like to read?",
-    "frequency": "大陆题库",
+    "topic": "Shopping",
+    "title": "Do you like shopping?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What kinds of books do you like to read is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, but I like shopping in a quiet and planned way. I usually know what I want before I buy anything, so I don’t enjoy walking around for hours. For me, shopping is more about getting what I need than just having fun.\n\n【e人回答】\nYes, I really enjoy shopping, especially when I go with friends. It’s not just about buying things, it’s also a fun way to relax and chat. Sometimes I don’t even buy much, I just enjoy the shopping vibe.\n\n【玩梗回答】\nI like shopping, but my wallet has a different opinion. I’ll walk into a store just to “look around,” and somehow leave with several things I didn’t plan to buy. Shopping is basically my self-control test.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-23",
     "part": "Part 1",
-    "topic": "Writing",
-    "title": "Do you enjoy writing by hand?",
-    "frequency": "大陆题库",
+    "topic": "Shopping",
+    "title": "How often do you go shopping?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you enjoy writing by hand is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI don’t go shopping very often. Maybe once or twice a month, mostly when I really need something. I prefer buying fewer things but making better choices, so I try to shop with purpose.\n\n【e人回答】\nI go shopping pretty often, maybe every week. Sometimes it’s for clothes, sometimes just snacks or daily things. I like checking out new products because it feels like a small treasure hunt.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-24",
     "part": "Part 1",
-    "topic": "Writing",
-    "title": "When do you usually need to write something?",
-    "frequency": "大陆题库",
+    "topic": "Shopping",
+    "title": "Do you prefer online shopping or in-store shopping?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. When do you usually need to write something is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI prefer online shopping because it’s more convenient and less tiring. I can compare prices, read reviews, and take my time before deciding. It feels less stressful than walking around in a crowded mall.\n\n【e人回答】\nI prefer in-store shopping, especially for clothes and shoes. I like trying things on and seeing how they actually look. Shopping in person feels more real and more fun with friends.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-25",
     "part": "Part 1",
     "topic": "Music",
-    "title": "What kind of music do you enjoy?",
-    "frequency": "大陆题库",
+    "title": "Do you prefer sad or happy music?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What kind of music do you enjoy is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI think I prefer sad music, especially when I’m alone. It doesn’t necessarily make me feel worse, actually it helps me understand my emotions better. Sometimes a sad song feels like a quiet friend who knows exactly how I feel.\n\n【e人回答】\nI usually prefer happy music because it puts me in a good mood very quickly. I like songs with a strong beat, especially when I’m walking or getting ready to go out. Happy music gives me an instant energy boost.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-26",
     "part": "Part 1",
     "topic": "Music",
-    "title": "Do you often listen to music while studying?",
-    "frequency": "大陆题库",
+    "title": "Does happy music make you feel more excited?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you often listen to music while studying is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, but in a gentle way. Happy music can lift my mood and make boring tasks feel easier. For example, when I’m cleaning my room, a cheerful song can make it feel less painful.\n\n【e人回答】\nDefinitely. Happy music makes me feel more energetic and ready to move. Sometimes I’ll even dance a little, even if I’m just in my room. It really helps me get into a good mood.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-27",
     "part": "Part 1",
-    "topic": "Films",
-    "title": "Do you enjoy watching films?",
-    "frequency": "大陆题库",
+    "topic": "Tidiness",
+    "title": "Do you like to keep things tidy?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you enjoy watching films is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do. I feel much calmer when my space is clean and organized. If my desk is messy, my mind feels messy too. So keeping things tidy helps me think clearly.\n\n【e人回答】\nI like things to be tidy, but I’m not extremely strict about it. I don’t mind a little mess if I’m busy or having fun. For me, a tidy space is nice, but I don’t want to stress over every little thing.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-28",
     "part": "Part 1",
-    "topic": "Films",
-    "title": "Do you prefer watching films at home or at the cinema?",
-    "frequency": "大陆题库",
+    "topic": "Tidiness",
+    "title": "Did you use to keep your room tidy as a child?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you prefer watching films at home or at the cinema is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot really. When I was a child, I wasn’t very good at keeping my room tidy. Toys, books, and clothes were often everywhere. I only cleaned up when my parents reminded me again and again.\n\n【e人回答】\nI tried to, but honestly, my room was usually a bit messy. I would clean it before guests came over, so it looked fine on the surface. Basically, I was good at emergency cleaning.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-29",
     "part": "Part 1",
-    "topic": "Photography",
-    "title": "Do you like taking photos?",
-    "frequency": "大陆题库",
+    "topic": "Spare time",
+    "title": "Do you often have free time?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you like taking photos is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot really. My schedule is pretty packed most of the time, with work, study, and all the usual responsibilities. But I do try to carve out some free time now and then – even if it’s just a few minutes to sit quietly with a cup of coffee. I think it’s important to take a break.\n\n【e人回答】\nOh, I’d say I have a decent amount of free time. I just make sure to manage my schedule well. I mean, I can’t be busy all the time, right? So I always leave some space for myself to relax, catch up on shows, or go out with friends.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-30",
     "part": "Part 1",
-    "topic": "Photography",
-    "title": "What kinds of photos do you usually take?",
-    "frequency": "大陆题库",
+    "topic": "Spare time",
+    "title": "What do you usually do in your spare time?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What kinds of photos do you usually take is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI usually spend my spare time reading, especially novels and self-improvement books. It’s a great way to relax and learn something new at the same time. If I’m not reading, I might take a walk, listen to music, or just enjoy some quiet time.\n\n【e人回答】\nOh, I love spending my free time exploring new places. Sometimes I go for a hike, check out a new café, or even just walk around the city with no plan. It’s like a little adventure every time.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-31",
     "part": "Part 1",
-    "topic": "Shopping",
-    "title": "Do you enjoy shopping?",
-    "frequency": "大陆题库",
+    "topic": "Spare time",
+    "title": "Which day do you have more free time on, Saturday or Sunday?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you enjoy shopping is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nDefinitely Sunday. Saturday is usually a bit busy with errands or social plans, but Sunday is when I can really relax. I might sleep in, read a bit, or just take things slow. It’s like a reset button before the new week starts.\n\n【e人回答】\nOh, I’d say Saturday. That’s when I have the most energy to go out with friends, try new activities, or just have some fun. Sunday is more of a lazy day – catching up on sleep and maybe a bit of TV shows.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-32",
     "part": "Part 1",
-    "topic": "Shopping",
-    "title": "Do you prefer shopping online or in shops?",
-    "frequency": "大陆题库",
+    "topic": "Spare time",
+    "title": "Would you like to have more free time in the future?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you prefer shopping online or in shops is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, absolutely. I think having more free time would mean having more chances to explore new hobbies, relax, and spend quality time with the people I care about. It’s all about finding a good balance in life.\n\n【e人回答】\nOh, of course! Who wouldn’t want more free time? I could finally try all those things I keep saying I’ll do “one day” – like learning to play the guitar, trying a new sport, or just sleeping for 12 hours straight.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-33",
     "part": "Part 1",
-    "topic": "Chocolate",
-    "title": "Do you like eating chocolate?",
-    "frequency": "大陆题库",
+    "topic": "Clothing",
+    "title": "What kind of clothes do you like to wear?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you like eating chocolate is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI usually like wearing simple and comfortable clothes, like hoodies, jeans, or loose shirts. I don’t really follow fashion trends closely, because I care more about how clothes make me feel. If an outfit helps me feel relaxed and confident, that’s already good enough for me.\n\n【e人回答】\nI like clothes that look stylish but are still easy to move in. For example, I enjoy wearing bright sweaters, sneakers, and jackets with a bit of personality. I think clothes are a fun way to show who you are without saying anything.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-34",
     "part": "Part 1",
-    "topic": "Chocolate",
-    "title": "Did you often eat chocolate when you were a child?",
-    "frequency": "大陆题库",
+    "topic": "Clothing",
+    "title": "Do you prefer to wear comfortable and casual clothes or smart clothes?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Did you often eat chocolate when you were a child is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI definitely prefer comfortable and casual clothes. I like clothes that don’t make me feel restricted, especially when I have a long day ahead. Smart clothes look nice, but I usually save them for special occasions.\n\n【e人回答】\nI like both, but it depends on the situation. For daily life, I prefer casual clothes because they’re practical and easy to wear. But if I’m going to an event, smart clothes help me feel more polished.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-35",
     "part": "Part 1",
-    "topic": "Morning routine",
-    "title": "What do you usually do in the morning?",
-    "frequency": "大陆题库",
+    "topic": "Clothing",
+    "title": "Do you like wearing T-shirts?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What do you usually do in the morning is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I like wearing T-shirts because they’re simple and easy to match. A plain T-shirt can work with almost anything, so I don’t have to think too much. It’s perfect for days when I want to keep things simple.\n\n【e人回答】\nYes, definitely. T-shirts are casual, comfortable, and they can still look cool if you style them well. I especially like graphic T-shirts because they can add a bit of personality to an outfit.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-36",
     "part": "Part 1",
-    "topic": "Morning routine",
-    "title": "Do you like getting up early?",
-    "frequency": "大陆题库",
+    "topic": "Clothing",
+    "title": "Do you spend a lot of time choosing clothes?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you like getting up early is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot really. I usually choose clothes quite quickly, especially on normal days. I prefer having a few reliable outfits so I don’t waste too much time deciding what to wear.\n\n【e人回答】\nSometimes I do, especially if I’m going out with friends or taking photos. I enjoy trying different outfits and seeing what matches my mood. Choosing clothes can be a fun little creative process.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-37",
     "part": "Part 1",
-    "topic": "Weekends",
-    "title": "What do you usually do at weekends?",
-    "frequency": "大陆题库",
+    "topic": "Headphones",
+    "title": "Do you use headphones?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What do you usually do at weekends is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I use headphones almost every day. They help me create a small private space, especially when I’m outside or studying. Sometimes I just put them on to block out noise and feel a bit calmer.\n\n【e人回答】\nYes, definitely. I use headphones for music, videos, calls, and even podcasts. They’re such a big part of my daily life that I feel a little strange if I leave home without them.\n\n【玩梗回答】\nYes, I use headphones all the time. Sometimes I’m not even listening to anything, I just wear them to look unavailable. It’s basically my social shield.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-38",
     "part": "Part 1",
-    "topic": "Weekends",
-    "title": "Do you prefer busy or relaxing weekends?",
-    "frequency": "大陆题库",
+    "topic": "Headphones",
+    "title": "What type of headphones do you use?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you prefer busy or relaxing weekends is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI usually use wireless earbuds because they’re small and easy to carry. They don’t take up much space, and I can use them while walking or commuting. I like things that are simple and practical.\n\n【e人回答】\nI use wireless headphones most of the time. I like the ones with good sound quality and a comfortable fit. If I’m listening to music, I want it to feel clear and immersive.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-39",
     "part": "Part 1",
-    "topic": "Weather",
-    "title": "What kind of weather do you like most?",
-    "frequency": "大陆题库",
+    "topic": "Headphones",
+    "title": "When would you use headphones?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What kind of weather do you like most is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI usually use headphones when I’m commuting, studying, or walking alone. They help me focus and make the environment feel less noisy. For me, headphones are a way to stay in my own world.\n\n【e人回答】\nI use headphones when I exercise, travel, or wait for someone. Music makes those moments more enjoyable and less boring. It’s like adding a little background soundtrack to my day.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-40",
     "part": "Part 1",
-    "topic": "Weather",
-    "title": "Does the weather affect your mood?",
-    "frequency": "大陆题库",
+    "topic": "Headphones",
+    "title": "In what conditions would you not use headphones?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Does the weather affect your mood is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI wouldn’t use headphones when I need to pay attention to my surroundings. For example, when crossing the road or walking somewhere unfamiliar, I prefer to stay alert. Safety always comes first.\n\n【e人回答】\nI wouldn’t use headphones when I’m talking with people or attending something important. It can seem a bit rude if you keep them on during a conversation. I think headphones are useful, but timing really matters.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-41",
     "part": "Part 1",
-    "topic": "Parks and gardens",
-    "title": "Do you often go to parks?",
-    "frequency": "大陆题库",
+    "topic": "Science",
+    "title": "Do you like science?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you often go to parks is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【原文回答】\nHonestly, I don`t like it. I’ve always been more into arts and literature. Science just seems too formulaic for my creative spirit.\n\n【i人回答】\nYes, I quite like science because it's always fascinating to see how things work behind the scenes. Science helps explain the mysteries of the world around us, and there's always something new to discover.\n\n【e人回答】\nAbsolutely, I love science! It’s like a magic show where everything has a logical explanation. Plus, it’s always fun to experiment and see your predictions come to life.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-42",
     "part": "Part 1",
-    "topic": "Parks and gardens",
-    "title": "Are there many green spaces near where you live?",
-    "frequency": "大陆题库",
+    "topic": "Science",
+    "title": "When did you start to learn about science?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Are there many green spaces near where you live is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI started learning science back in primary school, but I really got into it in high school. It was like a window opened up to this amazing world of knowledge.\n\n【e人回答】\nOh, We all start in school, right? But seriously, I've been into science since I can remember. It’s always been a blast.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-43",
     "part": "Part 1",
-    "topic": "Plants",
-    "title": "Do you keep plants at home?",
-    "frequency": "大陆题库",
+    "topic": "Science",
+    "title": "Which science subject is interesting to you?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you keep plants at home is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI find biology particularly interesting because it’s all about life and how living things interact with each other and their environments. It’s like understanding the blueprint of life itself.\n\n【e人回答】\nPhysics, for sure! It’s like the magic behind how everything in the universe works—from atoms to galaxies. Plus, who doesn’t like a bit of quantum weirdness now and then?\n\n【玩梗回答】\nChemistry, because, let’s face it, it’s basically the kitchen of science. Mixing stuff up, hoping it doesn’t explode—unless that’s your goal, of course. It’s like baking, but sometimes you end up with a new type of plastic instead of a cake.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-44",
     "part": "Part 1",
-    "topic": "Plants",
-    "title": "Did you learn about plants at school?",
-    "frequency": "大陆题库",
+    "topic": "Science",
+    "title": "What kinds of interesting things have you done with science?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Did you learn about plants at school is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nOne of the most interesting projects I worked on was a study of plant growth under different light conditions. We used various spectrums of light to see how they affect growth rates. It was quite enlightening to see how small changes in the environment can significantly impact a plant's life.\n\n【e人回答】\nI got to participate in a zero-gravity experiment! We used a special plane to simulate the conditions of space. Floating around was not only super fun but also eye-opening—it gives you a real sense of how gravity affects our daily lives.\n\n【玩梗回答】\nI once tried to make my own perfume in chemistry class, thinking I could invent the next Chanel No. 5 or something. But, let's just say it smelled more like fart than Chanel No. 5.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-45",
     "part": "Part 1",
-    "topic": "Birthdays",
-    "title": "Do you enjoy celebrating birthdays?",
-    "frequency": "大陆题库",
+    "topic": "Science",
+    "title": "Do you like watching science TV programs?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you enjoy celebrating birthdays is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I enjoy watching science TV programs because they are informative and often explain complex concepts in a way that's easy to grasp. Shows like \"Cosmos\" really broaden my horizons.\n\n【e人回答】\nNot much, to be honest. I find that many science programs are either too technical or just skim the surface, which doesn't really satisfy my curiosity or entertainment needs. I usually find more engaging content on the internet or in books.\n\n【玩梗回答】\nNot really, they tend to put me to sleep faster than anything. I usually switch to something a bit more dynamic or dramatic.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-46",
     "part": "Part 1",
-    "topic": "Birthdays",
-    "title": "How did you celebrate birthdays when you were younger?",
-    "frequency": "大陆题库",
+    "topic": "Science",
+    "title": "Do Chinese people often visit science museums?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. How did you celebrate birthdays when you were younger is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot really, from what I've seen. While there are certainly people who enjoy visiting science museums, it doesn't seem to be a very common activity compared to other types of outings. Many prefer going to parks, malls, or cultural sites instead.\n\n【e人回答】\nSome do, especially those with kids looking for a bit of educational fun. Personally, I prefer places with more art or history. Science museums? Not so much.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-47",
     "part": "Part 1",
-    "topic": "Cooking",
-    "title": "Do you enjoy cooking?",
-    "frequency": "大陆题库",
+    "topic": "Views",
+    "title": "Do you like taking pictures of different views?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you enjoy cooking is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do, but I don’t take photos all the time. I usually take pictures when a view makes me feel calm or emotional. For me, photos are a way to keep a moment rather than show it to others.\n\n【e人回答】\nYes, I really like taking pictures of different views. When I travel or go out, I often take photos to record what I see. It’s a fun way to save memories and share them with friends.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-48",
     "part": "Part 1",
-    "topic": "Cooking",
-    "title": "What food can you cook well?",
-    "frequency": "大陆题库",
+    "topic": "Views",
+    "title": "Do you prefer views in urban areas or rural areas?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What food can you cook well is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI prefer rural views because they’re quieter and less crowded. Being close to nature helps me relax and think more clearly. I really enjoy that sense of peace.\n\n【e人回答】\nI prefer urban views. City views feel lively and full of energy, especially at night. I like seeing lights, buildings, and people moving around. It makes me feel connected to life.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-49",
     "part": "Part 1",
-    "topic": "Teachers",
-    "title": "Did you have a favourite teacher at school?",
-    "frequency": "大陆题库",
+    "topic": "Views",
+    "title": "Do you prefer views in your own country or in other countries?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Did you have a favourite teacher at school is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI slightly prefer views in my own country because they feel familiar and meaningful. I understand the culture and background better. That familiarity gives me a sense of comfort.\n\n【e人回答】\nI prefer views in other countries because everything feels fresh and different. New landscapes always excite me and make travelling more fun. I enjoy that sense of discovery.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-50",
     "part": "Part 1",
-    "topic": "Teachers",
-    "title": "What makes a teacher memorable?",
-    "frequency": "大陆题库",
+    "topic": "Views",
+    "title": "Have you seen an unforgettable and beautiful view or scenery?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What makes a teacher memorable is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I have. I once saw a quiet sunset by the water, and everything felt still. The colors and atmosphere stayed in my mind for a long time. It was truly unforgettable.\n\n【e人回答】\nYes, I’ve seen a beautiful mountain view while travelling. The view was wide and impressive, and I felt very small in a good way. It was absolutely amazing.\n\n【其他回答】\nYes, I have, and I didn’t expect it at all. I wasn’t ready, my phone wasn’t ready, and my camera roll was empty. That’s how I know it was truly special.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-51",
     "part": "Part 1",
-    "topic": "Friends",
-    "title": "Do you prefer spending time with one close friend or a group?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Do you like your subject?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you prefer spending time with one close friend or a group is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【学生党回答｜i人回答】\nYes, I really enjoy it. Economics can be challenging, but it's also very rewarding because it helps me understand how the world works.\n\n【学生党回答｜e人回答】\nAbsolutely, I love Economics! It's so fascinating to see how different economic principles apply to real-life scenarios. I mean, who wouldn't enjoy spending hours thinking about money without actually spending any?",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-52",
     "part": "Part 1",
-    "topic": "Friends",
-    "title": "How often do you meet your friends?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Why did you choose to study that subject?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. How often do you meet your friends is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【学生党回答｜i人回答】\nI chose Economics because I'm really interested in understanding the factors that influence the global economy. Honestly, I thought it would make me rich. Spoiler alert: I'm still waiting on that.\n\n【学生党回答｜e人回答】\nI chose it because Economics offers a unique perspective on how businesses and governments make decisions. It's like unlocking the secrets of financial success.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-53",
     "part": "Part 1",
-    "topic": "Names",
-    "title": "Do you like your name?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Do you think that your subject is popular in your country?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you like your name is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【学生党回答｜i人回答】\nYes, Economics is quite popular in my country, especially because it's relevant to many sectors, including government and business.\n\n【学生党回答｜e人回答】\nDefinitely, Economics is a hot topic because it helps explain a lot about our economic stability and growth.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-54",
     "part": "Part 1",
-    "topic": "Names",
-    "title": "How do people usually choose names for children in your country?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Is it very interesting?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. How do people usually choose names for children in your country is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【学生党回答｜i人回答】\nIt definitely is! The more I learn about Economics, the more I realize how everything is connected. It's really eye-opening.\n\n【学生党回答｜e人回答】\nYes, it's incredibly interesting! I love how Economics can be applied to so many different areas of life, from shopping to national policies. It's interesting, like a mystery novel where you're always trying to find out where the money went.\n\n【学生党回答｜i人回答】\nYes, studying economics is incredibly interesting because it gives you insights into how the world works and how decisions are made in businesses and governments.\n\n【学生党回答｜e人回答】\nDefinitely! It's fascinating to see how economic theories apply to real-world scenarios and how they can predict market trends.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-55",
     "part": "Part 1",
-    "topic": "Keeping things",
-    "title": "Do you like keeping old things?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Do you have any plans for your studies in the next five years?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you like keeping old things is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【学生党回答｜i人回答】\nYes, I have quite specific plans. I intend to complete my degree in Economics and then pursue a master’s program. My goal is to specialize in behavioral economics because I'm fascinated by how economic models can incorporate psychological factors.\n\n【学生党回答｜e人回答】\nDefinitely! I'm planning to not only finish my degree in Economics but also to start my own consultancy. I want to apply what I've learned to help small businesses optimize their strategies. It’s all about putting theory into practice.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-56",
     "part": "Part 1",
-    "topic": "Keeping things",
-    "title": "What kinds of things are difficult for you to throw away?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "What are the benefits of being your age?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What kinds of things are difficult for you to throw away is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【学生党回答｜i人回答】\nAt my age, I think the biggest benefit is having the freedom to explore different interests and career options without too much pressure. It's a time for self-discovery and figuring out what really matters to me.\n\n【学生党回答｜e人回答】\nBeing this age is great because you have the energy and the optimism to take on new challenges. You’re not afraid to experiment with different things, which is crucial for personal and professional growth.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-57",
     "part": "Part 1",
-    "topic": "Borrowing and lending",
-    "title": "Do you often borrow things from others?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Do you want to change your major?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you often borrow things from others is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【学生党回答｜i人回答】\nNot at all, I’m really committed to my studies in Economics. I find the field both challenging and rewarding, and it aligns perfectly with my career goals.\n\n【学生党回答｜e人回答】\nActually, yes, I’ve been considering switching to a focus on data science within Economics. It seems like a practical move, considering the demand for data expertise in today's job market.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-58",
     "part": "Part 1",
-    "topic": "Borrowing and lending",
-    "title": "Do you like lending your belongings to friends?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Do you prefer to study in the mornings or in the afternoons?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you like lending your belongings to friends is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【学生党回答｜i人回答】\nI definitely prefer studying in the mornings. That’s when I feel most alert and focused, which really helps me absorb new information more effectively.\n\n【学生党回答｜e人回答】\nI'm more of an afternoon person. I like to use that time to dive deep into complex topics, especially when working on projects or group assignments.\n\n【学生党回答｜玩梗回答】\nNights actually, that’s when the real panic sets in.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-59",
     "part": "Part 1",
-    "topic": "Maps",
-    "title": "Do you often use maps on your phone?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "How much time do you spend on your studies each week?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you often use maps on your phone is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【学生党回答｜i人回答】\nI usually spend around 30 to 35 hours a week studying. It’s important to keep a balanced schedule to manage both coursework and personal time effectively.\n\n【学生党回答｜e人回答】\nAbout 40 hours, give or take. I treat it like a full-time job, which helps me stay organized and keeps my studies on track.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-60",
     "part": "Part 1",
-    "topic": "Maps",
-    "title": "Do you have a good sense of direction?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Are you looking forward to working?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you have a good sense of direction is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【学生党回答｜i人回答】\nYes, I'm definitely looking forward to working. I'm interested in becoming a product manager because it involves a lot of problem-solving and working with different teams to create something valuable.\n\n【学生党回答｜e人回答】\nAbsolutely! I can't wait to start working as a product manager. I'm really excited about the opportunity to innovate and lead projects that can potentially change the way people use technology.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-61",
     "part": "Part 1",
-    "topic": "Concentration",
-    "title": "When is it easiest for you to concentrate?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "What changes would you like to see in your school?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. When is it easiest for you to concentrate is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【学生党回答｜i人回答】\nI would like to see more practical applications of the theories we learn in class. Sometimes, the theoretical part is too heavy, and we miss out on how to apply these concepts in real life.\n\n【学生党回答｜e人回答】\nI'd really like our school to embrace more technology in the classroom. It could really enhance learning, especially in subjects like economics where data analysis is key.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-62",
     "part": "Part 1",
-    "topic": "Concentration",
-    "title": "What usually distracts you when you are studying?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "What work do you do?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What usually distracts you when you are studying is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【工作党回答｜i人回答】\nI work as a product manager in a tech company. Basically, I oversee the development of new software products from the initial concept to the final launch. It involves a lot of coordination with different teams, like engineering, marketing, and sales.\n\n【工作党回答｜e人回答】\nI'm a product manager at a fast-growing startup. My job is to bring awesome new products to life and make sure they really resonate with our users. It's a blast, especially when seeing a project you worked on succeed in the market.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-63",
     "part": "Part 1",
-    "topic": "Meetings",
-    "title": "Do you often have meetings or group discussions?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Why did you choose to do that type of work (or that job)?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you often have meetings or group discussions is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【工作党回答｜原文回答】\n【i人回答】 I chose to be a product manager because I have a passion for technology and innovation. I love the idea of creating something that can make a difference in people's lives, and this role allows me to use my skills to influence the development of new technologies.\n\n【工作党回答｜e人回答】\nHonestly, it was the blend of creativity and strategy that drew me to this job. As a product manager, you get to be creative in solving problems and strategic in planning product launches. It's never dull!",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-64",
     "part": "Part 1",
-    "topic": "Meetings",
-    "title": "What makes a meeting effective?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Do you like your job?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What makes a meeting effective is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【工作党回答｜i人回答】\nYes, I really do. It's challenging but also incredibly rewarding. There's always something new to learn, and I enjoy the dynamic environment.\n\n【工作党回答｜e人回答】\nAbsolutely! I love it because every day is different and I get to work with brilliant people. It's very fulfilling to see a product go from just an idea to something that users love.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-65",
     "part": "Part 1",
-    "topic": "Patience",
-    "title": "Do you think you are a patient person?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "What requirements did you need to meet to get your current job?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you think you are a patient person is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【工作党回答｜i人回答】\nTo become a product manager, I needed a solid background in business and technology. I also had to demonstrate strong analytical skills and the ability to manage projects efficiently. Plus, having experience in software development was a big plus.\n\n【工作党回答｜e人回答】\nWell, the key things were definitely a background in business or a related field, and some solid experience in product development. They really looked for someone who could handle multiple tasks at once and had a knack for spotting market trends.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-66",
     "part": "Part 1",
-    "topic": "Patience",
-    "title": "When do people need patience most?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Do you have any plans for your work in the next five years?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. When do people need patience most is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【工作党回答｜i人回答】\nMy plan for the next five years is to really hone my skills in product management and maybe even lead a larger team. I'm also interested in exploring more about artificial intelligence and how it can be applied in our products.\n\n【工作党回答｜e人回答】\nAbsolutely, I have big plans! I want to not only advance in my current role but also innovate new product strategies that could redefine our market segment. Networking with more industry leaders and gaining insights into emerging technologies are definitely on my agenda.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-67",
     "part": "Part 1",
-    "topic": "Computers",
-    "title": "How often do you use a computer?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "What do you think is the most important at the moment?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. How often do you use a computer is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【工作党回答｜i人回答】\nI think balance is the most important thing right now. With everything going on in the world, it’s crucial to maintain a good balance between work and life. You know, to make sure you have time for yourself as well as your responsibilities.\n\n【工作党回答｜e人回答】\nRight now, I'd say staying informed is crucial. There's so much happening globally and locally that it helps to keep up-to-date, especially in fields like economics that are constantly evolving.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-68",
     "part": "Part 1",
-    "topic": "Computers",
-    "title": "What do you mainly use computers for?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Do you want to change to another job?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What do you mainly use computers for is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【工作党回答｜i人回答】\nNot really, I actually enjoy being a product manager. It's challenging and I get to make a difference in the development of new products, which is pretty rewarding.\n\n【工作党回答｜e人回答】\nOh, sometimes I think about it! Being a product manager is fun, but I’m always open to new opportunities, especially if it’s something that pushes me out of my comfort zone.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-69",
     "part": "Part 1",
-    "topic": "Mobile phones",
-    "title": "What do you usually use your phone for?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Do you miss being a student?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What do you usually use your phone for is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【工作党回答｜原文回答】\nWell, yeah, sometimes I do. Life as a student was simpler, you know? No big responsibilities, just focusing on learning and maybe hanging out with friends. It’s hard to get that kind of freedom back once you start working.\n\n【工作党回答｜e人回答】\nOh, absolutely! I really miss those carefree days when all I had to worry about was passing exams. You know, being a product manager means juggling multiple tasks at once, and honestly, I miss the student life vibe.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-70",
     "part": "Part 1",
-    "topic": "Mobile phones",
-    "title": "Is there a time when you try not to use your phone?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "What technology do you use at work?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Is there a time when you try not to use your phone is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【工作党回答｜i人回答】\nI mostly use project management tools to keep track of tasks and deadlines. They help me stay organized and make sure that every part of the product development process is on schedule.\n\n【工作党回答｜e人回答】\nWe use a lot of different tech at work, but I'd say the most important one for me is data analysis software. It helps me understand customer behavior and figure out how we can improve the product.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-71",
     "part": "Part 1",
-    "topic": "Online learning",
-    "title": "Have you ever taken an online course?",
-    "frequency": "大陆题库",
+    "topic": "Work or studies",
+    "title": "Who helps you the most? And how?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Have you ever taken an online course is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【工作党回答｜i人回答】\nI think my mentor at work has helped me the most. He always gives me constructive feedback on my projects and teaches me how to solve problems in a more effective way.\n\n【工作党回答｜e人回答】\nDefinitely my team. We work really closely together, and they help me a lot when it comes to brainstorming new ideas. I think teamwork is one of the best things about being a product manager.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-72",
     "part": "Part 1",
-    "topic": "Online learning",
-    "title": "Do you think online learning suits everyone?",
-    "frequency": "大陆题库",
+    "topic": "Hometown",
+    "title": "Where is your hometown?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you think online learning suits everyone is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【原文回答】\nMy hometown is in Chengdu, which is in southwestern China. It's known for its relaxed lifestyle and, of course, the spicy food.\n\n【原文回答】\nMy hometown is Shanghai, which is one of the largest cities in China. It's known for its incredible skyline and bustling city life. You know, it really never sleeps and there's always something to do or see.\n\n【原文回答】\nI'm from Xi'an, which is in the northwest of China. It's a city rich in history. It's amazing how it blends the old with the new.\n\n【原文回答】\nMy hometown is Guilin, located in southern China. It's especially famous for its stunning landscapes and the Li River. It's like a living traditional Chinese painting.\n\n【原文回答】\nI'm from a small town that you probably haven't heard of. It's a quiet place with lush green fields and a slow pace of life. It's the perfect escape from the hustle and bustle of the city.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-73",
     "part": "Part 1",
-    "topic": "Travel",
-    "title": "Do you enjoy travelling?",
-    "frequency": "大陆题库",
+    "topic": "Hometown",
+    "title": "Is that a big city or a small place?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you enjoy travelling is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nIt's a massive city with a huge population. It can be pretty overwhelming sometimes.\n\n【e人回答】\nActually, it's more of a small place, really cozy and everyone knows each other. It's like one big family.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-74",
     "part": "Part 1",
-    "topic": "Travel",
-    "title": "What kind of places do you like to visit?",
-    "frequency": "大陆题库",
+    "topic": "Hometown",
+    "title": "Do you like your hometown?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What kind of places do you like to visit is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I absolutely love it. It's so peaceful and the air is always fresh.\n\n【e人回答】\nOh, totally! It's got everything I need, from great food to fantastic friends. It's the best.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-75",
     "part": "Part 1",
-    "topic": "Colours",
-    "title": "What is your favourite colour?",
-    "frequency": "大陆题库",
+    "topic": "Hometown",
+    "title": "What do you like (most) about your hometown?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What is your favourite colour is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【原文回答】\nWhat I love most about my hometown is definitely the scenery. The mountains and rivers are breathtaking, and the green spaces are just perfect for a quiet walk.\n\n【原文回答】\nI absolutely adore the vibrant nightlife and diverse culinary scene in my hometown. There's always something new to do or a new restaurant to try!\n\n【原文回答】\nThe food, definitely! We have the most delicious spicy hotpot and street snacks that you can't find anywhere else. It’s a foodie’s paradise!",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-76",
     "part": "Part 1",
-    "topic": "Colours",
-    "title": "Do colours affect the clothes you choose?",
-    "frequency": "大陆题库",
+    "topic": "Hometown",
+    "title": "Is there anything you dislike about it?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do colours affect the clothes you choose is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【原文回答】\nI suppose the only downside is that it's quite remote and getting to the nearest city can take hours. Sometimes, the slow pace can be a bit too much, especially when you’re used to more bustling places.\n\n【原文回答】\nWhat I dislike is the crowded environment. Sometimes it feels like the entire city is on the move, and that can be overwhelming. The traffic can be a nightmare, especially during rush hour.\n\n【原文回答】\nThe city can get really dusty during dry seasons, which isn't pleasant at all. Sometimes the city's air quality can be poor, which is something I really dislike.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-77",
     "part": "Part 1",
-    "topic": "Jewellery",
-    "title": "Do you often wear jewellery?",
-    "frequency": "大陆题库",
+    "topic": "Hometown",
+    "title": "How long have you been living there?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you often wear jewellery is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI've lived there my whole life, so that's about 25 years now. It’s really shaped who I am.\n\n【e人回答】\nWell, I've been living there just a decade, but honestly, it feels like forever, you know? It's one of those places that just wraps itself around you pretty quickly. The community, the familiar spots, the way life just sort of flows there—it all makes it feel like I've been a part of it since forever.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-78",
     "part": "Part 1",
-    "topic": "Jewellery",
-    "title": "Have you ever received jewellery as a gift?",
-    "frequency": "大陆题库",
+    "topic": "Hometown",
+    "title": "Do you like living there?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Have you ever received jewellery as a gift is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I really enjoy it. The community is tight-knit, and it feels like everyone looks out for each other. It’s very comforting.\n\n【e人回答】\nAbsolutely! There's always something happening—festivals, markets, you name it. It’s lively and just keeps you energized.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-79",
     "part": "Part 1",
-    "topic": "Sunglasses",
-    "title": "Do you often wear sunglasses?",
-    "frequency": "大陆题库",
+    "topic": "Hometown",
+    "title": "Do you think you will continue living there for a long time?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you often wear sunglasses is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI think so. It’s home for me, and I can’t really imagine living anywhere else.\n\n【e人回答】\nProbably, unless an adventure calls! I love the place, but I’m always open to new experiences.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-80",
     "part": "Part 1",
-    "topic": "Sunglasses",
-    "title": "Do you think sunglasses are mainly practical or fashionable?",
-    "frequency": "大陆题库",
+    "topic": "Hometown",
+    "title": "What's your hometown famous for?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you think sunglasses are mainly practical or fashionable is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【原文回答】\nIt's famous for its traditional craftsmanship, especially pottery and textiles. People from all over come to buy our handmade goods.\n\n【原文回答】\nMy hometown is famous for its stunning natural landscapes. We have majestic mountains that offer breathtaking views and hiking trails that attract nature lovers from all over. The lakes here are crystal clear, perfect for a peaceful day of fishing or just relaxing by the water. It’s really a haven for anyone who loves the outdoors.\n\n【原文回答】\nMy hometown is renowned for its culinary delights, especially our street food. The night markets are a foodie's paradise, offering everything from spicy noodles to sweet, crispy treats. Every bite offers a taste of our vibrant local culture.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-81",
     "part": "Part 1",
-    "topic": "Noise",
-    "title": "Is your neighbourhood usually quiet or noisy?",
-    "frequency": "大陆题库",
+    "topic": "Hometown",
+    "title": "Did you learn about the history of your hometown at school?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Is your neighbourhood usually quiet or noisy is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, we had history lessons that covered not only the general history of our country but also detailed stories about our town. It was really enlightening.\n\n【e人回答】\nAbsolutely! Our teachers loved to tell us all about the local legends and historical battles. It made the classes so captivating.\n\n【e人回答】\nActually, we didn't really learn much about the history of my hometown at school. Most of our history classes focused on national or world events, so local history wasn't covered extensively. It's something I've managed to explore on my own through local museums and talking with older residents to get a sense of the past.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-82",
     "part": "Part 1",
-    "topic": "Noise",
-    "title": "What kinds of noise bother you most?",
-    "frequency": "大陆题库",
+    "topic": "Hometown",
+    "title": "Are there many young people in your hometown?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What kinds of noise bother you most is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot really, it’s mostly older generations living there. But it's actually nice because it gives the town a kind of timeless charm.\n\n【e人回答】\nYeah, it’s actually full of young people! There are lots of universities and tech startups, so it’s really buzzing with energy.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-83",
     "part": "Part 1",
-    "topic": "Collecting",
-    "title": "Did you collect anything when you were a child?",
-    "frequency": "大陆题库",
+    "topic": "Hometown",
+    "title": "Is your hometown a good place for young people to pursue their careers?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Did you collect anything when you were a child is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nHonestly, it’s a bit challenging for young people to find career opportunities in my hometown because it’s mostly agricultural. However, it’s great for those interested in farming or natural sciences.\n\n【e人回答】\nDefinitely! It’s a tech hub with plenty of startups and innovative companies. It’s thriving, and there's always demand for young, creative minds.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-84",
     "part": "Part 1",
-    "topic": "Collecting",
-    "title": "Do you still like collecting things?",
-    "frequency": "大陆题库",
+    "topic": "The city you live in",
+    "title": "Would you recommend your city to others?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you still like collecting things is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I would definitely recommend my city to others. It's a place full of culture and history, and there’s always something new to explore. Whether you're into art, food, or just wandering around, you’ll find something that interests you.\n\n【e人回答】\nAbsolutely! There’s no place like home, right? My city is vibrant, dynamic, and just so welcoming. If you ever visit, you must try the local street food—it’s a blast!",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-85",
     "part": "Part 1",
-    "topic": "Helping others",
-    "title": "Do you often help other people?",
-    "frequency": "大陆题库",
+    "topic": "The city you live in",
+    "title": "What's the weather like where you live?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you often help other people is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nThe weather here is quite predictable, mostly sunny but gets pretty chilly in the winter. It's nice because you can really plan your day or your outfits without worrying too much about sudden changes.\n\n【e人回答】\nWell, it's unpredictable. One day it's sunny, the next it's raining cats and dogs. Keeps life exciting, you know?",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-86",
     "part": "Part 1",
-    "topic": "Helping others",
-    "title": "Who do you usually ask for help when you need it?",
-    "frequency": "大陆题库",
+    "topic": "The city you live in",
+    "title": "Are there people of different ages living in this city?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Who do you usually ask for help when you need it is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, our city is quite diverse in terms of age groups. We have lots of families, young professionals, and even a significant number of retirees. It's great because this mix creates a vibrant community where everyone can find something suitable for their age and interests.\n\n【e人回答】\nAbsolutely! From toddlers in strollers to seniors with their canes, you'll see a full spectrum of ages here. You get to interact with all kinds of people, which is pretty cool, right?",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-87",
     "part": "Part 1",
-    "topic": "Newspapers and news",
-    "title": "How do you usually get the news?",
-    "frequency": "大陆题库",
+    "topic": "The city you live in",
+    "title": "Are the people friendly in the city?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. How do you usually get the news is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, people here are generally warm and welcoming. Neighbors often greet each other, and it’s common to see people helping out one another. It makes living here really pleasant.\n\n【e人回答】\nFor sure! It's like everyone's always in a good mood here. You walk down the street, and strangers will smile at you, offer directions. It’s awesome!",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-88",
     "part": "Part 1",
-    "topic": "Newspapers and news",
-    "title": "Do you prefer reading news or watching it?",
-    "frequency": "大陆题库",
+    "topic": "The city you live in",
+    "title": "Is the city friendly to children and old people?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you prefer reading news or watching it is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nDefinitely, our city is very family-friendly. There are plenty of parks and recreational areas that are safe for children and accessible for the elderly. The community centers often hold events that cater to both age groups, making it a great place for intergenerational interaction.\n\n【e人回答】\nOh yes, you could say it's a paradise for both. The sidewalks are stroller-friendly, and there are lots of benches where the elderly can take a break. Plus, there are frequent senior discounts at museums and theaters, which is pretty thoughtful.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-89",
     "part": "Part 1",
-    "topic": "Dreams",
-    "title": "Do you often remember your dreams?",
-    "frequency": "大陆题库",
+    "topic": "The city you live in",
+    "title": "Do you often see your neighbors?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you often remember your dreams is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I see them quite often. We usually catch up in the hallway. It's a small community, so everyone knows each other pretty well, which is nice.\n\n【e人回答】\nYeah, I see them pretty often, but it's more like we acknowledge each other's existence rather than actually knowing who they are. It's that typical urban scenario—you're familiar with the faces but not with the stories behind them. We share a quick “hello” or a wave and that's about it.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-90",
     "part": "Part 1",
-    "topic": "Dreams",
-    "title": "Do you think dreams can influence people?",
-    "frequency": "大陆题库",
+    "topic": "The city you live in",
+    "title": "What city do you live in?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you think dreams can influence people is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【原文回答】\nI live in Shanghai, a bustling metropolis known for its incredible skyline and vibrant culture. It's a city that never sleeps, offering endless opportunities and experiences.\n\n【原文回答】\nI'm based in Beijing—the heart of China! It's a city rich in history yet always on the cutting edge of modernity. Whether it's the ancient temples or the futuristic skyscrapers, there's always something to marvel at.\n\n【原文回答】\nI live in Xi’an, one of China’s oldest cities, known for its profound historical significance. The city breathes history at every corner, offering a deep dive into China's ancient past.\n\n【原文回答】\nI live in Hangzhou, famously known for its breathtaking landscape. It's surrounded by mountains and beautifully serene rivers. The natural scenery here is stunning, and it’s like living in a traditional Chinese painting every single day.\n\n【原文回答】\nI live in a small town called Yuxi, nestled in the mountains of southwestern China. It's a place few have heard of, where life is tranquil and the pace is leisurely. The town is surrounded by lush greenery. Life here revolves around the seasons and local festivals, and the community is tight-knit, with everyone knowing each other's names. It's the perfect escape from the hustle and bustle of big city life.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-91",
     "part": "Part 1",
-    "topic": "Free time",
-    "title": "What do you like to do in your free time?",
-    "frequency": "大陆题库",
+    "topic": "The city you live in",
+    "title": "Do you like this city? Why?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What do you like to do in your free time is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI absolutely love it here. The people, the pace of life, the endless things to do—it all just clicks with me. There's a sense of belonging that I don't think I could find anywhere else.\n\n【e人回答】\nYeah, I love it! It's got everything—a bit of the past, a slice of the future, and enough drama to keep you entertained. Plus, where else can you find a park, a pub, and a pagoda all on the same street?",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-92",
     "part": "Part 1",
-    "topic": "Free time",
-    "title": "Do you have enough free time these days?",
-    "frequency": "大陆题库",
+    "topic": "The city you live in",
+    "title": "How long have you lived in this city?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Do you have enough free time these days is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI’ve been living here for about five years now. It didn’t take long for me to feel at home. You know, the city has a way of growing on you.\n\n【e人回答】\nOh, I’ve been here my whole life! It’s like the city is part of my DNA. I know every street corner, every shortcut, and probably every coffee shop.\n\n【玩梗回答】\nLet’s just say I’ve lived here long enough to know which taxi drivers to avoid and where to get the best street noodles at 3 a.m. If that doesn’t make me a local, I don’t know what does!",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-93",
     "part": "Part 1",
-    "topic": "Apps",
-    "title": "What apps do you use most often?",
-    "frequency": "大陆题库",
+    "topic": "The city you live in",
+    "title": "Are there big changes in this city?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. What apps do you use most often is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, there have been quite a few changes. In the past few years, I’ve seen new buildings, new public spaces, and even new transportation systems. It’s like the city is always evolving.\n\n【e人回答】\nFor sure! It’s crazy how much the skyline has changed. Every time you blink, there’s a new skyscraper. It’s kind of like the city is trying to keep up with the future.\n\n【玩梗回答】\nBig changes? Oh, absolutely! The traffic got worse, but the bubble tea options got better. So, you win some, you lose some, right?",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p1-94",
     "part": "Part 1",
-    "topic": "Apps",
-    "title": "Is there an app you could not live without?",
-    "frequency": "大陆题库",
+    "topic": "The city you live in",
+    "title": "Is this city your permanent residence?",
+    "frequency": "高频",
     "type": "具体问题",
     "region": "大陆",
-    "hint": "先直接回答，再补一个自己的小细节或原因。控制在两到三句，听起来自然就很好。",
-    "keywords": [
-      "To be honest",
-      "It depends",
-      "What I like most is"
-    ],
-    "answer": "Yes, I would say so. Is there an app you could not live without is connected to my everyday life, so I have thought about it before. For me, the important thing is to keep it practical and enjoyable rather than making it into a burden."
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI’m not sure yet. I love it here, but I’m keeping my options open. There are still a few places I’d like to explore before I decide where I want to settle down for good.\n\n【e人回答】\nFor now, yes. I’ve got a job and friends here, so it feels like home at the moment. But who knows? Maybe in a few years, I’ll be ready for a new adventure.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-95",
+    "part": "Part 1",
+    "topic": "The area you live in",
+    "title": "Do you live in a noisy or a quiet area?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI live in a pretty quiet area, which is great because I really enjoy the peace and quiet. It's like you can hear a pin drop at night, and that's perfect for someone who likes to read and relax at home.\n\n【e人回答】\nOh, my area? It's like the central station at rush hour—always buzzing! But honestly, I love the vibe. There's always something going on, and it keeps the energy up, you know?",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-96",
+    "part": "Part 1",
+    "topic": "The area you live in",
+    "title": "Are the people in your neighborhood nice and friendly?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, the people here are very welcoming. It's like living in a big family where everyone looks out for each other. They're always ready to lend a hand or share a friendly smile.\n\n【e人回答】\nAbsolutely! They're all super friendly and really chatty. It's like having a daily talk show right outside your door—you get all the latest news and gossip without even trying!",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-97",
+    "part": "Part 1",
+    "topic": "The area you live in",
+    "title": "Do you like the area that you live in?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I really like it here because it's safe and peaceful. The parks are lovely, and the streets are well-kept. It's a great place to live if you enjoy a calm environment.\n\n【e人回答】\nAbsolutely! There's a real sense of community here. We have local markets, outdoor movies, and lots of community events. It's just a fun place to be, always something to do and people to meet.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-98",
+    "part": "Part 1",
+    "topic": "The area you live in",
+    "title": "Where do you like to go in that area?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nThere’s this little coffee shop on the corner that’s my go-to spot. It’s quiet, cozy, and the coffee is amazing. It’s the perfect place to unwind after a long day.\n\n【e人回答】\nI love hanging out at the local park. It’s got a great vibe, especially on weekends when there are live bands and food stalls. It’s just the place to be if you’re looking to have a good time.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-99",
+    "part": "Part 1",
+    "topic": "The area you live in",
+    "title": "Do you know any famous people in your area?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot really, it’s a pretty low-key area, so you don’t see celebrities around here. But it’s nice, because it keeps the neighborhood calm and quiet.\n\n【e人回答】\nFamous people? Yeah, my neighbor's cat. It's got more followers on social media than I do. Apart from that I don't know of any other famous people in my neighborhood.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-100",
+    "part": "Part 1",
+    "topic": "The area you live in",
+    "title": "What are some changes in the area recently?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nRecently, our area has seen a lot of development. New shops and cafes have opened up, and they've renovated the old park. It's nice to see the place thriving and becoming more vibrant.\n\n【e人回答】\nOh, it's been buzzing! They just put in a new skate park. It's really brought the community together and there's always something fun happening now.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-101",
+    "part": "Part 1",
+    "topic": "The area you live in",
+    "title": "Do you know any of the neighbors?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot really, I don't know many of the neighbors. Everyone seems pretty busy, so we mostly just nod to each other when we pass by. It’s quite low-key around here, which is nice in its own way.\n\n【e人回答】\nOh definitely! I know several of my neighbors. We usually say hi in the elevator or when we see each other in the corridor. It’s just those quick chats that make living here feel more connected.\n\n【玩梗回答】\nKnow the neighbors? I'd say we're on a first-smile basis. You know, where you smile when you see each other but don’t really stop to chat. It's like we're all extras in the same movie, just without any lines.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-102",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "Who do you live with?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI live with my family, which includes my parents and a younger sister. We get along well most of the time, which makes our home a really pleasant place.\n\n【e人回答】\nI live solo, which means freedom. No need to share the remote, no debates about dinner, and absolutely no waiting for the bathroom in the morning. It's just me.\n\n【玩梗回答】\nOh, it's just me and my cat. He's the boss really, dictates everything from when I wake up to when I get to sit on the sofa.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-103",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "Do you live in an apartment or a house?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI live in an apartment. It's cozy and just the right size for me, which is great because I'm not a fan of spending my weekends cleaning a big house.\n\n【e人回答】\nA house, actually. It's kind of spacious and we have a backyard which is perfect for summer barbecues and having friends over. It feels more homey to me.\n\n【玩梗回答】\nI live in an apartment. Well, it’s more of a shoebox really. It literally takes me just 3 seconds to crawl from the fridge to the couch.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-104",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "What part of your home do you like the most?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI'd have to say the bedroom is my favorite part of the house. It’s my personal space where I can really unwind and be myself. It's decorated exactly how I like it, which makes it the perfect retreat after a busy day. I just love how serene it feels.\n\n【e人回答】\nAbsolutely the bedroom! It’s where all my magic happens—from binge-watching my favorite shows to diving into a good book. It’s not just a place to sleep. It’s a whole vibe. You know, it’s like my little sanctuary where I recharge my batteries.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-105",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "What’s the difference between where you are living now and where you have lived in the past?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nThe main difference is the size and location. My current apartment is smaller but it's in a much better area in terms of safety and accessibility. It's quieter and closer to nature, which I love.\n\n【e人回答】\nOh, it’s night and day! Used to live in a noisy, bustling city center, but now I’m in the suburbs, which is so relaxing. Less noise, less rush, and more green spaces to enjoy.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-106",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "What kind of house or apartment do you want to live in in the future?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI dream of living in a cozy, eco-friendly house with lots of natural light and a big garden. I’d love a space that’s not only comfortable but also sustainable, where I can grow my own food and live in harmony with nature.\n\n【e人回答】\nI’m all about that high-rise life! I want to live in a modern apartment on a top floor with a killer view of the city skyline. I love the idea of being up high, above the hustle and bustle.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-107",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "What room does your family spend most of the time in?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nWe definitely spend the most time in the kitchen. It’s the heart of our home where we cook, eat, and chat about our day. It’s always bustling with activity and full of life, which really brings us together as a family.\n\n【e人回答】\nThe living room! It’s where the comfy sofa and the big TV are, so naturally, it’s the gathering spot for games, movies, or just lounging around. It’s our chill zone!",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-108",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "What do you usually do in your apartment?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nMostly, I just relax and unwind. I enjoy cooking in my small but well-equipped kitchen, watching series on my laptop, or sometimes just reading a book by the window. It’s my little haven.\n\n【e人回答】\nI’m all about hosting! Whether it’s movie nights, game nights, or dinner parties, my apartment is the go-to spot for my friends and family. It’s all about good food, great company, and making memories.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-109",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "What kinds of accommodation do you live in?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI live in an apartment. It's cozy and just the right size for me, which is great because I'm not a fan of spending my weekends cleaning a big house.\n\n【e人回答】\nI'm in a studio apartment right now. It's compact, sure, but it's super trendy and located in the heart of the city, which is perfect for my lifestyle. Everything I need is just a walk away!",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-110",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "Do you plan to live there for a long time?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI think so. It’s convenient and fits my current needs well. As long as it continues to serve its purpose, I don’t see a reason to move anytime soon.\n\n【e人回答】\nProbably not. I love it here, but I’m always looking for something bigger or better. I guess I’ve got a bit of a wanderlust for new places and experiences.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-111",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "Can you describe the place where you live?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI live in a peaceful suburban neighborhood. It’s mostly residential, with tree-lined streets and small parks scattered around. My house is a medium-sized, modern home with a lovely backyard where I often spend my weekends gardening or just relaxing.\n\n【e人回答】\nMy apartment is right in the heart of the city, surrounded by bustling streets and vibrant nightlife. It’s a high-rise with a fantastic view of the skyline. Inside, it’s sleek and modern, with open spaces and minimalistic decor that really suit my taste.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-112",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "Do you prefer living in a house or an apartment?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI prefer living in a house because of the privacy and space it offers. Having a garden and a bit more room for my family is important to me. It feels more secluded and personal, which I really appreciate.\n\n【e人回答】\nI’m all for apartments, especially in the city. I love the convenience and the community aspect—there’s always something happening, and everything I need is just a stone's throw away. It’s lively and energetic, which matches my personality.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-113",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "Are the transport facilities to your home very good?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, the transportation facilities near my home are excellent. There’s a subway station just a few minutes walk away, and several bus lines run directly in front of my building. It makes commuting really convenient and stress-free.\n\n【e人回答】\nHonestly, not really. I live a bit out in the suburbs, so it's a bit of a trek to get to the nearest public transport. It’s definitely quieter out here, but you sacrifice a bit of convenience for the peace.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-114",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "What's your favorite room in your apartment or house？",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI'd have to say the bedroom is my favorite part of the house. It’s my personal space where I can really unwind and be myself. It's decorated exactly how I like it, which makes it the perfect retreat after a busy day. I just love how serene it feels.\n\n【e人回答】\nAbsolutely the bedroom! It’s where all my magic happens—from binge-watching my favorite shows to diving into a good book. It’s not just a place to sleep. It’s a whole vibe. You know, it’s like my little sanctuary where I recharge my batteries.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-115",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "What makes you feel pleasant in your home？",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nIt’s the sense of security and comfort that really makes me feel pleasant. Knowing that I have a quiet, safe place to return to at the end of the day is truly comforting. The soft, warm lighting and my collection of indoor plants add to the serene atmosphere.\n\n【e人回答】\nFor me, it’s all about the energy and vibes my home gives off. I love having bright colors around, and my walls are decorated with art that inspires me. Plus, having friends over for movie nights or dinner parties really makes the place feel alive and joyful.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-116",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "How long have you lived there?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI’ve lived here for about five years now. It’s become more than just a place to stay. It’s a home where I’ve made a lot of precious memories and built lasting friendships.\n\n【e人回答】\nOh, not too long—just a couple of months. But it feels like I’ve been here forever because I settled in so quickly. It’s really easy to make this space your own!",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-117",
+    "part": "Part 1",
+    "topic": "Home & Accommodation",
+    "title": "Do you think it is important to live in a comfortable environment？",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nAbsolutely, living in a comfortable environment is crucial for mental and physical well-being. It’s not just about having a nice place, but also creating a space where you can unwind, feel secure, and be productive. It affects how you feel every day.\n\n【e人回答】\nFor sure! A comfortable environment doesn’t just boost your mood. It inspires creativity and helps you recharge. Whether it’s through soft lighting, ample space, or just a clean layout, these elements make a big difference in daily life.\n\n【玩梗回答】\nOh, definitely! Imagine trying to relax in a chair that feels like it’s made of bricks, or trying to sleep in a room where the noise of the city never seems to stop. A comfy sofa and soundproof windows can save you from a lifetime of therapy!",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-118",
+    "part": "Part 1",
+    "topic": "Watch",
+    "title": "Do you wear a watch?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI actually don't wear a watch. I find that having a watch on my wrist is a bit distracting, and I prefer to check the time on my phone. It's just more convenient for me.\n\n【e人回答】\nYes, I do. I feel like wearing a watch is a great way to stay organized and it helps me keep track of time without always reaching for my phone. It’s kind of old-school, but I like it.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-119",
+    "part": "Part 1",
+    "topic": "Watch",
+    "title": "Have you ever got a watch as a gift?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I've received a watch as a gift once. It was a simple yet elegant piece from my parents on my graduation day. I cherish it not just because it's a beautiful accessory, but because it represents a significant milestone in my life.\n\n【e人回答】\nAbsolutely! Last year, I got an Apple Watch as a gift from my colleagues for my birthday. It was totally unexpected and honestly, awesome. It not only keeps me on schedule but also monitors my health stats, which is super cool. It's like having a personal assistant on my wrist, always keeping me connected and motivated.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-120",
+    "part": "Part 1",
+    "topic": "Watch",
+    "title": "Why do some people wear expensive watches?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nSome people see expensive watches as a status symbol. It's like, wearing a luxury watch can signal success and taste. Also, for some, it's about the craftsmanship and appreciation of the fine mechanics behind it.\n\n【e人回答】\nWell, besides showing off a bit, wearing an expensive watch is often about the love of the art and history associated with it. It's not just a timepiece. It's a piece of art that you can wear.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-121",
+    "part": "Part 1",
+    "topic": "Watch",
+    "title": "Do you think it is important to wear a watch? Why?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot really, I think it's more about personal preference. For me, my phone does all the work a watch would do, so wearing one isn’t necessary.\n\n【e人回答】\nYes, I think it’s important because it helps me be more punctual and it's a quick way to check the time without being rude by pulling out my phone during a conversation.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-122",
+    "part": "Part 1",
+    "topic": "Cars",
+    "title": "Do you think car colours are important?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I think car colours are important, but not in a very dramatic way. A car’s colour can show a bit of the owner’s personality, and it also affects how clean or noticeable the car looks. Personally, I prefer simple colours like white, grey, or black because they feel safe and timeless.\n\n【e人回答】\nYes, definitely. I think car colours can make a car look more stylish and memorable. For example, a bright red or blue car can really stand out on the road, while darker colours look more professional. So I’d say colour is part of the car’s image.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-123",
+    "part": "Part 1",
+    "topic": "Cars",
+    "title": "Did you enjoy traveling by car when you were a kid?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I really did. Traveling by car was like an adventure for me. Every time we got into the car, it felt like we were on a mission to discover something new. I loved looking out the window and imagining all kinds of stories about the places we passed.\n\n【e人回答】\nNot really, to be honest. When I was a kid, I used to get carsick a lot, so car trips weren't exactly my favorite. But, you know, I did enjoy the occasional stops at cool places. It wasn't all bad—getting a break to stretch and grab some fresh air made it bearable.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-124",
+    "part": "Part 1",
+    "topic": "Cars",
+    "title": "What types of cars do you like?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI tend to like cars that are reliable and fuel-efficient. For me, a car that gets me from point A to point B without any fuss and is kind to my wallet at the gas station is perfect.\n\n【e人回答】\nI'm all about sports cars! I love the sleek designs and the powerful engines that just beg to be driven.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-125",
+    "part": "Part 1",
+    "topic": "Cars",
+    "title": "Do you prefer to be a driver or a passenger?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI prefer being a driver because I enjoy having control over where and how I go. Plus, driving can be quite therapeutic—it's a good way to clear my mind.\n\n【e人回答】\nPassenger, for sure! I love being able to just sit back, relax, and enjoy the scenery—or nap! Let someone else handle the driving. I'm here for the ride.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-126",
+    "part": "Part 1",
+    "topic": "Cars",
+    "title": "What do you usually do when there is a traffic jam?",
+    "frequency": "高频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI usually listen to podcasts or music. It helps pass the time and makes the wait less frustrating. Sometimes, I'll also make phone calls to catch up with friends.\n\n【e人回答】\nI crank up the music and have my own little car karaoke session. Why waste a good traffic jam, right? It's a great opportunity to belt out those high notes without worrying about the neighbors!",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-127",
+    "part": "Part 1",
+    "topic": "Outer space and stars",
+    "title": "Have you ever learnt about outer space and stars?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I learnt a little about outer space and stars at school. I remember finding it both beautiful and a bit mysterious. Looking at pictures of galaxies made me feel very small, but in a peaceful way. It gave me a strong sense of wonder.\n\n【e人回答】\nYes, I have, mostly from documentaries and short videos online. I’m not an expert, but I find stars and planets really fascinating. Sometimes I watch space videos before bed, and then suddenly I’m thinking about the whole universe at midnight. It’s a fun rabbit hole to fall into.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-128",
+    "part": "Part 1",
+    "topic": "Outer space and stars",
+    "title": "Do you like science fiction movies? Why?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do, especially the ones that are thoughtful rather than just full of action. I like science fiction because it makes me think about the future, technology, and human choices. A good sci-fi movie can be exciting and meaningful at the same time. It really stays in my mind.\n\n【e人回答】\nYes, I really enjoy science fiction movies. They’re exciting, creative, and full of imagination. I love seeing futuristic cities, robots, spaceships, and all those wild ideas. They make ordinary life feel a little more exciting.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-129",
+    "part": "Part 1",
+    "topic": "Outer space and stars",
+    "title": "Do you want to know more about outer space?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do. I don’t need to know everything in a scientific way, but I’m curious about planets, stars, and whether life exists somewhere else. Learning about space makes me feel calm and curious at the same time. It opens up my imagination.\n\n【e人回答】\nDefinitely. Outer space is one of those topics that always makes people curious. I’d love to know more about planets, space travel, and maybe even aliens. It feels like there is always something new to discover.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-130",
+    "part": "Part 1",
+    "topic": "Outer space and stars",
+    "title": "Do you want to go into outer space in the future?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nHonestly, I’m curious, but I don’t think I’m brave enough. Outer space sounds amazing, but also a little scary. I’d rather watch it from Earth, where there is gravity, oxygen, and warm food. That feels more realistic for me.\n\n【e人回答】\nYes, if I had the chance, I’d love to try it once. Seeing Earth from space must be an unforgettable experience. I think it would completely change the way I see life. It sounds like a real once-in-a-lifetime experience.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-131",
+    "part": "Part 1",
+    "topic": "Social media",
+    "title": "When did you start using social media?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nWell, I think I started using social media around the time I entered high school. It was quite a new thing for me, and initially, I just used it to connect with my classmates and stay updated with school events.\n\n【e人回答】\nOh, I jumped on the social media bandwagon pretty early, like in middle school? Everyone was talking about it and it seemed like a cool way to keep up with friends and meet new people.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-132",
+    "part": "Part 1",
+    "topic": "Social media",
+    "title": "Do you think you spend too much time on social media?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nHonestly, sometimes I do feel like I spend too much time scrolling through feeds. It can be quite addictive, and I have to remind myself to take breaks and focus on more productive activities.\n\n【e人回答】\nAbsolutely! I mean, who doesn't spend half their life on Instagram or TikTok these days, right? But it's all good fun, and I love catching up with all the latest memes and trends.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-133",
+    "part": "Part 1",
+    "topic": "Social media",
+    "title": "Do your friends use social media?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, most of my friends are pretty active on social media. We often share updates, photos, and even support each other's posts. It's a great way to stay connected.\n\n【e人回答】\nOh, absolutely! We're all over it. Social media is our go-to for planning events, sharing jokes, and just hanging out online. It's like our modern-day town square.\n\n【玩梗回答】\nUse social media? They're practically social media influencers at this point. If they're not posting, they're commenting, and if they're not commenting, they're probably taking a break to actually live their lives. It's a full-time job!",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-134",
+    "part": "Part 1",
+    "topic": "Social media",
+    "title": "What do people often do on social media?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nPeople usually use social media for a variety of things: sharing news, watching videos, and connecting with friends and family. It's become a key part of how we communicate these days.\n\n【e人回答】\nOh, you know, the usual stuff: they post selfies, rant about their days, and share every meal they've ever eaten. It's all about showing off and keeping up with each other.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-135",
+    "part": "Part 1",
+    "topic": "Food",
+    "title": "What is your favourite food?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nMy favourite food is noodles, especially simple ones like soup noodles. I like food that’s warm and comforting, not too heavy. A bowl of noodles always helps me slow down and relax.\n\n【e人回答】\nI love spicy food, especially hot pot. I enjoy the strong flavours and the whole social experience. Eating hot pot with friends really brings people together.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-136",
+    "part": "Part 1",
+    "topic": "Food",
+    "title": "What kind of food did you like when you were young?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nWhen I was young, I preferred sweet and simple food, like cakes and bread. I didn’t really care about nutrition back then. I just ate whatever made me happy.\n\n【e人回答】\nAs a kid, I loved fried food and snacks. Chips, fried chicken — you name it. I was basically powered by junk food.\n\n【玩梗回答】\nWhen I was little, I liked food that came with toys. Honestly, I didn’t care what it tasted like. If it had a toy inside, it was automatically five-star cuisine.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-137",
+    "part": "Part 1",
+    "topic": "Food",
+    "title": "Has your favourite food changed since you were a child?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, definitely. I care more about health and balance now. Compared to the past, my taste has become much lighter.\n\n【e人回答】\nIt has changed a lot. I still enjoy snacks, but now I also appreciate real meals and different cuisines. My food choices are more mature now.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-138",
+    "part": "Part 1",
+    "topic": "Food",
+    "title": "Do you eat different foods at different times of the year?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do. In winter, I prefer hot and filling food, like soup or hot pot. In summer, I naturally go for lighter and cooler meals.\n\n【e人回答】\nDefinitely. My eating habits change with the weather. Cold drinks and salads in summer, and rich food in winter — it just feels right.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-139",
+    "part": "Part 1",
+    "topic": "Singing",
+    "title": "Do you like singing? Why?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do, though I usually sing when no one’s around. For me, it’s not really about being good at it – it’s more about expressing emotions and letting things out. It’s kind of therapeutic in a quiet way.\n\n【e人回答】\nOh yes, I love singing – especially in the shower or in the car. I’m not the best singer, but I enjoy it. It lifts my mood and helps me relax. Plus, sometimes it just feels good to sing your heart out.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-140",
+    "part": "Part 1",
+    "topic": "Singing",
+    "title": "Have you ever learnt how to sing?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNo, I’ve never taken formal lessons. I just sing for fun, usually when I’m by myself. I think singing is more about feeling than technique, at least for me.\n\n【e人回答】\nYeah, I took a few singing classes back in school. Nothing serious, just enough to learn the basics and not scare people at karaoke. It helped me feel a bit more confident when I sing in front of others.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-141",
+    "part": "Part 1",
+    "topic": "Singing",
+    "title": "Who do you want to sing for?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI think I’d like to sing for someone I care about, like a close friend or family member. Even if I don’t sing perfectly, I think they’d appreciate the feeling behind it. It’s about connection, not performance.\n\n【e人回答】\nHonestly? I’d love to sing for a crowd – maybe at a party or even karaoke night. I don’t mind if it’s not perfect. I just want to have fun and maybe get people to sing along.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-142",
+    "part": "Part 1",
+    "topic": "Singing",
+    "title": "Do you think singing can bring happiness to people?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, definitely. Singing helps release emotions and reduce stress. It’s one of those simple things that can instantly lift your mood, even if you’re just humming a tune.\n\n【e人回答】\nOh, totally! Singing brings people together. Whether it's karaoke with friends or singing at a birthday party, it always creates good vibes. It’s kind of like shared joy in musical form.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-143",
+    "part": "Part 1",
+    "topic": "Jokes & Comedies",
+    "title": "Are you good at telling jokes?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot really. I’m not the kind of person who can tell jokes naturally in front of a group. But sometimes I say something unintentionally funny, and people laugh. So I guess my humour is more accidental than planned.\n\n【e人回答】\nYes, I think I’m pretty good at it. I like making people laugh, especially when the atmosphere is a bit awkward. A small joke can break the ice and make everyone feel more relaxed.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-144",
+    "part": "Part 1",
+    "topic": "Jokes & Comedies",
+    "title": "Do your friends like to tell jokes?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, some of them do. I have a few friends who are naturally funny, and they can turn ordinary things into jokes. I really enjoy their humour because it makes conversations feel lighter.\n\n【e人回答】\nDefinitely. My friends love joking around, especially when we’re eating together or travelling. Sometimes one joke turns into a whole conversation, and then nobody remembers the original topic. That’s usually the best part.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-145",
+    "part": "Part 1",
+    "topic": "Jokes & Comedies",
+    "title": "Do you like to watch comedies?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do. I like comedies because they help me relax after a stressful day. I don’t need to think too much, I can just laugh and switch off for a while.\n\n【e人回答】\nYes, I love comedies, especially sitcoms. They’re easy to watch, and they usually put me in a good mood very quickly. A funny show can really lift my spirits.\n\n【玩梗回答】\nYes, I love comedies because life is already dramatic enough. I don’t need a movie to make me cry, my bank account does that for free. So I prefer shows that give me a good laugh.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-146",
+    "part": "Part 1",
+    "topic": "Jokes & Comedies",
+    "title": "Have you ever watched a live show?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I have watched a live music show before. It was not very big, but the atmosphere was warm and intimate. I liked hearing the performers sing right in front of me, because it felt more real than watching a video.\n\n【e人回答】\nYes, I’ve watched a live comedy show once, and it was really fun. The audience kept laughing together, which made the whole experience more exciting. Live shows are special because you can feel the energy in the room.\n\n【玩梗回答】\nYes, I once watched a live show, and I loved it. But I also panicked every time the performer looked in my direction, because I was afraid they’d pick me for audience interaction. I support comedy, but from a safe distance.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-147",
+    "part": "Part 1",
+    "topic": "Childhood activities",
+    "title": "What are your favourite activities?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nMy favourite activities are usually quiet and simple. I enjoy reading, walking alone, or just listening to music at home. These activities help me slow down and feel more connected to myself.\n\n【e人回答】\nI like activities that involve other people. Hanging out with friends, trying new food, or doing sports makes me feel energized. I enjoy activities that are social and interactive.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-148",
+    "part": "Part 1",
+    "topic": "Childhood activities",
+    "title": "What were your favourite activities when you were a child?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nWhen I was a child, I liked doing simple things with close friends. We talked, played small games, and shared snacks after school. Life felt much simpler back then.\n\n【e人回答】\nAs a child, I loved outdoor activities. I enjoyed running around, playing games, and exploring places near my home. Everything felt full of excitement. Childhood was basically non-stop fun.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-149",
+    "part": "Part 1",
+    "topic": "Childhood activities",
+    "title": "Did you prefer to do activities alone or with a group of people when you were a child?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI preferred doing activities with one or two close friends rather than big groups. It felt more comfortable and less stressful. I liked activities where I could feel relaxed.\n\n【e人回答】\nI preferred group activities when I was a child. Being around many people made things more fun and lively. I enjoyed the feeling of being part of a group.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-150",
+    "part": "Part 1",
+    "topic": "Childhood activities",
+    "title": "Are there any differences between the activities you liked when you were a child and those you like now?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, there are clear differences. As a child, I liked playful and energetic activities. Now I prefer calm activities that help me relax and think. My interests have become more inward.\n\n【e人回答】\nYes, my interests have changed a lot. When I was young, I focused on fun and excitement. Now I care more about growth and meaningful experiences. Activities now feel more purposeful.\n\n【玩梗回答】\nYes, there are huge differences. As a child, I played until I was tired. Now I get tired before I even start. Activities have changed because energy has changed.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-151",
+    "part": "Part 1",
+    "topic": "Building",
+    "title": "Are there tall buildings near your home?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, there are quite a few tall buildings near where I live. I don’t pay attention to them every day, but they make the area feel more modern. Sometimes I enjoy just looking up at them quietly.\n\n【e人回答】\nYes, there are many tall buildings around my place. They make the city feel lively and energetic. I actually like walking around and checking them out.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-152",
+    "part": "Part 1",
+    "topic": "Building",
+    "title": "Do you take photos of buildings?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot very often, but sometimes I do. I usually take photos when a building looks special or peaceful. I prefer simple shots rather than artistic ones.\n\n【e人回答】\nYes, I do, especially when travelling. I like capturing interesting designs and city views. It’s a fun way to remember a place.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-153",
+    "part": "Part 1",
+    "topic": "Building",
+    "title": "Is there a building that you would like to visit?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I’d like to visit a building with historical meaning. I enjoy quiet places where I can slow down and think. Old buildings have a strong sense of time.\n\n【e人回答】\nYes, I’d love to visit a famous modern building. I’m interested in architecture and creative design. It feels exciting to see something iconic in real life.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-154",
+    "part": "Part 1",
+    "topic": "Building",
+    "title": "Do you want to live in a tall building?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, but only on a lower floor. I like the convenience, but I also want to feel close to the ground. Too high makes me feel a bit disconnected.\n\n【e人回答】\nYes, I’d love to live in a tall building. The view is amazing, especially at night. It feels modern and a bit luxurious.\n\n【玩梗回答】\nI want to live in a tall building, but not too tall. High enough to enjoy the view, low enough so food delivery doesn’t hate me.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-155",
+    "part": "Part 1",
+    "topic": "Gifts",
+    "title": "What gift have you received recently?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nWell, I recently got an iPad from my parents for my birthday. It’s super useful because I love drawing, and now I can do all my sketches digitally. You know, it saves so much time compared to using paper. Plus, it’s like carrying a whole art studio in my bag.\n\n【e人回答】\nOh, I just got an iPad, and honestly, it’s been a game-changer. I use it for everything—drawing, watching movies, even making to-do lists. It’s like, how did I survive without it before? And the best part? No more running out of paper while sketching.\n\n【玩梗回答】\nOh, I got an iPad recently! At first, I was like, “Great, another screen to distract me.” But now, I’m obsessed. I mean, it’s so cool! I can draw on it, watch Netflix, and even pretend I’m super professional in coffee shops. Who needs paper anymore, right?",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-156",
+    "part": "Part 1",
+    "topic": "Gifts",
+    "title": "Have you ever sent handmade gifts to others?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYeah, I made a scrapbook for my best friend’s birthday last year. It was full of our photos and little notes. It took a lot of time, but I think she really liked it because it was so personal and special.\n\n【e人回答】\nOf course! Once, I knitted a scarf for my mom. It wasn’t exactly perfect—actually, it was full of little holes—but she said it was her favorite because I made it myself.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-157",
+    "part": "Part 1",
+    "topic": "Gifts",
+    "title": "Have you ever received a great gift?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I got an iPad from my parents recently, and I’d say it’s the best gift I’ve ever received. I love drawing, and now I can do everything digitally. It’s like they knew exactly what I needed!\n\n【e人回答】\nOh, for sure! My best friend once gave me a plane ticket to visit her. It was such an amazing surprise. I mean, who doesn’t want a free trip, right? We had the best time together, and it’s a memory I’ll never forget.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-158",
+    "part": "Part 1",
+    "topic": "Gifts",
+    "title": "What do you consider when choosing a gift?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI always think about what the person really likes. You know, it’s important to get something that’s meaningful to them. For example, if they enjoy reading, I’d pick a good book. It shows that you care about their interests.\n\n【e人回答】\nOh, I usually think about something practical. Like, one of my friends loves coffee, so I’d get him a fancy coffee grinder. It’s something he’d actually use and appreciate, you know?",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-159",
+    "part": "Part 1",
+    "topic": "Gifts",
+    "title": "Do you think you are good at choosing gifts?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI think I’m decent at it. I usually put a lot of thought into what the other person would like, and I try to pick something that matches their personality. But, you know, sometimes it’s hard to get it just right.\n\n【e人回答】\nOh, I’d say I’m pretty good! I love shopping for gifts—it’s like solving a fun little puzzle. You just figure out what they like and surprise them. It’s so satisfying to see their reaction!",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-160",
+    "part": "Part 1",
+    "topic": "Typing",
+    "title": "Do you prefer typing or handwriting?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI prefer typing, especially when I need to organize my thoughts. Typing feels faster and cleaner, and it helps me stay focused. Handwriting is nice sometimes, but only when I want to slow down.\n\n【e人回答】\nTyping, for sure. I like how quickly I can get ideas out without stopping. It just keeps the flow going, especially when I’m chatting or working online.\n\n【玩梗回答】\nTyping. My handwriting looks like a doctor’s prescription. Typing is the only way people can actually read what I mean.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-161",
+    "part": "Part 1",
+    "topic": "Typing",
+    "title": "Do you type on a desktop or laptop keyboard every day?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I use a laptop keyboard almost every day. I like the flexibility of working anywhere. It’s become part of my daily routine.\n\n【e人回答】\nEvery day. I switch between my laptop and desktop depending on what I’m doing. Typing is basically second nature to me now.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-162",
+    "part": "Part 1",
+    "topic": "Typing",
+    "title": "When did you learn how to type on a keyboard?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI learned to type properly in middle school. At first, I was slow and looked at the keyboard a lot. Over time, it just came naturally.\n\n【e人回答】\nI learned when I started using computers more often, probably in primary school. I didn’t take any lessons, I just practiced by chatting online. It was learn-as-you-go.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-163",
+    "part": "Part 1",
+    "topic": "Typing",
+    "title": "How do you improve your typing?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI improve my typing just by using it every day. Writing emails, notes, and messages really helps. Consistency is the key for me.\n\n【e人回答】\nI practice by chatting, typing fast, and sometimes playing typing games. I like turning it into something fun, so it doesn’t feel like practice. That’s how I pick up speed.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-164",
+    "part": "Part 1",
+    "topic": "Pets and Animals",
+    "title": "What's your favourite animal? Why?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nMy favourite animal is the cat. I like how independent and quiet they are, and they don’t need attention all the time. Being around cats makes me feel calm, and I really enjoy that peaceful vibe.\n\n【e人回答】\nI’m definitely a dog person. Dogs are friendly, energetic, and always happy to see you. I love how they can light up your day the moment you get home.\n\n【玩梗回答】\nMy favourite animal is the panda. It eats all day, sleeps whenever it wants, and still gets treated like a superstar. Honestly, that animal is living the dream.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-165",
+    "part": "Part 1",
+    "topic": "Pets and Animals",
+    "title": "Where do you prefer to keep your pet, indoors or outdoors?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI prefer to keep pets indoors. It feels safer, and I like having them around me at home. Also, it’s easier to keep an eye on them indoors.\n\n【e人回答】\nI’d rather keep pets outdoors, especially dogs. They need space to run around and burn off energy. Watching them run free just makes me happy.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-166",
+    "part": "Part 1",
+    "topic": "Pets and Animals",
+    "title": "Have you ever had a pet before?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I had a hamster when I was younger. It was quiet and easy to take care of, which suited me well. I still remember how it loved to hide food in its cheeks.\n\n【e人回答】\nI had a dog when I was in middle school. We went for walks every day and played together a lot. It was honestly one of the best memories of my childhood.\n\n【玩梗回答】\nYes, I had a fish. It didn’t make any noise, didn’t judge me, and didn’t need walking. Sadly, it lasted two weeks, so I guess I’m not a natural pet owner.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-167",
+    "part": "Part 1",
+    "topic": "Pets and Animals",
+    "title": "What is the most popular animal in China?",
+    "frequency": "中频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI think the panda is the most popular animal in China. It’s a national symbol and loved by people of all ages. Almost everyone finds pandas adorable.\n\n【e人回答】\nDogs are extremely popular as well, especially in cities. Many people treat dogs like family members and enjoy posting photos online. Dogs are just part of daily life now.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-168",
+    "part": "Part 1",
+    "topic": "Life stages",
+    "title": "Do you enjoy being the age you are now?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do, because I feel more stable and clear about myself. I don’t rush things as much as before, and I’m more comfortable with who I am. This stage of life feels more balanced.\n\n【e人回答】\nYes, I enjoy it a lot. I have more freedom and confidence now, and I’m willing to try new things. It feels like a time to explore life.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-169",
+    "part": "Part 1",
+    "topic": "Life stages",
+    "title": "What did you often do with your friends in your childhood?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nWhen I was a child, I often played simple games with my friends. We talked, shared snacks, and spent time together after school. Life felt easy and carefree back then.\n\n【e人回答】\nI used to go outside a lot with my friends. We played sports, ran around, and sometimes just talked for hours. Everything felt full of energy.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-170",
+    "part": "Part 1",
+    "topic": "Life stages",
+    "title": "What do you think is the most important at the moment?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nAt the moment, I think mental balance is the most important. Life can be stressful, so staying calm and healthy matters a lot. I really value inner peace now.\n\n【e人回答】\nI think growth is the most important right now. Learning new skills and gaining experience help me feel confident about the future. I want to keep moving forward.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-171",
+    "part": "Part 1",
+    "topic": "Life stages",
+    "title": "Do you have any plans for the next five years?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI have some general plans, but nothing too detailed. I want to grow steadily and make better choices for myself. I prefer to take things step by step.\n\n【e人回答】\nYes, I do have plans for the next five years. I want to improve my career, try new experiences, and build a better life. I’m excited about what’s ahead of me.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-172",
+    "part": "Part 1",
+    "topic": "Life stages",
+    "title": "How do people remember each stage of their lives?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI think people remember life stages through emotions rather than details. Certain feelings or moments stay with us for a long time. Memories are often emotion-based.\n\n【e人回答】\nPeople usually remember stages of life through events and people. Friends, places, and big changes leave strong impressions. These memories often shape who we are.\n\n【玩梗回答】\nPeople remember life stages by photos and embarrassing stories. If there’s no photo, did it really happen? Our memory works closely with social media now.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-173",
+    "part": "Part 1",
+    "topic": "Life stages",
+    "title": "At what age do you think people are the happiest?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI think happiness depends more on mindset than age. Some people are happiest when they feel content and calm. It’s really about how you see life.\n\n【e人回答】\nI think people might feel happiest when they have both energy and freedom, maybe in young adulthood. Life feels full of possibilities at that time. Everything seems open-ended.\n\n【玩梗回答】\nI think people are happiest at different ages on different days. One day you love being young, the next day you want a nap and no responsibilities. Happiness is very temporary.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-174",
+    "part": "Part 1",
+    "topic": "Sports team",
+    "title": "Have you ever been part of a sports team?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I have, but it was a long time ago at school. I wasn’t very competitive, but I liked the feeling of being part of a group. It taught me how to fit in and support others.\n\n【e人回答】\nYes, I’ve been part of a team before, and I really enjoyed it. Training together and sharing goals made the experience fun. Team sports always make things feel more connected.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-175",
+    "part": "Part 1",
+    "topic": "Sports team",
+    "title": "Are team sports popular in your culture?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, team sports are quite popular in my culture, especially among young people and students. Many people see them as a way to stay healthy and socialize at the same time. It’s not only about competition, but also about building relationships.\n\n【e人回答】\nDefinitely. Sports like basketball and football are very common, and people love playing them together. Even people who don’t play often enjoy watching and discussing games. Team sports have become a big part of our social life.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-176",
+    "part": "Part 1",
+    "topic": "Sports team",
+    "title": "Do you like watching team games? Why?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do like watching team games, but mainly important ones. I enjoy observing teamwork and strategy rather than pure excitement. Watching meaningful games helps me feel involved without being overstimulated.\n\n【e人回答】\nYes, I really enjoy watching team games, especially with friends. The atmosphere is exciting, and emotions are shared instantly. Cheering together makes the experience much more enjoyable.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-177",
+    "part": "Part 1",
+    "topic": "Sports team",
+    "title": "What are the differences between team sports and individual sports?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI think the biggest difference is responsibility. In team sports, responsibility is shared, so you don’t feel alone when things go wrong. Individual sports depend more on self-discipline and personal motivation.\n\n【e人回答】\nTeam sports focus more on cooperation and communication, while individual sports focus on personal performance. One teaches you how to work with others, and the other pushes you to improve yourself. Both are important for personal development.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-178",
+    "part": "Part 1",
+    "topic": "Walking",
+    "title": "Do you walk a lot?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do, but mostly on my own. Walking helps me clear my head and slow things down a bit. It’s kind of my go-to way to relax after a long day.\n\n【e人回答】\nYeah, I walk a lot, especially when I’m out with friends. We’ll walk, talk, grab snacks, and just enjoy the vibe. It’s a nice way to stay active without trying too hard.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-179",
+    "part": "Part 1",
+    "topic": "Walking",
+    "title": "Did you often go outside to have a walk when you were a child?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, quite often. My parents liked taking me out after dinner. It was a simple routine, but it helped me wind down before bedtime.\n\n【e人回答】\nDefinitely. As a kid, I was always outside, running or walking around the neighborhood. Staying indoors felt boring back then. We were always on the move.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-180",
+    "part": "Part 1",
+    "topic": "Walking",
+    "title": "Why do people like to walk in parks?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nBecause parks are quiet and full of greenery. Walking there feels refreshing and calming. It’s a great way to take a break from city noise.\n\n【e人回答】\nParks are open, relaxing, and good for socializing. People can walk, chat, or exercise at the same time. It’s easy and good for both body and mind.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-181",
+    "part": "Part 1",
+    "topic": "Walking",
+    "title": "Where would you like to take a long walk if you had the chance?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI’d love to take a long walk by the seaside. Walking with the sound of waves feels peaceful. It’s the kind of place where I can be alone with my thoughts.\n\n【e人回答】\nI’d like to walk in a foreign city, just exploring the streets. Discovering new places while walking feels exciting. I love that sense of small adventure.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-182",
+    "part": "Part 1",
+    "topic": "Walking",
+    "title": "Where did you go for a walk lately?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nRecently, I walked around my neighborhood in the evening. It was quiet and familiar, which I liked. Sometimes simple walks do the job.\n\n【e人回答】\nI went for a walk near a shopping area last weekend. There were lights, people, and music. It felt lively and helped me reset my mood.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-183",
+    "part": "Part 1",
+    "topic": "Morning time",
+    "title": "Do you like getting up early in the morning?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nTo be honest, not really. I enjoy quiet mornings, but only if I wake up naturally. If I’m forced to get up early, I feel half asleep for hours.\n\n【e人回答】\nYes, I actually like getting up early. It makes me feel productive and ready for the day. When I start early, I feel like I’m ahead of everyone else.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-184",
+    "part": "Part 1",
+    "topic": "Morning time",
+    "title": "What do you usually do in the morning?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI usually keep my mornings simple. I wash up, grab my breakfast, and spend a few minutes getting my thoughts together. I like easing into the day.\n\n【e人回答】\nMy mornings are pretty busy. I check my phone, reply to messages, and get ready quickly. I like starting the day full of energy.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-185",
+    "part": "Part 1",
+    "topic": "Morning time",
+    "title": "What did you do in the morning when you were little? Why?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nWhen I was little, my mornings were very structured. I got up early, had breakfast, and went to school on time. It was mainly because my parents were quite strict.\n\n【e人回答】\nAs a kid, mornings were always rushed. I’d wake up late, grab breakfast, and run out the door. School schedules basically forced me to move fast.\n\n【玩梗回答】\nWhen I was little, my morning job was trying to finish homework I forgot the night before. That’s why mornings were stressful — I was living on the edge at 7 a.m.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-186",
+    "part": "Part 1",
+    "topic": "Morning time",
+    "title": "Are there any differences between what you do in the morning now and what you did in the past?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, definitely. Now my mornings are much calmer and more flexible. In the past, everything was scheduled, but now I can set my own pace.\n\n【e人回答】\nFor sure. My mornings now are more efficient. When I was younger, I moved slowly, but now I’m more goal-oriented.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-187",
+    "part": "Part 1",
+    "topic": "Morning time",
+    "title": "Do you spend your mornings doing the same things on both weekends and weekdays? Why?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot really. On weekdays, my mornings are more routine-based. On weekends, I slow things down and enjoy a more relaxed start.\n\n【e人回答】\nThey’re quite different. Weekday mornings are all about efficiency, while weekends are for sleeping in and enjoying breakfast. I like switching gears between them.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-188",
+    "part": "Part 1",
+    "topic": "Scenery",
+    "title": "Do you look out the window at the scenery when travelling by bus or car?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do, almost all the time. Looking out the window helps me relax and clear my mind. I like watching the scenery slowly pass by, it feels very therapeutic.\n\n【e人回答】\nDefinitely. I enjoy looking outside, especially when I’m travelling somewhere new. I like pointing things out and chatting about them. It makes the trip feel more alive.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-189",
+    "part": "Part 1",
+    "topic": "Scenery",
+    "title": "Do you prefer the mountains or the sea?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI prefer the mountains. They’re quiet and peaceful, and being there helps me slow down. I really enjoy that sense of calm.\n\n【e人回答】\nI’m more of a sea person. I love the sound of waves and the open view. The sea makes me feel free and energized.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-190",
+    "part": "Part 1",
+    "topic": "Scenery",
+    "title": "Do you like to take scenery pictures?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, but I don’t take too many. I prefer enjoying the moment instead of taking photos all the time. Sometimes I just keep it in my memory.\n\n【e人回答】\nYes, I love taking scenery photos. I like capturing beautiful moments and sharing them online. It’s a fun way to save memories.\n\n【玩梗回答】\nYes, but the scenery always looks better in real life. Somehow the sky is less blue, and the mountain looks confused. So I mostly take pictures to prove I was actually there.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-191",
+    "part": "Part 1",
+    "topic": "Scenery",
+    "title": "What are the most beautiful sights you have seen while travelling?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nThe most beautiful sight I’ve seen was a quiet lake surrounded by mountains. Everything was still and peaceful. It felt like time stood still.\n\n【e人回答】\nI’d say it was a coastal sunset. The sky changed colors, and the sea reflected the light. It was absolutely breathtaking.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-192",
+    "part": "Part 1",
+    "topic": "Memory",
+    "title": "Are you good at memorising things?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nHonestly, not really. I mean, I can remember random things, like the lyrics to a song I heard once, but I always forget where I put my phone. It’s like my brain is a selective memory machine. It remembers what it wants and ignores the rest.\n\n【e人回答】\nActually, yeah, I think I’m pretty good at memorizing things. I used to ace all the vocabulary tests in school. But these days, it’s mostly just my friends’ birthdays. You know, the essentials.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-193",
+    "part": "Part 1",
+    "topic": "Memory",
+    "title": "Have you ever forgotten something important?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, absolutely. I once forgot my best friend’s birthday. It was so embarrassing. I ended up texting her a huge apology and sending her a surprise gift. Since then, I’ve set reminders for every birthday on my phone.\n\n【e人回答】\nOh, definitely. I once forgot my hard drive at home when I was supposed to give a presentation at school. I had to improvise with nothing but a few slides I remembered. It was a disaster, but also kind of funny looking back.\n\n【玩梗回答】\nForgot something important? Oh, absolutely. I once forgot my phone when I went out for dinner. I had to spend the whole meal pretending I wasn’t hungry while secretly hoping my friend would pay. Spoiler: They did. Friendship saved.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-194",
+    "part": "Part 1",
+    "topic": "Memory",
+    "title": "What do you need to remember in your daily life?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nMostly basic things—like my phone, and to drink enough water. I also try to remember important dates, like family birthdays, but I rely on my phone for that.\n\n【e人回答】\nI have to remember my schedule, my appointments, and sometimes even what I need to buy at the grocery store. I guess my memory is a mix of important stuff and random things I suddenly think of.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-195",
+    "part": "Part 1",
+    "topic": "Memory",
+    "title": "How do you remember important things?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI usually set reminders on my phone. If it’s really important, I might write it down on a sticky note and put it somewhere I can’t miss, like my bathroom mirror.\n\n【e人回答】\nHow do I remember important things? Oh, I don’t. I rely entirely on my phone. I set so many reminders that my phone basically nags me like a digital mom. “Did you drink water? Did you pay your bills? Don’t forget your appointment!” I’m just one missed notification away from chaos.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-196",
+    "part": "Part 1",
+    "topic": "Reading",
+    "title": "Do you like reading?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I do, especially when I want some quiet time. Reading helps me slow down and focus on my own thoughts. It feels like a good way to escape the noise of daily life.\n\n【e人回答】\nI like reading, but it depends on the book. If the topic is interesting, I can read for hours. A good book can really pull me in.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-197",
+    "part": "Part 1",
+    "topic": "Reading",
+    "title": "Do you prefer to read on paper or on a screen?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI prefer reading on paper. It feels more real and less distracting. I can focus better without notifications popping up.\n\n【e人回答】\nI prefer reading on a screen because it’s convenient. I can read anytime, anywhere on my phone. Plus, it’s easy to switch between apps.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-198",
+    "part": "Part 1",
+    "topic": "Reading",
+    "title": "When do you need to read carefully, and when not?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI read carefully when it’s something important, like work documents or instructions. But for casual things, I just get the main idea.\n\n【e人回答】\nIf it affects my work or study, I read every word. But when it’s news or social media, I usually skim. I don’t want to overthink everything.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-199",
+    "part": "Part 1",
+    "topic": "Reading",
+    "title": "Do you prefer scanning or detailed reading?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI prefer detailed reading when the content is meaningful. I like understanding things deeply. For me, reading is not just about speed, but about quality over quantity.\n\n【e人回答】\nI usually scan first and then decide if I want to read more. Scanning helps me save time and stay efficient. It’s a very practical habit.\n\n【玩梗回答】\nI scan most of the time. If the first paragraph doesn’t impress me, I’m out. Life is short, and my patience is even shorter.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-200",
+    "part": "Part 1",
+    "topic": "Hobby",
+    "title": "Do you have any hobbies?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I'm actually quite good at drawing. It's something I've been doing since I was a kid, and I really enjoy the process of bringing my ideas to life on drawing. It's kind of my way to unwind and express myself creatively.\n\n【e人回答】\nOh absolutely! I'm really into playing the guitar and hiking. There's something about strumming chords that's just so relaxing, and hitting the trails lets me clear my head. Plus, you never know what kind of wildlife you're going to bump into!",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-201",
+    "part": "Part 1",
+    "topic": "Hobby",
+    "title": "Did you have any hobbies when you were a child?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI did, actually. I used to collect stamps. It was fascinating to see all the different designs from around the world. It felt like I was going on a global adventure without leaving my room.\n\n【e人回答】\nAbsolutely! I was all about building model airplanes. You know, my room was like a miniature airport, with planes hanging from the ceiling and all. I think I just loved the idea of flying.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-202",
+    "part": "Part 1",
+    "topic": "Hobby",
+    "title": "Do you have a hobby that you've had since childhood?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYes, I've been drawing since I was a kid. It started with simple doodles and now I like to sketch landscapes and portraits. It's a way for me to express myself and unwind after a long day.\n\n【e人回答】\nDefinitely! I've been playing soccer since I can remember. It’s more than just a hobby for me. It's a part of my life. I love the thrill of scoring a goal and the camaraderie with my teammates.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-203",
+    "part": "Part 1",
+    "topic": "Hobby",
+    "title": "Do you have the same hobbies as your family members?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【原文回答】\nNot really, my hobbies are quite different from my family’s. They’re into more outdoorsy stuff like fishing and hiking, while I prefer more indoor activities like drawing and reading.\n\n【原文回答】\nYes, we all have a thing for movies. Whether it's going to the cinema or binge-watching series at home, we all enjoy it. It's great because we always have something to talk about.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-204",
+    "part": "Part 1",
+    "topic": "Crowded place",
+    "title": "Is the city where you live crowded?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYeah, it is pretty packed, especially during rush hour. I try to avoid going out at those times if I can. Honestly, I prefer peace and quiet, so sometimes the crowds make me feel a bit overwhelmed.\n\n【e人回答】\nOh totally, it’s super crowded, but that’s part of the charm! There's always something going on—street food stalls, performances, music. It’s noisy but kind of exciting at the same time.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-205",
+    "part": "Part 1",
+    "topic": "Crowded place",
+    "title": "Is there a crowded place near where you live?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nYeah, there’s a night market just down the street. It’s always packed with people, especially on weekends. I sometimes go there for snacks, but not for too long—it gets overwhelming quickly.\n\n【e人回答】\nDefinitely! There’s a huge shopping mall nearby, and it’s packed 24 hours per day, 7 days per week. It’s like the whole city decided to hang out in one building. Great place to people-watch and grab bubble tea.\n\n【玩梗回答】\nYep, there’s a corner near my house that’s always crowded—for no reason! I swear, it could be a brick wall and somehow people would still line up to take selfies with it. Maybe it’s the vibes. Or maybe it’s cursed. I don’t ask.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-206",
+    "part": "Part 1",
+    "topic": "Crowded place",
+    "title": "Do you like crowded places?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nNot really. I find big crowds kind of draining. I usually prefer quieter places where I can think and breathe. Crowds just make me feel like I need to go home and lie down immediately.\n\n【e人回答】\nYeah, I kinda enjoy them! Crowded places usually mean fun stuff is happening—food, music, people chatting. It feels alive, you know? Of course, not when I’m in a hurry though. Then it’s just... traffic with legs.\n\n【玩梗回答】\nDo I like crowded places? Let’s say, if I wanted to feel hot, sweaty, and slightly annoyed while standing next to a stranger breathing into my ear... I’d just ride the subway. Again. At 6 PM. For fun.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-207",
+    "part": "Part 1",
+    "topic": "Crowded place",
+    "title": "Do most people like crowded places?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nI think it depends. Some people enjoy the energy and noise, but others feel anxious when it’s too crowded. Personally, I believe many people like crowds only in small doses.\n\n【e人回答】\nYeah, I think most people enjoy a crowd when it’s for a fun reason, like a concert or festival. It’s all about the vibe. But no one likes a crowd when they’re running late, right?\n\n【e人回答】\nDo most people like crowded places? Only if it’s a hotpot restaurant with a 2-hour wait. Then suddenly everyone’s like, “Wow! This must be so good.” I guess we all trust the power of the crowd more than our own brains.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p1-208",
+    "part": "Part 1",
+    "topic": "Crowded place",
+    "title": "When was the last time you were in a crowded place?",
+    "frequency": "低频",
+    "type": "具体问题",
+    "region": "大陆",
+    "hint": "腾讯文档原文回答；如有多个版本，可选择更适合自己的一个练习。",
+    "keywords": [],
+    "answer": "【i人回答】\nIt was last weekend. I went to the cinema, and it was so packed I almost gave up buying popcorn. The line was like a mini roller coaster, twisting around the lobby.\n\n【e人回答】\nLast weekend! I was at a live music event in the park. There were people dancing, singing, eating... even dogs were vibing. It was chaotic but fun.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-1",
@@ -1519,13 +2719,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a person who is good at learning languages. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "What I really like about Summer is that she is not only smart, but also very kind. Even when she was good at many things, she never made me feel less confident. When I had problems with study or life, she would explain things to me patiently. You know, being with her always felt easy and comfortable.\n\nAfter she got her results from the national college entrance exam, they weren’t as high as she had hoped. She could still go to university, but it wouldn’t be the one she truly wanted. At that point, she really didn’t want to try again. She was exhausted and nervous just thinking about another year of high-pressure study, and she kept saying things like, “What if I try again and still fail?”\n\nIn the end, everything turned out much better than we expected. She managed to overcome the difficulties and finally achieved her goal. This result not only changed her life, but also made everyone around her feel proud and happy.\n\nWe decided to go there because both of us needed a quiet place to review our lessons. Well, at first, we thought the library would be perfect. It had comfortable seats, bright lights, and a serious study atmosphere. We even planned to stay there for several hours and finish a lot of work.\n\nSo, looking back on this experience, I feel really proud and grateful. I would say it taught me that challenges are not something to be afraid of. Instead, they are opportunities to grow and become stronger. Anyway, this experience has had a lasting impact on me, and I believe it will always stay in my memory.\n\nHonestly, I felt surprisingly good about it. Being completely cut off from the internet forced me to slow down and really concentrate. It reminded me what it’s like to study without constant distractions. By the time we left, I actually felt calmer and more productive than usual. So even though I wasn’t allowed to use my phone, I realized that sometimes being disconnected is exactly what we need. It was a small but eye-opening experience for me.\n\nI truly believe that having someone to guide and support you makes a huge difference when learning a language. Through HelloTalk, I’ve seen how language exchange can help people learn in a more natural way.\n\nBut I advised her to retake the exam and spend another year preparing intensely. So, I told her, “If you think you can do better, you should try again. Wouldn’t you rather be somewhere you truly like, studying what you really love?” I encouraged her to give herself one more chance instead of settling for something she would regret later.\n\nSo, my cousin, Summer, recommended an app called HelloTalk to me, which is a language exchange app where you can talk to people from different countries. After using it for a while, I realized that many people are actually interested in learning Chinese.\n\nIt’s about mutual learning and connection. I can help others improve their Chinese, while also improving my own English in a real-life setting. For me, it’s the perfect balance between work, learning, and cultural exchange.\n\nWithout my phone, I had no choice but to focus. I couldn’t check messages, scroll through social media, or look anything up online. For those few hours, all I did was read books and go through my notes. At first, it felt a bit uncomfortable, because I’m so used to reaching for my phone whenever I get bored. But after a while, I started to notice how quiet my mind became, and how much more focused I was.\n\nIt was right after my cousin, Summer, received her results from the national college entrance exam. It was a very stressful and emotional period for her. Normally, she’s confident and determined, but at that moment, she was clearly shaken and unsure about what to do next.\n\nAt that time, she was going through a very stressful period in her life. You know, she felt really nervous and unsure about what to do next. Well, normally, she’s a confident person, but in that moment, I felt that she seemed to lose her confidence and started to doubt herself.\n\nThe person I want to talk about is my cousin, Summer. We’re very close, and we basically grew up together, so I’ve known her my whole life. Over the years, we’ve spent a lot of time together, sharing our daily lives and supporting each other.\n\nOur families were also quite close, so we spent a lot of time together from the very beginning. To be honest, I don’t even remember exactly when we first met, because she has always been a part of my life.\n\nI helped those who want to learn Chinese, especially with speaking and daily conversation. It was more about practicing oral Chinese, correcting simple mistakes, and giving them confidence to speak.\n\nAfter thinking carefully, she made an important decision to keep trying instead of giving up. She decided to work harder and spend more time preparing for the future. Even though it wasn’t an easy choice, she believed that putting in more effort would give her a better chance to succeed.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-2",
@@ -1543,13 +2740,10 @@ window.SPEAKING_DATA = [
       "What did you do for the change?",
       "And explain how you feel about the change."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a recent change. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "What I really like about Summer is that she is not only smart, but also very kind. Even when she was good at many things, she never made me feel less confident. When I had problems with study or life, she would explain things to me patiently. You know, being with her always felt easy and comfortable.\n\nAfter she got her results from the national college entrance exam, they weren’t as high as she had hoped. She could still go to university, but it wouldn’t be the one she truly wanted. At that point, she really didn’t want to try again. She was exhausted and nervous just thinking about another year of high-pressure study, and she kept saying things like, “What if I try again and still fail?”\n\nIn the end, everything turned out much better than we expected. She managed to overcome the difficulties and finally achieved her goal. This result not only changed her life, but also made everyone around her feel proud and happy.\n\nWe decided to go there because both of us needed a quiet place to review our lessons. Well, at first, we thought the library would be perfect. It had comfortable seats, bright lights, and a serious study atmosphere. We even planned to stay there for several hours and finish a lot of work.\n\nSo, looking back on this experience, I feel really proud and grateful. I would say it taught me that challenges are not something to be afraid of. Instead, they are opportunities to grow and become stronger. Anyway, this experience has had a lasting impact on me, and I believe it will always stay in my memory.\n\nHonestly, I felt surprisingly good about it. Being completely cut off from the internet forced me to slow down and really concentrate. It reminded me what it’s like to study without constant distractions. By the time we left, I actually felt calmer and more productive than usual. So even though I wasn’t allowed to use my phone, I realized that sometimes being disconnected is exactly what we need. It was a small but eye-opening experience for me.\n\nI truly believe that having someone to guide and support you makes a huge difference when learning a language. Through HelloTalk, I’ve seen how language exchange can help people learn in a more natural way.\n\nBut I advised her to retake the exam and spend another year preparing intensely. So, I told her, “If you think you can do better, you should try again. Wouldn’t you rather be somewhere you truly like, studying what you really love?” I encouraged her to give herself one more chance instead of settling for something she would regret later.\n\nSo, my cousin, Summer, recommended an app called HelloTalk to me, which is a language exchange app where you can talk to people from different countries. After using it for a while, I realized that many people are actually interested in learning Chinese.\n\nIt’s about mutual learning and connection. I can help others improve their Chinese, while also improving my own English in a real-life setting. For me, it’s the perfect balance between work, learning, and cultural exchange.\n\nWithout my phone, I had no choice but to focus. I couldn’t check messages, scroll through social media, or look anything up online. For those few hours, all I did was read books and go through my notes. At first, it felt a bit uncomfortable, because I’m so used to reaching for my phone whenever I get bored. But after a while, I started to notice how quiet my mind became, and how much more focused I was.\n\nIt was right after my cousin, Summer, received her results from the national college entrance exam. It was a very stressful and emotional period for her. Normally, she’s confident and determined, but at that moment, she was clearly shaken and unsure about what to do next.\n\nAt that time, she was going through a very stressful period in her life. You know, she felt really nervous and unsure about what to do next. Well, normally, she’s a confident person, but in that moment, I felt that she seemed to lose her confidence and started to doubt herself.\n\nThe person I want to talk about is my cousin, Summer. We’re very close, and we basically grew up together, so I’ve known her my whole life. Over the years, we’ve spent a lot of time together, sharing our daily lives and supporting each other.\n\nOur families were also quite close, so we spent a lot of time together from the very beginning. To be honest, I don’t even remember exactly when we first met, because she has always been a part of my life.\n\nI helped those who want to learn Chinese, especially with speaking and daily conversation. It was more about practicing oral Chinese, correcting simple mistakes, and giving them confidence to speak.\n\nAfter thinking carefully, she made an important decision to keep trying instead of giving up. She decided to work harder and spend more time preparing for the future. Even though it wasn’t an easy choice, she believed that putting in more effort would give her a better chance to succeed.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-3",
@@ -1567,13 +2761,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a useful app. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "What I really like about Summer is that she is not only smart, but also very kind. Even when she was good at many things, she never made me feel less confident. When I had problems with study or life, she would explain things to me patiently. You know, being with her always felt easy and comfortable.\n\nAfter she got her results from the national college entrance exam, they weren’t as high as she had hoped. She could still go to university, but it wouldn’t be the one she truly wanted. At that point, she really didn’t want to try again. She was exhausted and nervous just thinking about another year of high-pressure study, and she kept saying things like, “What if I try again and still fail?”\n\nIn the end, everything turned out much better than we expected. She managed to overcome the difficulties and finally achieved her goal. This result not only changed her life, but also made everyone around her feel proud and happy.\n\nWe decided to go there because both of us needed a quiet place to review our lessons. Well, at first, we thought the library would be perfect. It had comfortable seats, bright lights, and a serious study atmosphere. We even planned to stay there for several hours and finish a lot of work.\n\nSo, looking back on this experience, I feel really proud and grateful. I would say it taught me that challenges are not something to be afraid of. Instead, they are opportunities to grow and become stronger. Anyway, this experience has had a lasting impact on me, and I believe it will always stay in my memory.\n\nHonestly, I felt surprisingly good about it. Being completely cut off from the internet forced me to slow down and really concentrate. It reminded me what it’s like to study without constant distractions. By the time we left, I actually felt calmer and more productive than usual. So even though I wasn’t allowed to use my phone, I realized that sometimes being disconnected is exactly what we need. It was a small but eye-opening experience for me.\n\nI truly believe that having someone to guide and support you makes a huge difference when learning a language. Through HelloTalk, I’ve seen how language exchange can help people learn in a more natural way.\n\nBut I advised her to retake the exam and spend another year preparing intensely. So, I told her, “If you think you can do better, you should try again. Wouldn’t you rather be somewhere you truly like, studying what you really love?” I encouraged her to give herself one more chance instead of settling for something she would regret later.\n\nSo, my cousin, Summer, recommended an app called HelloTalk to me, which is a language exchange app where you can talk to people from different countries. After using it for a while, I realized that many people are actually interested in learning Chinese.\n\nIt’s about mutual learning and connection. I can help others improve their Chinese, while also improving my own English in a real-life setting. For me, it’s the perfect balance between work, learning, and cultural exchange.\n\nWithout my phone, I had no choice but to focus. I couldn’t check messages, scroll through social media, or look anything up online. For those few hours, all I did was read books and go through my notes. At first, it felt a bit uncomfortable, because I’m so used to reaching for my phone whenever I get bored. But after a while, I started to notice how quiet my mind became, and how much more focused I was.\n\nIt was right after my cousin, Summer, received her results from the national college entrance exam. It was a very stressful and emotional period for her. Normally, she’s confident and determined, but at that moment, she was clearly shaken and unsure about what to do next.\n\nAt that time, she was going through a very stressful period in her life. You know, she felt really nervous and unsure about what to do next. Well, normally, she’s a confident person, but in that moment, I felt that she seemed to lose her confidence and started to doubt herself.\n\nThe person I want to talk about is my cousin, Summer. We’re very close, and we basically grew up together, so I’ve known her my whole life. Over the years, we’ve spent a lot of time together, sharing our daily lives and supporting each other.\n\nOur families were also quite close, so we spent a lot of time together from the very beginning. To be honest, I don’t even remember exactly when we first met, because she has always been a part of my life.\n\nI helped those who want to learn Chinese, especially with speaking and daily conversation. It was more about practicing oral Chinese, correcting simple mistakes, and giving them confidence to speak.\n\nAfter thinking carefully, she made an important decision to keep trying instead of giving up. She decided to work harder and spend more time preparing for the future. Even though it wasn’t an easy choice, she believed that putting in more effort would give her a better chance to succeed.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-4",
@@ -1591,13 +2782,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with an important decision. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "What I really like about Summer is that she is not only smart, but also very kind. Even when she was good at many things, she never made me feel less confident. When I had problems with study or life, she would explain things to me patiently. You know, being with her always felt easy and comfortable.\n\nAfter she got her results from the national college entrance exam, they weren’t as high as she had hoped. She could still go to university, but it wouldn’t be the one she truly wanted. At that point, she really didn’t want to try again. She was exhausted and nervous just thinking about another year of high-pressure study, and she kept saying things like, “What if I try again and still fail?”\n\nIn the end, everything turned out much better than we expected. She managed to overcome the difficulties and finally achieved her goal. This result not only changed her life, but also made everyone around her feel proud and happy.\n\nWe decided to go there because both of us needed a quiet place to review our lessons. Well, at first, we thought the library would be perfect. It had comfortable seats, bright lights, and a serious study atmosphere. We even planned to stay there for several hours and finish a lot of work.\n\nSo, looking back on this experience, I feel really proud and grateful. I would say it taught me that challenges are not something to be afraid of. Instead, they are opportunities to grow and become stronger. Anyway, this experience has had a lasting impact on me, and I believe it will always stay in my memory.\n\nHonestly, I felt surprisingly good about it. Being completely cut off from the internet forced me to slow down and really concentrate. It reminded me what it’s like to study without constant distractions. By the time we left, I actually felt calmer and more productive than usual. So even though I wasn’t allowed to use my phone, I realized that sometimes being disconnected is exactly what we need. It was a small but eye-opening experience for me.\n\nI truly believe that having someone to guide and support you makes a huge difference when learning a language. Through HelloTalk, I’ve seen how language exchange can help people learn in a more natural way.\n\nBut I advised her to retake the exam and spend another year preparing intensely. So, I told her, “If you think you can do better, you should try again. Wouldn’t you rather be somewhere you truly like, studying what you really love?” I encouraged her to give herself one more chance instead of settling for something she would regret later.\n\nSo, my cousin, Summer, recommended an app called HelloTalk to me, which is a language exchange app where you can talk to people from different countries. After using it for a while, I realized that many people are actually interested in learning Chinese.\n\nIt’s about mutual learning and connection. I can help others improve their Chinese, while also improving my own English in a real-life setting. For me, it’s the perfect balance between work, learning, and cultural exchange.\n\nWithout my phone, I had no choice but to focus. I couldn’t check messages, scroll through social media, or look anything up online. For those few hours, all I did was read books and go through my notes. At first, it felt a bit uncomfortable, because I’m so used to reaching for my phone whenever I get bored. But after a while, I started to notice how quiet my mind became, and how much more focused I was.\n\nIt was right after my cousin, Summer, received her results from the national college entrance exam. It was a very stressful and emotional period for her. Normally, she’s confident and determined, but at that moment, she was clearly shaken and unsure about what to do next.\n\nAt that time, she was going through a very stressful period in her life. You know, she felt really nervous and unsure about what to do next. Well, normally, she’s a confident person, but in that moment, I felt that she seemed to lose her confidence and started to doubt herself.\n\nThe person I want to talk about is my cousin, Summer. We’re very close, and we basically grew up together, so I’ve known her my whole life. Over the years, we’ve spent a lot of time together, sharing our daily lives and supporting each other.\n\nOur families were also quite close, so we spent a lot of time together from the very beginning. To be honest, I don’t even remember exactly when we first met, because she has always been a part of my life.\n\nI helped those who want to learn Chinese, especially with speaking and daily conversation. It was more about practicing oral Chinese, correcting simple mistakes, and giving them confidence to speak.\n\nAfter thinking carefully, she made an important decision to keep trying instead of giving up. She decided to work harder and spend more time preparing for the future. Even though it wasn’t an easy choice, she believed that putting in more effort would give her a better chance to succeed.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-5",
@@ -1615,13 +2803,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a person you are proud of. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "What I really like about Summer is that she is not only smart, but also very kind. Even when she was good at many things, she never made me feel less confident. When I had problems with study or life, she would explain things to me patiently. You know, being with her always felt easy and comfortable.\n\nAfter she got her results from the national college entrance exam, they weren’t as high as she had hoped. She could still go to university, but it wouldn’t be the one she truly wanted. At that point, she really didn’t want to try again. She was exhausted and nervous just thinking about another year of high-pressure study, and she kept saying things like, “What if I try again and still fail?”\n\nIn the end, everything turned out much better than we expected. She managed to overcome the difficulties and finally achieved her goal. This result not only changed her life, but also made everyone around her feel proud and happy.\n\nWe decided to go there because both of us needed a quiet place to review our lessons. Well, at first, we thought the library would be perfect. It had comfortable seats, bright lights, and a serious study atmosphere. We even planned to stay there for several hours and finish a lot of work.\n\nSo, looking back on this experience, I feel really proud and grateful. I would say it taught me that challenges are not something to be afraid of. Instead, they are opportunities to grow and become stronger. Anyway, this experience has had a lasting impact on me, and I believe it will always stay in my memory.\n\nHonestly, I felt surprisingly good about it. Being completely cut off from the internet forced me to slow down and really concentrate. It reminded me what it’s like to study without constant distractions. By the time we left, I actually felt calmer and more productive than usual. So even though I wasn’t allowed to use my phone, I realized that sometimes being disconnected is exactly what we need. It was a small but eye-opening experience for me.\n\nI truly believe that having someone to guide and support you makes a huge difference when learning a language. Through HelloTalk, I’ve seen how language exchange can help people learn in a more natural way.\n\nBut I advised her to retake the exam and spend another year preparing intensely. So, I told her, “If you think you can do better, you should try again. Wouldn’t you rather be somewhere you truly like, studying what you really love?” I encouraged her to give herself one more chance instead of settling for something she would regret later.\n\nSo, my cousin, Summer, recommended an app called HelloTalk to me, which is a language exchange app where you can talk to people from different countries. After using it for a while, I realized that many people are actually interested in learning Chinese.\n\nIt’s about mutual learning and connection. I can help others improve their Chinese, while also improving my own English in a real-life setting. For me, it’s the perfect balance between work, learning, and cultural exchange.\n\nWithout my phone, I had no choice but to focus. I couldn’t check messages, scroll through social media, or look anything up online. For those few hours, all I did was read books and go through my notes. At first, it felt a bit uncomfortable, because I’m so used to reaching for my phone whenever I get bored. But after a while, I started to notice how quiet my mind became, and how much more focused I was.\n\nIt was right after my cousin, Summer, received her results from the national college entrance exam. It was a very stressful and emotional period for her. Normally, she’s confident and determined, but at that moment, she was clearly shaken and unsure about what to do next.\n\nAt that time, she was going through a very stressful period in her life. You know, she felt really nervous and unsure about what to do next. Well, normally, she’s a confident person, but in that moment, I felt that she seemed to lose her confidence and started to doubt herself.\n\nThe person I want to talk about is my cousin, Summer. We’re very close, and we basically grew up together, so I’ve known her my whole life. Over the years, we’ve spent a lot of time together, sharing our daily lives and supporting each other.\n\nOur families were also quite close, so we spent a lot of time together from the very beginning. To be honest, I don’t even remember exactly when we first met, because she has always been a part of my life.\n\nI helped those who want to learn Chinese, especially with speaking and daily conversation. It was more about practicing oral Chinese, correcting simple mistakes, and giving them confidence to speak.\n\nAfter thinking carefully, she made an important decision to keep trying instead of giving up. She decided to work harder and spend more time preparing for the future. Even though it wasn’t an easy choice, she believed that putting in more effort would give her a better chance to succeed.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-6",
@@ -1639,13 +2824,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a time you gave advice. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "What I really like about Summer is that she is not only smart, but also very kind. Even when she was good at many things, she never made me feel less confident. When I had problems with study or life, she would explain things to me patiently. You know, being with her always felt easy and comfortable.\n\nAfter she got her results from the national college entrance exam, they weren’t as high as she had hoped. She could still go to university, but it wouldn’t be the one she truly wanted. At that point, she really didn’t want to try again. She was exhausted and nervous just thinking about another year of high-pressure study, and she kept saying things like, “What if I try again and still fail?”\n\nIn the end, everything turned out much better than we expected. She managed to overcome the difficulties and finally achieved her goal. This result not only changed her life, but also made everyone around her feel proud and happy.\n\nWe decided to go there because both of us needed a quiet place to review our lessons. Well, at first, we thought the library would be perfect. It had comfortable seats, bright lights, and a serious study atmosphere. We even planned to stay there for several hours and finish a lot of work.\n\nSo, looking back on this experience, I feel really proud and grateful. I would say it taught me that challenges are not something to be afraid of. Instead, they are opportunities to grow and become stronger. Anyway, this experience has had a lasting impact on me, and I believe it will always stay in my memory.\n\nHonestly, I felt surprisingly good about it. Being completely cut off from the internet forced me to slow down and really concentrate. It reminded me what it’s like to study without constant distractions. By the time we left, I actually felt calmer and more productive than usual. So even though I wasn’t allowed to use my phone, I realized that sometimes being disconnected is exactly what we need. It was a small but eye-opening experience for me.\n\nI truly believe that having someone to guide and support you makes a huge difference when learning a language. Through HelloTalk, I’ve seen how language exchange can help people learn in a more natural way.\n\nBut I advised her to retake the exam and spend another year preparing intensely. So, I told her, “If you think you can do better, you should try again. Wouldn’t you rather be somewhere you truly like, studying what you really love?” I encouraged her to give herself one more chance instead of settling for something she would regret later.\n\nSo, my cousin, Summer, recommended an app called HelloTalk to me, which is a language exchange app where you can talk to people from different countries. After using it for a while, I realized that many people are actually interested in learning Chinese.\n\nIt’s about mutual learning and connection. I can help others improve their Chinese, while also improving my own English in a real-life setting. For me, it’s the perfect balance between work, learning, and cultural exchange.\n\nWithout my phone, I had no choice but to focus. I couldn’t check messages, scroll through social media, or look anything up online. For those few hours, all I did was read books and go through my notes. At first, it felt a bit uncomfortable, because I’m so used to reaching for my phone whenever I get bored. But after a while, I started to notice how quiet my mind became, and how much more focused I was.\n\nIt was right after my cousin, Summer, received her results from the national college entrance exam. It was a very stressful and emotional period for her. Normally, she’s confident and determined, but at that moment, she was clearly shaken and unsure about what to do next.\n\nAt that time, she was going through a very stressful period in her life. You know, she felt really nervous and unsure about what to do next. Well, normally, she’s a confident person, but in that moment, I felt that she seemed to lose her confidence and started to doubt herself.\n\nThe person I want to talk about is my cousin, Summer. We’re very close, and we basically grew up together, so I’ve known her my whole life. Over the years, we’ve spent a lot of time together, sharing our daily lives and supporting each other.\n\nOur families were also quite close, so we spent a lot of time together from the very beginning. To be honest, I don’t even remember exactly when we first met, because she has always been a part of my life.\n\nI helped those who want to learn Chinese, especially with speaking and daily conversation. It was more about practicing oral Chinese, correcting simple mistakes, and giving them confidence to speak.\n\nAfter thinking carefully, she made an important decision to keep trying instead of giving up. She decided to work harder and spend more time preparing for the future. Even though it wasn’t an easy choice, she believed that putting in more effort would give her a better chance to succeed.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-7",
@@ -1663,13 +2845,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a short-term job abroad. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "What I really like about Summer is that she is not only smart, but also very kind. Even when she was good at many things, she never made me feel less confident. When I had problems with study or life, she would explain things to me patiently. You know, being with her always felt easy and comfortable.\n\nAfter she got her results from the national college entrance exam, they weren’t as high as she had hoped. She could still go to university, but it wouldn’t be the one she truly wanted. At that point, she really didn’t want to try again. She was exhausted and nervous just thinking about another year of high-pressure study, and she kept saying things like, “What if I try again and still fail?”\n\nIn the end, everything turned out much better than we expected. She managed to overcome the difficulties and finally achieved her goal. This result not only changed her life, but also made everyone around her feel proud and happy.\n\nWe decided to go there because both of us needed a quiet place to review our lessons. Well, at first, we thought the library would be perfect. It had comfortable seats, bright lights, and a serious study atmosphere. We even planned to stay there for several hours and finish a lot of work.\n\nSo, looking back on this experience, I feel really proud and grateful. I would say it taught me that challenges are not something to be afraid of. Instead, they are opportunities to grow and become stronger. Anyway, this experience has had a lasting impact on me, and I believe it will always stay in my memory.\n\nHonestly, I felt surprisingly good about it. Being completely cut off from the internet forced me to slow down and really concentrate. It reminded me what it’s like to study without constant distractions. By the time we left, I actually felt calmer and more productive than usual. So even though I wasn’t allowed to use my phone, I realized that sometimes being disconnected is exactly what we need. It was a small but eye-opening experience for me.\n\nI truly believe that having someone to guide and support you makes a huge difference when learning a language. Through HelloTalk, I’ve seen how language exchange can help people learn in a more natural way.\n\nBut I advised her to retake the exam and spend another year preparing intensely. So, I told her, “If you think you can do better, you should try again. Wouldn’t you rather be somewhere you truly like, studying what you really love?” I encouraged her to give herself one more chance instead of settling for something she would regret later.\n\nSo, my cousin, Summer, recommended an app called HelloTalk to me, which is a language exchange app where you can talk to people from different countries. After using it for a while, I realized that many people are actually interested in learning Chinese.\n\nIt’s about mutual learning and connection. I can help others improve their Chinese, while also improving my own English in a real-life setting. For me, it’s the perfect balance between work, learning, and cultural exchange.\n\nWithout my phone, I had no choice but to focus. I couldn’t check messages, scroll through social media, or look anything up online. For those few hours, all I did was read books and go through my notes. At first, it felt a bit uncomfortable, because I’m so used to reaching for my phone whenever I get bored. But after a while, I started to notice how quiet my mind became, and how much more focused I was.\n\nIt was right after my cousin, Summer, received her results from the national college entrance exam. It was a very stressful and emotional period for her. Normally, she’s confident and determined, but at that moment, she was clearly shaken and unsure about what to do next.\n\nAt that time, she was going through a very stressful period in her life. You know, she felt really nervous and unsure about what to do next. Well, normally, she’s a confident person, but in that moment, I felt that she seemed to lose her confidence and started to doubt herself.\n\nThe person I want to talk about is my cousin, Summer. We’re very close, and we basically grew up together, so I’ve known her my whole life. Over the years, we’ve spent a lot of time together, sharing our daily lives and supporting each other.\n\nOur families were also quite close, so we spent a lot of time together from the very beginning. To be honest, I don’t even remember exactly when we first met, because she has always been a part of my life.\n\nI helped those who want to learn Chinese, especially with speaking and daily conversation. It was more about practicing oral Chinese, correcting simple mistakes, and giving them confidence to speak.\n\nAfter thinking carefully, she made an important decision to keep trying instead of giving up. She decided to work harder and spend more time preparing for the future. Even though it wasn’t an easy choice, she believed that putting in more effort would give her a better chance to succeed.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-8",
@@ -1687,13 +2866,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a place where phones are not allowed. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "What I really like about Summer is that she is not only smart, but also very kind. Even when she was good at many things, she never made me feel less confident. When I had problems with study or life, she would explain things to me patiently. You know, being with her always felt easy and comfortable.\n\nAfter she got her results from the national college entrance exam, they weren’t as high as she had hoped. She could still go to university, but it wouldn’t be the one she truly wanted. At that point, she really didn’t want to try again. She was exhausted and nervous just thinking about another year of high-pressure study, and she kept saying things like, “What if I try again and still fail?”\n\nIn the end, everything turned out much better than we expected. She managed to overcome the difficulties and finally achieved her goal. This result not only changed her life, but also made everyone around her feel proud and happy.\n\nWe decided to go there because both of us needed a quiet place to review our lessons. Well, at first, we thought the library would be perfect. It had comfortable seats, bright lights, and a serious study atmosphere. We even planned to stay there for several hours and finish a lot of work.\n\nSo, looking back on this experience, I feel really proud and grateful. I would say it taught me that challenges are not something to be afraid of. Instead, they are opportunities to grow and become stronger. Anyway, this experience has had a lasting impact on me, and I believe it will always stay in my memory.\n\nHonestly, I felt surprisingly good about it. Being completely cut off from the internet forced me to slow down and really concentrate. It reminded me what it’s like to study without constant distractions. By the time we left, I actually felt calmer and more productive than usual. So even though I wasn’t allowed to use my phone, I realized that sometimes being disconnected is exactly what we need. It was a small but eye-opening experience for me.\n\nI truly believe that having someone to guide and support you makes a huge difference when learning a language. Through HelloTalk, I’ve seen how language exchange can help people learn in a more natural way.\n\nBut I advised her to retake the exam and spend another year preparing intensely. So, I told her, “If you think you can do better, you should try again. Wouldn’t you rather be somewhere you truly like, studying what you really love?” I encouraged her to give herself one more chance instead of settling for something she would regret later.\n\nSo, my cousin, Summer, recommended an app called HelloTalk to me, which is a language exchange app where you can talk to people from different countries. After using it for a while, I realized that many people are actually interested in learning Chinese.\n\nIt’s about mutual learning and connection. I can help others improve their Chinese, while also improving my own English in a real-life setting. For me, it’s the perfect balance between work, learning, and cultural exchange.\n\nWithout my phone, I had no choice but to focus. I couldn’t check messages, scroll through social media, or look anything up online. For those few hours, all I did was read books and go through my notes. At first, it felt a bit uncomfortable, because I’m so used to reaching for my phone whenever I get bored. But after a while, I started to notice how quiet my mind became, and how much more focused I was.\n\nIt was right after my cousin, Summer, received her results from the national college entrance exam. It was a very stressful and emotional period for her. Normally, she’s confident and determined, but at that moment, she was clearly shaken and unsure about what to do next.\n\nAt that time, she was going through a very stressful period in her life. You know, she felt really nervous and unsure about what to do next. Well, normally, she’s a confident person, but in that moment, I felt that she seemed to lose her confidence and started to doubt herself.\n\nThe person I want to talk about is my cousin, Summer. We’re very close, and we basically grew up together, so I’ve known her my whole life. Over the years, we’ve spent a lot of time together, sharing our daily lives and supporting each other.\n\nOur families were also quite close, so we spent a lot of time together from the very beginning. To be honest, I don’t even remember exactly when we first met, because she has always been a part of my life.\n\nI helped those who want to learn Chinese, especially with speaking and daily conversation. It was more about practicing oral Chinese, correcting simple mistakes, and giving them confidence to speak.\n\nAfter thinking carefully, she made an important decision to keep trying instead of giving up. She decided to work harder and spend more time preparing for the future. Even though it wasn’t an easy choice, she believed that putting in more effort would give her a better chance to succeed.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-9",
@@ -1711,13 +2887,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a live sports event. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "What I really like about Summer is that she is not only smart, but also very kind. Even when she was good at many things, she never made me feel less confident. When I had problems with study or life, she would explain things to me patiently. You know, being with her always felt easy and comfortable.\n\nAfter she got her results from the national college entrance exam, they weren’t as high as she had hoped. She could still go to university, but it wouldn’t be the one she truly wanted. At that point, she really didn’t want to try again. She was exhausted and nervous just thinking about another year of high-pressure study, and she kept saying things like, “What if I try again and still fail?”\n\nIn the end, everything turned out much better than we expected. She managed to overcome the difficulties and finally achieved her goal. This result not only changed her life, but also made everyone around her feel proud and happy.\n\nWe decided to go there because both of us needed a quiet place to review our lessons. Well, at first, we thought the library would be perfect. It had comfortable seats, bright lights, and a serious study atmosphere. We even planned to stay there for several hours and finish a lot of work.\n\nSo, looking back on this experience, I feel really proud and grateful. I would say it taught me that challenges are not something to be afraid of. Instead, they are opportunities to grow and become stronger. Anyway, this experience has had a lasting impact on me, and I believe it will always stay in my memory.\n\nHonestly, I felt surprisingly good about it. Being completely cut off from the internet forced me to slow down and really concentrate. It reminded me what it’s like to study without constant distractions. By the time we left, I actually felt calmer and more productive than usual. So even though I wasn’t allowed to use my phone, I realized that sometimes being disconnected is exactly what we need. It was a small but eye-opening experience for me.\n\nI truly believe that having someone to guide and support you makes a huge difference when learning a language. Through HelloTalk, I’ve seen how language exchange can help people learn in a more natural way.\n\nBut I advised her to retake the exam and spend another year preparing intensely. So, I told her, “If you think you can do better, you should try again. Wouldn’t you rather be somewhere you truly like, studying what you really love?” I encouraged her to give herself one more chance instead of settling for something she would regret later.\n\nSo, my cousin, Summer, recommended an app called HelloTalk to me, which is a language exchange app where you can talk to people from different countries. After using it for a while, I realized that many people are actually interested in learning Chinese.\n\nIt’s about mutual learning and connection. I can help others improve their Chinese, while also improving my own English in a real-life setting. For me, it’s the perfect balance between work, learning, and cultural exchange.\n\nWithout my phone, I had no choice but to focus. I couldn’t check messages, scroll through social media, or look anything up online. For those few hours, all I did was read books and go through my notes. At first, it felt a bit uncomfortable, because I’m so used to reaching for my phone whenever I get bored. But after a while, I started to notice how quiet my mind became, and how much more focused I was.\n\nIt was right after my cousin, Summer, received her results from the national college entrance exam. It was a very stressful and emotional period for her. Normally, she’s confident and determined, but at that moment, she was clearly shaken and unsure about what to do next.\n\nAt that time, she was going through a very stressful period in her life. You know, she felt really nervous and unsure about what to do next. Well, normally, she’s a confident person, but in that moment, I felt that she seemed to lose her confidence and started to doubt herself.\n\nThe person I want to talk about is my cousin, Summer. We’re very close, and we basically grew up together, so I’ve known her my whole life. Over the years, we’ve spent a lot of time together, sharing our daily lives and supporting each other.\n\nOur families were also quite close, so we spent a lot of time together from the very beginning. To be honest, I don’t even remember exactly when we first met, because she has always been a part of my life.\n\nI helped those who want to learn Chinese, especially with speaking and daily conversation. It was more about practicing oral Chinese, correcting simple mistakes, and giving them confidence to speak.\n\nAfter thinking carefully, she made an important decision to keep trying instead of giving up. She decided to work harder and spend more time preparing for the future. Even though it wasn’t an easy choice, she believed that putting in more effort would give her a better chance to succeed.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-10",
@@ -1735,13 +2908,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with an interesting programme. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "What I really like about Summer is that she is not only smart, but also very kind. Even when she was good at many things, she never made me feel less confident. When I had problems with study or life, she would explain things to me patiently. You know, being with her always felt easy and comfortable.\n\nAfter she got her results from the national college entrance exam, they weren’t as high as she had hoped. She could still go to university, but it wouldn’t be the one she truly wanted. At that point, she really didn’t want to try again. She was exhausted and nervous just thinking about another year of high-pressure study, and she kept saying things like, “What if I try again and still fail?”\n\nIn the end, everything turned out much better than we expected. She managed to overcome the difficulties and finally achieved her goal. This result not only changed her life, but also made everyone around her feel proud and happy.\n\nWe decided to go there because both of us needed a quiet place to review our lessons. Well, at first, we thought the library would be perfect. It had comfortable seats, bright lights, and a serious study atmosphere. We even planned to stay there for several hours and finish a lot of work.\n\nSo, looking back on this experience, I feel really proud and grateful. I would say it taught me that challenges are not something to be afraid of. Instead, they are opportunities to grow and become stronger. Anyway, this experience has had a lasting impact on me, and I believe it will always stay in my memory.\n\nHonestly, I felt surprisingly good about it. Being completely cut off from the internet forced me to slow down and really concentrate. It reminded me what it’s like to study without constant distractions. By the time we left, I actually felt calmer and more productive than usual. So even though I wasn’t allowed to use my phone, I realized that sometimes being disconnected is exactly what we need. It was a small but eye-opening experience for me.\n\nI truly believe that having someone to guide and support you makes a huge difference when learning a language. Through HelloTalk, I’ve seen how language exchange can help people learn in a more natural way.\n\nBut I advised her to retake the exam and spend another year preparing intensely. So, I told her, “If you think you can do better, you should try again. Wouldn’t you rather be somewhere you truly like, studying what you really love?” I encouraged her to give herself one more chance instead of settling for something she would regret later.\n\nSo, my cousin, Summer, recommended an app called HelloTalk to me, which is a language exchange app where you can talk to people from different countries. After using it for a while, I realized that many people are actually interested in learning Chinese.\n\nIt’s about mutual learning and connection. I can help others improve their Chinese, while also improving my own English in a real-life setting. For me, it’s the perfect balance between work, learning, and cultural exchange.\n\nWithout my phone, I had no choice but to focus. I couldn’t check messages, scroll through social media, or look anything up online. For those few hours, all I did was read books and go through my notes. At first, it felt a bit uncomfortable, because I’m so used to reaching for my phone whenever I get bored. But after a while, I started to notice how quiet my mind became, and how much more focused I was.\n\nIt was right after my cousin, Summer, received her results from the national college entrance exam. It was a very stressful and emotional period for her. Normally, she’s confident and determined, but at that moment, she was clearly shaken and unsure about what to do next.\n\nAt that time, she was going through a very stressful period in her life. You know, she felt really nervous and unsure about what to do next. Well, normally, she’s a confident person, but in that moment, I felt that she seemed to lose her confidence and started to doubt herself.\n\nThe person I want to talk about is my cousin, Summer. We’re very close, and we basically grew up together, so I’ve known her my whole life. Over the years, we’ve spent a lot of time together, sharing our daily lives and supporting each other.\n\nOur families were also quite close, so we spent a lot of time together from the very beginning. To be honest, I don’t even remember exactly when we first met, because she has always been a part of my life.\n\nI helped those who want to learn Chinese, especially with speaking and daily conversation. It was more about practicing oral Chinese, correcting simple mistakes, and giving them confidence to speak.\n\nAfter thinking carefully, she made an important decision to keep trying instead of giving up. She decided to work harder and spend more time preparing for the future. Even though it wasn’t an easy choice, she believed that putting in more effort would give her a better chance to succeed.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-11",
@@ -1759,13 +2929,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a person who works in healthcare. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "my neighbor, an older lady who lives just a few steps away from my home. I’ve known her since I was little because his family and mine have lived in the same building for years. She’s not your typical grandma. She is really into technology and even runs her own social media account, where she shares her “tech life” with others.\n\nI was lying in bed at night and casually scrolling on my phone, you know, just like most people do before going to sleep. I didn’t plan to watch anything special, but then the algorithm suddenly pushed me a video that looked really familiar. At first, I thought it was just one of those “people you may know” suggestions, because the person in the video looked exactly like my neighbor’s grandma. I was a bit confused at first, but after watching for a few seconds, I realized it was actually her.\n\nIn the video, she was doing a review of the latest iPad. She was unboxing it, talking about its pros and cons, and explaining some tech details very clearly. What surprised me most was that she used a lot of tech terms, and some of them were so professional that I even had to search them later. The video had tens of thousands of likes and comments, which made it even more surprising.\n\nI felt deeply inspired. It reminded me that a person does not need to be loud or dramatic to be powerful. Sometimes, real strength is quiet. It is about staying focused, doing meaningful work, and not giving up even when other people underestimate you.\n\nI think what makes it important is not just its value as a medicinal herb, but the meaning behind it. For my grandma, it represents her lifelong dedication to Chinese medicine. For our family, keeping it is like keeping a part of her spirit and passion alive. To be honest, we may never actually use it, but that’s not the point. It carries emotional weight and reminds us of her knowledge, her beliefs, and her way of life.\n\nShe shares daily updates, tries out new gadgets, talks about tech news, and explains new products in a simple way. Honestly, she posts more often than many young people I know. Her content is not only fun, but also surprisingly useful, because she makes technology easier to understand.\n\nI admire not only her scientific achievements, but also the journey behind them. I learned that it was not easy for her to succeed as a woman in science, especially during a time when many people did not take women researchers seriously. She didn’t have fancy equipment or a big team, but she kept going. That kind of quiet strength really moved me, and it made me respect her even more.\n\nI’d really like to talk about Tu Youyou, the Nobel Prize-winning scientist. She is best known for her groundbreaking work in malaria treatment, and honestly, she’s one of the most inspiring people I’ve ever heard about. What I admire most is not just her scientific achievement, but also the quiet strength behind her success. As a woman in science, she had to face many difficulties, but she still kept going and finally made a huge contribution to the world.\n\nHonestly, this gave me a whole new level of respect for her. She reminded me that staying curious is one of the best ways to stay young at heart. I used to think technology was mainly something for young people, but she changed my mind. Seeing her learn, share, and enjoy new things made me feel that anyone can keep growing at any age.\n\nI found it really interesting because you wouldn’t normally expect someone her age to be so into technology. There is this stereotype that older people are not very good with phones, apps, or new gadgets. But she completely breaks that idea. She is not just keeping up with technology. In a way, she is even leading the way, which really opened my eyes.\n\nShe enjoys growing these herbs because it keeps her connected to her background in Chinese medicine, something she’s truly passionate about. For her, it’s not just about having a green space. It’s about maintaining her knowledge and sharing it with others. Whenever her friends or even neighbors have minor health issues like headaches or colds, she always offers them herbal tea made from her plants. I believe it's also a social thing for her. In a way, her love for plants is not just about growing herbs—it's about connecting with people, staying curious, and continuing to share her wisdom, even after retirement.\n\nIt is my grandma, who is a retired Chinese medicine practitioner. She has always been passionate about herbs and natural healing. She even grows herbs like mint and chrysanthemum on her balcony, and she loves recommending herbal teas to neighbors when they feel under the weather. So this object is closely connected to her life and her beliefs.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-12",
@@ -1783,13 +2950,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a person who helped you. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "my neighbor, an older lady who lives just a few steps away from my home. I’ve known her since I was little because his family and mine have lived in the same building for years. She’s not your typical grandma. She is really into technology and even runs her own social media account, where she shares her “tech life” with others.\n\nI was lying in bed at night and casually scrolling on my phone, you know, just like most people do before going to sleep. I didn’t plan to watch anything special, but then the algorithm suddenly pushed me a video that looked really familiar. At first, I thought it was just one of those “people you may know” suggestions, because the person in the video looked exactly like my neighbor’s grandma. I was a bit confused at first, but after watching for a few seconds, I realized it was actually her.\n\nIn the video, she was doing a review of the latest iPad. She was unboxing it, talking about its pros and cons, and explaining some tech details very clearly. What surprised me most was that she used a lot of tech terms, and some of them were so professional that I even had to search them later. The video had tens of thousands of likes and comments, which made it even more surprising.\n\nI felt deeply inspired. It reminded me that a person does not need to be loud or dramatic to be powerful. Sometimes, real strength is quiet. It is about staying focused, doing meaningful work, and not giving up even when other people underestimate you.\n\nI think what makes it important is not just its value as a medicinal herb, but the meaning behind it. For my grandma, it represents her lifelong dedication to Chinese medicine. For our family, keeping it is like keeping a part of her spirit and passion alive. To be honest, we may never actually use it, but that’s not the point. It carries emotional weight and reminds us of her knowledge, her beliefs, and her way of life.\n\nShe shares daily updates, tries out new gadgets, talks about tech news, and explains new products in a simple way. Honestly, she posts more often than many young people I know. Her content is not only fun, but also surprisingly useful, because she makes technology easier to understand.\n\nI admire not only her scientific achievements, but also the journey behind them. I learned that it was not easy for her to succeed as a woman in science, especially during a time when many people did not take women researchers seriously. She didn’t have fancy equipment or a big team, but she kept going. That kind of quiet strength really moved me, and it made me respect her even more.\n\nI’d really like to talk about Tu Youyou, the Nobel Prize-winning scientist. She is best known for her groundbreaking work in malaria treatment, and honestly, she’s one of the most inspiring people I’ve ever heard about. What I admire most is not just her scientific achievement, but also the quiet strength behind her success. As a woman in science, she had to face many difficulties, but she still kept going and finally made a huge contribution to the world.\n\nHonestly, this gave me a whole new level of respect for her. She reminded me that staying curious is one of the best ways to stay young at heart. I used to think technology was mainly something for young people, but she changed my mind. Seeing her learn, share, and enjoy new things made me feel that anyone can keep growing at any age.\n\nI found it really interesting because you wouldn’t normally expect someone her age to be so into technology. There is this stereotype that older people are not very good with phones, apps, or new gadgets. But she completely breaks that idea. She is not just keeping up with technology. In a way, she is even leading the way, which really opened my eyes.\n\nShe enjoys growing these herbs because it keeps her connected to her background in Chinese medicine, something she’s truly passionate about. For her, it’s not just about having a green space. It’s about maintaining her knowledge and sharing it with others. Whenever her friends or even neighbors have minor health issues like headaches or colds, she always offers them herbal tea made from her plants. I believe it's also a social thing for her. In a way, her love for plants is not just about growing herbs—it's about connecting with people, staying curious, and continuing to share her wisdom, even after retirement.\n\nIt is my grandma, who is a retired Chinese medicine practitioner. She has always been passionate about herbs and natural healing. She even grows herbs like mint and chrysanthemum on her balcony, and she loves recommending herbal teas to neighbors when they feel under the weather. So this object is closely connected to her life and her beliefs.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-13",
@@ -1807,13 +2971,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a helpful piece of advice. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "my neighbor, an older lady who lives just a few steps away from my home. I’ve known her since I was little because his family and mine have lived in the same building for years. She’s not your typical grandma. She is really into technology and even runs her own social media account, where she shares her “tech life” with others.\n\nI was lying in bed at night and casually scrolling on my phone, you know, just like most people do before going to sleep. I didn’t plan to watch anything special, but then the algorithm suddenly pushed me a video that looked really familiar. At first, I thought it was just one of those “people you may know” suggestions, because the person in the video looked exactly like my neighbor’s grandma. I was a bit confused at first, but after watching for a few seconds, I realized it was actually her.\n\nIn the video, she was doing a review of the latest iPad. She was unboxing it, talking about its pros and cons, and explaining some tech details very clearly. What surprised me most was that she used a lot of tech terms, and some of them were so professional that I even had to search them later. The video had tens of thousands of likes and comments, which made it even more surprising.\n\nI felt deeply inspired. It reminded me that a person does not need to be loud or dramatic to be powerful. Sometimes, real strength is quiet. It is about staying focused, doing meaningful work, and not giving up even when other people underestimate you.\n\nI think what makes it important is not just its value as a medicinal herb, but the meaning behind it. For my grandma, it represents her lifelong dedication to Chinese medicine. For our family, keeping it is like keeping a part of her spirit and passion alive. To be honest, we may never actually use it, but that’s not the point. It carries emotional weight and reminds us of her knowledge, her beliefs, and her way of life.\n\nShe shares daily updates, tries out new gadgets, talks about tech news, and explains new products in a simple way. Honestly, she posts more often than many young people I know. Her content is not only fun, but also surprisingly useful, because she makes technology easier to understand.\n\nI admire not only her scientific achievements, but also the journey behind them. I learned that it was not easy for her to succeed as a woman in science, especially during a time when many people did not take women researchers seriously. She didn’t have fancy equipment or a big team, but she kept going. That kind of quiet strength really moved me, and it made me respect her even more.\n\nI’d really like to talk about Tu Youyou, the Nobel Prize-winning scientist. She is best known for her groundbreaking work in malaria treatment, and honestly, she’s one of the most inspiring people I’ve ever heard about. What I admire most is not just her scientific achievement, but also the quiet strength behind her success. As a woman in science, she had to face many difficulties, but she still kept going and finally made a huge contribution to the world.\n\nHonestly, this gave me a whole new level of respect for her. She reminded me that staying curious is one of the best ways to stay young at heart. I used to think technology was mainly something for young people, but she changed my mind. Seeing her learn, share, and enjoy new things made me feel that anyone can keep growing at any age.\n\nI found it really interesting because you wouldn’t normally expect someone her age to be so into technology. There is this stereotype that older people are not very good with phones, apps, or new gadgets. But she completely breaks that idea. She is not just keeping up with technology. In a way, she is even leading the way, which really opened my eyes.\n\nShe enjoys growing these herbs because it keeps her connected to her background in Chinese medicine, something she’s truly passionate about. For her, it’s not just about having a green space. It’s about maintaining her knowledge and sharing it with others. Whenever her friends or even neighbors have minor health issues like headaches or colds, she always offers them herbal tea made from her plants. I believe it's also a social thing for her. In a way, her love for plants is not just about growing herbs—it's about connecting with people, staying curious, and continuing to share her wisdom, even after retirement.\n\nIt is my grandma, who is a retired Chinese medicine practitioner. She has always been passionate about herbs and natural healing. She even grows herbs like mint and chrysanthemum on her balcony, and she loves recommending herbal teas to neighbors when they feel under the weather. So this object is closely connected to her life and her beliefs.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-14",
@@ -1831,13 +2992,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a person with a good plan. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "my neighbor, an older lady who lives just a few steps away from my home. I’ve known her since I was little because his family and mine have lived in the same building for years. She’s not your typical grandma. She is really into technology and even runs her own social media account, where she shares her “tech life” with others.\n\nI was lying in bed at night and casually scrolling on my phone, you know, just like most people do before going to sleep. I didn’t plan to watch anything special, but then the algorithm suddenly pushed me a video that looked really familiar. At first, I thought it was just one of those “people you may know” suggestions, because the person in the video looked exactly like my neighbor’s grandma. I was a bit confused at first, but after watching for a few seconds, I realized it was actually her.\n\nIn the video, she was doing a review of the latest iPad. She was unboxing it, talking about its pros and cons, and explaining some tech details very clearly. What surprised me most was that she used a lot of tech terms, and some of them were so professional that I even had to search them later. The video had tens of thousands of likes and comments, which made it even more surprising.\n\nI felt deeply inspired. It reminded me that a person does not need to be loud or dramatic to be powerful. Sometimes, real strength is quiet. It is about staying focused, doing meaningful work, and not giving up even when other people underestimate you.\n\nI think what makes it important is not just its value as a medicinal herb, but the meaning behind it. For my grandma, it represents her lifelong dedication to Chinese medicine. For our family, keeping it is like keeping a part of her spirit and passion alive. To be honest, we may never actually use it, but that’s not the point. It carries emotional weight and reminds us of her knowledge, her beliefs, and her way of life.\n\nShe shares daily updates, tries out new gadgets, talks about tech news, and explains new products in a simple way. Honestly, she posts more often than many young people I know. Her content is not only fun, but also surprisingly useful, because she makes technology easier to understand.\n\nI admire not only her scientific achievements, but also the journey behind them. I learned that it was not easy for her to succeed as a woman in science, especially during a time when many people did not take women researchers seriously. She didn’t have fancy equipment or a big team, but she kept going. That kind of quiet strength really moved me, and it made me respect her even more.\n\nI’d really like to talk about Tu Youyou, the Nobel Prize-winning scientist. She is best known for her groundbreaking work in malaria treatment, and honestly, she’s one of the most inspiring people I’ve ever heard about. What I admire most is not just her scientific achievement, but also the quiet strength behind her success. As a woman in science, she had to face many difficulties, but she still kept going and finally made a huge contribution to the world.\n\nHonestly, this gave me a whole new level of respect for her. She reminded me that staying curious is one of the best ways to stay young at heart. I used to think technology was mainly something for young people, but she changed my mind. Seeing her learn, share, and enjoy new things made me feel that anyone can keep growing at any age.\n\nI found it really interesting because you wouldn’t normally expect someone her age to be so into technology. There is this stereotype that older people are not very good with phones, apps, or new gadgets. But she completely breaks that idea. She is not just keeping up with technology. In a way, she is even leading the way, which really opened my eyes.\n\nShe enjoys growing these herbs because it keeps her connected to her background in Chinese medicine, something she’s truly passionate about. For her, it’s not just about having a green space. It’s about maintaining her knowledge and sharing it with others. Whenever her friends or even neighbors have minor health issues like headaches or colds, she always offers them herbal tea made from her plants. I believe it's also a social thing for her. In a way, her love for plants is not just about growing herbs—it's about connecting with people, staying curious, and continuing to share her wisdom, even after retirement.\n\nIt is my grandma, who is a retired Chinese medicine practitioner. She has always been passionate about herbs and natural healing. She even grows herbs like mint and chrysanthemum on her balcony, and she loves recommending herbal teas to neighbors when they feel under the weather. So this object is closely connected to her life and her beliefs.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-15",
@@ -1855,13 +3013,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with an interesting building. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "my neighbor, an older lady who lives just a few steps away from my home. I’ve known her since I was little because his family and mine have lived in the same building for years. She’s not your typical grandma. She is really into technology and even runs her own social media account, where she shares her “tech life” with others.\n\nI was lying in bed at night and casually scrolling on my phone, you know, just like most people do before going to sleep. I didn’t plan to watch anything special, but then the algorithm suddenly pushed me a video that looked really familiar. At first, I thought it was just one of those “people you may know” suggestions, because the person in the video looked exactly like my neighbor’s grandma. I was a bit confused at first, but after watching for a few seconds, I realized it was actually her.\n\nIn the video, she was doing a review of the latest iPad. She was unboxing it, talking about its pros and cons, and explaining some tech details very clearly. What surprised me most was that she used a lot of tech terms, and some of them were so professional that I even had to search them later. The video had tens of thousands of likes and comments, which made it even more surprising.\n\nI felt deeply inspired. It reminded me that a person does not need to be loud or dramatic to be powerful. Sometimes, real strength is quiet. It is about staying focused, doing meaningful work, and not giving up even when other people underestimate you.\n\nI think what makes it important is not just its value as a medicinal herb, but the meaning behind it. For my grandma, it represents her lifelong dedication to Chinese medicine. For our family, keeping it is like keeping a part of her spirit and passion alive. To be honest, we may never actually use it, but that’s not the point. It carries emotional weight and reminds us of her knowledge, her beliefs, and her way of life.\n\nShe shares daily updates, tries out new gadgets, talks about tech news, and explains new products in a simple way. Honestly, she posts more often than many young people I know. Her content is not only fun, but also surprisingly useful, because she makes technology easier to understand.\n\nI admire not only her scientific achievements, but also the journey behind them. I learned that it was not easy for her to succeed as a woman in science, especially during a time when many people did not take women researchers seriously. She didn’t have fancy equipment or a big team, but she kept going. That kind of quiet strength really moved me, and it made me respect her even more.\n\nI’d really like to talk about Tu Youyou, the Nobel Prize-winning scientist. She is best known for her groundbreaking work in malaria treatment, and honestly, she’s one of the most inspiring people I’ve ever heard about. What I admire most is not just her scientific achievement, but also the quiet strength behind her success. As a woman in science, she had to face many difficulties, but she still kept going and finally made a huge contribution to the world.\n\nHonestly, this gave me a whole new level of respect for her. She reminded me that staying curious is one of the best ways to stay young at heart. I used to think technology was mainly something for young people, but she changed my mind. Seeing her learn, share, and enjoy new things made me feel that anyone can keep growing at any age.\n\nI found it really interesting because you wouldn’t normally expect someone her age to be so into technology. There is this stereotype that older people are not very good with phones, apps, or new gadgets. But she completely breaks that idea. She is not just keeping up with technology. In a way, she is even leading the way, which really opened my eyes.\n\nShe enjoys growing these herbs because it keeps her connected to her background in Chinese medicine, something she’s truly passionate about. For her, it’s not just about having a green space. It’s about maintaining her knowledge and sharing it with others. Whenever her friends or even neighbors have minor health issues like headaches or colds, she always offers them herbal tea made from her plants. I believe it's also a social thing for her. In a way, her love for plants is not just about growing herbs—it's about connecting with people, staying curious, and continuing to share her wisdom, even after retirement.\n\nIt is my grandma, who is a retired Chinese medicine practitioner. She has always been passionate about herbs and natural healing. She even grows herbs like mint and chrysanthemum on her balcony, and she loves recommending herbal teas to neighbors when they feel under the weather. So this object is closely connected to her life and her beliefs.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-16",
@@ -1879,13 +3034,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a person who solved a problem. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "my neighbor, an older lady who lives just a few steps away from my home. I’ve known her since I was little because his family and mine have lived in the same building for years. She’s not your typical grandma. She is really into technology and even runs her own social media account, where she shares her “tech life” with others.\n\nI was lying in bed at night and casually scrolling on my phone, you know, just like most people do before going to sleep. I didn’t plan to watch anything special, but then the algorithm suddenly pushed me a video that looked really familiar. At first, I thought it was just one of those “people you may know” suggestions, because the person in the video looked exactly like my neighbor’s grandma. I was a bit confused at first, but after watching for a few seconds, I realized it was actually her.\n\nIn the video, she was doing a review of the latest iPad. She was unboxing it, talking about its pros and cons, and explaining some tech details very clearly. What surprised me most was that she used a lot of tech terms, and some of them were so professional that I even had to search them later. The video had tens of thousands of likes and comments, which made it even more surprising.\n\nI felt deeply inspired. It reminded me that a person does not need to be loud or dramatic to be powerful. Sometimes, real strength is quiet. It is about staying focused, doing meaningful work, and not giving up even when other people underestimate you.\n\nI think what makes it important is not just its value as a medicinal herb, but the meaning behind it. For my grandma, it represents her lifelong dedication to Chinese medicine. For our family, keeping it is like keeping a part of her spirit and passion alive. To be honest, we may never actually use it, but that’s not the point. It carries emotional weight and reminds us of her knowledge, her beliefs, and her way of life.\n\nShe shares daily updates, tries out new gadgets, talks about tech news, and explains new products in a simple way. Honestly, she posts more often than many young people I know. Her content is not only fun, but also surprisingly useful, because she makes technology easier to understand.\n\nI admire not only her scientific achievements, but also the journey behind them. I learned that it was not easy for her to succeed as a woman in science, especially during a time when many people did not take women researchers seriously. She didn’t have fancy equipment or a big team, but she kept going. That kind of quiet strength really moved me, and it made me respect her even more.\n\nI’d really like to talk about Tu Youyou, the Nobel Prize-winning scientist. She is best known for her groundbreaking work in malaria treatment, and honestly, she’s one of the most inspiring people I’ve ever heard about. What I admire most is not just her scientific achievement, but also the quiet strength behind her success. As a woman in science, she had to face many difficulties, but she still kept going and finally made a huge contribution to the world.\n\nHonestly, this gave me a whole new level of respect for her. She reminded me that staying curious is one of the best ways to stay young at heart. I used to think technology was mainly something for young people, but she changed my mind. Seeing her learn, share, and enjoy new things made me feel that anyone can keep growing at any age.\n\nI found it really interesting because you wouldn’t normally expect someone her age to be so into technology. There is this stereotype that older people are not very good with phones, apps, or new gadgets. But she completely breaks that idea. She is not just keeping up with technology. In a way, she is even leading the way, which really opened my eyes.\n\nShe enjoys growing these herbs because it keeps her connected to her background in Chinese medicine, something she’s truly passionate about. For her, it’s not just about having a green space. It’s about maintaining her knowledge and sharing it with others. Whenever her friends or even neighbors have minor health issues like headaches or colds, she always offers them herbal tea made from her plants. I believe it's also a social thing for her. In a way, her love for plants is not just about growing herbs—it's about connecting with people, staying curious, and continuing to share her wisdom, even after retirement.\n\nIt is my grandma, who is a retired Chinese medicine practitioner. She has always been passionate about herbs and natural healing. She even grows herbs like mint and chrysanthemum on her balcony, and she loves recommending herbal teas to neighbors when they feel under the weather. So this object is closely connected to her life and her beliefs.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-17",
@@ -1903,13 +3055,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a special meal. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "my neighbor, an older lady who lives just a few steps away from my home. I’ve known her since I was little because his family and mine have lived in the same building for years. She’s not your typical grandma. She is really into technology and even runs her own social media account, where she shares her “tech life” with others.\n\nI was lying in bed at night and casually scrolling on my phone, you know, just like most people do before going to sleep. I didn’t plan to watch anything special, but then the algorithm suddenly pushed me a video that looked really familiar. At first, I thought it was just one of those “people you may know” suggestions, because the person in the video looked exactly like my neighbor’s grandma. I was a bit confused at first, but after watching for a few seconds, I realized it was actually her.\n\nIn the video, she was doing a review of the latest iPad. She was unboxing it, talking about its pros and cons, and explaining some tech details very clearly. What surprised me most was that she used a lot of tech terms, and some of them were so professional that I even had to search them later. The video had tens of thousands of likes and comments, which made it even more surprising.\n\nI felt deeply inspired. It reminded me that a person does not need to be loud or dramatic to be powerful. Sometimes, real strength is quiet. It is about staying focused, doing meaningful work, and not giving up even when other people underestimate you.\n\nI think what makes it important is not just its value as a medicinal herb, but the meaning behind it. For my grandma, it represents her lifelong dedication to Chinese medicine. For our family, keeping it is like keeping a part of her spirit and passion alive. To be honest, we may never actually use it, but that’s not the point. It carries emotional weight and reminds us of her knowledge, her beliefs, and her way of life.\n\nShe shares daily updates, tries out new gadgets, talks about tech news, and explains new products in a simple way. Honestly, she posts more often than many young people I know. Her content is not only fun, but also surprisingly useful, because she makes technology easier to understand.\n\nI admire not only her scientific achievements, but also the journey behind them. I learned that it was not easy for her to succeed as a woman in science, especially during a time when many people did not take women researchers seriously. She didn’t have fancy equipment or a big team, but she kept going. That kind of quiet strength really moved me, and it made me respect her even more.\n\nI’d really like to talk about Tu Youyou, the Nobel Prize-winning scientist. She is best known for her groundbreaking work in malaria treatment, and honestly, she’s one of the most inspiring people I’ve ever heard about. What I admire most is not just her scientific achievement, but also the quiet strength behind her success. As a woman in science, she had to face many difficulties, but she still kept going and finally made a huge contribution to the world.\n\nHonestly, this gave me a whole new level of respect for her. She reminded me that staying curious is one of the best ways to stay young at heart. I used to think technology was mainly something for young people, but she changed my mind. Seeing her learn, share, and enjoy new things made me feel that anyone can keep growing at any age.\n\nI found it really interesting because you wouldn’t normally expect someone her age to be so into technology. There is this stereotype that older people are not very good with phones, apps, or new gadgets. But she completely breaks that idea. She is not just keeping up with technology. In a way, she is even leading the way, which really opened my eyes.\n\nShe enjoys growing these herbs because it keeps her connected to her background in Chinese medicine, something she’s truly passionate about. For her, it’s not just about having a green space. It’s about maintaining her knowledge and sharing it with others. Whenever her friends or even neighbors have minor health issues like headaches or colds, she always offers them herbal tea made from her plants. I believe it's also a social thing for her. In a way, her love for plants is not just about growing herbs—it's about connecting with people, staying curious, and continuing to share her wisdom, even after retirement.\n\nIt is my grandma, who is a retired Chinese medicine practitioner. She has always been passionate about herbs and natural healing. She even grows herbs like mint and chrysanthemum on her balcony, and she loves recommending herbal teas to neighbors when they feel under the weather. So this object is closely connected to her life and her beliefs.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-18",
@@ -1927,13 +3076,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a person who protects nature. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "my neighbor, an older lady who lives just a few steps away from my home. I’ve known her since I was little because his family and mine have lived in the same building for years. She’s not your typical grandma. She is really into technology and even runs her own social media account, where she shares her “tech life” with others.\n\nI was lying in bed at night and casually scrolling on my phone, you know, just like most people do before going to sleep. I didn’t plan to watch anything special, but then the algorithm suddenly pushed me a video that looked really familiar. At first, I thought it was just one of those “people you may know” suggestions, because the person in the video looked exactly like my neighbor’s grandma. I was a bit confused at first, but after watching for a few seconds, I realized it was actually her.\n\nIn the video, she was doing a review of the latest iPad. She was unboxing it, talking about its pros and cons, and explaining some tech details very clearly. What surprised me most was that she used a lot of tech terms, and some of them were so professional that I even had to search them later. The video had tens of thousands of likes and comments, which made it even more surprising.\n\nI felt deeply inspired. It reminded me that a person does not need to be loud or dramatic to be powerful. Sometimes, real strength is quiet. It is about staying focused, doing meaningful work, and not giving up even when other people underestimate you.\n\nI think what makes it important is not just its value as a medicinal herb, but the meaning behind it. For my grandma, it represents her lifelong dedication to Chinese medicine. For our family, keeping it is like keeping a part of her spirit and passion alive. To be honest, we may never actually use it, but that’s not the point. It carries emotional weight and reminds us of her knowledge, her beliefs, and her way of life.\n\nShe shares daily updates, tries out new gadgets, talks about tech news, and explains new products in a simple way. Honestly, she posts more often than many young people I know. Her content is not only fun, but also surprisingly useful, because she makes technology easier to understand.\n\nI admire not only her scientific achievements, but also the journey behind them. I learned that it was not easy for her to succeed as a woman in science, especially during a time when many people did not take women researchers seriously. She didn’t have fancy equipment or a big team, but she kept going. That kind of quiet strength really moved me, and it made me respect her even more.\n\nI’d really like to talk about Tu Youyou, the Nobel Prize-winning scientist. She is best known for her groundbreaking work in malaria treatment, and honestly, she’s one of the most inspiring people I’ve ever heard about. What I admire most is not just her scientific achievement, but also the quiet strength behind her success. As a woman in science, she had to face many difficulties, but she still kept going and finally made a huge contribution to the world.\n\nHonestly, this gave me a whole new level of respect for her. She reminded me that staying curious is one of the best ways to stay young at heart. I used to think technology was mainly something for young people, but she changed my mind. Seeing her learn, share, and enjoy new things made me feel that anyone can keep growing at any age.\n\nI found it really interesting because you wouldn’t normally expect someone her age to be so into technology. There is this stereotype that older people are not very good with phones, apps, or new gadgets. But she completely breaks that idea. She is not just keeping up with technology. In a way, she is even leading the way, which really opened my eyes.\n\nShe enjoys growing these herbs because it keeps her connected to her background in Chinese medicine, something she’s truly passionate about. For her, it’s not just about having a green space. It’s about maintaining her knowledge and sharing it with others. Whenever her friends or even neighbors have minor health issues like headaches or colds, she always offers them herbal tea made from her plants. I believe it's also a social thing for her. In a way, her love for plants is not just about growing herbs—it's about connecting with people, staying curious, and continuing to share her wisdom, even after retirement.\n\nIt is my grandma, who is a retired Chinese medicine practitioner. She has always been passionate about herbs and natural healing. She even grows herbs like mint and chrysanthemum on her balcony, and she loves recommending herbal teas to neighbors when they feel under the weather. So this object is closely connected to her life and her beliefs.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-19",
@@ -1951,13 +3097,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with an enjoyable visit. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "my neighbor, an older lady who lives just a few steps away from my home. I’ve known her since I was little because his family and mine have lived in the same building for years. She’s not your typical grandma. She is really into technology and even runs her own social media account, where she shares her “tech life” with others.\n\nI was lying in bed at night and casually scrolling on my phone, you know, just like most people do before going to sleep. I didn’t plan to watch anything special, but then the algorithm suddenly pushed me a video that looked really familiar. At first, I thought it was just one of those “people you may know” suggestions, because the person in the video looked exactly like my neighbor’s grandma. I was a bit confused at first, but after watching for a few seconds, I realized it was actually her.\n\nIn the video, she was doing a review of the latest iPad. She was unboxing it, talking about its pros and cons, and explaining some tech details very clearly. What surprised me most was that she used a lot of tech terms, and some of them were so professional that I even had to search them later. The video had tens of thousands of likes and comments, which made it even more surprising.\n\nI felt deeply inspired. It reminded me that a person does not need to be loud or dramatic to be powerful. Sometimes, real strength is quiet. It is about staying focused, doing meaningful work, and not giving up even when other people underestimate you.\n\nI think what makes it important is not just its value as a medicinal herb, but the meaning behind it. For my grandma, it represents her lifelong dedication to Chinese medicine. For our family, keeping it is like keeping a part of her spirit and passion alive. To be honest, we may never actually use it, but that’s not the point. It carries emotional weight and reminds us of her knowledge, her beliefs, and her way of life.\n\nShe shares daily updates, tries out new gadgets, talks about tech news, and explains new products in a simple way. Honestly, she posts more often than many young people I know. Her content is not only fun, but also surprisingly useful, because she makes technology easier to understand.\n\nI admire not only her scientific achievements, but also the journey behind them. I learned that it was not easy for her to succeed as a woman in science, especially during a time when many people did not take women researchers seriously. She didn’t have fancy equipment or a big team, but she kept going. That kind of quiet strength really moved me, and it made me respect her even more.\n\nI’d really like to talk about Tu Youyou, the Nobel Prize-winning scientist. She is best known for her groundbreaking work in malaria treatment, and honestly, she’s one of the most inspiring people I’ve ever heard about. What I admire most is not just her scientific achievement, but also the quiet strength behind her success. As a woman in science, she had to face many difficulties, but she still kept going and finally made a huge contribution to the world.\n\nHonestly, this gave me a whole new level of respect for her. She reminded me that staying curious is one of the best ways to stay young at heart. I used to think technology was mainly something for young people, but she changed my mind. Seeing her learn, share, and enjoy new things made me feel that anyone can keep growing at any age.\n\nI found it really interesting because you wouldn’t normally expect someone her age to be so into technology. There is this stereotype that older people are not very good with phones, apps, or new gadgets. But she completely breaks that idea. She is not just keeping up with technology. In a way, she is even leading the way, which really opened my eyes.\n\nShe enjoys growing these herbs because it keeps her connected to her background in Chinese medicine, something she’s truly passionate about. For her, it’s not just about having a green space. It’s about maintaining her knowledge and sharing it with others. Whenever her friends or even neighbors have minor health issues like headaches or colds, she always offers them herbal tea made from her plants. I believe it's also a social thing for her. In a way, her love for plants is not just about growing herbs—it's about connecting with people, staying curious, and continuing to share her wisdom, even after retirement.\n\nIt is my grandma, who is a retired Chinese medicine practitioner. She has always been passionate about herbs and natural healing. She even grows herbs like mint and chrysanthemum on her balcony, and she loves recommending herbal teas to neighbors when they feel under the weather. So this object is closely connected to her life and her beliefs.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-20",
@@ -1975,13 +3118,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a memorable conversation. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "my neighbor, an older lady who lives just a few steps away from my home. I’ve known her since I was little because his family and mine have lived in the same building for years. She’s not your typical grandma. She is really into technology and even runs her own social media account, where she shares her “tech life” with others.\n\nI was lying in bed at night and casually scrolling on my phone, you know, just like most people do before going to sleep. I didn’t plan to watch anything special, but then the algorithm suddenly pushed me a video that looked really familiar. At first, I thought it was just one of those “people you may know” suggestions, because the person in the video looked exactly like my neighbor’s grandma. I was a bit confused at first, but after watching for a few seconds, I realized it was actually her.\n\nIn the video, she was doing a review of the latest iPad. She was unboxing it, talking about its pros and cons, and explaining some tech details very clearly. What surprised me most was that she used a lot of tech terms, and some of them were so professional that I even had to search them later. The video had tens of thousands of likes and comments, which made it even more surprising.\n\nI felt deeply inspired. It reminded me that a person does not need to be loud or dramatic to be powerful. Sometimes, real strength is quiet. It is about staying focused, doing meaningful work, and not giving up even when other people underestimate you.\n\nI think what makes it important is not just its value as a medicinal herb, but the meaning behind it. For my grandma, it represents her lifelong dedication to Chinese medicine. For our family, keeping it is like keeping a part of her spirit and passion alive. To be honest, we may never actually use it, but that’s not the point. It carries emotional weight and reminds us of her knowledge, her beliefs, and her way of life.\n\nShe shares daily updates, tries out new gadgets, talks about tech news, and explains new products in a simple way. Honestly, she posts more often than many young people I know. Her content is not only fun, but also surprisingly useful, because she makes technology easier to understand.\n\nI admire not only her scientific achievements, but also the journey behind them. I learned that it was not easy for her to succeed as a woman in science, especially during a time when many people did not take women researchers seriously. She didn’t have fancy equipment or a big team, but she kept going. That kind of quiet strength really moved me, and it made me respect her even more.\n\nI’d really like to talk about Tu Youyou, the Nobel Prize-winning scientist. She is best known for her groundbreaking work in malaria treatment, and honestly, she’s one of the most inspiring people I’ve ever heard about. What I admire most is not just her scientific achievement, but also the quiet strength behind her success. As a woman in science, she had to face many difficulties, but she still kept going and finally made a huge contribution to the world.\n\nHonestly, this gave me a whole new level of respect for her. She reminded me that staying curious is one of the best ways to stay young at heart. I used to think technology was mainly something for young people, but she changed my mind. Seeing her learn, share, and enjoy new things made me feel that anyone can keep growing at any age.\n\nI found it really interesting because you wouldn’t normally expect someone her age to be so into technology. There is this stereotype that older people are not very good with phones, apps, or new gadgets. But she completely breaks that idea. She is not just keeping up with technology. In a way, she is even leading the way, which really opened my eyes.\n\nShe enjoys growing these herbs because it keeps her connected to her background in Chinese medicine, something she’s truly passionate about. For her, it’s not just about having a green space. It’s about maintaining her knowledge and sharing it with others. Whenever her friends or even neighbors have minor health issues like headaches or colds, she always offers them herbal tea made from her plants. I believe it's also a social thing for her. In a way, her love for plants is not just about growing herbs—it's about connecting with people, staying curious, and continuing to share her wisdom, even after retirement.\n\nIt is my grandma, who is a retired Chinese medicine practitioner. She has always been passionate about herbs and natural healing. She even grows herbs like mint and chrysanthemum on her balcony, and she loves recommending herbal teas to neighbors when they feel under the weather. So this object is closely connected to her life and her beliefs.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-21",
@@ -1999,13 +3139,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a child who enjoys drawing. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "Well, to be honest, it wasn't cheap. The price depends on the model and storage, but for a student like me, it was definitely a bit expensive. I originally planned to buy a cheaper version, but after comparing different models, I ended up spending more than I expected. Still, I saw it as an investment, because it is something I can use for a long time.\n\nI mainly use it for drawing and painting. With just the iPad and a stylus, I can draw directly on the screen, adjust colors, try different styles, and fix mistakes easily. Compared with traditional painting, it feels much more convenient because I don't need to prepare paper, brushes, or paint. It saves time and space, and it lets me focus more on my ideas.\n\nI often post my artwork online, and over time I have gained some followers. The feedback and encouragement I receive from people really mean a lot to me. It gives me confidence and motivates me to keep improving. So for me, drawing on the iPad is not just a hobby. It is also a way to express myself and connect with other people.\n\nThe main reason I wanted it was actually very simple. I wanted to use it for drawing, studying, and watching shows in my free time. For me, it is both practical and enjoyable. It helps me stay productive when I need to study, but it also gives me a lot of freedom when I want to create something. So it fits my life really well.\n\nSo, the item I want to talk about is my iPad. You know, it's not just a normal gadget for me. It's something I use almost every day, especially for drawing and studying. I see it more like a digital canvas, because it allows me to create things directly on the screen. Over time, it has become a very important part of my daily life and creative life.\n\nThe iPad helps me a lot in my daily life because it makes many things simpler. I can use it to study, draw, watch videos, and organize my ideas. Instead of carrying many different tools, I only need one tablet and a pen. It makes my life more convenient and also helps me become more productive.\n\nAnyway, the next day I rushed to the Apple Store and explained the whole thing to the staff. I asked them if there was any way to fix the iPad and save the data. They told me to leave it there for a few days while they checked it, so I had no choice but to wait.\n\nAt first, I thought maybe the case had protected it. But when I picked it up, I saw the screen had frozen on the startup logo. No matter what I did, charging it, restarting it, or pressing the buttons, it just wouldn’t turn on. I tried everything I could, but it was completely stuck.\n\nOne thing I really like about the iPad is its design. It has a very clean and minimalist look, with a slim body, rounded edges, and a clear, vibrant screen. There are no unnecessary buttons or complicated details, so it looks very modern and elegant. To be honest, it almost feels like a piece of art in itself.\n\nLuckily, a few days later, they called me and said the iPad had been fixed, and none of the files were lost. I was over the moon when I heard that. I mean, it was such a relief. The iPad itself was important, but knowing that my data was safe made me feel even happier.\n\n我 (想拥有的科技产品) 是iPad，我看过一个David Hockney合作拍ipad的广告 (名人出演的广告)。 我的旧iPad已经用了很多年，一次不小心把iPad从桌上碰掉了 (遇到的科技问题) (很久没收到回复的信息) 。后来我左思右想还是买了一台新型号 (花费超过预期的物品)。\n\na few months ago. I was working late at night, sitting at my desk, and everything seemed totally normal. But when I stood up a bit too fast, I accidentally knocked the iPad off the edge of the table. It fell straight onto the floor, screen down, and at that moment I was like, “Oh no!”",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-22",
@@ -2023,13 +3160,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a technology product. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "Well, to be honest, it wasn't cheap. The price depends on the model and storage, but for a student like me, it was definitely a bit expensive. I originally planned to buy a cheaper version, but after comparing different models, I ended up spending more than I expected. Still, I saw it as an investment, because it is something I can use for a long time.\n\nI mainly use it for drawing and painting. With just the iPad and a stylus, I can draw directly on the screen, adjust colors, try different styles, and fix mistakes easily. Compared with traditional painting, it feels much more convenient because I don't need to prepare paper, brushes, or paint. It saves time and space, and it lets me focus more on my ideas.\n\nI often post my artwork online, and over time I have gained some followers. The feedback and encouragement I receive from people really mean a lot to me. It gives me confidence and motivates me to keep improving. So for me, drawing on the iPad is not just a hobby. It is also a way to express myself and connect with other people.\n\nThe main reason I wanted it was actually very simple. I wanted to use it for drawing, studying, and watching shows in my free time. For me, it is both practical and enjoyable. It helps me stay productive when I need to study, but it also gives me a lot of freedom when I want to create something. So it fits my life really well.\n\nSo, the item I want to talk about is my iPad. You know, it's not just a normal gadget for me. It's something I use almost every day, especially for drawing and studying. I see it more like a digital canvas, because it allows me to create things directly on the screen. Over time, it has become a very important part of my daily life and creative life.\n\nThe iPad helps me a lot in my daily life because it makes many things simpler. I can use it to study, draw, watch videos, and organize my ideas. Instead of carrying many different tools, I only need one tablet and a pen. It makes my life more convenient and also helps me become more productive.\n\nAnyway, the next day I rushed to the Apple Store and explained the whole thing to the staff. I asked them if there was any way to fix the iPad and save the data. They told me to leave it there for a few days while they checked it, so I had no choice but to wait.\n\nAt first, I thought maybe the case had protected it. But when I picked it up, I saw the screen had frozen on the startup logo. No matter what I did, charging it, restarting it, or pressing the buttons, it just wouldn’t turn on. I tried everything I could, but it was completely stuck.\n\nOne thing I really like about the iPad is its design. It has a very clean and minimalist look, with a slim body, rounded edges, and a clear, vibrant screen. There are no unnecessary buttons or complicated details, so it looks very modern and elegant. To be honest, it almost feels like a piece of art in itself.\n\nLuckily, a few days later, they called me and said the iPad had been fixed, and none of the files were lost. I was over the moon when I heard that. I mean, it was such a relief. The iPad itself was important, but knowing that my data was safe made me feel even happier.\n\n我 (想拥有的科技产品) 是iPad，我看过一个David Hockney合作拍ipad的广告 (名人出演的广告)。 我的旧iPad已经用了很多年，一次不小心把iPad从桌上碰掉了 (遇到的科技问题) (很久没收到回复的信息) 。后来我左思右想还是买了一台新型号 (花费超过预期的物品)。\n\na few months ago. I was working late at night, sitting at my desk, and everything seemed totally normal. But when I stood up a bit too fast, I accidentally knocked the iPad off the edge of the table. It fell straight onto the floor, screen down, and at that moment I was like, “Oh no!”",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-23",
@@ -2047,13 +3181,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with an imaginative person. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "Well, to be honest, it wasn't cheap. The price depends on the model and storage, but for a student like me, it was definitely a bit expensive. I originally planned to buy a cheaper version, but after comparing different models, I ended up spending more than I expected. Still, I saw it as an investment, because it is something I can use for a long time.\n\nI mainly use it for drawing and painting. With just the iPad and a stylus, I can draw directly on the screen, adjust colors, try different styles, and fix mistakes easily. Compared with traditional painting, it feels much more convenient because I don't need to prepare paper, brushes, or paint. It saves time and space, and it lets me focus more on my ideas.\n\nI often post my artwork online, and over time I have gained some followers. The feedback and encouragement I receive from people really mean a lot to me. It gives me confidence and motivates me to keep improving. So for me, drawing on the iPad is not just a hobby. It is also a way to express myself and connect with other people.\n\nThe main reason I wanted it was actually very simple. I wanted to use it for drawing, studying, and watching shows in my free time. For me, it is both practical and enjoyable. It helps me stay productive when I need to study, but it also gives me a lot of freedom when I want to create something. So it fits my life really well.\n\nSo, the item I want to talk about is my iPad. You know, it's not just a normal gadget for me. It's something I use almost every day, especially for drawing and studying. I see it more like a digital canvas, because it allows me to create things directly on the screen. Over time, it has become a very important part of my daily life and creative life.\n\nThe iPad helps me a lot in my daily life because it makes many things simpler. I can use it to study, draw, watch videos, and organize my ideas. Instead of carrying many different tools, I only need one tablet and a pen. It makes my life more convenient and also helps me become more productive.\n\nAnyway, the next day I rushed to the Apple Store and explained the whole thing to the staff. I asked them if there was any way to fix the iPad and save the data. They told me to leave it there for a few days while they checked it, so I had no choice but to wait.\n\nAt first, I thought maybe the case had protected it. But when I picked it up, I saw the screen had frozen on the startup logo. No matter what I did, charging it, restarting it, or pressing the buttons, it just wouldn’t turn on. I tried everything I could, but it was completely stuck.\n\nOne thing I really like about the iPad is its design. It has a very clean and minimalist look, with a slim body, rounded edges, and a clear, vibrant screen. There are no unnecessary buttons or complicated details, so it looks very modern and elegant. To be honest, it almost feels like a piece of art in itself.\n\nLuckily, a few days later, they called me and said the iPad had been fixed, and none of the files were lost. I was over the moon when I heard that. I mean, it was such a relief. The iPad itself was important, but knowing that my data was safe made me feel even happier.\n\n我 (想拥有的科技产品) 是iPad，我看过一个David Hockney合作拍ipad的广告 (名人出演的广告)。 我的旧iPad已经用了很多年，一次不小心把iPad从桌上碰掉了 (遇到的科技问题) (很久没收到回复的信息) 。后来我左思右想还是买了一台新型号 (花费超过预期的物品)。\n\na few months ago. I was working late at night, sitting at my desk, and everything seemed totally normal. But when I stood up a bit too fast, I accidentally knocked the iPad off the edge of the table. It fell straight onto the floor, screen down, and at that moment I was like, “Oh no!”",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-24",
@@ -2071,13 +3202,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a skill learned by yourself. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "Well, to be honest, it wasn't cheap. The price depends on the model and storage, but for a student like me, it was definitely a bit expensive. I originally planned to buy a cheaper version, but after comparing different models, I ended up spending more than I expected. Still, I saw it as an investment, because it is something I can use for a long time.\n\nI mainly use it for drawing and painting. With just the iPad and a stylus, I can draw directly on the screen, adjust colors, try different styles, and fix mistakes easily. Compared with traditional painting, it feels much more convenient because I don't need to prepare paper, brushes, or paint. It saves time and space, and it lets me focus more on my ideas.\n\nI often post my artwork online, and over time I have gained some followers. The feedback and encouragement I receive from people really mean a lot to me. It gives me confidence and motivates me to keep improving. So for me, drawing on the iPad is not just a hobby. It is also a way to express myself and connect with other people.\n\nThe main reason I wanted it was actually very simple. I wanted to use it for drawing, studying, and watching shows in my free time. For me, it is both practical and enjoyable. It helps me stay productive when I need to study, but it also gives me a lot of freedom when I want to create something. So it fits my life really well.\n\nSo, the item I want to talk about is my iPad. You know, it's not just a normal gadget for me. It's something I use almost every day, especially for drawing and studying. I see it more like a digital canvas, because it allows me to create things directly on the screen. Over time, it has become a very important part of my daily life and creative life.\n\nThe iPad helps me a lot in my daily life because it makes many things simpler. I can use it to study, draw, watch videos, and organize my ideas. Instead of carrying many different tools, I only need one tablet and a pen. It makes my life more convenient and also helps me become more productive.\n\nAnyway, the next day I rushed to the Apple Store and explained the whole thing to the staff. I asked them if there was any way to fix the iPad and save the data. They told me to leave it there for a few days while they checked it, so I had no choice but to wait.\n\nAt first, I thought maybe the case had protected it. But when I picked it up, I saw the screen had frozen on the startup logo. No matter what I did, charging it, restarting it, or pressing the buttons, it just wouldn’t turn on. I tried everything I could, but it was completely stuck.\n\nOne thing I really like about the iPad is its design. It has a very clean and minimalist look, with a slim body, rounded edges, and a clear, vibrant screen. There are no unnecessary buttons or complicated details, so it looks very modern and elegant. To be honest, it almost feels like a piece of art in itself.\n\nLuckily, a few days later, they called me and said the iPad had been fixed, and none of the files were lost. I was over the moon when I heard that. I mean, it was such a relief. The iPad itself was important, but knowing that my data was safe made me feel even happier.\n\n我 (想拥有的科技产品) 是iPad，我看过一个David Hockney合作拍ipad的广告 (名人出演的广告)。 我的旧iPad已经用了很多年，一次不小心把iPad从桌上碰掉了 (遇到的科技问题) (很久没收到回复的信息) 。后来我左思右想还是买了一台新型号 (花费超过预期的物品)。\n\na few months ago. I was working late at night, sitting at my desk, and everything seemed totally normal. But when I stood up a bit too fast, I accidentally knocked the iPad off the edge of the table. It fell straight onto the floor, screen down, and at that moment I was like, “Oh no!”",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-25",
@@ -2095,13 +3223,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a useful object. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "Well, to be honest, it wasn't cheap. The price depends on the model and storage, but for a student like me, it was definitely a bit expensive. I originally planned to buy a cheaper version, but after comparing different models, I ended up spending more than I expected. Still, I saw it as an investment, because it is something I can use for a long time.\n\nI mainly use it for drawing and painting. With just the iPad and a stylus, I can draw directly on the screen, adjust colors, try different styles, and fix mistakes easily. Compared with traditional painting, it feels much more convenient because I don't need to prepare paper, brushes, or paint. It saves time and space, and it lets me focus more on my ideas.\n\nI often post my artwork online, and over time I have gained some followers. The feedback and encouragement I receive from people really mean a lot to me. It gives me confidence and motivates me to keep improving. So for me, drawing on the iPad is not just a hobby. It is also a way to express myself and connect with other people.\n\nThe main reason I wanted it was actually very simple. I wanted to use it for drawing, studying, and watching shows in my free time. For me, it is both practical and enjoyable. It helps me stay productive when I need to study, but it also gives me a lot of freedom when I want to create something. So it fits my life really well.\n\nSo, the item I want to talk about is my iPad. You know, it's not just a normal gadget for me. It's something I use almost every day, especially for drawing and studying. I see it more like a digital canvas, because it allows me to create things directly on the screen. Over time, it has become a very important part of my daily life and creative life.\n\nThe iPad helps me a lot in my daily life because it makes many things simpler. I can use it to study, draw, watch videos, and organize my ideas. Instead of carrying many different tools, I only need one tablet and a pen. It makes my life more convenient and also helps me become more productive.\n\nAnyway, the next day I rushed to the Apple Store and explained the whole thing to the staff. I asked them if there was any way to fix the iPad and save the data. They told me to leave it there for a few days while they checked it, so I had no choice but to wait.\n\nAt first, I thought maybe the case had protected it. But when I picked it up, I saw the screen had frozen on the startup logo. No matter what I did, charging it, restarting it, or pressing the buttons, it just wouldn’t turn on. I tried everything I could, but it was completely stuck.\n\nOne thing I really like about the iPad is its design. It has a very clean and minimalist look, with a slim body, rounded edges, and a clear, vibrant screen. There are no unnecessary buttons or complicated details, so it looks very modern and elegant. To be honest, it almost feels like a piece of art in itself.\n\nLuckily, a few days later, they called me and said the iPad had been fixed, and none of the files were lost. I was over the moon when I heard that. I mean, it was such a relief. The iPad itself was important, but knowing that my data was safe made me feel even happier.\n\n我 (想拥有的科技产品) 是iPad，我看过一个David Hockney合作拍ipad的广告 (名人出演的广告)。 我的旧iPad已经用了很多年，一次不小心把iPad从桌上碰掉了 (遇到的科技问题) (很久没收到回复的信息) 。后来我左思右想还是买了一台新型号 (花费超过预期的物品)。\n\na few months ago. I was working late at night, sitting at my desk, and everything seemed totally normal. But when I stood up a bit too fast, I accidentally knocked the iPad off the edge of the table. It fell straight onto the floor, screen down, and at that moment I was like, “Oh no!”",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-26",
@@ -2119,13 +3244,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a problem with technology. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "Well, to be honest, it wasn't cheap. The price depends on the model and storage, but for a student like me, it was definitely a bit expensive. I originally planned to buy a cheaper version, but after comparing different models, I ended up spending more than I expected. Still, I saw it as an investment, because it is something I can use for a long time.\n\nI mainly use it for drawing and painting. With just the iPad and a stylus, I can draw directly on the screen, adjust colors, try different styles, and fix mistakes easily. Compared with traditional painting, it feels much more convenient because I don't need to prepare paper, brushes, or paint. It saves time and space, and it lets me focus more on my ideas.\n\nI often post my artwork online, and over time I have gained some followers. The feedback and encouragement I receive from people really mean a lot to me. It gives me confidence and motivates me to keep improving. So for me, drawing on the iPad is not just a hobby. It is also a way to express myself and connect with other people.\n\nThe main reason I wanted it was actually very simple. I wanted to use it for drawing, studying, and watching shows in my free time. For me, it is both practical and enjoyable. It helps me stay productive when I need to study, but it also gives me a lot of freedom when I want to create something. So it fits my life really well.\n\nSo, the item I want to talk about is my iPad. You know, it's not just a normal gadget for me. It's something I use almost every day, especially for drawing and studying. I see it more like a digital canvas, because it allows me to create things directly on the screen. Over time, it has become a very important part of my daily life and creative life.\n\nThe iPad helps me a lot in my daily life because it makes many things simpler. I can use it to study, draw, watch videos, and organize my ideas. Instead of carrying many different tools, I only need one tablet and a pen. It makes my life more convenient and also helps me become more productive.\n\nAnyway, the next day I rushed to the Apple Store and explained the whole thing to the staff. I asked them if there was any way to fix the iPad and save the data. They told me to leave it there for a few days while they checked it, so I had no choice but to wait.\n\nAt first, I thought maybe the case had protected it. But when I picked it up, I saw the screen had frozen on the startup logo. No matter what I did, charging it, restarting it, or pressing the buttons, it just wouldn’t turn on. I tried everything I could, but it was completely stuck.\n\nOne thing I really like about the iPad is its design. It has a very clean and minimalist look, with a slim body, rounded edges, and a clear, vibrant screen. There are no unnecessary buttons or complicated details, so it looks very modern and elegant. To be honest, it almost feels like a piece of art in itself.\n\nLuckily, a few days later, they called me and said the iPad had been fixed, and none of the files were lost. I was over the moon when I heard that. I mean, it was such a relief. The iPad itself was important, but knowing that my data was safe made me feel even happier.\n\n我 (想拥有的科技产品) 是iPad，我看过一个David Hockney合作拍ipad的广告 (名人出演的广告)。 我的旧iPad已经用了很多年，一次不小心把iPad从桌上碰掉了 (遇到的科技问题) (很久没收到回复的信息) 。后来我左思右想还是买了一台新型号 (花费超过预期的物品)。\n\na few months ago. I was working late at night, sitting at my desk, and everything seemed totally normal. But when I stood up a bit too fast, I accidentally knocked the iPad off the edge of the table. It fell straight onto the floor, screen down, and at that moment I was like, “Oh no!”",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-27",
@@ -2143,13 +3265,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a creative activity. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "Well, to be honest, it wasn't cheap. The price depends on the model and storage, but for a student like me, it was definitely a bit expensive. I originally planned to buy a cheaper version, but after comparing different models, I ended up spending more than I expected. Still, I saw it as an investment, because it is something I can use for a long time.\n\nI mainly use it for drawing and painting. With just the iPad and a stylus, I can draw directly on the screen, adjust colors, try different styles, and fix mistakes easily. Compared with traditional painting, it feels much more convenient because I don't need to prepare paper, brushes, or paint. It saves time and space, and it lets me focus more on my ideas.\n\nI often post my artwork online, and over time I have gained some followers. The feedback and encouragement I receive from people really mean a lot to me. It gives me confidence and motivates me to keep improving. So for me, drawing on the iPad is not just a hobby. It is also a way to express myself and connect with other people.\n\nThe main reason I wanted it was actually very simple. I wanted to use it for drawing, studying, and watching shows in my free time. For me, it is both practical and enjoyable. It helps me stay productive when I need to study, but it also gives me a lot of freedom when I want to create something. So it fits my life really well.\n\nSo, the item I want to talk about is my iPad. You know, it's not just a normal gadget for me. It's something I use almost every day, especially for drawing and studying. I see it more like a digital canvas, because it allows me to create things directly on the screen. Over time, it has become a very important part of my daily life and creative life.\n\nThe iPad helps me a lot in my daily life because it makes many things simpler. I can use it to study, draw, watch videos, and organize my ideas. Instead of carrying many different tools, I only need one tablet and a pen. It makes my life more convenient and also helps me become more productive.\n\nAnyway, the next day I rushed to the Apple Store and explained the whole thing to the staff. I asked them if there was any way to fix the iPad and save the data. They told me to leave it there for a few days while they checked it, so I had no choice but to wait.\n\nAt first, I thought maybe the case had protected it. But when I picked it up, I saw the screen had frozen on the startup logo. No matter what I did, charging it, restarting it, or pressing the buttons, it just wouldn’t turn on. I tried everything I could, but it was completely stuck.\n\nOne thing I really like about the iPad is its design. It has a very clean and minimalist look, with a slim body, rounded edges, and a clear, vibrant screen. There are no unnecessary buttons or complicated details, so it looks very modern and elegant. To be honest, it almost feels like a piece of art in itself.\n\nLuckily, a few days later, they called me and said the iPad had been fixed, and none of the files were lost. I was over the moon when I heard that. I mean, it was such a relief. The iPad itself was important, but knowing that my data was safe made me feel even happier.\n\n我 (想拥有的科技产品) 是iPad，我看过一个David Hockney合作拍ipad的广告 (名人出演的广告)。 我的旧iPad已经用了很多年，一次不小心把iPad从桌上碰掉了 (遇到的科技问题) (很久没收到回复的信息) 。后来我左思右想还是买了一台新型号 (花费超过预期的物品)。\n\na few months ago. I was working late at night, sitting at my desk, and everything seemed totally normal. But when I stood up a bit too fast, I accidentally knocked the iPad off the edge of the table. It fell straight onto the floor, screen down, and at that moment I was like, “Oh no!”",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-28",
@@ -2167,13 +3286,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a picture you like. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "Well, to be honest, it wasn't cheap. The price depends on the model and storage, but for a student like me, it was definitely a bit expensive. I originally planned to buy a cheaper version, but after comparing different models, I ended up spending more than I expected. Still, I saw it as an investment, because it is something I can use for a long time.\n\nI mainly use it for drawing and painting. With just the iPad and a stylus, I can draw directly on the screen, adjust colors, try different styles, and fix mistakes easily. Compared with traditional painting, it feels much more convenient because I don't need to prepare paper, brushes, or paint. It saves time and space, and it lets me focus more on my ideas.\n\nI often post my artwork online, and over time I have gained some followers. The feedback and encouragement I receive from people really mean a lot to me. It gives me confidence and motivates me to keep improving. So for me, drawing on the iPad is not just a hobby. It is also a way to express myself and connect with other people.\n\nThe main reason I wanted it was actually very simple. I wanted to use it for drawing, studying, and watching shows in my free time. For me, it is both practical and enjoyable. It helps me stay productive when I need to study, but it also gives me a lot of freedom when I want to create something. So it fits my life really well.\n\nSo, the item I want to talk about is my iPad. You know, it's not just a normal gadget for me. It's something I use almost every day, especially for drawing and studying. I see it more like a digital canvas, because it allows me to create things directly on the screen. Over time, it has become a very important part of my daily life and creative life.\n\nThe iPad helps me a lot in my daily life because it makes many things simpler. I can use it to study, draw, watch videos, and organize my ideas. Instead of carrying many different tools, I only need one tablet and a pen. It makes my life more convenient and also helps me become more productive.\n\nAnyway, the next day I rushed to the Apple Store and explained the whole thing to the staff. I asked them if there was any way to fix the iPad and save the data. They told me to leave it there for a few days while they checked it, so I had no choice but to wait.\n\nAt first, I thought maybe the case had protected it. But when I picked it up, I saw the screen had frozen on the startup logo. No matter what I did, charging it, restarting it, or pressing the buttons, it just wouldn’t turn on. I tried everything I could, but it was completely stuck.\n\nOne thing I really like about the iPad is its design. It has a very clean and minimalist look, with a slim body, rounded edges, and a clear, vibrant screen. There are no unnecessary buttons or complicated details, so it looks very modern and elegant. To be honest, it almost feels like a piece of art in itself.\n\nLuckily, a few days later, they called me and said the iPad had been fixed, and none of the files were lost. I was over the moon when I heard that. I mean, it was such a relief. The iPad itself was important, but knowing that my data was safe made me feel even happier.\n\n我 (想拥有的科技产品) 是iPad，我看过一个David Hockney合作拍ipad的广告 (名人出演的广告)。 我的旧iPad已经用了很多年，一次不小心把iPad从桌上碰掉了 (遇到的科技问题) (很久没收到回复的信息) 。后来我左思右想还是买了一台新型号 (花费超过预期的物品)。\n\na few months ago. I was working late at night, sitting at my desk, and everything seemed totally normal. But when I stood up a bit too fast, I accidentally knocked the iPad off the edge of the table. It fell straight onto the floor, screen down, and at that moment I was like, “Oh no!”",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-29",
@@ -2191,13 +3307,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a time you learned something. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "Well, to be honest, it wasn't cheap. The price depends on the model and storage, but for a student like me, it was definitely a bit expensive. I originally planned to buy a cheaper version, but after comparing different models, I ended up spending more than I expected. Still, I saw it as an investment, because it is something I can use for a long time.\n\nI mainly use it for drawing and painting. With just the iPad and a stylus, I can draw directly on the screen, adjust colors, try different styles, and fix mistakes easily. Compared with traditional painting, it feels much more convenient because I don't need to prepare paper, brushes, or paint. It saves time and space, and it lets me focus more on my ideas.\n\nI often post my artwork online, and over time I have gained some followers. The feedback and encouragement I receive from people really mean a lot to me. It gives me confidence and motivates me to keep improving. So for me, drawing on the iPad is not just a hobby. It is also a way to express myself and connect with other people.\n\nThe main reason I wanted it was actually very simple. I wanted to use it for drawing, studying, and watching shows in my free time. For me, it is both practical and enjoyable. It helps me stay productive when I need to study, but it also gives me a lot of freedom when I want to create something. So it fits my life really well.\n\nSo, the item I want to talk about is my iPad. You know, it's not just a normal gadget for me. It's something I use almost every day, especially for drawing and studying. I see it more like a digital canvas, because it allows me to create things directly on the screen. Over time, it has become a very important part of my daily life and creative life.\n\nThe iPad helps me a lot in my daily life because it makes many things simpler. I can use it to study, draw, watch videos, and organize my ideas. Instead of carrying many different tools, I only need one tablet and a pen. It makes my life more convenient and also helps me become more productive.\n\nAnyway, the next day I rushed to the Apple Store and explained the whole thing to the staff. I asked them if there was any way to fix the iPad and save the data. They told me to leave it there for a few days while they checked it, so I had no choice but to wait.\n\nAt first, I thought maybe the case had protected it. But when I picked it up, I saw the screen had frozen on the startup logo. No matter what I did, charging it, restarting it, or pressing the buttons, it just wouldn’t turn on. I tried everything I could, but it was completely stuck.\n\nOne thing I really like about the iPad is its design. It has a very clean and minimalist look, with a slim body, rounded edges, and a clear, vibrant screen. There are no unnecessary buttons or complicated details, so it looks very modern and elegant. To be honest, it almost feels like a piece of art in itself.\n\nLuckily, a few days later, they called me and said the iPad had been fixed, and none of the files were lost. I was over the moon when I heard that. I mean, it was such a relief. The iPad itself was important, but knowing that my data was safe made me feel even happier.\n\n我 (想拥有的科技产品) 是iPad，我看过一个David Hockney合作拍ipad的广告 (名人出演的广告)。 我的旧iPad已经用了很多年，一次不小心把iPad从桌上碰掉了 (遇到的科技问题) (很久没收到回复的信息) 。后来我左思右想还是买了一台新型号 (花费超过预期的物品)。\n\na few months ago. I was working late at night, sitting at my desk, and everything seemed totally normal. But when I stood up a bit too fast, I accidentally knocked the iPad off the edge of the table. It fell straight onto the floor, screen down, and at that moment I was like, “Oh no!”",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-30",
@@ -2215,13 +3328,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a gift you enjoyed. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "Well, to be honest, it wasn't cheap. The price depends on the model and storage, but for a student like me, it was definitely a bit expensive. I originally planned to buy a cheaper version, but after comparing different models, I ended up spending more than I expected. Still, I saw it as an investment, because it is something I can use for a long time.\n\nI mainly use it for drawing and painting. With just the iPad and a stylus, I can draw directly on the screen, adjust colors, try different styles, and fix mistakes easily. Compared with traditional painting, it feels much more convenient because I don't need to prepare paper, brushes, or paint. It saves time and space, and it lets me focus more on my ideas.\n\nI often post my artwork online, and over time I have gained some followers. The feedback and encouragement I receive from people really mean a lot to me. It gives me confidence and motivates me to keep improving. So for me, drawing on the iPad is not just a hobby. It is also a way to express myself and connect with other people.\n\nThe main reason I wanted it was actually very simple. I wanted to use it for drawing, studying, and watching shows in my free time. For me, it is both practical and enjoyable. It helps me stay productive when I need to study, but it also gives me a lot of freedom when I want to create something. So it fits my life really well.\n\nSo, the item I want to talk about is my iPad. You know, it's not just a normal gadget for me. It's something I use almost every day, especially for drawing and studying. I see it more like a digital canvas, because it allows me to create things directly on the screen. Over time, it has become a very important part of my daily life and creative life.\n\nThe iPad helps me a lot in my daily life because it makes many things simpler. I can use it to study, draw, watch videos, and organize my ideas. Instead of carrying many different tools, I only need one tablet and a pen. It makes my life more convenient and also helps me become more productive.\n\nAnyway, the next day I rushed to the Apple Store and explained the whole thing to the staff. I asked them if there was any way to fix the iPad and save the data. They told me to leave it there for a few days while they checked it, so I had no choice but to wait.\n\nAt first, I thought maybe the case had protected it. But when I picked it up, I saw the screen had frozen on the startup logo. No matter what I did, charging it, restarting it, or pressing the buttons, it just wouldn’t turn on. I tried everything I could, but it was completely stuck.\n\nOne thing I really like about the iPad is its design. It has a very clean and minimalist look, with a slim body, rounded edges, and a clear, vibrant screen. There are no unnecessary buttons or complicated details, so it looks very modern and elegant. To be honest, it almost feels like a piece of art in itself.\n\nLuckily, a few days later, they called me and said the iPad had been fixed, and none of the files were lost. I was over the moon when I heard that. I mean, it was such a relief. The iPad itself was important, but knowing that my data was safe made me feel even happier.\n\n我 (想拥有的科技产品) 是iPad，我看过一个David Hockney合作拍ipad的广告 (名人出演的广告)。 我的旧iPad已经用了很多年，一次不小心把iPad从桌上碰掉了 (遇到的科技问题) (很久没收到回复的信息) 。后来我左思右想还是买了一台新型号 (花费超过预期的物品)。\n\na few months ago. I was working late at night, sitting at my desk, and everything seemed totally normal. But when I stood up a bit too fast, I accidentally knocked the iPad off the edge of the table. It fell straight onto the floor, screen down, and at that moment I was like, “Oh no!”",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-31",
@@ -2239,13 +3349,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a special cake. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "The biggest thing I learned was to be bold and keep improving. This experience taught me that trying new things, even if they seem difficult at first, can bring a lot of joy and satisfaction. It also showed me that improvement does not have to happen all at once. As long as I keep trying step by step, I can get better.\n\nInstead of ordering food, she prefers to cook her own meals at home. Even when she is busy, she still tries to prepare something simple by herself. Sometimes, if she doesn’t have time to cook, she will bring her own lunchbox with food she prepared earlier. In this way, she avoids using disposable containers as much as possible.\n\nIn China, ordering takeout is extremely convenient, but it often creates a lot of plastic waste, such as plastic boxes, plastic bags, and disposable cutlery.\n\nthe blogger made everything look so easy and relaxing. Their way of explaining things was very clear, simple, and engaging, especially for someone with little cooking experience like me. At that moment, it was exactly what I needed, because I wanted to prepare something special for my family during the Spring Festival.\n\nOne exciting activity I tried was cooking a full Chinese New Year meal by myself. It was something I had never done before, so it felt like a big challenge. I decided to make a few traditional dishes, such as dumplings and braised pork. These dishes are very important for our family gatherings during Chinese New Year, so I really wanted to do them properly.\n\nThe video was a cooking tutorial about how to make traditional Chinese New Year dishes, especially dumplings and braised pork. These dishes sound a little difficult at first, but the blogger explained the process in a very clear and engaging way. The video did not just show the recipes. It also taught some basic cooking techniques, which made the whole process much easier to follow.\n\nHonestly, I felt super proud and happy. It was my first time cooking a full Chinese New Year meal by myself, and I didn’t expect it to go that well. When my family tried the food and said it tasted great, I felt that all the hard work was worth it. That moment gave me a strong sense of achievement.\n\nUsually, it is the older generation who cooks for the family, but this time I wanted to try and give something back. When everyone sat around the table and tasted the food I made, they started laughing, complimenting me, and even joking about the shape of the dumplings. The whole room was full of warmth and laughter.\n\nI learned it by watching a cooking video by a very popular food blogger. I watched the video at home, just a couple of days before the Spring Festival, and used my laptop to follow along step by step. The blogger made everything look simple and fun, which was really helpful for a beginner like me. I could pause the video, replay some parts, and slowly follow the instructions without feeling too much pressure.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-32",
@@ -2263,13 +3370,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a family item. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "The biggest thing I learned was to be bold and keep improving. This experience taught me that trying new things, even if they seem difficult at first, can bring a lot of joy and satisfaction. It also showed me that improvement does not have to happen all at once. As long as I keep trying step by step, I can get better.\n\nInstead of ordering food, she prefers to cook her own meals at home. Even when she is busy, she still tries to prepare something simple by herself. Sometimes, if she doesn’t have time to cook, she will bring her own lunchbox with food she prepared earlier. In this way, she avoids using disposable containers as much as possible.\n\nIn China, ordering takeout is extremely convenient, but it often creates a lot of plastic waste, such as plastic boxes, plastic bags, and disposable cutlery.\n\nthe blogger made everything look so easy and relaxing. Their way of explaining things was very clear, simple, and engaging, especially for someone with little cooking experience like me. At that moment, it was exactly what I needed, because I wanted to prepare something special for my family during the Spring Festival.\n\nOne exciting activity I tried was cooking a full Chinese New Year meal by myself. It was something I had never done before, so it felt like a big challenge. I decided to make a few traditional dishes, such as dumplings and braised pork. These dishes are very important for our family gatherings during Chinese New Year, so I really wanted to do them properly.\n\nThe video was a cooking tutorial about how to make traditional Chinese New Year dishes, especially dumplings and braised pork. These dishes sound a little difficult at first, but the blogger explained the process in a very clear and engaging way. The video did not just show the recipes. It also taught some basic cooking techniques, which made the whole process much easier to follow.\n\nHonestly, I felt super proud and happy. It was my first time cooking a full Chinese New Year meal by myself, and I didn’t expect it to go that well. When my family tried the food and said it tasted great, I felt that all the hard work was worth it. That moment gave me a strong sense of achievement.\n\nUsually, it is the older generation who cooks for the family, but this time I wanted to try and give something back. When everyone sat around the table and tasted the food I made, they started laughing, complimenting me, and even joking about the shape of the dumplings. The whole room was full of warmth and laughter.\n\nI learned it by watching a cooking video by a very popular food blogger. I watched the video at home, just a couple of days before the Spring Festival, and used my laptop to follow along step by step. The blogger made everything look simple and fun, which was really helpful for a beginner like me. I could pause the video, replay some parts, and slowly follow the instructions without feeling too much pressure.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-33",
@@ -2287,13 +3391,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a person who enjoys cooking. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "The biggest thing I learned was to be bold and keep improving. This experience taught me that trying new things, even if they seem difficult at first, can bring a lot of joy and satisfaction. It also showed me that improvement does not have to happen all at once. As long as I keep trying step by step, I can get better.\n\nInstead of ordering food, she prefers to cook her own meals at home. Even when she is busy, she still tries to prepare something simple by herself. Sometimes, if she doesn’t have time to cook, she will bring her own lunchbox with food she prepared earlier. In this way, she avoids using disposable containers as much as possible.\n\nIn China, ordering takeout is extremely convenient, but it often creates a lot of plastic waste, such as plastic boxes, plastic bags, and disposable cutlery.\n\nthe blogger made everything look so easy and relaxing. Their way of explaining things was very clear, simple, and engaging, especially for someone with little cooking experience like me. At that moment, it was exactly what I needed, because I wanted to prepare something special for my family during the Spring Festival.\n\nOne exciting activity I tried was cooking a full Chinese New Year meal by myself. It was something I had never done before, so it felt like a big challenge. I decided to make a few traditional dishes, such as dumplings and braised pork. These dishes are very important for our family gatherings during Chinese New Year, so I really wanted to do them properly.\n\nThe video was a cooking tutorial about how to make traditional Chinese New Year dishes, especially dumplings and braised pork. These dishes sound a little difficult at first, but the blogger explained the process in a very clear and engaging way. The video did not just show the recipes. It also taught some basic cooking techniques, which made the whole process much easier to follow.\n\nHonestly, I felt super proud and happy. It was my first time cooking a full Chinese New Year meal by myself, and I didn’t expect it to go that well. When my family tried the food and said it tasted great, I felt that all the hard work was worth it. That moment gave me a strong sense of achievement.\n\nUsually, it is the older generation who cooks for the family, but this time I wanted to try and give something back. When everyone sat around the table and tasted the food I made, they started laughing, complimenting me, and even joking about the shape of the dumplings. The whole room was full of warmth and laughter.\n\nI learned it by watching a cooking video by a very popular food blogger. I watched the video at home, just a couple of days before the Spring Festival, and used my laptop to follow along step by step. The blogger made everything look simple and fun, which was really helpful for a beginner like me. I could pause the video, replay some parts, and slowly follow the instructions without feeling too much pressure.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-34",
@@ -2311,13 +3412,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a celebration. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "The biggest thing I learned was to be bold and keep improving. This experience taught me that trying new things, even if they seem difficult at first, can bring a lot of joy and satisfaction. It also showed me that improvement does not have to happen all at once. As long as I keep trying step by step, I can get better.\n\nInstead of ordering food, she prefers to cook her own meals at home. Even when she is busy, she still tries to prepare something simple by herself. Sometimes, if she doesn’t have time to cook, she will bring her own lunchbox with food she prepared earlier. In this way, she avoids using disposable containers as much as possible.\n\nIn China, ordering takeout is extremely convenient, but it often creates a lot of plastic waste, such as plastic boxes, plastic bags, and disposable cutlery.\n\nthe blogger made everything look so easy and relaxing. Their way of explaining things was very clear, simple, and engaging, especially for someone with little cooking experience like me. At that moment, it was exactly what I needed, because I wanted to prepare something special for my family during the Spring Festival.\n\nOne exciting activity I tried was cooking a full Chinese New Year meal by myself. It was something I had never done before, so it felt like a big challenge. I decided to make a few traditional dishes, such as dumplings and braised pork. These dishes are very important for our family gatherings during Chinese New Year, so I really wanted to do them properly.\n\nThe video was a cooking tutorial about how to make traditional Chinese New Year dishes, especially dumplings and braised pork. These dishes sound a little difficult at first, but the blogger explained the process in a very clear and engaging way. The video did not just show the recipes. It also taught some basic cooking techniques, which made the whole process much easier to follow.\n\nHonestly, I felt super proud and happy. It was my first time cooking a full Chinese New Year meal by myself, and I didn’t expect it to go that well. When my family tried the food and said it tasted great, I felt that all the hard work was worth it. That moment gave me a strong sense of achievement.\n\nUsually, it is the older generation who cooks for the family, but this time I wanted to try and give something back. When everyone sat around the table and tasted the food I made, they started laughing, complimenting me, and even joking about the shape of the dumplings. The whole room was full of warmth and laughter.\n\nI learned it by watching a cooking video by a very popular food blogger. I watched the video at home, just a couple of days before the Spring Festival, and used my laptop to follow along step by step. The blogger made everything look simple and fun, which was really helpful for a beginner like me. I could pause the video, replay some parts, and slowly follow the instructions without feeling too much pressure.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-35",
@@ -2335,13 +3433,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a time you spent more than expected. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "The biggest thing I learned was to be bold and keep improving. This experience taught me that trying new things, even if they seem difficult at first, can bring a lot of joy and satisfaction. It also showed me that improvement does not have to happen all at once. As long as I keep trying step by step, I can get better.\n\nInstead of ordering food, she prefers to cook her own meals at home. Even when she is busy, she still tries to prepare something simple by herself. Sometimes, if she doesn’t have time to cook, she will bring her own lunchbox with food she prepared earlier. In this way, she avoids using disposable containers as much as possible.\n\nIn China, ordering takeout is extremely convenient, but it often creates a lot of plastic waste, such as plastic boxes, plastic bags, and disposable cutlery.\n\nthe blogger made everything look so easy and relaxing. Their way of explaining things was very clear, simple, and engaging, especially for someone with little cooking experience like me. At that moment, it was exactly what I needed, because I wanted to prepare something special for my family during the Spring Festival.\n\nOne exciting activity I tried was cooking a full Chinese New Year meal by myself. It was something I had never done before, so it felt like a big challenge. I decided to make a few traditional dishes, such as dumplings and braised pork. These dishes are very important for our family gatherings during Chinese New Year, so I really wanted to do them properly.\n\nThe video was a cooking tutorial about how to make traditional Chinese New Year dishes, especially dumplings and braised pork. These dishes sound a little difficult at first, but the blogger explained the process in a very clear and engaging way. The video did not just show the recipes. It also taught some basic cooking techniques, which made the whole process much easier to follow.\n\nHonestly, I felt super proud and happy. It was my first time cooking a full Chinese New Year meal by myself, and I didn’t expect it to go that well. When my family tried the food and said it tasted great, I felt that all the hard work was worth it. That moment gave me a strong sense of achievement.\n\nUsually, it is the older generation who cooks for the family, but this time I wanted to try and give something back. When everyone sat around the table and tasted the food I made, they started laughing, complimenting me, and even joking about the shape of the dumplings. The whole room was full of warmth and laughter.\n\nI learned it by watching a cooking video by a very popular food blogger. I watched the video at home, just a couple of days before the Spring Festival, and used my laptop to follow along step by step. The blogger made everything look simple and fun, which was really helpful for a beginner like me. I could pause the video, replay some parts, and slowly follow the instructions without feeling too much pressure.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-36",
@@ -2359,13 +3454,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with an event you did not enjoy. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "The biggest thing I learned was to be bold and keep improving. This experience taught me that trying new things, even if they seem difficult at first, can bring a lot of joy and satisfaction. It also showed me that improvement does not have to happen all at once. As long as I keep trying step by step, I can get better.\n\nInstead of ordering food, she prefers to cook her own meals at home. Even when she is busy, she still tries to prepare something simple by herself. Sometimes, if she doesn’t have time to cook, she will bring her own lunchbox with food she prepared earlier. In this way, she avoids using disposable containers as much as possible.\n\nIn China, ordering takeout is extremely convenient, but it often creates a lot of plastic waste, such as plastic boxes, plastic bags, and disposable cutlery.\n\nthe blogger made everything look so easy and relaxing. Their way of explaining things was very clear, simple, and engaging, especially for someone with little cooking experience like me. At that moment, it was exactly what I needed, because I wanted to prepare something special for my family during the Spring Festival.\n\nOne exciting activity I tried was cooking a full Chinese New Year meal by myself. It was something I had never done before, so it felt like a big challenge. I decided to make a few traditional dishes, such as dumplings and braised pork. These dishes are very important for our family gatherings during Chinese New Year, so I really wanted to do them properly.\n\nThe video was a cooking tutorial about how to make traditional Chinese New Year dishes, especially dumplings and braised pork. These dishes sound a little difficult at first, but the blogger explained the process in a very clear and engaging way. The video did not just show the recipes. It also taught some basic cooking techniques, which made the whole process much easier to follow.\n\nHonestly, I felt super proud and happy. It was my first time cooking a full Chinese New Year meal by myself, and I didn’t expect it to go that well. When my family tried the food and said it tasted great, I felt that all the hard work was worth it. That moment gave me a strong sense of achievement.\n\nUsually, it is the older generation who cooks for the family, but this time I wanted to try and give something back. When everyone sat around the table and tasted the food I made, they started laughing, complimenting me, and even joking about the shape of the dumplings. The whole room was full of warmth and laughter.\n\nI learned it by watching a cooking video by a very popular food blogger. I watched the video at home, just a couple of days before the Spring Festival, and used my laptop to follow along step by step. The blogger made everything look simple and fun, which was really helpful for a beginner like me. I could pause the video, replay some parts, and slowly follow the instructions without feeling too much pressure.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-37",
@@ -2383,13 +3475,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a useful tradition. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "The biggest thing I learned was to be bold and keep improving. This experience taught me that trying new things, even if they seem difficult at first, can bring a lot of joy and satisfaction. It also showed me that improvement does not have to happen all at once. As long as I keep trying step by step, I can get better.\n\nInstead of ordering food, she prefers to cook her own meals at home. Even when she is busy, she still tries to prepare something simple by herself. Sometimes, if she doesn’t have time to cook, she will bring her own lunchbox with food she prepared earlier. In this way, she avoids using disposable containers as much as possible.\n\nIn China, ordering takeout is extremely convenient, but it often creates a lot of plastic waste, such as plastic boxes, plastic bags, and disposable cutlery.\n\nthe blogger made everything look so easy and relaxing. Their way of explaining things was very clear, simple, and engaging, especially for someone with little cooking experience like me. At that moment, it was exactly what I needed, because I wanted to prepare something special for my family during the Spring Festival.\n\nOne exciting activity I tried was cooking a full Chinese New Year meal by myself. It was something I had never done before, so it felt like a big challenge. I decided to make a few traditional dishes, such as dumplings and braised pork. These dishes are very important for our family gatherings during Chinese New Year, so I really wanted to do them properly.\n\nThe video was a cooking tutorial about how to make traditional Chinese New Year dishes, especially dumplings and braised pork. These dishes sound a little difficult at first, but the blogger explained the process in a very clear and engaging way. The video did not just show the recipes. It also taught some basic cooking techniques, which made the whole process much easier to follow.\n\nHonestly, I felt super proud and happy. It was my first time cooking a full Chinese New Year meal by myself, and I didn’t expect it to go that well. When my family tried the food and said it tasted great, I felt that all the hard work was worth it. That moment gave me a strong sense of achievement.\n\nUsually, it is the older generation who cooks for the family, but this time I wanted to try and give something back. When everyone sat around the table and tasted the food I made, they started laughing, complimenting me, and even joking about the shape of the dumplings. The whole room was full of warmth and laughter.\n\nI learned it by watching a cooking video by a very popular food blogger. I watched the video at home, just a couple of days before the Spring Festival, and used my laptop to follow along step by step. The blogger made everything look simple and fun, which was really helpful for a beginner like me. I could pause the video, replay some parts, and slowly follow the instructions without feeling too much pressure.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-38",
@@ -2407,13 +3496,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a time you encouraged someone. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "The biggest thing I learned was to be bold and keep improving. This experience taught me that trying new things, even if they seem difficult at first, can bring a lot of joy and satisfaction. It also showed me that improvement does not have to happen all at once. As long as I keep trying step by step, I can get better.\n\nInstead of ordering food, she prefers to cook her own meals at home. Even when she is busy, she still tries to prepare something simple by herself. Sometimes, if she doesn’t have time to cook, she will bring her own lunchbox with food she prepared earlier. In this way, she avoids using disposable containers as much as possible.\n\nIn China, ordering takeout is extremely convenient, but it often creates a lot of plastic waste, such as plastic boxes, plastic bags, and disposable cutlery.\n\nthe blogger made everything look so easy and relaxing. Their way of explaining things was very clear, simple, and engaging, especially for someone with little cooking experience like me. At that moment, it was exactly what I needed, because I wanted to prepare something special for my family during the Spring Festival.\n\nOne exciting activity I tried was cooking a full Chinese New Year meal by myself. It was something I had never done before, so it felt like a big challenge. I decided to make a few traditional dishes, such as dumplings and braised pork. These dishes are very important for our family gatherings during Chinese New Year, so I really wanted to do them properly.\n\nThe video was a cooking tutorial about how to make traditional Chinese New Year dishes, especially dumplings and braised pork. These dishes sound a little difficult at first, but the blogger explained the process in a very clear and engaging way. The video did not just show the recipes. It also taught some basic cooking techniques, which made the whole process much easier to follow.\n\nHonestly, I felt super proud and happy. It was my first time cooking a full Chinese New Year meal by myself, and I didn’t expect it to go that well. When my family tried the food and said it tasted great, I felt that all the hard work was worth it. That moment gave me a strong sense of achievement.\n\nUsually, it is the older generation who cooks for the family, but this time I wanted to try and give something back. When everyone sat around the table and tasted the food I made, they started laughing, complimenting me, and even joking about the shape of the dumplings. The whole room was full of warmth and laughter.\n\nI learned it by watching a cooking video by a very popular food blogger. I watched the video at home, just a couple of days before the Spring Festival, and used my laptop to follow along step by step. The blogger made everything look simple and fun, which was really helpful for a beginner like me. I could pause the video, replay some parts, and slowly follow the instructions without feeling too much pressure.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-39",
@@ -2431,13 +3517,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a happy memory. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "The biggest thing I learned was to be bold and keep improving. This experience taught me that trying new things, even if they seem difficult at first, can bring a lot of joy and satisfaction. It also showed me that improvement does not have to happen all at once. As long as I keep trying step by step, I can get better.\n\nInstead of ordering food, she prefers to cook her own meals at home. Even when she is busy, she still tries to prepare something simple by herself. Sometimes, if she doesn’t have time to cook, she will bring her own lunchbox with food she prepared earlier. In this way, she avoids using disposable containers as much as possible.\n\nIn China, ordering takeout is extremely convenient, but it often creates a lot of plastic waste, such as plastic boxes, plastic bags, and disposable cutlery.\n\nthe blogger made everything look so easy and relaxing. Their way of explaining things was very clear, simple, and engaging, especially for someone with little cooking experience like me. At that moment, it was exactly what I needed, because I wanted to prepare something special for my family during the Spring Festival.\n\nOne exciting activity I tried was cooking a full Chinese New Year meal by myself. It was something I had never done before, so it felt like a big challenge. I decided to make a few traditional dishes, such as dumplings and braised pork. These dishes are very important for our family gatherings during Chinese New Year, so I really wanted to do them properly.\n\nThe video was a cooking tutorial about how to make traditional Chinese New Year dishes, especially dumplings and braised pork. These dishes sound a little difficult at first, but the blogger explained the process in a very clear and engaging way. The video did not just show the recipes. It also taught some basic cooking techniques, which made the whole process much easier to follow.\n\nHonestly, I felt super proud and happy. It was my first time cooking a full Chinese New Year meal by myself, and I didn’t expect it to go that well. When my family tried the food and said it tasted great, I felt that all the hard work was worth it. That moment gave me a strong sense of achievement.\n\nUsually, it is the older generation who cooks for the family, but this time I wanted to try and give something back. When everyone sat around the table and tasted the food I made, they started laughing, complimenting me, and even joking about the shape of the dumplings. The whole room was full of warmth and laughter.\n\nI learned it by watching a cooking video by a very popular food blogger. I watched the video at home, just a couple of days before the Spring Festival, and used my laptop to follow along step by step. The blogger made everything look simple and fun, which was really helpful for a beginner like me. I could pause the video, replay some parts, and slowly follow the instructions without feeling too much pressure.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-40",
@@ -2455,13 +3538,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with an item you keep. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "The biggest thing I learned was to be bold and keep improving. This experience taught me that trying new things, even if they seem difficult at first, can bring a lot of joy and satisfaction. It also showed me that improvement does not have to happen all at once. As long as I keep trying step by step, I can get better.\n\nInstead of ordering food, she prefers to cook her own meals at home. Even when she is busy, she still tries to prepare something simple by herself. Sometimes, if she doesn’t have time to cook, she will bring her own lunchbox with food she prepared earlier. In this way, she avoids using disposable containers as much as possible.\n\nIn China, ordering takeout is extremely convenient, but it often creates a lot of plastic waste, such as plastic boxes, plastic bags, and disposable cutlery.\n\nthe blogger made everything look so easy and relaxing. Their way of explaining things was very clear, simple, and engaging, especially for someone with little cooking experience like me. At that moment, it was exactly what I needed, because I wanted to prepare something special for my family during the Spring Festival.\n\nOne exciting activity I tried was cooking a full Chinese New Year meal by myself. It was something I had never done before, so it felt like a big challenge. I decided to make a few traditional dishes, such as dumplings and braised pork. These dishes are very important for our family gatherings during Chinese New Year, so I really wanted to do them properly.\n\nThe video was a cooking tutorial about how to make traditional Chinese New Year dishes, especially dumplings and braised pork. These dishes sound a little difficult at first, but the blogger explained the process in a very clear and engaging way. The video did not just show the recipes. It also taught some basic cooking techniques, which made the whole process much easier to follow.\n\nHonestly, I felt super proud and happy. It was my first time cooking a full Chinese New Year meal by myself, and I didn’t expect it to go that well. When my family tried the food and said it tasted great, I felt that all the hard work was worth it. That moment gave me a strong sense of achievement.\n\nUsually, it is the older generation who cooks for the family, but this time I wanted to try and give something back. When everyone sat around the table and tasted the food I made, they started laughing, complimenting me, and even joking about the shape of the dumplings. The whole room was full of warmth and laughter.\n\nI learned it by watching a cooking video by a very popular food blogger. I watched the video at home, just a couple of days before the Spring Festival, and used my laptop to follow along step by step. The blogger made everything look simple and fun, which was really helpful for a beginner like me. I could pause the video, replay some parts, and slowly follow the instructions without feeling too much pressure.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-41",
@@ -2479,13 +3559,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a city you enjoyed visiting. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "So, the city I want to talk about is Singapore. It’s located in Southeast Asia, and honestly, it’s one of the cleanest and most modern cities I’ve ever been to.\n\nI went there last summer. You know, there is a visa waiver policy between China and Singapore, so traveling there felt much more convenient. I remember thinking that it was a perfect chance to take a short trip and see what Singapore was really like.\n\nHonestly, I really admire her. Traveling with her made me feel much more relaxed and less stressed. I’m the kind of person who just goes with the flow and figures things out later, so having someone like her around was a huge help. She made the whole trip smoother and more efficient, and being with her made me feel safe and taken care of.\n\nHonestly, this park feels like a small sanctuary to me. Every time I go there, I feel a sense of peace. It cuts out the noise of the city and gives me a quiet space to slow down. I usually just walk around, enjoy the scenery, or sit somewhere and watch the light change. It is an ideal place to recharge when I feel tired or stressed.\n\nShe plans almost everything in advance. Before the trip even started, she had already checked the routes, looked up the metro lines, and roughly planned how much time we should spend at each place. Every morning, she would remind us when to leave the hotel, which attraction to visit first, and how to get there in the most efficient way. She also always had a backup plan ready, so it felt like she was already one step ahead of the situation.\n\nI stayed there for about five days. I think it was just enough time to explore the main parts of the city without feeling too rushed. Of course, there were still many places I didn’t get to visit, but overall, the trip felt quite fulfilling.\n\nIt is right in the heart of Singapore, surrounded by other famous landmarks, so it is very easy to find and visit. Now, it is used as a museum, and it is home to a large collection of modern art from Southeast Asia.\n\nThe building looks really impressive. It is huge, with big white columns and grand staircases, so it feels very majestic. What I like most is the way it mixes old and new elements. The historical features are still there, but there are also modern touches, like the glass rooftop. This combination gives the building a special charm that feels both classic and contemporary.\n\nI think it is interesting because it is not just about art or history. The building itself tells a story. The way they preserved its historical features while adding modern elements shows respect for both the past and the future. Walking through it made me feel amazed, because it showed me how beautifully history and modern life can exist together.\n\nHonestly, I really enjoyed visiting Singapore because it feels like a perfect mix of nature and modern life. You can see lush parks right next to tall buildings, and the streets are almost always clean and well-maintained. It is a busy city, but somehow it still feels peaceful and orderly. The whole trip made me feel relaxed, energized, and inspired.\n\nIt is not just an ordinary park. It feels like a place where you can step away from the noise of the city and get close to nature. The park is quite large, with green spaces, different plants, walking paths, and quiet corners where people can sit and relax.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-42",
@@ -2503,13 +3580,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a quiet place. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "So, the city I want to talk about is Singapore. It’s located in Southeast Asia, and honestly, it’s one of the cleanest and most modern cities I’ve ever been to.\n\nI went there last summer. You know, there is a visa waiver policy between China and Singapore, so traveling there felt much more convenient. I remember thinking that it was a perfect chance to take a short trip and see what Singapore was really like.\n\nHonestly, I really admire her. Traveling with her made me feel much more relaxed and less stressed. I’m the kind of person who just goes with the flow and figures things out later, so having someone like her around was a huge help. She made the whole trip smoother and more efficient, and being with her made me feel safe and taken care of.\n\nHonestly, this park feels like a small sanctuary to me. Every time I go there, I feel a sense of peace. It cuts out the noise of the city and gives me a quiet space to slow down. I usually just walk around, enjoy the scenery, or sit somewhere and watch the light change. It is an ideal place to recharge when I feel tired or stressed.\n\nShe plans almost everything in advance. Before the trip even started, she had already checked the routes, looked up the metro lines, and roughly planned how much time we should spend at each place. Every morning, she would remind us when to leave the hotel, which attraction to visit first, and how to get there in the most efficient way. She also always had a backup plan ready, so it felt like she was already one step ahead of the situation.\n\nI stayed there for about five days. I think it was just enough time to explore the main parts of the city without feeling too rushed. Of course, there were still many places I didn’t get to visit, but overall, the trip felt quite fulfilling.\n\nIt is right in the heart of Singapore, surrounded by other famous landmarks, so it is very easy to find and visit. Now, it is used as a museum, and it is home to a large collection of modern art from Southeast Asia.\n\nThe building looks really impressive. It is huge, with big white columns and grand staircases, so it feels very majestic. What I like most is the way it mixes old and new elements. The historical features are still there, but there are also modern touches, like the glass rooftop. This combination gives the building a special charm that feels both classic and contemporary.\n\nI think it is interesting because it is not just about art or history. The building itself tells a story. The way they preserved its historical features while adding modern elements shows respect for both the past and the future. Walking through it made me feel amazed, because it showed me how beautifully history and modern life can exist together.\n\nHonestly, I really enjoyed visiting Singapore because it feels like a perfect mix of nature and modern life. You can see lush parks right next to tall buildings, and the streets are almost always clean and well-maintained. It is a busy city, but somehow it still feels peaceful and orderly. The whole trip made me feel relaxed, energized, and inspired.\n\nIt is not just an ordinary park. It feels like a place where you can step away from the noise of the city and get close to nature. The park is quite large, with green spaces, different plants, walking paths, and quiet corners where people can sit and relax.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-43",
@@ -2527,13 +3601,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a boring place. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "So, the city I want to talk about is Singapore. It’s located in Southeast Asia, and honestly, it’s one of the cleanest and most modern cities I’ve ever been to.\n\nI went there last summer. You know, there is a visa waiver policy between China and Singapore, so traveling there felt much more convenient. I remember thinking that it was a perfect chance to take a short trip and see what Singapore was really like.\n\nHonestly, I really admire her. Traveling with her made me feel much more relaxed and less stressed. I’m the kind of person who just goes with the flow and figures things out later, so having someone like her around was a huge help. She made the whole trip smoother and more efficient, and being with her made me feel safe and taken care of.\n\nHonestly, this park feels like a small sanctuary to me. Every time I go there, I feel a sense of peace. It cuts out the noise of the city and gives me a quiet space to slow down. I usually just walk around, enjoy the scenery, or sit somewhere and watch the light change. It is an ideal place to recharge when I feel tired or stressed.\n\nShe plans almost everything in advance. Before the trip even started, she had already checked the routes, looked up the metro lines, and roughly planned how much time we should spend at each place. Every morning, she would remind us when to leave the hotel, which attraction to visit first, and how to get there in the most efficient way. She also always had a backup plan ready, so it felt like she was already one step ahead of the situation.\n\nI stayed there for about five days. I think it was just enough time to explore the main parts of the city without feeling too rushed. Of course, there were still many places I didn’t get to visit, but overall, the trip felt quite fulfilling.\n\nIt is right in the heart of Singapore, surrounded by other famous landmarks, so it is very easy to find and visit. Now, it is used as a museum, and it is home to a large collection of modern art from Southeast Asia.\n\nThe building looks really impressive. It is huge, with big white columns and grand staircases, so it feels very majestic. What I like most is the way it mixes old and new elements. The historical features are still there, but there are also modern touches, like the glass rooftop. This combination gives the building a special charm that feels both classic and contemporary.\n\nI think it is interesting because it is not just about art or history. The building itself tells a story. The way they preserved its historical features while adding modern elements shows respect for both the past and the future. Walking through it made me feel amazed, because it showed me how beautifully history and modern life can exist together.\n\nHonestly, I really enjoyed visiting Singapore because it feels like a perfect mix of nature and modern life. You can see lush parks right next to tall buildings, and the streets are almost always clean and well-maintained. It is a busy city, but somehow it still feels peaceful and orderly. The whole trip made me feel relaxed, energized, and inspired.\n\nIt is not just an ordinary park. It feels like a place where you can step away from the noise of the city and get close to nature. The park is quite large, with green spaces, different plants, walking paths, and quiet corners where people can sit and relax.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-44",
@@ -2551,13 +3622,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a place to recommend. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "So, the city I want to talk about is Singapore. It’s located in Southeast Asia, and honestly, it’s one of the cleanest and most modern cities I’ve ever been to.\n\nI went there last summer. You know, there is a visa waiver policy between China and Singapore, so traveling there felt much more convenient. I remember thinking that it was a perfect chance to take a short trip and see what Singapore was really like.\n\nHonestly, I really admire her. Traveling with her made me feel much more relaxed and less stressed. I’m the kind of person who just goes with the flow and figures things out later, so having someone like her around was a huge help. She made the whole trip smoother and more efficient, and being with her made me feel safe and taken care of.\n\nHonestly, this park feels like a small sanctuary to me. Every time I go there, I feel a sense of peace. It cuts out the noise of the city and gives me a quiet space to slow down. I usually just walk around, enjoy the scenery, or sit somewhere and watch the light change. It is an ideal place to recharge when I feel tired or stressed.\n\nShe plans almost everything in advance. Before the trip even started, she had already checked the routes, looked up the metro lines, and roughly planned how much time we should spend at each place. Every morning, she would remind us when to leave the hotel, which attraction to visit first, and how to get there in the most efficient way. She also always had a backup plan ready, so it felt like she was already one step ahead of the situation.\n\nI stayed there for about five days. I think it was just enough time to explore the main parts of the city without feeling too rushed. Of course, there were still many places I didn’t get to visit, but overall, the trip felt quite fulfilling.\n\nIt is right in the heart of Singapore, surrounded by other famous landmarks, so it is very easy to find and visit. Now, it is used as a museum, and it is home to a large collection of modern art from Southeast Asia.\n\nThe building looks really impressive. It is huge, with big white columns and grand staircases, so it feels very majestic. What I like most is the way it mixes old and new elements. The historical features are still there, but there are also modern touches, like the glass rooftop. This combination gives the building a special charm that feels both classic and contemporary.\n\nI think it is interesting because it is not just about art or history. The building itself tells a story. The way they preserved its historical features while adding modern elements shows respect for both the past and the future. Walking through it made me feel amazed, because it showed me how beautifully history and modern life can exist together.\n\nHonestly, I really enjoyed visiting Singapore because it feels like a perfect mix of nature and modern life. You can see lush parks right next to tall buildings, and the streets are almost always clean and well-maintained. It is a busy city, but somehow it still feels peaceful and orderly. The whole trip made me feel relaxed, energized, and inspired.\n\nIt is not just an ordinary park. It feels like a place where you can step away from the noise of the city and get close to nature. The park is quite large, with green spaces, different plants, walking paths, and quiet corners where people can sit and relax.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-45",
@@ -2575,13 +3643,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a new law. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "So, the city I want to talk about is Singapore. It’s located in Southeast Asia, and honestly, it’s one of the cleanest and most modern cities I’ve ever been to.\n\nI went there last summer. You know, there is a visa waiver policy between China and Singapore, so traveling there felt much more convenient. I remember thinking that it was a perfect chance to take a short trip and see what Singapore was really like.\n\nHonestly, I really admire her. Traveling with her made me feel much more relaxed and less stressed. I’m the kind of person who just goes with the flow and figures things out later, so having someone like her around was a huge help. She made the whole trip smoother and more efficient, and being with her made me feel safe and taken care of.\n\nHonestly, this park feels like a small sanctuary to me. Every time I go there, I feel a sense of peace. It cuts out the noise of the city and gives me a quiet space to slow down. I usually just walk around, enjoy the scenery, or sit somewhere and watch the light change. It is an ideal place to recharge when I feel tired or stressed.\n\nShe plans almost everything in advance. Before the trip even started, she had already checked the routes, looked up the metro lines, and roughly planned how much time we should spend at each place. Every morning, she would remind us when to leave the hotel, which attraction to visit first, and how to get there in the most efficient way. She also always had a backup plan ready, so it felt like she was already one step ahead of the situation.\n\nI stayed there for about five days. I think it was just enough time to explore the main parts of the city without feeling too rushed. Of course, there were still many places I didn’t get to visit, but overall, the trip felt quite fulfilling.\n\nIt is right in the heart of Singapore, surrounded by other famous landmarks, so it is very easy to find and visit. Now, it is used as a museum, and it is home to a large collection of modern art from Southeast Asia.\n\nThe building looks really impressive. It is huge, with big white columns and grand staircases, so it feels very majestic. What I like most is the way it mixes old and new elements. The historical features are still there, but there are also modern touches, like the glass rooftop. This combination gives the building a special charm that feels both classic and contemporary.\n\nI think it is interesting because it is not just about art or history. The building itself tells a story. The way they preserved its historical features while adding modern elements shows respect for both the past and the future. Walking through it made me feel amazed, because it showed me how beautifully history and modern life can exist together.\n\nHonestly, I really enjoyed visiting Singapore because it feels like a perfect mix of nature and modern life. You can see lush parks right next to tall buildings, and the streets are almost always clean and well-maintained. It is a busy city, but somehow it still feels peaceful and orderly. The whole trip made me feel relaxed, energized, and inspired.\n\nIt is not just an ordinary park. It feels like a place where you can step away from the noise of the city and get close to nature. The park is quite large, with green spaces, different plants, walking paths, and quiet corners where people can sit and relax.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-46",
@@ -2599,13 +3664,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a future plan. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "So, the city I want to talk about is Singapore. It’s located in Southeast Asia, and honestly, it’s one of the cleanest and most modern cities I’ve ever been to.\n\nI went there last summer. You know, there is a visa waiver policy between China and Singapore, so traveling there felt much more convenient. I remember thinking that it was a perfect chance to take a short trip and see what Singapore was really like.\n\nHonestly, I really admire her. Traveling with her made me feel much more relaxed and less stressed. I’m the kind of person who just goes with the flow and figures things out later, so having someone like her around was a huge help. She made the whole trip smoother and more efficient, and being with her made me feel safe and taken care of.\n\nHonestly, this park feels like a small sanctuary to me. Every time I go there, I feel a sense of peace. It cuts out the noise of the city and gives me a quiet space to slow down. I usually just walk around, enjoy the scenery, or sit somewhere and watch the light change. It is an ideal place to recharge when I feel tired or stressed.\n\nShe plans almost everything in advance. Before the trip even started, she had already checked the routes, looked up the metro lines, and roughly planned how much time we should spend at each place. Every morning, she would remind us when to leave the hotel, which attraction to visit first, and how to get there in the most efficient way. She also always had a backup plan ready, so it felt like she was already one step ahead of the situation.\n\nI stayed there for about five days. I think it was just enough time to explore the main parts of the city without feeling too rushed. Of course, there were still many places I didn’t get to visit, but overall, the trip felt quite fulfilling.\n\nIt is right in the heart of Singapore, surrounded by other famous landmarks, so it is very easy to find and visit. Now, it is used as a museum, and it is home to a large collection of modern art from Southeast Asia.\n\nThe building looks really impressive. It is huge, with big white columns and grand staircases, so it feels very majestic. What I like most is the way it mixes old and new elements. The historical features are still there, but there are also modern touches, like the glass rooftop. This combination gives the building a special charm that feels both classic and contemporary.\n\nI think it is interesting because it is not just about art or history. The building itself tells a story. The way they preserved its historical features while adding modern elements shows respect for both the past and the future. Walking through it made me feel amazed, because it showed me how beautifully history and modern life can exist together.\n\nHonestly, I really enjoyed visiting Singapore because it feels like a perfect mix of nature and modern life. You can see lush parks right next to tall buildings, and the streets are almost always clean and well-maintained. It is a busy city, but somehow it still feels peaceful and orderly. The whole trip made me feel relaxed, energized, and inspired.\n\nIt is not just an ordinary park. It feels like a place where you can step away from the noise of the city and get close to nature. The park is quite large, with green spaces, different plants, walking paths, and quiet corners where people can sit and relax.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-47",
@@ -2623,13 +3685,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a bicycle, motorbike or car journey. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "So, the city I want to talk about is Singapore. It’s located in Southeast Asia, and honestly, it’s one of the cleanest and most modern cities I’ve ever been to.\n\nI went there last summer. You know, there is a visa waiver policy between China and Singapore, so traveling there felt much more convenient. I remember thinking that it was a perfect chance to take a short trip and see what Singapore was really like.\n\nHonestly, I really admire her. Traveling with her made me feel much more relaxed and less stressed. I’m the kind of person who just goes with the flow and figures things out later, so having someone like her around was a huge help. She made the whole trip smoother and more efficient, and being with her made me feel safe and taken care of.\n\nHonestly, this park feels like a small sanctuary to me. Every time I go there, I feel a sense of peace. It cuts out the noise of the city and gives me a quiet space to slow down. I usually just walk around, enjoy the scenery, or sit somewhere and watch the light change. It is an ideal place to recharge when I feel tired or stressed.\n\nShe plans almost everything in advance. Before the trip even started, she had already checked the routes, looked up the metro lines, and roughly planned how much time we should spend at each place. Every morning, she would remind us when to leave the hotel, which attraction to visit first, and how to get there in the most efficient way. She also always had a backup plan ready, so it felt like she was already one step ahead of the situation.\n\nI stayed there for about five days. I think it was just enough time to explore the main parts of the city without feeling too rushed. Of course, there were still many places I didn’t get to visit, but overall, the trip felt quite fulfilling.\n\nIt is right in the heart of Singapore, surrounded by other famous landmarks, so it is very easy to find and visit. Now, it is used as a museum, and it is home to a large collection of modern art from Southeast Asia.\n\nThe building looks really impressive. It is huge, with big white columns and grand staircases, so it feels very majestic. What I like most is the way it mixes old and new elements. The historical features are still there, but there are also modern touches, like the glass rooftop. This combination gives the building a special charm that feels both classic and contemporary.\n\nI think it is interesting because it is not just about art or history. The building itself tells a story. The way they preserved its historical features while adding modern elements shows respect for both the past and the future. Walking through it made me feel amazed, because it showed me how beautifully history and modern life can exist together.\n\nHonestly, I really enjoyed visiting Singapore because it feels like a perfect mix of nature and modern life. You can see lush parks right next to tall buildings, and the streets are almost always clean and well-maintained. It is a busy city, but somehow it still feels peaceful and orderly. The whole trip made me feel relaxed, energized, and inspired.\n\nIt is not just an ordinary park. It feels like a place where you can step away from the noise of the city and get close to nature. The park is quite large, with green spaces, different plants, walking paths, and quiet corners where people can sit and relax.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-48",
@@ -2647,13 +3706,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a business person. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "So, the city I want to talk about is Singapore. It’s located in Southeast Asia, and honestly, it’s one of the cleanest and most modern cities I’ve ever been to.\n\nI went there last summer. You know, there is a visa waiver policy between China and Singapore, so traveling there felt much more convenient. I remember thinking that it was a perfect chance to take a short trip and see what Singapore was really like.\n\nHonestly, I really admire her. Traveling with her made me feel much more relaxed and less stressed. I’m the kind of person who just goes with the flow and figures things out later, so having someone like her around was a huge help. She made the whole trip smoother and more efficient, and being with her made me feel safe and taken care of.\n\nHonestly, this park feels like a small sanctuary to me. Every time I go there, I feel a sense of peace. It cuts out the noise of the city and gives me a quiet space to slow down. I usually just walk around, enjoy the scenery, or sit somewhere and watch the light change. It is an ideal place to recharge when I feel tired or stressed.\n\nShe plans almost everything in advance. Before the trip even started, she had already checked the routes, looked up the metro lines, and roughly planned how much time we should spend at each place. Every morning, she would remind us when to leave the hotel, which attraction to visit first, and how to get there in the most efficient way. She also always had a backup plan ready, so it felt like she was already one step ahead of the situation.\n\nI stayed there for about five days. I think it was just enough time to explore the main parts of the city without feeling too rushed. Of course, there were still many places I didn’t get to visit, but overall, the trip felt quite fulfilling.\n\nIt is right in the heart of Singapore, surrounded by other famous landmarks, so it is very easy to find and visit. Now, it is used as a museum, and it is home to a large collection of modern art from Southeast Asia.\n\nThe building looks really impressive. It is huge, with big white columns and grand staircases, so it feels very majestic. What I like most is the way it mixes old and new elements. The historical features are still there, but there are also modern touches, like the glass rooftop. This combination gives the building a special charm that feels both classic and contemporary.\n\nI think it is interesting because it is not just about art or history. The building itself tells a story. The way they preserved its historical features while adding modern elements shows respect for both the past and the future. Walking through it made me feel amazed, because it showed me how beautifully history and modern life can exist together.\n\nHonestly, I really enjoyed visiting Singapore because it feels like a perfect mix of nature and modern life. You can see lush parks right next to tall buildings, and the streets are almost always clean and well-maintained. It is a busy city, but somehow it still feels peaceful and orderly. The whole trip made me feel relaxed, energized, and inspired.\n\nIt is not just an ordinary park. It feels like a place where you can step away from the noise of the city and get close to nature. The park is quite large, with green spaces, different plants, walking paths, and quiet corners where people can sit and relax.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-49",
@@ -2671,13 +3727,10 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a long-term goal. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "So, the city I want to talk about is Singapore. It’s located in Southeast Asia, and honestly, it’s one of the cleanest and most modern cities I’ve ever been to.\n\nI went there last summer. You know, there is a visa waiver policy between China and Singapore, so traveling there felt much more convenient. I remember thinking that it was a perfect chance to take a short trip and see what Singapore was really like.\n\nHonestly, I really admire her. Traveling with her made me feel much more relaxed and less stressed. I’m the kind of person who just goes with the flow and figures things out later, so having someone like her around was a huge help. She made the whole trip smoother and more efficient, and being with her made me feel safe and taken care of.\n\nHonestly, this park feels like a small sanctuary to me. Every time I go there, I feel a sense of peace. It cuts out the noise of the city and gives me a quiet space to slow down. I usually just walk around, enjoy the scenery, or sit somewhere and watch the light change. It is an ideal place to recharge when I feel tired or stressed.\n\nShe plans almost everything in advance. Before the trip even started, she had already checked the routes, looked up the metro lines, and roughly planned how much time we should spend at each place. Every morning, she would remind us when to leave the hotel, which attraction to visit first, and how to get there in the most efficient way. She also always had a backup plan ready, so it felt like she was already one step ahead of the situation.\n\nI stayed there for about five days. I think it was just enough time to explore the main parts of the city without feeling too rushed. Of course, there were still many places I didn’t get to visit, but overall, the trip felt quite fulfilling.\n\nIt is right in the heart of Singapore, surrounded by other famous landmarks, so it is very easy to find and visit. Now, it is used as a museum, and it is home to a large collection of modern art from Southeast Asia.\n\nThe building looks really impressive. It is huge, with big white columns and grand staircases, so it feels very majestic. What I like most is the way it mixes old and new elements. The historical features are still there, but there are also modern touches, like the glass rooftop. This combination gives the building a special charm that feels both classic and contemporary.\n\nI think it is interesting because it is not just about art or history. The building itself tells a story. The way they preserved its historical features while adding modern elements shows respect for both the past and the future. Walking through it made me feel amazed, because it showed me how beautifully history and modern life can exist together.\n\nHonestly, I really enjoyed visiting Singapore because it feels like a perfect mix of nature and modern life. You can see lush parks right next to tall buildings, and the streets are almost always clean and well-maintained. It is a busy city, but somehow it still feels peaceful and orderly. The whole trip made me feel relaxed, energized, and inspired.\n\nIt is not just an ordinary park. It feels like a place where you can step away from the noise of the city and get close to nature. The park is quite large, with green spaces, different plants, walking paths, and quiet corners where people can sit and relax.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p2-50",
@@ -2695,3084 +3748,4775 @@ window.SPEAKING_DATA = [
       "What happened or what you did.",
       "And explain why it was important to you."
     ],
-    "hint": "按背景、经过、一个具体细节、感受来讲。每一点都用自己的生活细节替换，答案会更自然。",
-    "keywords": [
-      "To begin with",
-      "What stood out to me was",
-      "Looking back"
-    ],
-    "answer": "I would talk about a real experience connected with a fascinating video. To begin with, I would explain the background and who was involved. Then I would add two clear details about what happened and why it mattered. Looking back, it was meaningful because it taught me something useful and gave me a more personal memory than an ordinary day."
+    "hint": "原文故事回答。可按题目要求选择相关段落练习。",
+    "keywords": [],
+    "answer": "So, the city I want to talk about is Singapore. It’s located in Southeast Asia, and honestly, it’s one of the cleanest and most modern cities I’ve ever been to.\n\nI went there last summer. You know, there is a visa waiver policy between China and Singapore, so traveling there felt much more convenient. I remember thinking that it was a perfect chance to take a short trip and see what Singapore was really like.\n\nHonestly, I really admire her. Traveling with her made me feel much more relaxed and less stressed. I’m the kind of person who just goes with the flow and figures things out later, so having someone like her around was a huge help. She made the whole trip smoother and more efficient, and being with her made me feel safe and taken care of.\n\nHonestly, this park feels like a small sanctuary to me. Every time I go there, I feel a sense of peace. It cuts out the noise of the city and gives me a quiet space to slow down. I usually just walk around, enjoy the scenery, or sit somewhere and watch the light change. It is an ideal place to recharge when I feel tired or stressed.\n\nShe plans almost everything in advance. Before the trip even started, she had already checked the routes, looked up the metro lines, and roughly planned how much time we should spend at each place. Every morning, she would remind us when to leave the hotel, which attraction to visit first, and how to get there in the most efficient way. She also always had a backup plan ready, so it felt like she was already one step ahead of the situation.\n\nI stayed there for about five days. I think it was just enough time to explore the main parts of the city without feeling too rushed. Of course, there were still many places I didn’t get to visit, but overall, the trip felt quite fulfilling.\n\nIt is right in the heart of Singapore, surrounded by other famous landmarks, so it is very easy to find and visit. Now, it is used as a museum, and it is home to a large collection of modern art from Southeast Asia.\n\nThe building looks really impressive. It is huge, with big white columns and grand staircases, so it feels very majestic. What I like most is the way it mixes old and new elements. The historical features are still there, but there are also modern touches, like the glass rooftop. This combination gives the building a special charm that feels both classic and contemporary.\n\nI think it is interesting because it is not just about art or history. The building itself tells a story. The way they preserved its historical features while adding modern elements shows respect for both the past and the future. Walking through it made me feel amazed, because it showed me how beautifully history and modern life can exist together.\n\nHonestly, I really enjoyed visiting Singapore because it feels like a perfect mix of nature and modern life. You can see lush parks right next to tall buildings, and the streets are almost always clean and well-maintained. It is a busy city, but somehow it still feels peaceful and orderly. The whole trip made me feel relaxed, energized, and inspired.\n\nIt is not just an ordinary park. It feels like a place where you can step away from the noise of the city and get close to nature. The park is quite large, with green spaces, different plants, walking paths, and quiet corners where people can sit and relax.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-1",
     "part": "Part 3",
-    "topic": "Childhood friends",
-    "title": "Why is childhood friends important to people today?",
-    "frequency": "大陆题库",
+    "topic": "禁用手机的场合",
+    "title": "How do young and old people use mobile phones differently?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Practical functions",
+      "Express oneself",
+      "Blur the line"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that childhood friends affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Young people tend to use mobile phones more for entertainment and social media, while older people usually focus on communication and practical functions.\n\nIn general, younger users are quick to explore apps like TikTok, Instagram, or mobile games. They rely on their phones to stay connected, express themselves, and follow trends. Older adults, on the other hand, tend to prioritize calling, messaging family, reading the news, or using health apps. But honestly, the line is getting blurrier. Many seniors are now catching up, learning how to use smartphones thanks to their kids or grandkids.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-2",
     "part": "Part 3",
-    "topic": "Childhood friends",
-    "title": "How has childhood friends changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "禁用手机的场合",
+    "title": "What positive and negative impact do mobile phones have on friendship?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Stay connected",
+      "Superficial communication",
+      "Presence"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that childhood friends affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Phones help people stay connected, but they can also lead to less meaningful interaction if misused.\n\nOn the bright side, mobile phones make it easy to check in with friends, share moments instantly, and stay close even when far apart. But at the same time, overusing phones can lead to superficial communication. Some people end up scrolling through social media more than actually talking. Real friendship takes time and presence, not just likes and emojis.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-3",
     "part": "Part 3",
-    "topic": "Childhood friends",
-    "title": "What should schools, families or governments do about childhood friends?",
-    "frequency": "大陆题库",
+    "topic": "禁用手机的场合",
+    "title": "Is it a waste of time to take pictures with mobile phones?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Preserve memories",
+      "Creative outlet",
+      "Through the lens"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that childhood friends affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Not really. Taking pictures can preserve memories and boost creativity, but it depends on how it's done.\n\nPhotos can help us relive special moments and share joy with others. For many people, photography is also a creative outlet. That said, constantly taking photos without enjoying the moment might ruin the experience. It's all about balance. A couple of thoughtful shots are great, but we shouldn’t see everything only through the lens.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-4",
     "part": "Part 3",
-    "topic": "A new law",
-    "title": "Why is a new law important to people today?",
-    "frequency": "大陆题库",
+    "topic": "禁用手机的场合",
+    "title": "Do you think it is necessary to have laws on the use of mobile phones?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Legal framework",
+      "Public space",
+      "Encourage responsible behavior"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that a new law affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, especially in public spaces or situations where phone use may harm others.\n\nRegulations around phone use while driving, for example, are crucial for safety. In schools or theaters, rules help reduce distractions. While personal freedom is important, a legal framework helps encourage responsible behavior. After all, laws are not just about restriction. They're also about respect—for others and for the environment we share.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-5",
     "part": "Part 3",
-    "topic": "A new law",
-    "title": "How has a new law changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "想见的名人",
+    "title": "What are the advantages and disadvantages of being a famous child?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that a new law affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "【高分回答】\nWell, on the bright side, being a famous child can open doors that most kids never get to experience.\n\nThey might meet inspiring people, travel the world, or develop confidence early on through public speaking or performing. But then again, there’s a flip side. Constant exposure to media attention can make them feel like they’re always being judged. Some may struggle with anxiety or develop a strong need for external validation. And let’s not forget, when your childhood is lived in the spotlight, it’s hard to explore who you really are away from the cameras.\n\n【高分回答】\nexternal validation\n\n例句: \"Famous children might grow up depending on external validation.\"（童星可能会习惯依赖外界的肯定。）\n\n【高分回答】\n例句: \"Living in the spotlight can make it harder to discover your true self.\"（一直活在聚光灯下可能会让人更难认识真实的自己。）\n\n【高分回答】\n例句: \"The flip side of early fame is the pressure that comes with it.\"（年纪轻轻成名的另一面是随之而来的压力。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-6",
     "part": "Part 3",
-    "topic": "A new law",
-    "title": "What should schools, families or governments do about a new law?",
-    "frequency": "大陆题库",
+    "topic": "想见的名人",
+    "title": "What can today's children do to become famous?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that a new law affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "【高分回答】\nNowadays, becoming famous doesn’t always require special connections.\n\nThanks to platforms like YouTube, TikTok, and Instagram, even a short clip can attract millions of views. Kids who are good at gaming, storytelling, or crafts often gain a lot of followers. On the other hand, some kids become well-known because their parents actively manage their online image. But of course, while fame might come fast, it’s the long-term impact that really matters. Parents and kids should work together to make sure it’s a positive experience, not something that causes stress or takes away their joy of growing up.\n\n【高分回答】\nshort clip 例句: \"A short clip of a child painting went viral.\"（一个孩子画画的短视频火了。）\n\nmanage one’s image 例句: \"Some parents manage their children’s online image carefully.\"（有些父母会很认真地经营孩子的网络形象。）\n\nlong-term impact 例句: \"We should consider the long-term impact of childhood fame.\"（我们要考虑童年成名带来的长期影响。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-7",
     "part": "Part 3",
-    "topic": "Plans that have changed",
-    "title": "Why is plans that have changed important to people today?",
-    "frequency": "大陆题库",
+    "topic": "想见的名人",
+    "title": "What can children do with their fame?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that plans that have changed affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "【高分回答】\nActually, it depends a lot on how that fame is handled. If children have a strong support system, they can use their fame to support good causes, inspire peers, or even raise awareness about important issues like education or climate change.\n\nSome child stars choose to use their platform to help others, which can be very meaningful. But then again, without proper boundaries, it’s easy for fame to become a burden. Kids should still have space to learn, fail, and grow at their own pace. Fame can be a tool, but it should never be the purpose of their life.\n\n【高分回答】\nsupport system 例句: \"A good support system helps famous children stay grounded.\"（一个好的支持系统能让童星保持脚踏实地。）\n\nraise awareness 例句: \"Some children use their fame to raise awareness for charity.\"（有些孩子用自己的影响力为公益发声。）\n\nat one’s own pace 例句: \"It’s important for children to grow at their own pace.\"（孩子应该按照自己的节奏成长。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-8",
     "part": "Part 3",
-    "topic": "Plans that have changed",
-    "title": "How has plans that have changed changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "想见的名人",
+    "title": "Do people become famous because of their talent?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that plans that have changed affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "【高分回答】\nWell, talent is definitely a big part of it, especially when it’s paired with hard work and persistence.\n\nPeople who are truly skilled in music, sports, or academics often earn respect over time. But let’s face it, in today’s media culture, not all fame comes from talent. Sometimes it’s about timing, luck, or even just going viral for something unusual. I guess the key is sustainability. Fame built on genuine skill tends to last longer and be more meaningful, while fame without substance often fades quickly.\n\n【高分回答】\npersistence 例句: \"Talent matters, but persistence is what turns it into success.\"（有天赋很重要，但坚持才能把它变成成就。）\n\ngo viral 例句: \"Many people go viral for funny or unusual moments.\"（很多人因为搞笑或特别的瞬间爆红。）\n\nfame without substance 例句: \"Fame without substance usually doesn’t last long.\"（没有内涵的名气通常很难长久。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-9",
     "part": "Part 3",
-    "topic": "Plans that have changed",
-    "title": "What should schools, families or governments do about plans that have changed?",
-    "frequency": "大陆题库",
+    "topic": "商店",
+    "title": "Do people in your country go to the shopping mall frequently?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Social space",
+      "Leisure",
+      "Booming",
+      "Entertainment",
+      "Hang out"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that plans that have changed affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, many people still visit shopping malls quite often, especially on weekends or holidays when they want to shop, dine, or just relax.\n\nAlthough online shopping is booming, malls continue to serve as social spaces where people meet friends, watch movies, or enjoy family time. They’re especially popular among young people and families with children, since they offer entertainment, food, and a sense of leisure all in one place. Plus, during hot summers or rainy days, malls are just more comfortable to hang out in.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-10",
     "part": "Part 3",
-    "topic": "Important decisions",
-    "title": "Why is important decisions important to people today?",
-    "frequency": "大陆题库",
+    "topic": "商店",
+    "title": "How have people’s shopping habits changed in recent decades?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "E-commerce",
+      "Minimalism",
+      "Price comparison",
+      "Consciously",
+      "Convenience-oriented"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that important decisions affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Shopping habits have changed a lot, especially with the rise of e-commerce and the shift toward more convenience-oriented consumption.\n\nIn the past, people used to shop mostly in person and only during certain times. Now, with smartphones and delivery apps, people can shop anytime, even at midnight. Many also focus more on product reviews and price comparisons before making a decision. At the same time, trends like minimalism and sustainability are encouraging people to shop more consciously rather than just buy more.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-11",
     "part": "Part 3",
-    "topic": "Important decisions",
-    "title": "How has important decisions changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "商店",
+    "title": "Do you think shops and shopping malls will disappear in the future?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Boutique",
+      "Evolve",
+      "Experience-driven",
+      "Personalized service",
+      "Vanish"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that important decisions affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Not completely. While online shopping will keep growing, physical stores and malls will likely evolve rather than vanish.\n\nMalls are not just about buying things—they offer experiences. Many will probably shift focus from selling products to providing services like dining, exhibitions, or fitness classes. Boutique stores might survive by offering personalized service that online platforms can’t easily match. So, physical retail spaces may become fewer, but more specialized and experience-driven.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-12",
     "part": "Part 3",
-    "topic": "Important decisions",
-    "title": "What should schools, families or governments do about important decisions?",
-    "frequency": "大陆题库",
+    "topic": "商店",
+    "title": "What are the differences between shopping in street markets and big shopping malls?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Locally oriented",
+      "Standardized",
+      "Negotiate",
+      "Spontaneous",
+      "Authenticity"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that important decisions affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Street markets are often more casual, flexible, and locally oriented, while shopping malls provide a more structured and standardized experience.\n\nIn street markets, you might find handmade crafts, fresh produce, or bargain items, and there’s often room to negotiate prices. The atmosphere is more lively and spontaneous. On the other hand, shopping malls offer branded products, air-conditioned comfort, and organized spaces that feel safer and cleaner. Each has its charm, depending on what people are looking for—authenticity and interaction, or convenience and variety.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-13",
     "part": "Part 3",
-    "topic": "Boring places",
-    "title": "Why is boring places important to people today?",
-    "frequency": "大陆题库",
+    "topic": "商店",
+    "title": "What are the differences in the shopping habits of different age groups?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Digital native",
+      "Influencer",
+      "Personal touch",
+      "Trust factor",
+      "Trendiness"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that boring places affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Younger people tend to shop more online and value speed and convenience, while older generations often prefer in-store shopping for the personal touch and trust factor.\n\nTeens and young adults are digital natives. They love flash sales, influencers’ recommendations, and buying directly through apps or livestreams. In contrast, older adults may prioritize quality and reliability over trendiness and tend to take more time before making a purchase. Also, seniors are more likely to value the physical experience, like trying things on or talking to staff, which gives them a sense of confidence.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-14",
     "part": "Part 3",
-    "topic": "Boring places",
-    "title": "How has boring places changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "商店",
+    "title": "What are the differences between shopping online and in-store?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Sensory experience",
+      "Instant access",
+      "Compare prices",
+      "Guesswork",
+      "Return policy"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that boring places affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Online shopping offers convenience and variety, while in-store shopping provides instant access and sensory experience.\n\nShopping online is great for comparing prices, reading reviews, and ordering from the comfort of home. It’s perfect for busy people or those living far from city centers. But in-store shopping lets you see, touch, or try the product directly, which reduces guesswork and returns. For items like clothes, furniture, or fresh food, many still prefer the physical store for that real-time satisfaction.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-15",
     "part": "Part 3",
-    "topic": "Boring places",
-    "title": "What should schools, families or governments do about boring places?",
-    "frequency": "大陆题库",
+    "topic": "安静的地方",
+    "title": "Is it easy to find quiet places in your country? Why?",
+    "frequency": "中频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Serene environments",
+      "Tranquility",
+      "Preserve"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that boring places affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Well, it really depends on where you are in the country.\n\nIn larger cities, finding a quiet spot can be a bit challenging due to the constant buzz of urban activity. However, if you venture into rural areas or smaller towns, it's generally much easier to find serene environments. You see, these places often boast natural landscapes and less crowded spaces, which naturally lend themselves to peace and quiet. Moreover, many communities value tranquility and make efforts to preserve quiet zones, especially in parks and certain public areas.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-16",
     "part": "Part 3",
-    "topic": "Tall buildings",
-    "title": "Why is tall buildings important to people today?",
-    "frequency": "大陆题库",
+    "topic": "安静的地方",
+    "title": "How do people spend their leisure time in your country?",
+    "frequency": "中频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Cultural diversity",
+      "Wellness-related activities",
+      "Health consciousness"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that tall buildings affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "In my country, people enjoy a variety of leisure activities that reflect the cultural diversity of the region.\n\nFor instance, many enjoy outdoor activities like hiking and cycling in the countryside, especially when the weather is pleasant. Others prefer indoor activities, such as visiting museums, watching movies, or dining out with friends and family. Recently, there's been a growing trend towards wellness-related activities, like yoga and meditation, which highlights a collective shift towards health consciousness.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-17",
     "part": "Part 3",
-    "topic": "Tall buildings",
-    "title": "How has tall buildings changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "安静的地方",
+    "title": "How does technology affect the way people spend their leisure time?",
+    "frequency": "中频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Personalized experiences",
+      "Virtual reality gaming"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that tall buildings affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Technology has significantly transformed the way people spend their leisure time, primarily by introducing new forms of entertainment and enabling more personalized experiences.\n\nFor example, online APPs allow individuals to enjoy movies and music on demand, tailoring their leisure activities to their personal preferences. Moreover, social media platforms provide a space for people to connect with others and share experiences, even while physically apart. Additionally, technology has made it possible to pursue hobbies that were once considered inaccessible, like virtual reality gaming or online learning courses, broadening the scope of leisure activities.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-18",
     "part": "Part 3",
-    "topic": "Tall buildings",
-    "title": "What should schools, families or governments do about tall buildings?",
-    "frequency": "大陆题库",
+    "topic": "安静的地方",
+    "title": "Do you think only old people have time for leisure?",
+    "frequency": "中频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Carve out time",
+      "Maintaining a balance",
+      "Transcends age"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that tall buildings affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Not at all, leisure time is something that people of all ages value and need, although how they spend it might differ across age groups.\n\nWhile it's true that retirees might have more free time on their hands, young people and adults also carve out time for leisure activities. In fact, maintaining a balance between work and leisure is crucial for mental and physical health, regardless of age. Younger individuals might engage in more active or social leisure activities, while older adults might prefer quieter, more relaxing pastimes. Ultimately, leisure is a universal need that transcends age.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-19",
     "part": "Part 3",
-    "topic": "Getting up early",
-    "title": "Why is getting up early important to people today?",
-    "frequency": "大陆题库",
+    "topic": "安静的地方",
+    "title": "Why do old people prefer to live in quiet places?",
+    "frequency": "中频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Sense of peace",
+      "Stability",
+      "Therapeutic"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that getting up early affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Many older individuals prefer to live in quiet places because these environments provide a sense of peace and stability that is comforting in later life.\n\nAs people age, they often seek environments that reduce stress and offer a slower pace of life. Quiet places tend to be less hectic than urban centers, with fewer disturbances and lower levels of noise, which can be beneficial for both mental and physical health. Additionally, such settings often provide a closer connection to nature, which many find therapeutic and rejuvenating.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-20",
     "part": "Part 3",
-    "topic": "Getting up early",
-    "title": "How has getting up early changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "安静的地方",
+    "title": "Why are there more noises made at home now than in the past?",
+    "frequency": "中频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Proliferation",
+      "HVAC systems",
+      "Amplify sounds"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that getting up early affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "There are a few reasons why homes are noisier now than in the past.\n\nFirst, the proliferation of electronic devices like TVs, computers, and smartphones means that there's almost always some kind of media playing in the background. Also, modern appliances and HVAC systems, although efficient, often contribute to the noise level. Furthermore, the design of contemporary homes with more open spaces can amplify sounds, making them carry further. Lastly, as families engage in more activities at home, such as working from home or exercising, the overall sound levels naturally increase.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-21",
     "part": "Part 3",
-    "topic": "Getting up early",
-    "title": "What should schools, families or governments do about getting up early?",
-    "frequency": "大陆题库",
+    "topic": "为家人骄傲",
+    "title": "When would parents feel proud of their children?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Make progress",
+      "Stick to a promise",
+      "Bounce back"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that getting up early affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Parents usually feel proud when they see their children show kindness, responsibility, or make progress after hard work.\n\nIt's not always about big achievements like winning a competition or getting top scores. Sometimes, it’s the small things—helping a friend, sticking to a promise, or bouncing back after a setback. Many parents just want to see that their children are growing into decent human beings. And when kids show effort or values that reflect that, it really means a lot.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-22",
     "part": "Part 3",
-    "topic": "Healthcare careers",
-    "title": "Why is healthcare careers important to people today?",
-    "frequency": "大陆题库",
+    "topic": "为家人骄傲",
+    "title": "Should parents reward children? Why and how?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Thoughtful reward",
+      "Long-term values",
+      "Encouragement"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that healthcare careers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, but rewards should be thoughtful and support long-term values, not just short-term results.\n\nFor example, praising a child for their effort rather than just the outcome helps build motivation. A reward doesn’t always have to be money or gifts. It can be as simple as extra playtime, a favorite meal, or just sincere words of encouragement. What matters is that the child feels recognized in a way that encourages growth.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-23",
     "part": "Part 3",
-    "topic": "Healthcare careers",
-    "title": "How has healthcare careers changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "为家人骄傲",
+    "title": "Is it good to reward children too often? Why?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Inner motivation",
+      "Self-discipline",
+      "Expect something every time"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that healthcare careers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Not really. Over-rewarding can reduce a child’s inner motivation and make them expect something every time.\n\nWhen kids get used to being rewarded for everything, they may stop doing things for the right reasons. For instance, they might only study hard because of a promised gift, not because they want to learn. Occasional rewards are fine, but they should be balanced with lessons about self-discipline and responsibility.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-24",
     "part": "Part 3",
-    "topic": "Healthcare careers",
-    "title": "What should schools, families or governments do about healthcare careers?",
-    "frequency": "大陆题库",
+    "topic": "为家人骄傲",
+    "title": "On what occasions would adults be proud of themselves?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Overcome challenges",
+      "Stay true to values",
+      "Self-respect"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that healthcare careers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Adults often feel proud when they overcome challenges, help others, or stay true to their values.\n\nIt could be something like finishing a tough project at work, supporting a family member through hard times, or even resisting peer pressure to do what they believe is right. Pride for adults is often more about personal growth and integrity than public recognition. It’s a quiet but powerful feeling of self-respect.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-25",
     "part": "Part 3",
-    "topic": "Growing plants",
-    "title": "Why is growing plants important to people today?",
-    "frequency": "大陆题库",
+    "topic": "想拥有的科技产品",
+    "title": "What are the differences between the technology of the past and that of today?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Everyday lives",
+      "User experience",
+      "Portable",
+      "Dependence",
+      "Mindful"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that growing plants affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Well, the biggest difference between past and present technology is how deeply technology has become part of our everyday lives.\n\nIn the past, technology was mainly designed to solve specific problems, and people used it only when necessary. Devices were often large, expensive, and not very flexible. Today, however, technology is fast, portable, and constantly connected. Smartphones, for example, combine communication, entertainment, learning, and work into one single device. Also, modern technology focuses much more on user experience, making it easier for people of all ages to use. That said, while technology has made life more convenient and efficient, it has also increased our dependence on digital tools. So overall, today’s technology offers greater convenience, but it also requires people to be more mindful about how they use it.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-26",
     "part": "Part 3",
-    "topic": "Growing plants",
-    "title": "How has growing plants changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "想拥有的科技产品",
+    "title": "What technology do young people like to use?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Interactive",
+      "Personalization",
+      "Adopt new technologies",
+      "Fast-paced lifestyle",
+      "Innovation"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that growing plants affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Generally speaking, young people prefer technologies that are interactive, creative, and closely linked to social life.\n\nMost young people enjoy using smartphones, social media platforms, and short-video apps because these tools allow them to communicate, express themselves, and stay updated with trends. Besides entertainment, many also rely on digital tools for learning, such as online courses, language apps, or AI-powered study tools. What really attracts young users is convenience and personalization. Technology that feels intuitive and adaptable fits naturally into their fast-paced lifestyle. That said, young people are usually quick to adopt new technologies, but they also tend to get bored easily, which means they constantly look for novelty and innovation.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-27",
     "part": "Part 3",
-    "topic": "Growing plants",
-    "title": "What should schools, families or governments do about growing plants?",
-    "frequency": "大陆题库",
+    "topic": "想拥有的科技产品",
+    "title": "What are the differences between online and face-to-face communication?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Emotional depth",
+      "Misunderstood",
+      "Body language",
+      "Build trust",
+      "Efficient"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that growing plants affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "In my view, the main difference lies in emotional depth and the quality of interaction.\n\nOnline communication is convenient and efficient, especially for people who live far apart. It allows quick exchanges of information and helps maintain contact. However, it often lacks emotional richness. Without facial expressions, body language, or tone of voice, messages can easily be misunderstood. Face-to-face communication, on the other hand, feels more natural and engaging. People can respond immediately and adjust their reactions based on the other person’s emotions. So while online communication is practical, in-person interaction usually builds stronger trust and deeper relationships.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-28",
     "part": "Part 3",
-    "topic": "Favourite cities",
-    "title": "Why is favourite cities important to people today?",
-    "frequency": "大陆题库",
+    "topic": "想拥有的科技产品",
+    "title": "Do you think technology has changed the way people communicate?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Fragmented",
+      "Flexibility",
+      "Contact frequency",
+      "Meaningful interaction",
+      "Quality of communication"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that favourite cities affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, technology has significantly changed both how often and how deeply people communicate.\n\nOn the one hand, people can now communicate anytime and anywhere, which has greatly increased convenience. Messages, voice notes, and video calls have made communication more flexible. On the other hand, communication has become shorter and more fragmented. Many people prefer quick replies over long conversations. As a result, while technology increases contact frequency, it may reduce meaningful interaction. So technology has changed communication not only in form, but also in quality.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-29",
     "part": "Part 3",
-    "topic": "Favourite cities",
-    "title": "How has favourite cities changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "想拥有的科技产品",
+    "title": "What negative effects does technology have on people’s relationships?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Emotional connection",
+      "Unrealistic expectations",
+      "Insecurity",
+      "Over-reliance",
+      "Face-to-face bonds"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that favourite cities affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "One major negative effect is that technology can reduce real emotional connection.\n\nPeople often focus on their phones instead of the people around them, even when spending time together. Social media may also create unrealistic expectations and constant comparison, which can lead to insecurity. Additionally, over-reliance on messaging can cause misunderstandings and emotional distance. While technology connects people digitally, it may weaken face-to-face bonds if not used carefully.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-30",
     "part": "Part 3",
-    "topic": "Favourite cities",
-    "title": "What should schools, families or governments do about favourite cities?",
-    "frequency": "大陆题库",
+    "topic": "想拥有的科技产品",
+    "title": "What are the differences between making friends in real life and online?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Shared interests",
+      "Trustworthiness",
+      "Emotional depth",
+      "Mutual support",
+      "Lasting"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that favourite cities affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I believe making friends online is easier at the beginning, but real-life friendships are usually deeper and more stable.\n\nOnline friendships often start through shared interests and are less intimidating, which makes them easy to form. However, without real-life interaction, it is harder to judge trustworthiness and build emotional depth. Real-life friendships grow through shared experiences, daily interactions, and mutual support. Although they take more time to develop, they are usually more reliable and lasting.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-31",
     "part": "Part 3",
-    "topic": "Interesting videos",
-    "title": "Why is interesting videos important to people today?",
-    "frequency": "大陆题库",
+    "topic": "喜欢画画的孩子",
+    "title": "What is the right age for a child to learn drawing?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Explore",
+      "Expression",
+      "Pressure-free",
+      "Observation",
+      "Confidence"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that interesting videos affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "In my opinion, there is no fixed “right age” for a child to learn drawing, because children can start as soon as they are able to hold and explore tools.\n\nMany children begin drawing naturally at a very young age, often before they can write or speak clearly. At this stage, drawing is not about technique but about exploration and expression. As children grow older, structured guidance can help them improve skills like observation and coordination. However, it is important not to push them too hard. Drawing should remain enjoyable rather than stressful. When learning feels playful and pressure-free, children are more likely to stay curious and confident in their creativity.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-32",
     "part": "Part 3",
-    "topic": "Interesting videos",
-    "title": "How has interesting videos changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "喜欢画画的孩子",
+    "title": "Why do most children draw more often than adults do?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Naturally expressive",
+      "Make mistakes",
+      "Judge oneself",
+      "Responsibilities",
+      "Imagination"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that interesting videos affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I think children draw more often because they are naturally expressive and less afraid of making mistakes.\n\nFor children, drawing is a form of play rather than a task. They don’t worry about whether the result looks perfect or realistic. Adults, however, tend to judge their own work more harshly and may feel embarrassed if they think they are “not good at art.” Over time, responsibilities and busy schedules also reduce the time adults have for creative activities. So it’s not that adults lack imagination, but that they often lose the freedom and confidence children naturally have.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-33",
     "part": "Part 3",
-    "topic": "Interesting videos",
-    "title": "What should schools, families or governments do about interesting videos?",
-    "frequency": "大陆题库",
+    "topic": "喜欢画画的孩子",
+    "title": "Why do some people visit galleries or museums instead of viewing artworks online?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Immersive experience",
+      "Texture",
+      "Emotional connection",
+      "Atmosphere",
+      "Memorable"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that interesting videos affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I believe many people visit galleries and museums because physical spaces offer a deeper and more immersive experience.\n\nSeeing artworks in person allows people to appreciate details like texture, size, and atmosphere, which are often lost on screens. The quiet environment of a museum also encourages reflection and emotional connection. Moreover, being physically present can make the experience feel more meaningful and memorable. While online viewing is convenient, it cannot fully replace the feeling of standing in front of an artwork and engaging with it directly.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-34",
     "part": "Part 3",
-    "topic": "Successful business people",
-    "title": "Why is successful business people important to people today?",
-    "frequency": "大陆题库",
+    "topic": "喜欢画画的孩子",
+    "title": "Do you think galleries and museums should be free of charge?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Wider access",
+      "Financial pressure",
+      "Maintain exhibitions",
+      "Balanced approach",
+      "Cultural understanding"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that successful business people affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Personally, I think galleries and museums should be free or at least affordable to encourage wider access to art and culture.\n\nArt plays an important role in education and cultural understanding, and high ticket prices can discourage people from visiting. Free entry allows students and families to explore without financial pressure. That said, museums also need funding to maintain exhibitions and protect artworks. A balanced approach, such as free days or discounted tickets, might be a practical solution.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-35",
     "part": "Part 3",
-    "topic": "Successful business people",
-    "title": "How has successful business people changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "喜欢画画的孩子",
+    "title": "How do artworks inspire people?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Reflection",
+      "Interpret",
+      "Perspective",
+      "Emotional awareness",
+      "Motivate"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that successful business people affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Artworks inspire people by encouraging reflection, imagination, and emotional awareness.\n\nDifferent people may interpret the same artwork in different ways, which sparks personal thinking. Art can also reflect social issues or human emotions, helping viewers see the world from new perspectives. Sometimes, a single painting or sculpture can motivate someone to create, change, or express themselves more honestly. This emotional and intellectual stimulation is what makes art powerful.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-36",
     "part": "Part 3",
-    "topic": "Successful business people",
-    "title": "What should schools, families or governments do about successful business people?",
-    "frequency": "大陆题库",
+    "topic": "喜欢画画的孩子",
+    "title": "What are the differences between reading a book and visiting a museum?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Imaginative",
+      "Experiential",
+      "Concentration",
+      "Visual impact",
+      "Stimulate the mind"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that successful business people affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I think reading a book is more private and imaginative, while visiting a museum is more visual and experiential.\n\nWhen reading, people actively imagine scenes and ideas in their own minds, which encourages deep focus. Visiting a museum, however, is a shared and sensory experience. You engage with physical objects and space. Both are valuable, but they stimulate the mind in different ways. Books develop imagination and concentration, while museums offer direct visual impact and emotional atmosphere.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-37",
     "part": "Part 3",
-    "topic": "Special cakes",
-    "title": "Why is special cakes important to people today?",
-    "frequency": "大陆题库",
+    "topic": "生活中离不开的东西",
+    "title": "Why do all children like toys?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Explore",
+      "Express emotions",
+      "Problem-solving",
+      "Sense of control",
+      "Emotional growth"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that special cakes affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Children like toys because toys help them explore the world in a playful and meaningful way.\n\nThrough toys, children can imagine different roles, express emotions, and practice basic skills such as communication and problem-solving. Toys also provide comfort and a sense of control, especially when children feel uncertain or stressed. In addition, playing with toys often brings joy and curiosity, which are essential for healthy development. So in a way, toys are not just objects, but important tools for learning and emotional growth.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-38",
     "part": "Part 3",
-    "topic": "Special cakes",
-    "title": "How has special cakes changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "生活中离不开的东西",
+    "title": "Do you think it is good for a child to always take his or her favourite toy with them all the time?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "In moderation",
+      "Security",
+      "Independence",
+      "Adaptability",
+      "Gradually"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that special cakes affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I think it is acceptable in moderation, but children should also learn to rely on themselves.\n\nA favorite toy can provide comfort and security, especially in unfamiliar environments. However, if a child depends too much on one object, it may limit their independence and adaptability. Parents can gradually encourage children to feel safe without the toy in certain situations. This gentle transition helps children build confidence while still respecting their emotional needs.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-39",
     "part": "Part 3",
-    "topic": "Special cakes",
-    "title": "What should schools, families or governments do about special cakes?",
-    "frequency": "大陆题库",
+    "topic": "生活中离不开的东西",
+    "title": "Why are children attracted to new things (such as electronics)?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Stimulation",
+      "Instant feedback",
+      "Engaged",
+      "Overexposure",
+      "Attention span"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that special cakes affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Children are attracted to electronics because they offer stimulation, interaction, and instant feedback.\n\nBright colors, sounds, and interactive features quickly capture children’s attention. Electronic devices also respond immediately to actions, which makes children feel engaged and curious. In addition, many electronic products are designed specifically to match children’s interests. However, without guidance, overexposure can reduce attention span and creativity.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-40",
     "part": "Part 3",
-    "topic": "Live sports events",
-    "title": "Why is live sports events important to people today?",
-    "frequency": "大陆题库",
+    "topic": "生活中离不开的东西",
+    "title": "Why do some grown-ups hate to throw out old things (such as clothes)?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Emotional value",
+      "Memories",
+      "Continuity",
+      "Waste",
+      "Let go"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that live sports events affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Many adults keep old things because they hold emotional value and personal memories.\n\nOld clothes or objects may remind people of important life stages or loved ones. Keeping them creates a sense of continuity and emotional comfort. Some adults also dislike wasting usable items, which reflects practical values. In addition, letting go can feel difficult because it represents change or loss.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-41",
     "part": "Part 3",
-    "topic": "Live sports events",
-    "title": "How has live sports events changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "生活中离不开的东西",
+    "title": "Is the way people buy things affected? How?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Buying behavior",
+      "Compare prices",
+      "Impulsive",
+      "Informed",
+      "Trends"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that live sports events affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, the way people buy things has changed greatly due to technology and social media.\n\nOnline shopping allows people to compare prices, read reviews, and make purchases instantly. Social media also influences buying behavior through recommendations and trends. As a result, buying has become faster and more impulsive. At the same time, consumers are more informed and selective.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-42",
     "part": "Part 3",
-    "topic": "Live sports events",
-    "title": "What should schools, families or governments do about live sports events?",
-    "frequency": "大陆题库",
+    "topic": "生活中离不开的东西",
+    "title": "What do you think influences people to buy new things?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Marketing",
+      "Social pressure",
+      "Novelty",
+      "Emotional response",
+      "Rational thinking"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that live sports events affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I think people are influenced by a mix of personal needs, social pressure, and marketing.\n\nAdvertising highlights convenience and improvement, making products appear necessary. Social influence also matters, as people often follow trends or recommendations from friends. Emotional factors such as stress or the desire for novelty can also drive purchases. Ultimately, buying decisions are shaped by both rational thinking and emotional responses.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-43",
     "part": "Part 3",
-    "topic": "Homes to visit",
-    "title": "Why is homes to visit important to people today?",
-    "frequency": "大陆题库",
+    "topic": "App/程序",
+    "title": "What do you think about some countries banning children from using social media?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Mental health",
+      "Emotionally ready",
+      "Protective measure",
+      "Responsible use",
+      "Clear boundaries"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that homes to visit affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I understand why some countries choose to ban children from using social media, especially to protect their mental health and development.\n\nSocial media exposes children to content they may not be emotionally ready to handle, such as online comparison, cyberbullying, or unrealistic standards. Excessive use can also affect sleep, attention, and self-esteem. From this perspective, restrictions can act as a protective measure. However, a complete ban may not be realistic in the long run. Teaching children how to use social media responsibly, with guidance and clear boundaries, might be more effective than simply blocking access.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-44",
     "part": "Part 3",
-    "topic": "Homes to visit",
-    "title": "How has homes to visit changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "App/程序",
+    "title": "What are the differences between old and young people when using apps?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Actively",
+      "Practicality",
+      "Personalization",
+      "Stable",
+      "Digital skills"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that homes to visit affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Generally, young people use apps more actively and flexibly, while older people focus more on practicality and simplicity.\n\nYoung users are usually comfortable exploring new features and switching between different apps. They enjoy personalization and frequent updates. Older users, however, tend to prefer apps that are stable, easy to understand, and useful in daily life, such as payment or health apps. That said, this gap is gradually narrowing as more seniors learn digital skills. The main difference lies not in ability, but in purpose and habit.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-45",
     "part": "Part 3",
-    "topic": "Homes to visit",
-    "title": "What should schools, families or governments do about homes to visit?",
-    "frequency": "大陆题库",
+    "topic": "App/程序",
+    "title": "Why do some people not like using apps?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Overwhelming",
+      "Privacy concerns",
+      "Intrusive",
+      "Offline activities",
+      "Personal preference"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that homes to visit affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Some people avoid using apps because they find them complicated, intrusive, or unnecessary.\n\nFor certain users, especially older adults, learning how to navigate multiple apps can feel overwhelming. Others worry about privacy, data collection, or constant notifications. In some cases, people simply prefer offline activities and human interaction. So disliking apps does not mean rejecting technology entirely. It often reflects personal preferences or concerns about balance and control.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-46",
     "part": "Part 3",
-    "topic": "Language learners",
-    "title": "Why is language learners important to people today?",
-    "frequency": "大陆题库",
+    "topic": "App/程序",
+    "title": "What apps are popular in your country? Why?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Multifunctional",
+      "Mobile payment",
+      "Daily routines",
+      "Efficient",
+      "Entertainment"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that language learners affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "In my country, social media, payment, and short-video apps are especially popular because they are convenient and multifunctional.\n\nApps like messaging platforms allow people to stay connected easily. Mobile payment apps are widely used because they save time and reduce the need for cash. Short-video apps are also popular as they provide quick entertainment and information. These apps succeed mainly because they fit into daily routines and solve practical problems efficiently.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-47",
     "part": "Part 3",
-    "topic": "Language learners",
-    "title": "How has language learners changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "App/程序",
+    "title": "Should parents limit their children’s use of computer programs and computer games? Why and how?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Reasonable limits",
+      "Screen time",
+      "Age-appropriate",
+      "Communicate",
+      "Healthy habits"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that language learners affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, I believe parents should set reasonable limits to help children develop healthy habits.\n\nExcessive screen time can affect eyesight, sleep, and concentration. Parents can set clear time limits, encourage breaks, and choose age-appropriate content. More importantly, they should communicate with children and explain why limits exist. When children feel respected rather than controlled, they are more likely to cooperate.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-48",
     "part": "Part 3",
-    "topic": "Language learners",
-    "title": "What should schools, families or governments do about language learners?",
-    "frequency": "大陆题库",
+    "topic": "App/程序",
+    "title": "Do you think young people are more and more reliant on these programs?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Increasingly reliant",
+      "Efficiency",
+      "Independence",
+      "Problem-solving skills",
+      "Balance"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that language learners affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, many young people are becoming increasingly reliant on digital programs in daily life.\n\nFrom studying to socializing, apps and programs play a major role. While this reliance improves efficiency, it can also reduce independence and real-world problem-solving skills. Therefore, young people should be encouraged to balance online tools with offline experiences. Technology should support life, not replace it.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-49",
     "part": "Part 3",
-    "topic": "Apps and daily life",
-    "title": "Why is apps and daily life important to people today?",
-    "frequency": "大陆题库",
+    "topic": "近期观影",
+    "title": "What kinds of movies do you think are successful in your country?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Emotionally connect",
+      "Relatable",
+      "Social issues",
+      "Visual effects",
+      "Emotional depth"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that apps and daily life affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "In my opinion, movies that connect emotionally with audiences and reflect real social experiences tend to be the most successful in my country.\n\nIn recent years, films that focus on family relationships, personal growth, or realistic social issues have attracted large audiences. These movies feel relatable, allowing viewers to see their own lives and emotions reflected on screen. At the same time, well-made comedies and high-quality action or science fiction films are also popular, especially when they offer strong visual effects and engaging stories. Overall, successful movies usually balance entertainment with emotional depth, rather than relying only on spectacle.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-50",
     "part": "Part 3",
-    "topic": "Apps and daily life",
-    "title": "How has apps and daily life changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "近期观影",
+    "title": "What are the factors that make a successful movie?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Storyline",
+      "Believable characters",
+      "Production quality",
+      "Cinematography",
+      "Lasting impression"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that apps and daily life affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I think a successful movie depends on a strong story, believable characters, and high-quality production.\n\nA clear and engaging storyline keeps the audience interested from beginning to end. Well-developed characters help viewers form emotional connections with the film. In addition, factors such as directing, music, and cinematography all contribute to the overall quality. Marketing also plays a role, but it cannot compensate for weak content. Ultimately, a successful movie leaves a lasting impression and gives people something to think about after leaving the cinema.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-51",
     "part": "Part 3",
-    "topic": "Apps and daily life",
-    "title": "What should schools, families or governments do about apps and daily life?",
-    "frequency": "大陆题库",
+    "topic": "近期观影",
+    "title": "Do Chinese people prefer to watch domestic movies or foreign movies?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Culturally familiar",
+      "Storytelling style",
+      "Open-minded",
+      "Improved quality",
+      "Local values"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that apps and daily life affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I think Chinese audiences enjoy both domestic and foreign movies, depending on quality and theme.\n\nDomestic films often feel culturally familiar and emotionally close, especially when they reflect local values and experiences. Foreign movies, on the other hand, attract viewers with different storytelling styles and advanced visual techniques. In recent years, the quality of domestic films has improved significantly, which has increased audience confidence. As a result, people are becoming more open-minded and willing to choose movies based on content rather than origin.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-52",
     "part": "Part 3",
-    "topic": "Local news",
-    "title": "Why is local news important to people today?",
-    "frequency": "大陆题库",
+    "topic": "近期观影",
+    "title": "Do you think only well-known directors can create the best movies?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Fresh perspective",
+      "Originality",
+      "Dedication",
+      "Innovative",
+      "Authentic"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that local news affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "While experienced directors often have strong skills and resources, fresh perspectives from new or lesser-known directors can be equally powerful. Many outstanding films come from newcomers who bring originality and bold ideas. What truly matters is vision, creativity, and dedication, not fame. In fact, some audiences actively seek films by new directors because they feel more authentic and innovative.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-53",
     "part": "Part 3",
-    "topic": "Local news",
-    "title": "How has local news changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "近期观影",
+    "title": "Do you think successful movies should have well-known actors or actresses in leading roles?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Star power",
+      "Fit the role",
+      "Boost ticket sales",
+      "Weak script",
+      "Audience focus"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that local news affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Not necessarily, although famous actors can help attract attention.\n\nWell-known actors often bring strong acting skills and fan support, which can boost ticket sales. However, a famous cast cannot save a weak script. Many successful movies feature new or less famous actors who fit the role perfectly. Audiences today are becoming more focused on story quality rather than star power alone. So casting should serve the film, not dominate it.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-54",
     "part": "Part 3",
-    "topic": "Local news",
-    "title": "What should schools, families or governments do about local news?",
-    "frequency": "大陆题库",
+    "topic": "近期观影",
+    "title": "Why do people prefer to watch movies in the cinema?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Immersive experience",
+      "Sound system",
+      "Shared experience",
+      "Atmosphere",
+      "Sense of occasion"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that local news affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "People prefer cinemas because they offer an immersive experience that cannot be fully replicated at home.\n\nThe large screen, powerful sound system, and dark environment help audiences focus completely on the movie. Watching films in a cinema also creates a shared emotional experience, as people laugh or feel moved together. Additionally, cinemas provide a sense of occasion, making movie-watching feel special rather than casual. This combination of atmosphere and social experience explains why cinemas remain popular.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-55",
     "part": "Part 3",
-    "topic": "Short-term work abroad",
-    "title": "Why is short-term work abroad important to people today?",
-    "frequency": "大陆题库",
+    "topic": "完美工作",
+    "title": "What kind of job can be called a ‘dream job’?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Sense of meaning",
+      "Fulfilled",
+      "Align with",
+      "Motivated",
+      "In the long run"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that short-term work abroad affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "In my view, a dream job is one that brings a sense of meaning, satisfaction, and balance, rather than just high income or social status.\n\nFor many people, a dream job allows them to use their strengths, pursue their interests, and feel valued for what they do. It doesn’t necessarily have to be glamorous or well-paid. Some people find their dream job in teaching, others in creative fields, or even in simple but stable work. What truly matters is whether the job aligns with one’s values and lifestyle. When people feel fulfilled instead of constantly stressed, they are more likely to stay motivated and happy in the long run.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-56",
     "part": "Part 3",
-    "topic": "Short-term work abroad",
-    "title": "How has short-term work abroad changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "完美工作",
+    "title": "What jobs do children want to do when they grow up?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Influenced by",
+      "Admired",
+      "Imagination",
+      "Responsibilities",
+      "Identity"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that short-term work abroad affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Many children dream of jobs that seem exciting, powerful, or admired by society.\n\nWhen children are young, they are often influenced by what they see in daily life, movies, or on television. Jobs like doctors, teachers, athletes, police officers, or celebrities are common choices. At this stage, children usually focus on how a job looks rather than its responsibilities or pressure. Their choices are often driven by imagination and admiration. This is a natural part of growing up, and such dreams help children explore their interests and identities.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-57",
     "part": "Part 3",
-    "topic": "Short-term work abroad",
-    "title": "What should schools, families or governments do about short-term work abroad?",
-    "frequency": "大陆题库",
+    "topic": "完美工作",
+    "title": "Do people’s ideal jobs change as they grow up?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Priorities",
+      "Work-life balance",
+      "Financial pressure",
+      "Adjust",
+      "Personal growth"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that short-term work abroad affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, people’s ideal jobs often change as their experiences and priorities change.\n\nWhen people are young, they may care more about passion, excitement, or social recognition. As they grow older, practical factors like job stability, work-life balance, and income security become more important. Life experiences, such as starting a family or facing financial pressure, also reshape career goals. So it’s quite normal for people to adjust their dreams over time. This change reflects personal growth rather than failure.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-58",
     "part": "Part 3",
-    "topic": "Encouraging others",
-    "title": "Why is encouraging others important to people today?",
-    "frequency": "大陆题库",
+    "topic": "完美工作",
+    "title": "What should people consider when choosing jobs?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Practical realities",
+      "Long-term development",
+      "Job security",
+      "Sustain",
+      "Burnout"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that encouraging others affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "When choosing a job, people should consider both personal satisfaction and practical realities.\n\nInterest, ability, and long-term development are important personal factors. At the same time, people need to think about income, working conditions, and job security. A good job is not just something you enjoy today, but something you can sustain over time. Carefully weighing these factors helps people avoid burnout and regret later in life.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-59",
     "part": "Part 3",
-    "topic": "Encouraging others",
-    "title": "How has encouraging others changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "完美工作",
+    "title": "Is salary the main reason why people choose a certain job?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Financial security",
+      "Long-term satisfaction",
+      "Meaningful work",
+      "Work environment",
+      "Factor"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that encouraging others affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Salary is important, but it is rarely the only reason people choose a job.\n\nA decent income provides security and reduces stress, which is why salary matters. However, if a job is poorly matched with one’s interests or values, high pay alone may not lead to long-term satisfaction. Many people are willing to accept lower salaries in exchange for meaningful work, flexibility, or a healthier work environment. In the end, salary is one factor among many.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-60",
     "part": "Part 3",
-    "topic": "Encouraging others",
-    "title": "What should schools, families or governments do about encouraging others?",
-    "frequency": "大陆题库",
+    "topic": "完美工作",
+    "title": "What kind of jobs are the most popular in your country?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Strong demand",
+      "Social value",
+      "Healthcare",
+      "Career growth",
+      "Relatively secure"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that encouraging others affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "In my country, jobs related to technology, education, and healthcare are especially popular.\n\nTechnology jobs attract people because of strong demand and career growth. Teaching remains popular due to its stability and social value. Healthcare jobs are also highly respected, especially after recent global health challenges. These professions are seen as practical, meaningful, and relatively secure, which explains their popularity.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-61",
     "part": "Part 3",
-    "topic": "Stories with animals",
-    "title": "Why is stories with animals important to people today?",
-    "frequency": "大陆题库",
+    "topic": "朋友自学",
+    "title": "Is it necessary to keep learning after graduating from school?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Rapidly changing",
+      "Outdated",
+      "Stay relevant",
+      "Lifelong process",
+      "Personal fulfillment"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that stories with animals affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, I believe continuous learning after graduation is necessary in order to adapt to a rapidly changing society.\n\nWhat people learn in school usually provides a foundation, but knowledge and skills can quickly become outdated. New technologies, work methods, and social challenges constantly appear. By continuing to learn, people can stay relevant, improve problem-solving abilities, and maintain confidence in their careers. Learning does not always mean formal education. It can be reading, online courses, or learning through experience. In this sense, learning becomes a lifelong process that supports both professional growth and personal fulfillment.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-62",
     "part": "Part 3",
-    "topic": "Stories with animals",
-    "title": "How has stories with animals changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "朋友自学",
+    "title": "Should teachers make learning in their classes fun?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Engagement",
+      "Motivation",
+      "Interactive",
+      "Balanced approach",
+      "Academic progress"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that stories with animals affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, making learning enjoyable can greatly increase students’ engagement and motivation.\n\nWhen lessons are interesting, students are more likely to participate actively and remember what they learn. Fun does not mean a lack of discipline or seriousness. It can include interactive activities, real-life examples, or creative discussions. That said, fun should support learning goals rather than distract from them. A balanced approach helps students enjoy learning while still making real academic progress.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-63",
     "part": "Part 3",
-    "topic": "Stories with animals",
-    "title": "What should schools, families or governments do about stories with animals?",
-    "frequency": "大陆题库",
+    "topic": "朋友自学",
+    "title": "Do you think there are too many subjects for students to learn?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Overwhelming",
+      "Heavy workload",
+      "Memorizing",
+      "Reflection",
+      "Depth"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that stories with animals affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "In some cases, yes, the number of subjects can feel overwhelming for students.\n\nModern education often tries to cover a wide range of subjects to prepare students for different paths. However, too many subjects can lead to heavy workloads and stress, leaving little time for reflection or creativity. Students may focus on memorizing information rather than understanding it deeply. Reducing unnecessary pressure and allowing more depth in learning could help students develop stronger thinking skills.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-64",
     "part": "Part 3",
-    "topic": "Food and celebrations",
-    "title": "Why is food and celebrations important to people today?",
-    "frequency": "大陆题库",
+    "topic": "朋友自学",
+    "title": "Is it better to focus on a few subjects or to learn many subjects?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Broad foundation",
+      "Expertise",
+      "Learning stage",
+      "Flexibility",
+      "Gradually"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that food and celebrations affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I think the best approach depends on the student’s age and learning stage.\n\nFor younger students, learning a variety of subjects helps them discover interests and build a broad foundation. As students grow older, focusing on fewer subjects allows them to develop expertise and deeper understanding. Both approaches have value. The key is flexibility. Education systems should allow students to gradually move from broad learning to focused learning based on their goals.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-65",
     "part": "Part 3",
-    "topic": "Food and celebrations",
-    "title": "How has food and celebrations changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "朋友自学",
+    "title": "Do you think enterprises should provide training for their employees?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Adapt",
+      "Productivity",
+      "Investment",
+      "Loyalty",
+      "Effective"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that food and celebrations affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, enterprises should provide training to help employees grow and adapt.\n\nWork environments change quickly, and employees need updated skills to remain effective. Training improves productivity, boosts confidence, and shows that a company values its staff. It also benefits employers by reducing mistakes and increasing loyalty. Therefore, training is not just a cost, but an investment in long-term development.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-66",
     "part": "Part 3",
-    "topic": "Food and celebrations",
-    "title": "What should schools, families or governments do about food and celebrations?",
-    "frequency": "大陆题库",
+    "topic": "朋友自学",
+    "title": "Do you think it is good for older adults to continue learning?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Cognitive decline",
+      "Social interaction",
+      "Sense of achievement",
+      "Well-being",
+      "No age limit"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that food and celebrations affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, continuing to learn brings many benefits to older adults both mentally and socially.\n\nLearning helps older people keep their minds active and slows cognitive decline. It also provides opportunities for social interaction, reducing loneliness. In addition, learning new skills gives older adults a sense of achievement and purpose. Education at any age supports confidence and well-being, proving that learning truly has no age limit.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-67",
     "part": "Part 3",
-    "topic": "Traffic congestion",
-    "title": "Why is traffic congestion important to people today?",
-    "frequency": "大陆题库",
+    "topic": "微笑的场合",
+    "title": "Do people smile more when they are younger or older?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Emotionally open",
+      "Life experience",
+      "Sincere",
+      "Responsibilities",
+      "Inner peace"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that traffic congestion affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "In general, younger people tend to smile more often, but older people’s smiles are usually calmer and more meaningful.\n\nWhen people are young, they often smile easily because they feel less pressure and are more emotionally open. Smiling comes naturally when life feels lighter. As people grow older, responsibilities increase and emotions become more complex, so they may smile less frequently. However, older people’s smiles often reflect life experience, understanding, and inner peace. These smiles may appear less often, but they tend to be more sincere. So it is not really about age, but about emotional stage and life experience.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-68",
     "part": "Part 3",
-    "topic": "Traffic congestion",
-    "title": "How has traffic congestion changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "微笑的场合",
+    "title": "Is smiling important in your culture?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Politeness",
+      "Social etiquette",
+      "Goodwill",
+      "Reduce tension",
+      "Friendly atmosphere"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that traffic congestion affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, smiling is considered important in my culture because it reflects politeness, warmth, and positive attitude.\n\nIn daily interactions, smiling helps create a friendly atmosphere and makes communication smoother. People often smile to show respect, especially when meeting others for the first time. A smile is also a way to reduce tension and avoid unnecessary conflict. Although not every smile means happiness, it is still a social signal that shows goodwill. So in my culture, smiling is not just an emotion, but also a form of social etiquette.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-69",
     "part": "Part 3",
-    "topic": "Traffic congestion",
-    "title": "What should schools, families or governments do about traffic congestion?",
-    "frequency": "大陆题库",
+    "topic": "微笑的场合",
+    "title": "Are there any occasions when people need to pretend to smile?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Out of politeness",
+      "Professionalism",
+      "Emotionally draining",
+      "Social awareness",
+      "Awkwardness"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that traffic congestion affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, in certain social or professional situations, people may smile out of politeness rather than genuine emotion.\n\nFor example, in customer service or formal meetings, people are expected to remain friendly even if they feel tired or stressed. In such cases, smiling helps maintain professionalism and avoid awkwardness. While pretending to smile can feel emotionally draining, it also shows emotional control and social awareness. As long as it does not happen too often, this kind of smile is usually understood as part of social interaction.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-70",
     "part": "Part 3",
-    "topic": "Children and art",
-    "title": "Why is children and art important to people today?",
-    "frequency": "大陆题库",
+    "topic": "微笑的场合",
+    "title": "Do you think people who like to smile are more friendly?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Approachable",
+      "Positive signal",
+      "First impression",
+      "Sincerity",
+      "Break down barriers"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that children and art affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Generally speaking, people who smile more are often perceived as more friendly and approachable.\n\nSmiling sends a positive signal and makes others feel comfortable. It helps break down barriers and encourages conversation. However, friendliness also depends on behavior and attitude, not just facial expression. Some people may smile often but still lack sincerity. So while smiling helps create a friendly first impression, real friendliness is shown through actions and communication over time.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-71",
     "part": "Part 3",
-    "topic": "Children and art",
-    "title": "How has children and art changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "微笑的场合",
+    "title": "Why do most people smile in photographs?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Positive self-image",
+      "Social habit",
+      "Approachable",
+      "Emotionally positive",
+      "Confidence"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that children and art affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Most people smile in photographs because smiling represents happiness, confidence, and positive self-image.\n\nPhotos often capture moments people want to remember or share. Smiling helps make those moments look pleasant and emotionally positive. Many people also feel that smiling makes them appear more attractive and approachable in photos. Over time, smiling for the camera has become a social habit rather than a conscious choice.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-72",
     "part": "Part 3",
-    "topic": "Children and art",
-    "title": "What should schools, families or governments do about children and art?",
-    "frequency": "大陆题库",
+    "topic": "微笑的场合",
+    "title": "Do women smile more than men? Why?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Social expectations",
+      "Emotionally expressive",
+      "Reserved",
+      "Cultural norms",
+      "Gender roles"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that children and art affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "In many cases, women are observed to smile more often than men due to social expectations and emotional expression.\n\nSociety often encourages women to appear warm and friendly, while men are sometimes expected to be more reserved. Women also tend to express emotions more openly, which can result in more frequent smiling. However, this does not mean women are happier. It simply reflects different social roles and norms. Smiling behavior is shaped more by culture than by gender itself.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-73",
     "part": "Part 3",
-    "topic": "Inexpensive days out",
-    "title": "Why is inexpensive days out important to people today?",
-    "frequency": "大陆题库",
+    "topic": "机智解决问题的人",
+    "title": "Do you think children are born smart or they learn to become smart?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Potential",
+      "Fixed",
+      "Critical thinking",
+      "Environment",
+      "Encouragement"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that inexpensive days out affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I believe children may be born with different potentials, but becoming smart is largely the result of learning and experience.\n\nSome children are naturally curious or quick to understand new ideas, which may give them an early advantage. However, intelligence is not fixed. Through education, practice, and encouragement, children can gradually develop problem-solving skills, creativity, and critical thinking. Environment also plays a major role. Supportive families, good teachers, and positive learning experiences help children grow intellectually. So rather than asking whether children are born smart, it is more useful to focus on how we help them develop their abilities over time.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-74",
     "part": "Part 3",
-    "topic": "Inexpensive days out",
-    "title": "How has inexpensive days out changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "机智解决问题的人",
+    "title": "How do children become smart at school?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Active learning",
+      "Guidance",
+      "Practice",
+      "Independent thinking",
+      "Feedback"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that inexpensive days out affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Children become smarter at school through active learning, guidance, and consistent practice.\n\nSchool provides structured learning where children are exposed to different subjects and ways of thinking. Teachers help students understand concepts and develop learning strategies, not just memorize facts. Group discussions, problem-solving tasks, and projects also encourage cooperation and independent thinking. Over time, regular feedback and challenges help children improve their abilities. In this way, school supports intellectual growth step by step.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-75",
     "part": "Part 3",
-    "topic": "Inexpensive days out",
-    "title": "What should schools, families or governments do about inexpensive days out?",
-    "frequency": "大陆题库",
+    "topic": "机智解决问题的人",
+    "title": "Why are some people well-rounded and others only good at one thing?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Well-rounded",
+      "Specialization",
+      "Opportunities",
+      "Expertise",
+      "Strengths"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that inexpensive days out affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I think the difference comes from interests, opportunities, and personal choices.\n\nSome people are encouraged to explore many areas when they are young, which helps them develop a wide range of skills. Others may discover a strong talent early and focus deeply on one field. Neither path is better than the other. Being well-rounded offers flexibility, while specialization allows for expertise. Modern society needs both types of people, and success depends on how well individuals use their strengths.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-76",
     "part": "Part 3",
-    "topic": "Successful companies",
-    "title": "Why is successful companies important to people today?",
-    "frequency": "大陆题库",
+    "topic": "机智解决问题的人",
+    "title": "Why does modern society need talents of all kinds?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Different perspectives",
+      "Social development",
+      "Diversity",
+      "Adapt to change",
+      "Resilient"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that successful companies affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Modern society needs talents of all kinds because different fields require different skills and perspectives.\n\nTechnology, education, healthcare, art, and many other areas all contribute to social development. Innovation often happens when people with different backgrounds work together. If everyone had the same skills, society would lack balance and creativity. Diverse talents allow society to solve complex problems and adapt to change. Therefore, valuing different abilities helps create a more dynamic and resilient society.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-77",
     "part": "Part 3",
-    "topic": "Successful companies",
-    "title": "How has successful companies changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "有趣的建筑",
+    "title": "What types of buildings are popular in your country?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Residential buildings",
+      "Multifunctional",
+      "Urban development",
+      "Cultural identity",
+      "Environmental awareness"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that successful companies affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "In my country, modern residential buildings and multifunctional commercial complexes are especially popular.\n\nWith rapid urban development, many people prefer high-rise apartments because they are practical, space-efficient, and usually well connected to public transport. Shopping malls and mixed-use buildings are also common, as they combine shopping, dining, entertainment, and workspaces in one place. At the same time, there is growing interest in buildings that incorporate traditional elements or eco-friendly designs. These buildings not only meet modern living needs but also reflect cultural identity and environmental awareness.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-78",
     "part": "Part 3",
-    "topic": "Successful companies",
-    "title": "What should schools, families or governments do about successful companies?",
-    "frequency": "大陆题库",
+    "topic": "有趣的建筑",
+    "title": "Is it worth spending a lot of money on the exterior appearance of a building?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Exterior appearance",
+      "City image",
+      "Functionality",
+      "Sustainability",
+      "Balance"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that successful companies affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I think spending money on a building’s exterior is worthwhile, but only to a reasonable extent.\n\nA well-designed exterior can improve a city’s image and make people feel more comfortable in public spaces. It can also increase the building’s value and attract visitors or users. However, focusing too much on appearance while ignoring safety, functionality, or sustainability is not practical. Ideally, exterior design should balance aesthetics with purpose and long-term use.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-79",
     "part": "Part 3",
-    "topic": "Family pride",
-    "title": "Why is family pride important to people today?",
-    "frequency": "大陆题库",
+    "topic": "有趣的建筑",
+    "title": "Is it more important for a building to look good on the outside or on the inside?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Daily experience",
+      "Comfort",
+      "Layout",
+      "Compensate",
+      "Complement"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that family pride affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I believe interior design is more important, because it directly affects people’s daily experience.\n\nWhile an attractive exterior can draw attention, people spend most of their time inside buildings. Comfort, lighting, layout, and safety all influence how users feel and function in a space. A beautiful exterior cannot compensate for poor interior design. Ideally, both aspects should complement each other, but if one must be prioritized, the inside should come first.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-80",
     "part": "Part 3",
-    "topic": "Family pride",
-    "title": "How has family pride changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "有趣的建筑",
+    "title": "Why do people like to visit historical sites?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Historical sites",
+      "Cultural heritage",
+      "Tangible",
+      "Continuity",
+      "Emotionally meaningful"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that family pride affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "People like visiting historical sites because they offer a direct connection to the past and cultural heritage.\n\nHistorical sites allow visitors to experience history in a tangible way, rather than just reading about it. They help people understand how societies developed and how earlier generations lived. In addition, these places often provide a sense of identity and continuity. For many people, visiting historical sites is both educational and emotionally meaningful.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-81",
     "part": "Part 3",
-    "topic": "Family pride",
-    "title": "What should schools, families or governments do about family pride?",
-    "frequency": "大陆题库",
+    "topic": "擅长做计划的人",
+    "title": "Do you think it’s important to plan ahead?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Plan ahead",
+      "Manage time",
+      "Anticipate",
+      "Flexible",
+      "Direction"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that family pride affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, I think planning ahead is important because it helps people feel more prepared and less anxious about the future.\n\nWhen people plan in advance, they can set clear goals and manage their time more effectively. Planning also allows individuals to anticipate possible challenges and think about solutions early. That said, planning does not mean controlling every detail. Life is unpredictable, and plans should remain flexible. In my view, planning works best when it provides direction rather than pressure. It helps people move forward with confidence while still leaving room for adjustment.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-82",
     "part": "Part 3",
-    "topic": "Technology products",
-    "title": "Why is technology products important to people today?",
-    "frequency": "大陆题库",
+    "topic": "擅长做计划的人",
+    "title": "Do you think children should plan their future careers?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Exploratory",
+      "Pressured",
+      "Abilities",
+      "Inspiration",
+      "Confidence"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that technology products affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I think children can think about future careers in a light and exploratory way, but they should not feel pressured to decide too early.\n\nAt a young age, children are still discovering their interests and abilities. Encouraging them to explore different careers can be helpful, but forcing them to make firm decisions may limit their growth. Career ideas at this stage should be seen as inspiration, not commitment. What matters more is helping children develop curiosity, basic skills, and confidence, which will support any future career choice.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-83",
     "part": "Part 3",
-    "topic": "Technology products",
-    "title": "How has technology products changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "擅长做计划的人",
+    "title": "Is making study plans popular among young people?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Study plans",
+      "Track progress",
+      "Motivated",
+      "Structure",
+      "Adjustments"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that technology products affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, making study plans has become increasingly popular among young people, especially with the help of digital tools.\n\nMany students use planners, apps, or online calendars to organize their study schedules. These tools help them track progress and stay motivated. Social media has also played a role, as some young people share study routines and planning methods online. However, not everyone sticks to their plans strictly. For many, the process of planning itself provides structure and reassurance, even if adjustments are needed later.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-84",
     "part": "Part 3",
-    "topic": "Technology products",
-    "title": "What should schools, families or governments do about technology products?",
-    "frequency": "大陆题库",
+    "topic": "擅长做计划的人",
+    "title": "Do you think choosing a college major is closely related to a person’s future career?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Career paths",
+      "Determine",
+      "Adaptability",
+      "Trapped",
+      "Flexibility"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that technology products affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, choosing a college major can influence future career paths, but it does not completely determine them.\n\nA major provides specific knowledge and skills that may lead to certain industries. However, many people work in fields unrelated to their major. Skills like communication, problem-solving, and adaptability are often more important than the subject itself. So while choosing a major matters, people should not feel trapped by it. Lifelong learning and career flexibility allow individuals to change direction over time.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-85",
     "part": "Part 3",
-    "topic": "Learning independently",
-    "title": "Why is learning independently important to people today?",
-    "frequency": "大陆题库",
+    "topic": "擅长做计划的人",
+    "title": "What activities do we need to plan ahead?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Coordination",
+      "Advance planning",
+      "Unexpected problems",
+      "Preparation",
+      "Complex"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that learning independently affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Activities that involve time, money, or coordination with others usually require planning ahead.\n\nFor example, travel, major events, exams, or long-term projects all benefit from advance planning. Planning helps avoid last-minute stress and unexpected problems. Even daily activities like exercise or study can improve with some preparation. While not everything needs detailed planning, important or complex activities usually go more smoothly with preparation.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-86",
     "part": "Part 3",
-    "topic": "Learning independently",
-    "title": "How has learning independently changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "擅长做计划的人",
+    "title": "Should children ask their teachers and parents for advice when making plans?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Seek advice",
+      "Different perspectives",
+      "Strengths and weaknesses",
+      "Independent thinking",
+      "Decision-making"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that learning independently affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, seeking advice from teachers and parents can help children make more informed and realistic plans.\n\nAdults have experience and can offer different perspectives that children may not have considered. Teachers understand learning paths, while parents know their children’s strengths and weaknesses well. However, advice should guide rather than control. Children still need space to think independently and learn from mistakes. A supportive discussion helps children grow more confident in decision-making.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-87",
     "part": "Part 3",
-    "topic": "Learning independently",
-    "title": "What should schools, families or governments do about learning independently?",
-    "frequency": "大陆题库",
+    "topic": "给别人建议",
+    "title": "Should people prepare before giving advice?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Prepare",
+      "Consequences",
+      "Responsible",
+      "Consideration",
+      "Careless"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that learning independently affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, I think people should prepare before giving advice, especially when the advice may affect important decisions.\n\nGiving advice is not just about sharing opinions. It requires understanding the situation, the person involved, and the possible consequences. Preparation helps ensure that advice is thoughtful, realistic, and responsible. Without preparation, advice may sound careless or even cause harm. So in my view, preparing before giving advice shows respect and consideration for others.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-88",
     "part": "Part 3",
-    "topic": "Environmental protection",
-    "title": "Why is environmental protection important to people today?",
-    "frequency": "大陆题库",
+    "topic": "给别人建议",
+    "title": "Is it good to ask for advice from strangers online?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Diverse perspectives",
+      "Caution",
+      "Unreliable",
+      "Reference",
+      "Critical thinking"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that environmental protection affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "It can be helpful in some situations, but it should be approached with caution.\n\nOnline strangers can offer diverse perspectives, especially on common issues like study methods or career choices. However, they may lack full understanding of the situation and may give unreliable or biased advice. It is safer to treat online advice as a reference rather than a final decision. Critical thinking is essential when using such information.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-89",
     "part": "Part 3",
-    "topic": "Environmental protection",
-    "title": "How has environmental protection changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "给别人建议",
+    "title": "What are the personalities of people whose job is to give advice to others?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Patient",
+      "Empathetic",
+      "Objective",
+      "Trust",
+      "Guidance"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that environmental protection affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Their work requires understanding others’ problems without judgment. They need patience to listen carefully and empathy to relate to different experiences. At the same time, they must remain calm and objective, even when dealing with emotional situations. These qualities help them build trust and offer meaningful guidance.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-90",
     "part": "Part 3",
-    "topic": "Environmental protection",
-    "title": "What should schools, families or governments do about environmental protection?",
-    "frequency": "大陆题库",
+    "topic": "给别人建议",
+    "title": "What are the problems if you ask too many people for advice?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Confusion",
+      "Indecision",
+      "Confidence",
+      "Judgment",
+      "Delay"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that environmental protection affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Asking too many people for advice can lead to confusion and indecision.\n\nDifferent people often give different opinions based on their own experiences. When advice conflicts, it becomes difficult to choose a direction. This may increase anxiety and reduce confidence in one’s own judgment. In some cases, people may end up delaying decisions instead of solving problems.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-91",
     "part": "Part 3",
-    "topic": "Films and online media",
-    "title": "Why is films and online media important to people today?",
-    "frequency": "大陆题库",
+    "topic": "给别人建议",
+    "title": "Why do some people think it is better to ask for advice from friends than from parents?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Understood",
+      "Similar experiences",
+      "Relaxed",
+      "Criticism",
+      "Emotional comfort"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that films and online media affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Some people prefer asking friends because they feel more understood and less pressured.\n\nFriends are often closer in age and share similar experiences, which makes their advice feel more relevant. Talking to friends may also feel more relaxed, without fear of criticism. Parents, although experienced, may sometimes be seen as too controlling or traditional. This emotional comfort makes friends a preferred choice for advice.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-92",
     "part": "Part 3",
-    "topic": "Films and online media",
-    "title": "How has films and online media changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "给别人建议",
+    "title": "When would old people ask young people for advice?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Technology",
+      "Digital tools",
+      "Modern trends",
+      "Connected",
+      "Mutual understanding"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that films and online media affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Older people often ask young people for advice on technology and modern trends.\n\nYoung people are usually more familiar with smartphones, apps, and digital tools. As society changes quickly, older adults may also seek advice on new lifestyles or social platforms. Asking younger people helps them stay connected and confident in daily life. This exchange also strengthens mutual understanding between generations.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-93",
     "part": "Part 3",
-    "topic": "Films and online media",
-    "title": "What should schools, families or governments do about films and online media?",
-    "frequency": "大陆题库",
+    "topic": "乐于助人的人",
+    "title": "Do you think schools should teach children to do household chores?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Household chores",
+      "Independence",
+      "Practical skills",
+      "Cooperation",
+      "Considerate"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that films and online media affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, I believe schools should teach children basic household chores as part of life education.\n\nHousehold chores help children develop responsibility, independence, and practical skills. When children learn how to clean, organize, or take care of shared spaces, they begin to understand cooperation and respect for others’ efforts. Schools can introduce chores in simple and age-appropriate ways, not as heavy tasks but as part of daily routines. This kind of education prepares children for real life and helps them grow into more capable and considerate adults.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-94",
     "part": "Part 3",
-    "topic": "Long-term goals",
-    "title": "Why is long-term goals important to people today?",
-    "frequency": "大陆题库",
+    "topic": "乐于助人的人",
+    "title": "Why are employees reluctant to ask their managers for help?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Reluctant",
+      "Professional image",
+      "Hierarchical",
+      "Supportive culture",
+      "Teamwork"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that long-term goals affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Many employees hesitate to ask for help because they fear appearing incompetent or weak.\n\nSome worry that asking questions may affect their professional image or performance evaluation. Others may feel uncomfortable due to hierarchical distance or communication barriers. In workplaces where support is not encouraged, employees may choose to struggle alone. Creating an open and supportive culture can reduce this hesitation and improve teamwork.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-95",
     "part": "Part 3",
-    "topic": "Long-term goals",
-    "title": "How has long-term goals changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "乐于助人的人",
+    "title": "What can children do to help their parents?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Responsibilities",
+      "Reduce workload",
+      "Emotional support",
+      "Appreciation",
+      "Family bonds"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that long-term goals affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Children can help their parents by taking on small responsibilities and showing care in daily life.\n\nSimple actions such as tidying their room, helping with meals, or taking care of younger siblings can reduce parents’ workload. Emotional support also matters. Listening, sharing feelings, and showing appreciation help strengthen family bonds. These actions teach children empathy and responsibility while creating a more harmonious family environment.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-96",
     "part": "Part 3",
-    "topic": "Long-term goals",
-    "title": "What should schools, families or governments do about long-term goals?",
-    "frequency": "大陆题库",
+    "topic": "乐于助人的人",
+    "title": "Should children help their parents with household chores?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Mutual respect",
+      "Shared effort",
+      "Independent living",
+      "Age-appropriate",
+      "Cooperation"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that long-term goals affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, children should help with household chores because it builds responsibility and mutual respect.\n\nHelping at home teaches children that family life is based on shared effort rather than obligation. It also prepares them for independent living in the future. Tasks should match children’s age and ability so that chores feel achievable and fair. This approach encourages cooperation instead of resistance.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-97",
     "part": "Part 3",
-    "topic": "Places to recommend",
-    "title": "Why is places to recommend important to people today?",
-    "frequency": "大陆题库",
+    "topic": "乐于助人的人",
+    "title": "What kind of help do people need when looking for a new job?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Guidance",
+      "Interview preparation",
+      "Industry trends",
+      "Stressful",
+      "Motivated"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that places to recommend affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "People usually need guidance, information, and emotional support when searching for a new job.\n\nPractical help includes resume advice, interview preparation, and understanding industry trends. Emotional support is also important, as job searching can be stressful and uncertain. Encouragement from others helps people stay confident and motivated. Together, these forms of help make the process more manageable.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-98",
     "part": "Part 3",
-    "topic": "Places to recommend",
-    "title": "How has places to recommend changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "乐于助人的人",
+    "title": "Who should people ask for help, colleagues or family members?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Work-related",
+      "Emotional support",
+      "Professional context",
+      "Combine",
+      "Social skill"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that places to recommend affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "It depends on the situation, because colleagues and family provide different types of support.\n\nColleagues are often better for work-related advice, as they understand the professional context. Family members, on the other hand, offer emotional support and unconditional care. In many cases, combining both sources leads to better decisions. Knowing who to ask and when is an important social skill.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-99",
     "part": "Part 3",
-    "topic": "Places to recommend",
-    "title": "What should schools, families or governments do about places to recommend?",
-    "frequency": "大陆题库",
+    "topic": "不享受的音乐活动",
+    "title": "Why do many people like listening to music while doing sports?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Motivated",
+      "Fatigue",
+      "Steady pace",
+      "Improve mood",
+      "Sustainable habit"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that places to recommend affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Many people enjoy listening to music while doing sports because it helps them stay motivated and focused.\n\nMusic can distract people from physical fatigue and make exercise feel less tiring. A strong rhythm also helps people keep a steady pace, especially during running or cycling. In addition, listening to favorite songs can improve mood and reduce stress, which makes workouts more enjoyable. Over time, music becomes part of a personal exercise routine, turning sports into a more positive and sustainable habit.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-100",
     "part": "Part 3",
-    "topic": "Phone-free places",
-    "title": "Why is phone-free places important to people today?",
-    "frequency": "大陆题库",
+    "topic": "不享受的音乐活动",
+    "title": "What are the differences between listening to music at home and at a live concert?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Private",
+      "Atmosphere",
+      "Interaction",
+      "Memories",
+      "Emotional intensity"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that phone-free places affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Listening to music at home is more private and comfortable, while live concerts offer a stronger emotional and social experience.\n\nAt home, people can choose the volume, environment, and music freely, which makes it relaxing and convenient. Live concerts, however, create excitement through atmosphere, crowd energy, and direct interaction with performers. Although concerts can be noisy and tiring, they often leave deeper memories. So the main difference lies in personal comfort versus shared emotional intensity.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-101",
     "part": "Part 3",
-    "topic": "Phone-free places",
-    "title": "How has phone-free places changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "不享受的音乐活动",
+    "title": "What kind of music events do people like today?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Music festival",
+      "Intimate",
+      "Live-streamed",
+      "Variety",
+      "Experience"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that phone-free places affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Today, people enjoy music events that combine entertainment, interaction, and social sharing.\n\nLarge-scale concerts and music festivals are popular because they offer variety and a strong atmosphere. Smaller live-house performances are also favored, as they feel more intimate. In addition, online live-streamed concerts have become common, allowing people to enjoy music from home. Modern audiences value both experience and convenience.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-102",
     "part": "Part 3",
-    "topic": "Phone-free places",
-    "title": "What should schools, families or governments do about phone-free places?",
-    "frequency": "大陆题库",
+    "topic": "不享受的音乐活动",
+    "title": "Do you think children should receive some musical education?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Concentration",
+      "Creativity",
+      "Discipline",
+      "Emotional expression",
+      "Cognitive growth"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that phone-free places affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, I believe musical education is beneficial for children’s overall development.\n\nLearning music helps children improve concentration, creativity, and emotional expression. It also develops patience and discipline through regular practice. Even if children do not become professional musicians, musical education enriches their emotional world and supports cognitive growth. Therefore, basic musical education is valuable for most children.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-103",
     "part": "Part 3",
-    "topic": "Messages without replies",
-    "title": "Why is messages without replies important to people today?",
-    "frequency": "大陆题库",
+    "topic": "不享受的音乐活动",
+    "title": "What are the differences between old and young people’s music preferences?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Preferences",
+      "Familiar",
+      "Genres",
+      "Cultural background",
+      "Era"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that messages without replies affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Older and younger people often prefer different music because of life experience and cultural background.\n\nYoung people tend to enjoy modern genres with strong rhythms and new styles. Older people usually prefer familiar songs that remind them of the past. Music taste is shaped by the era people grow up in. However, these differences are becoming smaller as people of all ages explore music online.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-104",
     "part": "Part 3",
-    "topic": "Messages without replies",
-    "title": "How has messages without replies changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "不享受的音乐活动",
+    "title": "What kind of music events are there in your country?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Traditional music",
+      "Open-air",
+      "Classical music",
+      "Community events",
+      "Variety"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that messages without replies affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "In my country, there are many types of music events that suit different audiences.\n\nThese include large pop concerts, traditional music performances, and open-air music festivals. Classical music concerts and cultural shows are also common in major cities. In recent years, community music events and online performances have become more popular. This variety allows people to enjoy music in ways that match their interests.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-105",
     "part": "Part 3",
-    "topic": "Messages without replies",
-    "title": "What should schools, families or governments do about messages without replies?",
-    "frequency": "大陆题库",
+    "topic": "鼓励别人做不愿做的事",
+    "title": "Should children do everything their parents ask them to do?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Independent thinking",
+      "Blindly",
+      "Open communication",
+      "Decision-making",
+      "Balance"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that messages without replies affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I don’t think children should do everything their parents ask, but they should learn to listen and think independently.\n\nParents usually have good intentions and more life experience, so their advice is often valuable. However, if children follow instructions blindly, they may struggle to develop independent thinking and decision-making skills. A healthier approach is open communication. Children should understand the reasons behind requests and feel free to express their own opinions. This balance helps children grow into responsible and confident individuals.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-106",
     "part": "Part 3",
-    "topic": "Teamwork",
-    "title": "Why is teamwork important to people today?",
-    "frequency": "大陆题库",
+    "topic": "鼓励别人做不愿做的事",
+    "title": "How can employers encourage their staff?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Recognize effort",
+      "Constructive feedback",
+      "Work environment",
+      "Valued",
+      "Engaged"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that teamwork affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Employers can encourage staff by recognizing effort, offering support, and creating a positive work environment.\n\nSimple actions such as praising good performance or giving constructive feedback can boost morale. Providing opportunities for growth, such as training or promotion, also motivates employees. When staff feel valued and respected, they are more likely to stay engaged and productive. Encouragement works best when it is sincere and consistent.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-107",
     "part": "Part 3",
-    "topic": "Teamwork",
-    "title": "How has teamwork changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "鼓励别人做不愿做的事",
+    "title": "How can leaders encourage their employees?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Set an example",
+      "Trust",
+      "Mutual respect",
+      "Supportive",
+      "Loyalty"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that teamwork affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Leaders encourage employees by setting a good example and showing trust and understanding.\n\nWhen leaders communicate clearly and listen to employees’ concerns, they build mutual respect. Trusting employees with responsibility also increases motivation. In addition, leaders who stay calm and supportive during challenges help teams feel secure. This kind of encouragement strengthens loyalty and teamwork.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-108",
     "part": "Part 3",
-    "topic": "Teamwork",
-    "title": "What should schools, families or governments do about teamwork?",
-    "frequency": "大陆题库",
+    "topic": "鼓励别人做不愿做的事",
+    "title": "When should parents encourage their children?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Effort",
+      "Resilience",
+      "Persistence",
+      "Timely",
+      "Growth attitude"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that teamwork affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Parents should encourage their children when they make efforts, face difficulties, or try something new.\n\nEncouragement is especially important during challenging moments, as it helps children build resilience. Praising effort rather than results teaches children to value learning and persistence. Timely encouragement can boost confidence and help children develop a positive attitude toward growth.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-109",
     "part": "Part 3",
-    "topic": "Celebrities in advertising",
-    "title": "Why is celebrities in advertising important to people today?",
-    "frequency": "大陆题库",
+    "topic": "鼓励别人做不愿做的事",
+    "title": "What kind of encouragement should parents give?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Sincere",
+      "Specific",
+      "Supportive",
+      "Comparison",
+      "Motivated"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that celebrities in advertising affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Parents should give encouragement that is sincere, specific, and supportive.\n\nRather than using vague praise, parents can point out what the child did well. This helps children understand their strengths. Encouragement should also avoid pressure or comparison. Supportive words that focus on improvement and effort help children feel accepted and motivated.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-110",
     "part": "Part 3",
-    "topic": "Celebrities in advertising",
-    "title": "How has celebrities in advertising changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "鼓励别人做不愿做的事",
+    "title": "Do you think some people are better than others at persuading?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Persuading",
+      "Communication skills",
+      "Emotional awareness",
+      "Respectful",
+      "Practice"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that celebrities in advertising affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, some people are naturally better at persuading because of communication skills and emotional awareness.\n\nPersuasive people know how to listen, understand others’ needs, and express ideas clearly. They often stay calm and respectful, which makes others more open to their opinions. Experience and confidence also play a role. While persuasion can be improved through practice, personality differences do influence effectiveness.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-111",
     "part": "Part 3",
-    "topic": "Celebrities in advertising",
-    "title": "What should schools, families or governments do about celebrities in advertising?",
-    "frequency": "大陆题库",
+    "topic": "家庭重要的物品",
+    "title": "What things do families keep for a long time?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Emotional meaning",
+      "Passed down",
+      "Sentimental value",
+      "Identity",
+      "Continuity"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that celebrities in advertising affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Families often keep items that carry emotional meaning or represent important memories.\n\nThese may include old photographs, letters, jewelry, or objects passed down from older generations. Such items remind family members of shared experiences, loved ones, and personal history. Even if these objects are not valuable in a financial sense, they hold strong sentimental value. Keeping them helps families maintain a sense of identity and continuity across generations.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-112",
     "part": "Part 3",
-    "topic": "Changing important ideas",
-    "title": "Why is changing important ideas important to people today?",
-    "frequency": "大陆题库",
+    "topic": "家庭重要的物品",
+    "title": "What’s the difference between things valued by people in the past and today?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Durability",
+      "Practicality",
+      "Convenience",
+      "Replace quickly",
+      "Lifestyle"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that changing important ideas affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "People in the past valued durability and practicality, while today people often value convenience and personal expression.\n\nIn earlier times, objects were usually kept for long periods and repaired when broken. People focused on usefulness and long-term value. Today, many people prioritize convenience, design, and emotional satisfaction. Products are replaced more quickly, reflecting faster lifestyles and changing values.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-113",
     "part": "Part 3",
-    "topic": "Changing important ideas",
-    "title": "How has changing important ideas changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "家庭重要的物品",
+    "title": "What kinds of things are kept in museums?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Cultural heritage",
+      "Artifacts",
+      "Historical documents",
+      "Preserve",
+      "Human development"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that changing important ideas affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Museums keep objects that represent history, culture, science, and art.\n\nThese include ancient tools, artworks, historical documents, traditional clothing, and scientific inventions. Such items help record human development and preserve cultural heritage. Museums carefully protect these objects so that future generations can learn from them. Each item tells a story about a specific time or society.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-114",
     "part": "Part 3",
-    "topic": "Changing important ideas",
-    "title": "What should schools, families or governments do about changing important ideas?",
-    "frequency": "大陆题库",
+    "topic": "家庭重要的物品",
+    "title": "What’s the influence of technology on museums?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Interactive",
+      "Virtual tours",
+      "Accessible",
+      "Research",
+      "Education"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that changing important ideas affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Technology has made museums more interactive, accessible, and engaging.\n\nDigital displays, audio guides, and virtual tours allow visitors to explore exhibits in new ways. Technology also helps museums reach people who cannot visit in person. At the same time, museums can use technology to better protect and research collections. Overall, technology has expanded the role of museums in education.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-115",
     "part": "Part 3",
-    "topic": "Music events",
-    "title": "Why is music events important to people today?",
-    "frequency": "大陆题库",
+    "topic": "家庭重要的物品",
+    "title": "What are the benefits of technology for learning history?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Vivid",
+      "Visualize",
+      "Interactive tools",
+      "Multiple perspectives",
+      "Engagement"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that music events affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Technology makes learning history more vivid and easier to understand.\n\nVideos, animations, and digital timelines help learners visualize historical events. Interactive tools encourage exploration rather than passive reading. Technology also provides access to global resources, allowing people to study history from multiple perspectives. This improves engagement and understanding.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-116",
     "part": "Part 3",
-    "topic": "Music events",
-    "title": "How has music events changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "家庭重要的物品",
+    "title": "Why do people visit museums?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Reflect",
+      "Appreciate",
+      "Inspiration",
+      "Connection",
+      "Meaningful"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that music events affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "People visit museums to learn, reflect, and connect with history and culture.\n\nMuseums offer a quiet space for learning and reflection away from daily routines. Visitors can gain knowledge, appreciate creativity, and understand different cultures. For many, museums also provide inspiration and a sense of connection to the past. This makes museum visits both educational and meaningful.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-117",
     "part": "Part 3",
-    "topic": "Music events",
-    "title": "What should schools, families or governments do about music events?",
-    "frequency": "大陆题库",
+    "topic": "发挥想象力",
+    "title": "Do you think adults can have lots of imagination?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Expressed differently",
+      "Problem-solving",
+      "Life experience",
+      "Purposeful",
+      "Realistic"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that music events affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, I believe adults can have a lot of imagination, although it may be expressed differently from children.\n\nAdults often use imagination in more practical or goal-oriented ways. For example, they may imagine solutions to problems, future plans, or creative ideas at work. While daily responsibilities can limit free imagination, life experience actually enriches it. So imagination does not disappear with age, it simply changes form and becomes more realistic and purposeful.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-118",
     "part": "Part 3",
-    "topic": "Shops",
-    "title": "Why is shops important to people today?",
-    "frequency": "大陆题库",
+    "topic": "发挥想象力",
+    "title": "Do you think imagination is essential for scientists?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Essential",
+      "Scientific progress",
+      "Beyond existing knowledge",
+      "Discoveries",
+      "Evidence"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that shops affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, imagination is essential for scientists because it allows them to explore ideas beyond existing knowledge.\n\nScientific progress often starts with imagination, such as imagining new theories, experiments, or possibilities. Without imagination, scientists would only repeat known facts instead of making discoveries. At the same time, imagination must be combined with logic and evidence. This balance allows creative ideas to become reliable scientific results.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-119",
     "part": "Part 3",
-    "topic": "Shops",
-    "title": "How has shops changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "发挥想象力",
+    "title": "What kinds of jobs need imagination?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Creativity",
+      "Innovation",
+      "Original",
+      "Adapt",
+      "Stand out"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that shops affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Jobs that involve creativity, problem-solving, or innovation usually require strong imagination.\n\nArtists, designers, writers, and filmmakers rely heavily on imagination to create original work. Engineers, scientists, and entrepreneurs also need imagination to develop new products or solutions. Even teachers and managers use imagination when designing lessons or motivating teams. In many professions, imagination helps people adapt and stand out.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-120",
     "part": "Part 3",
-    "topic": "Shops",
-    "title": "What should schools, families or governments do about shops?",
-    "frequency": "大陆题库",
+    "topic": "发挥想象力",
+    "title": "What subjects are helpful for children's imagination?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Open thinking",
+      "Express ideas",
+      "Creative writing",
+      "Exploration",
+      "Teaching method"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that shops affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Subjects that encourage creativity and open thinking are especially helpful for children’s imagination.\n\nArt, music, and literature allow children to express ideas freely and explore emotions. Drama and creative writing also help children imagine different roles and situations. Even subjects like science can stimulate imagination when taught through experiments and exploration. The key is how the subject is taught, not just the subject itself.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-121",
     "part": "Part 3",
-    "topic": "Family possessions",
-    "title": "Why is family possessions important to people today?",
-    "frequency": "大陆题库",
+    "topic": "发挥想象力",
+    "title": "What games help develop children's imagination?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Role-playing",
+      "Free play",
+      "Open-ended",
+      "Create worlds",
+      "Passive"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that family possessions affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Games that allow free play and role-playing are most effective for developing imagination.\n\nPretend games, building blocks, and storytelling games encourage children to create their own worlds and rules. These games do not have fixed outcomes, which gives children space to think creatively. Compared to passive screen games, open-ended play better supports imaginative development.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-122",
     "part": "Part 3",
-    "topic": "Family possessions",
-    "title": "How has family possessions changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "发挥想象力",
+    "title": "How important is imagination to children?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Emotional growth",
+      "Possibilities",
+      "Adapt",
+      "Foundation",
+      "Meaningful"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that family possessions affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Imagination is extremely important to children because it supports learning, emotional growth, and problem-solving.\n\nThrough imagination, children learn to explore possibilities, express feelings, and understand the world. It also helps them cope with challenges and adapt to new situations. Imagination lays the foundation for creativity and confidence in later life. Without it, learning becomes mechanical and less meaningful.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-123",
     "part": "Part 3",
-    "topic": "Family possessions",
-    "title": "What should schools, families or governments do about family possessions?",
-    "frequency": "大陆题库",
+    "topic": "花费超过预期的物品",
+    "title": "Do you think it is the rich people’s responsibility to donate money to people in need?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Moral responsibility",
+      "Inequality",
+      "Empathy",
+      "Willingness",
+      "Transparent systems"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that family possessions affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I think wealthy people have a moral responsibility to contribute to society, but donation should be encouraged rather than forced.\n\nRich people often benefit more from social systems and resources, so giving back can help reduce inequality. Donations can support education, healthcare, and disaster relief, creating positive social impact. However, charity works best when it comes from willingness and empathy, not pressure. Governments and society should create transparent systems that encourage responsible giving while respecting personal choice.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-124",
     "part": "Part 3",
-    "topic": "Imagination",
-    "title": "Why is imagination important to people today?",
-    "frequency": "大陆题库",
+    "topic": "花费超过预期的物品",
+    "title": "What kind of things are people happy to pay a high price for?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Long-term value",
+      "Emotional satisfaction",
+      "Durable",
+      "Reliable",
+      "Lasting memories"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that imagination affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "People are usually willing to pay a high price for things that offer long-term value or emotional satisfaction.\n\nThis includes quality education, healthcare, housing, and products that are durable and reliable. Experiences such as travel, concerts, or special events are also worth high spending for many people because they create lasting memories. In general, people feel comfortable paying more when they believe the value goes beyond the price.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-125",
     "part": "Part 3",
-    "topic": "Imagination",
-    "title": "How has imagination changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "花费超过预期的物品",
+    "title": "Do you often buy more than you expected?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Promotions",
+      "Overspending",
+      "Convenient",
+      "Awareness",
+      "Habit"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that imagination affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Like many people, I sometimes buy more than planned, especially in convenient shopping environments.\n\nPromotions, discounts, and attractive displays can influence decisions. Online shopping makes it even easier to add extra items without much thought. While occasional overspending is common, being aware of this habit helps people control their spending better over time.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-126",
     "part": "Part 3",
-    "topic": "Imagination",
-    "title": "What should schools, families or governments do about imagination?",
-    "frequency": "大陆题库",
+    "topic": "花费超过预期的物品",
+    "title": "What do you think young people spend most of their money on?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Daily needs",
+      "Personal development",
+      "Digital services",
+      "Self-expression",
+      "Balance"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that imagination affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Young people tend to spend most of their money on daily needs, entertainment, and personal development.\n\nThis includes food, rent, transportation, and digital services. Many also invest in learning, such as courses or skill training. In addition, spending on social activities and hobbies reflects their desire for connection and self-expression. Overall, young people balance practical needs with lifestyle choices.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-127",
     "part": "Part 3",
-    "topic": "Spending more than expected",
-    "title": "Why is spending more than expected important to people today?",
-    "frequency": "大陆题库",
+    "topic": "花费超过预期的物品",
+    "title": "Do you think it is important to save money? Why?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Financial security",
+      "Emergencies",
+      "Long-term goals",
+      "Habits",
+      "Preparation"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that spending more than expected affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, saving money is important because it provides security and future flexibility.\n\nSavings help people deal with emergencies and reduce financial stress. They also allow individuals to plan for long-term goals such as education, housing, or retirement. Even small savings build good habits and a sense of control over finances. Saving is not about restriction, but about preparation.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-128",
     "part": "Part 3",
-    "topic": "Spending more than expected",
-    "title": "How has spending more than expected changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "花费超过预期的物品",
+    "title": "Do people buy things they don’t need?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Unnecessary",
+      "Advertising",
+      "Peer pressure",
+      "Novelty",
+      "Mindful"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that spending more than expected affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, people often buy things they do not truly need due to emotional or social influences.\n\nAdvertising, peer pressure, and desire for novelty all encourage unnecessary purchases. Sometimes buying provides temporary comfort or excitement. However, these items may later feel wasteful. Becoming more mindful of needs versus wants helps reduce unnecessary spending.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-129",
     "part": "Part 3",
-    "topic": "Spending more than expected",
-    "title": "What should schools, families or governments do about spending more than expected?",
-    "frequency": "大陆题库",
+    "topic": "自行车/摩托车/汽车旅行",
+    "title": "Why do more people own and drive private cars now?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Convenience",
+      "Personal space",
+      "Infrastructure",
+      "Affordable",
+      "Flexibility"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that spending more than expected affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "More people own and drive private cars because they value convenience, comfort, and personal space.\n\nPrivate cars allow people to travel on their own schedule without relying on public transport. For families, cars make daily tasks like commuting, shopping, or taking children to school much easier. In addition, rising incomes and improved infrastructure make car ownership more affordable and practical. For many people, driving also represents independence and flexibility.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-130",
     "part": "Part 3",
-    "topic": "Travel by vehicle",
-    "title": "Why is travel by vehicle important to people today?",
-    "frequency": "大陆题库",
+    "topic": "自行车/摩托车/汽车旅行",
+    "title": "What do you think of the future of electric cars?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Electric vehicles",
+      "Efficient",
+      "Infrastructure",
+      "Environmental benefits",
+      "Mainstream"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that travel by vehicle affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I believe electric cars will play a major role in future transportation.\n\nAs technology improves, electric vehicles are becoming more efficient, affordable, and reliable. Governments are also encouraging their use through policies and infrastructure such as charging stations. Although challenges like battery life and charging time still exist, electric cars offer clear environmental benefits. Over time, they are likely to become a mainstream choice.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-131",
     "part": "Part 3",
-    "topic": "Travel by vehicle",
-    "title": "How has travel by vehicle changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "自行车/摩托车/汽车旅行",
+    "title": "Which form of vehicle is more popular in your country, bikes, cars or motorcycles?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Practical option",
+      "Commuting distance",
+      "Safety concerns",
+      "Urban areas",
+      "Short trips"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that travel by vehicle affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Cars are generally the most popular form of transportation in my country.\n\nWith urban expansion and longer commuting distances, cars are seen as the most practical option. Bikes are still common for short trips and exercise, while motorcycles are less popular due to safety concerns. Overall, cars dominate daily transportation, especially in cities.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-132",
     "part": "Part 3",
-    "topic": "Travel by vehicle",
-    "title": "What should schools, families or governments do about travel by vehicle?",
-    "frequency": "大陆题库",
+    "topic": "自行车/摩托车/汽车旅行",
+    "title": "Do you think air pollution comes mostly from mobile vehicles?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Air pollution",
+      "Exhaust gases",
+      "Contribute to",
+      "Construction activities",
+      "Manage"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that travel by vehicle affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Mobile vehicles are a major source of air pollution, but they are not the only one.\n\nCars and trucks emit large amounts of exhaust gases, especially in crowded cities. However, factories, power plants, and construction activities also contribute significantly. To address air pollution effectively, all major sources need to be managed together rather than focusing on one alone.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-133",
     "part": "Part 3",
-    "topic": "People who solve problems",
-    "title": "Why is people who solve problems important to people today?",
-    "frequency": "大陆题库",
+    "topic": "自行车/摩托车/汽车旅行",
+    "title": "Do you think people need to change the way of transportation drastically to protect the environment?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Transportation habits",
+      "Reduce dependence",
+      "Collective impact",
+      "Gradual change",
+      "Effective"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that people who solve problems affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, I think people need to significantly change transportation habits to protect the environment.\n\nReducing dependence on private cars and increasing the use of public transport, cycling, and walking can lower emissions. Small changes at the individual level can have a large collective impact. While drastic change may take time, gradual and consistent shifts are both realistic and effective.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-134",
     "part": "Part 3",
-    "topic": "People who solve problems",
-    "title": "How has people who solve problems changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "自行车/摩托车/汽车旅行",
+    "title": "How are the transportation systems in urban areas and rural areas different?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Developed",
+      "Diverse",
+      "Population density",
+      "Access",
+      "Regional inequality"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that people who solve problems affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Transportation systems in urban areas are more developed and diverse than those in rural areas.\n\nCities usually have buses, subways, and taxis, making travel more convenient. Rural areas often rely on limited bus services or private vehicles due to lower population density. This difference affects access to jobs, education, and services. Improving rural transportation can help reduce regional inequality.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-135",
     "part": "Part 3",
-    "topic": "People who solve problems",
-    "title": "What should schools, families or governments do about people who solve problems?",
-    "frequency": "大陆题库",
+    "topic": "想从事的短期海外工作",
+    "title": "What short-term jobs do young people do in other countries?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that people who solve problems affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "【高分回答】\nYoung people often choose short-term jobs that are flexible, practical, and easy to access when they work in other countries.\n\nMany young people work in hospitality, such as restaurants, cafes, hotels, or hostels, because these jobs usually require basic skills and provide quick income. Others take seasonal jobs on farms, in holiday resorts, or at tourist attractions, especially during peak travel seasons. Some young people also work as au pairs, language tutors, or assistants in international schools. These short-term jobs allow them to earn money, improve language skills, and experience local culture at the same time, which makes the overall experience both educational and meaningful.\n\n【高分回答】\n例句: \"Short-term jobs allow young people to explore new countries.\"（短期工作让年轻人有机会探索新的国家。）\n\nHospitality industry\n\n例句: \"The hospitality industry offers many entry-level roles.\"（餐饮和酒店行业提供大量入门岗位。）\n\n【高分回答】\n例句: \"Seasonal work is common during tourist seasons.\"（旅游旺季时季节性工作很常见。）\n\nCultural experience\n\n例句: \"Working abroad provides valuable cultural experience.\"（海外工作能带来宝贵的文化体验。）\n\n【高分回答】\n例句: \"Daily work helps improve language skills.\"（日常工作有助于提升语言能力。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-136",
     "part": "Part 3",
-    "topic": "Interesting architecture",
-    "title": "Why is interesting architecture important to people today?",
-    "frequency": "大陆题库",
+    "topic": "想从事的短期海外工作",
+    "title": "What challenges do young people face when working abroad?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that interesting architecture affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "【高分回答】\nYoung people working abroad often face challenges related to language, culture, and emotional adjustment.\n\nLanguage barriers can make communication stressful, especially when handling work tasks or customer interactions. Cultural differences in work habits, communication styles, and social norms may also cause misunderstandings. In addition, being far away from family and familiar environments can lead to loneliness and pressure, particularly at the beginning. Although these challenges are difficult, many young people gradually adapt and become more independent and confident through the process.\n\n【高分回答】\nLanguage barrier\n\n例句: \"A language barrier can slow down communication.\"（语言障碍会降低沟通效率。）\n\nCultural differences\n\n例句: \"Cultural differences affect workplace behavior.\"（文化差异会影响职场行为。）\n\nEmotional stress\n\n例句: \"Living abroad can cause emotional stress.\"（海外生活可能带来心理压力。）\n\nMisunderstandings\n\n例句: \"Misunderstandings often come from cultural gaps.\"（误解往往源于文化差异。）\n\n【高分回答】\n例句: \"Adaptation takes time and patience.\"（适应需要时间和耐心。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-137",
     "part": "Part 3",
-    "topic": "Interesting architecture",
-    "title": "How has interesting architecture changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "想从事的短期海外工作",
+    "title": "What are the benefits of working for an international company?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that interesting architecture affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "【高分回答】\nWorking for an international company offers professional development as well as global exposure.\n\nEmployees in international companies often collaborate with colleagues from different countries, which helps them understand diverse perspectives and working styles. These companies usually provide structured training, clearer career paths, and higher professional standards. In addition, international experience strengthens a person’s resume and increases future job opportunities. Over time, such experience also helps employees develop broader thinking and stronger communication skills.\n\n【高分回答】\n例句: \"International companies provide global exposure.\"（国际公司提供全球视野。）\n\nProfessional standards\n\n例句: \"High professional standards improve performance.\"（高职业标准提升工作表现。）\n\nCareer development\n\n例句: \"International firms support career development.\"（国际公司支持职业发展。）\n\n【高分回答】\n例句: \"Overseas experience adds resume value.\"（海外经历提升简历价值。）\n\nBroader perspective\n\n例句: \"Global work builds a broader perspective.\"（国际工作塑造更广阔的视角。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-138",
     "part": "Part 3",
-    "topic": "Interesting architecture",
-    "title": "What should schools, families or governments do about interesting architecture?",
-    "frequency": "大陆题库",
+    "topic": "想从事的短期海外工作",
+    "title": "What personal skills are required to work in an international company?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that interesting architecture affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "【高分回答】\nWorking in an international company requires strong communication skills, adaptability, and cultural awareness.\n\nEmployees need to communicate clearly across languages and cultures while remaining respectful and patient. Adaptability is important because work styles, expectations, and decision-making processes may vary. In addition, teamwork and problem-solving skills are essential in multinational environments. An open mindset helps employees learn continuously and cooperate effectively with diverse teams.\n\n【高分回答】\nCommunication skills\n\n例句: \"Communication skills are vital in global teams.\"（沟通能力在国际团队中至关重要。）\n\nCultural awareness\n\n例句: \"Cultural awareness reduces conflict.\"（文化意识能减少冲突。）\n\n【高分回答】\n例句: \"Adaptability helps employees succeed abroad.\"（适应能力帮助员工在海外成功。）\n\n【高分回答】\n例句: \"Teamwork is essential in multinational companies.\"（团队合作在跨国公司中很重要。）\n\n【高分回答】\n例句: \"An open mindset supports learning.\"（开放心态有助于学习。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-139",
     "part": "Part 3",
-    "topic": "People who make plans",
-    "title": "Why is people who make plans important to people today?",
-    "frequency": "大陆题库",
+    "topic": "想从事的短期海外工作",
+    "title": "What kind of work can young people do in foreign countries?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that people who make plans affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "【高分回答】\nYoung people can do a wide range of jobs abroad, depending on their skills and language ability.\n\nSome young people take entry-level or service jobs to gain experience, while others work in professional fields such as technology, education, or design. Internships are also popular because they offer learning opportunities without long-term commitment. The type of work available often depends on qualifications, visa conditions, and local labor demand.\n\n【高分回答】\n例句: \"Entry-level jobs help gain experience.\"（基础岗位有助于积累经验。）\n\nProfessional fields\n\n例句: \"Some work in professional fields abroad.\"（有些人在海外从事专业工作。）\n\n【高分回答】\n例句: \"Internships provide learning opportunities.\"（实习提供学习机会。）\n\n【高分回答】\n例句: \"Qualifications affect job options.\"（资质影响工作选择。）\n\n【高分回答】\n例句: \"Labor demand varies by country.\"（各国用工需求不同。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-140",
     "part": "Part 3",
-    "topic": "People who make plans",
-    "title": "How has people who make plans changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "想从事的短期海外工作",
+    "title": "Why are some people unwilling to work in other countries?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that people who make plans affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "【高分回答】\nSome people are unwilling to work abroad because they value stability, family connections, and familiarity.\n\nWorking in another country involves uncertainty, cultural adjustment, and possible legal or financial risks. Many people prefer staying close to family and friends, especially if they have caregiving responsibilities. Others feel uncomfortable with language barriers or fear loneliness. For them, the emotional cost of working abroad may outweigh the potential benefits.\n\n【高分回答】\n例句: \"Many people value stability in life.\"（许多人重视生活的稳定性。）\n\nFamily connections\n\n例句: \"Family connections influence career choices.\"（家庭关系影响职业选择。）\n\n【高分回答】\n例句: \"Uncertainty discourages overseas work.\"（不确定性会阻碍海外工作。）\n\n【高分回答】\n例句: \"People prefer staying in their comfort zone.\"（人们更愿意待在舒适区。）\n\n【高分回答】\n例句: \"The emotional cost can be high.\"（情绪成本可能很高。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-141",
     "part": "Part 3",
-    "topic": "People who make plans",
-    "title": "What should schools, families or governments do about people who make plans?",
-    "frequency": "大陆题库",
+    "topic": "爱护自然之人",
+    "title": "Do you think parents should teach their children how to protect the environment?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Environmental awareness",
+      "Adopt behaviors",
+      "Sense of responsibility"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that people who make plans affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "【高分回答】\nYes, I believe parents play a very important role in helping children develop environmental awareness from an early age.\n\nChildren usually learn their daily habits by observing adults, especially their parents. So if parents recycle, reduce waste, or talk about nature respectfully, children are likely to adopt those behaviors naturally. Also, simple activities like planting trees, sorting garbage, or saving water can help children understand that protecting the environment is not an abstract idea, but something connected to everyday life. Over time, these small lessons can build a lasting sense of responsibility toward the planet.\n\n【高分回答】\n例句: \"Parents should help children develop environmental awareness.\"（父母应该帮助孩子建立环保意识。）\n\n例句: \"Children often adopt behaviors they see at home.\"（孩子往往会模仿家里的行为习惯。）\n\n例句: \"Education can build a strong sense of responsibility toward nature.\"（教育可以培养对自然的责任感。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-142",
     "part": "Part 3",
-    "topic": "Giving advice",
-    "title": "Why is giving advice important to people today?",
-    "frequency": "大陆题库",
+    "topic": "爱护自然之人",
+    "title": "What laws about the environment are effective in your country?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Regulate pollution",
+      "Waste sorting",
+      "Environmental responsibility"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that giving advice affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "【高分回答】\nIn my view, laws that regulate pollution and promote recycling tend to be the most effective environmental policies.\n\nFor example, many cities now have strict rules about waste sorting and plastic reduction. Companies may also face heavy fines if they release pollutants into the air or water. These regulations encourage both individuals and businesses to take environmental responsibility more seriously. Of course, laws alone are not enough. Public awareness and enforcement are equally important for these policies to work effectively.\n\n【高分回答】\n例句: \"Governments need laws to regulate pollution.\"（政府需要法律来控制污染。）\n\n例句: \"Waste sorting policies are becoming more common in cities.\"（城市里的垃圾分类政策越来越普遍。）\n\n例句: \"Companies should take environmental responsibility seriously.\"（企业应该认真承担环保责任。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-143",
     "part": "Part 3",
-    "topic": "Giving advice",
-    "title": "How has giving advice changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "爱护自然之人",
+    "title": "Which do you think people prefer, rewards or punishment, when it comes to government intervention in environmental protection?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Incentives",
+      "Renewable energy",
+      "Violation"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that giving advice affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "【高分回答】\nGenerally speaking, people tend to respond more positively to rewards than punishment when it comes to environmental policies.\n\nFor instance, governments sometimes provide subsidies for using renewable energy or discounts for public transportation. These incentives encourage people to make environmentally friendly choices without feeling forced. On the other hand, punishments like fines are still necessary for serious violations, such as illegal dumping or industrial pollution. Ideally, a balanced combination of rewards and regulations works best.\n\n【高分回答】\n例句: \"Financial incentives can encourage eco-friendly behavior.\"（经济激励可以鼓励环保行为。）\n\n例句: \"Many countries support renewable energy through subsidies.\"（许多国家通过补贴支持可再生能源。）\n\n例句: \"Companies should face penalties for environmental violations.\"（企业如果违反环保规定应受到处罚。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-144",
     "part": "Part 3",
-    "topic": "Giving advice",
-    "title": "What should schools, families or governments do about giving advice?",
-    "frequency": "大陆题库",
+    "topic": "爱护自然之人",
+    "title": "Is it easy for children in cities to get close to the natural world?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Urban environments",
+      "Green spaces",
+      "Connection with nature"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that giving advice affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "【高分回答】\nHonestly, it can be more challenging for children in cities to experience nature regularly.\n\nUrban environments are often filled with buildings, traffic, and limited green spaces. Although many cities provide parks or botanical gardens, children may still spend most of their time indoors studying or using digital devices. However, schools and families can help by organizing outdoor activities like camping, hiking, or nature exploration. These experiences can help children develop a stronger connection with the natural world.\n\n【高分回答】\n例句: \"Urban environments often have limited natural space.\"（城市环境中的自然空间通常比较有限。）\n\n例句: \"Parks provide important green spaces for children.\"（公园为孩子提供了重要的绿色空间。）\n\n例句: \"Outdoor activities strengthen children's connection with nature.\"（户外活动能增强孩子与自然的联系。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-145",
     "part": "Part 3",
-    "topic": "Helping others",
-    "title": "Why is helping others important to people today?",
-    "frequency": "大陆题库",
+    "topic": "爱护自然之人",
+    "title": "What can people do to protect the natural world?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Sustainable products",
+      "Collective action",
+      "Environmental impact"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that helping others affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "【高分回答】\nThere are actually many small but meaningful actions individuals can take to protect the natural environment.\n\nFor example, people can reduce plastic use, recycle materials, and choose more sustainable products. Using public transportation, saving electricity, and supporting environmentally responsible companies are also helpful steps. While one person's effort may seem small, collective action can make a significant difference. When many individuals change their habits, the overall environmental impact becomes much greater.\n\n【高分回答】\n例句: \"Consumers are increasingly choosing sustainable products.\"（越来越多的消费者选择可持续产品。）\n\n例句: \"Collective action can create powerful environmental change.\"（集体行动可以带来强大的环保改变。）\n\n例句: \"Small actions can reduce our environmental impact.\"（小行动也能减少对环境的影响。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-146",
     "part": "Part 3",
-    "topic": "Helping others",
-    "title": "How has helping others changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "爱护自然之人",
+    "title": "Is it important to teach students environmental protection at school?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Environmental education",
+      "Sustainability",
+      "Responsible behavior"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that helping others affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "【高分回答】\nYes, I think schools play a crucial role in shaping students’ attitudes toward environmental protection.\n\nSchools provide a structured environment where students can learn scientific knowledge about ecosystems, climate change, and sustainable living. More importantly, environmental education can encourage critical thinking and responsible behavior. Activities such as school recycling programs or environmental projects allow students to apply what they learn in real life. In the long run, educating young people about sustainability can contribute to a healthier planet.\n\n【高分回答】\n例句: \"Environmental education should start at a young age.\"（环保教育应该从小开始。）\n\n例句: \"Sustainability is becoming a key topic in modern education.\"（可持续发展正成为现代教育的重要议题。）\n\n例句: \"Schools should encourage responsible behavior toward nature.\"（学校应该鼓励对自然负责的行为。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-147",
     "part": "Part 3",
-    "topic": "Helping others",
-    "title": "What should schools, families or governments do about helping others?",
-    "frequency": "大陆题库",
+    "topic": "去过且喜欢的城市",
+    "title": "What kinds of facilities do big cities have?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "public facilities",
+      "commuting",
+      "infrastructure"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that helping others affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "【高分回答】\nIn general, big cities tend to offer a wide range of public facilities that support people’s daily life, work, and recreation.\n\nFor example, most large cities have advanced transportation systems such as subways and buses, which make commuting more efficient. They also provide educational institutions, hospitals, shopping centers, parks, and cultural venues like museums or libraries. In addition, modern cities often invest in digital infrastructure, including high-speed internet and smart services. Well, these facilities not only improve convenience but also enhance the overall quality of life. That said, maintaining and managing such facilities requires strong planning and continuous investment from local governments.\n\n【高分回答】\n例句: \"Modern cities provide various public facilities for residents.\"（现代城市为居民提供各种公共设施。）\n\n例句: \"Good transport systems make commuting much easier.\"（良好的交通系统让通勤更轻松。）\n\n例句: \"Digital infrastructure is essential for urban development.\"（数字基础设施对城市发展至关重要。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-148",
     "part": "Part 3",
-    "topic": "Nature lovers",
-    "title": "Why is nature lovers important to people today?",
-    "frequency": "大陆题库",
+    "topic": "去过且喜欢的城市",
+    "title": "Do you think modern cities are suitable for young people or old people?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "career opportunities",
+      "fast-paced",
+      "community support"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that nature lovers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "【高分回答】\nPersonally, I think modern cities are generally more suitable for young people, although they can still offer benefits to older residents.\n\nYoung people often seek career opportunities, education, and social activities, all of which are more available in large cities. The fast pace and competitive environment can be exciting and motivating for them. On the other hand, older people may prefer quieter surroundings and a slower lifestyle. Still, modern cities provide better medical services, public transportation, and community support, which are very important for the elderly. So in a way, cities can be suitable for both groups, but they meet different needs.\n\n【高分回答】\n例句: \"Big cities provide more career opportunities for graduates.\"（大城市为毕业生提供更多就业机会。）\n\n例句: \"Young people often enjoy a fast-paced lifestyle.\"（年轻人通常喜欢快节奏的生活。）\n\n例句: \"Community support helps older people live independently.\"（社区支持能帮助老年人独立生活。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-149",
     "part": "Part 3",
-    "topic": "Nature lovers",
-    "title": "How has nature lovers changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "去过且喜欢的城市",
+    "title": "Before you travel to a city, what factors would you consider?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "top priority",
+      "accommodation",
+      "budget"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that nature lovers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "【高分回答】\nBefore visiting a city, I would usually consider practical factors such as safety, cost, transportation, and local attractions.\n\nFirst of all, safety is always a top priority, especially when traveling alone or to an unfamiliar place. Then, I would check the overall cost, including accommodation, food, and transportation, to make sure it fits my budget. Another important factor is convenience. For instance, cities with efficient public transport systems are generally easier to explore. Also, I would look into the weather and cultural highlights, because they can greatly influence the travel experience. In short, careful planning helps make the trip smoother and more enjoyable.\n\n【高分回答】\n例句: \"Safety should always be a top priority when traveling.\"（旅行时安全始终是首要考虑。）\n\n例句: \"Good accommodation makes the trip more comfortable.\"（好的住宿条件会让旅行更舒适。）\n\n例句: \"Travelers need to plan their budget carefully.\"（旅行者需要认真规划预算。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-150",
     "part": "Part 3",
-    "topic": "Nature lovers",
-    "title": "What should schools, families or governments do about nature lovers?",
-    "frequency": "大陆题库",
+    "topic": "去过且喜欢的城市",
+    "title": "What are the disadvantages of living in a very famous city?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "cost of living",
+      "congestion",
+      "work-life balance"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that nature lovers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "【高分回答】\nOne major disadvantage of living in a famous city is the high cost of living and constant pressure.\n\nWell-known cities often attract large populations, which leads to higher housing prices, transportation costs, and daily expenses. In addition, crowded environments can create stress, noise, and traffic congestion. Another issue is that life in a popular city can feel competitive, as people constantly compare their income, career progress, or lifestyle. Over time, this pressure may affect mental health and work-life balance. So while famous cities offer many opportunities, they also require people to manage stress and expenses carefully.\n\n【高分回答】\n例句: \"The cost of living in big cities is usually higher.\"（大城市的生活成本通常更高。）\n\n例句: \"Traffic congestion is a common problem in large cities.\"（交通拥堵是大城市常见的问题。）\n\n例句: \"People need to maintain a healthy work-life balance.\"（人们需要保持良好的工作与生活平衡。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-151",
     "part": "Part 3",
-    "topic": "Technology problems",
-    "title": "Why is technology problems important to people today?",
-    "frequency": "大陆题库",
+    "topic": "去过且喜欢的城市",
+    "title": "Do you prefer to visit well-developed cities or cities with a long history?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "cultural experiences",
+      "traditional architecture",
+      "modern development"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that technology problems affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "【高分回答】\nPersonally, I prefer visiting cities with a long history because they offer deeper cultural experiences.\n\nHistoric cities often have traditional architecture, museums, and local customs that reflect their past. Exploring these places helps people understand how societies developed over time. That said, well-developed cities also have their advantages, such as modern facilities and convenient transportation. So ideally, I enjoy visiting a place that combines history with modern development. This balance allows travelers to appreciate culture while still enjoying comfort and convenience.\n\n【高分回答】\n例句: \"Traveling offers valuable cultural experiences.\"（旅行能带来宝贵的文化体验。）\n\n例句: \"Traditional architecture reflects local history.\"（传统建筑反映当地历史。）\n\n例句: \"Modern development improves urban living conditions.\"（现代发展提升了城市生活条件。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-152",
     "part": "Part 3",
-    "topic": "Technology problems",
-    "title": "How has technology problems changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "去过且喜欢的城市",
+    "title": "For those who live in cities, is it because they want to or have to?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "employment options",
+      "personal growth",
+      "practical need"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that technology problems affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "【高分回答】\nI believe most people live in cities partly because they want to and partly because they have to.\n\nOn the one hand, cities provide better job opportunities, education, and healthcare, which naturally attract people. Many individuals choose city life because it offers convenience and personal growth. On the other hand, some people move to cities out of necessity, especially when employment options are limited in rural areas. So in reality, the decision is often a mix of personal preference and practical need. Understanding this balance helps explain why urban populations continue to grow.\n\n【高分回答】\n例句: \"Limited employment options push people to move to cities.\"（有限的就业机会会促使人们搬到城市。）\n\n例句: \"City life can offer more chances for personal growth.\"（城市生活能提供更多个人成长机会。）\n\n例句: \"Sometimes people make decisions based on practical needs.\"（有时候人们会基于现实需求做决定。）",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-153",
     "part": "Part 3",
-    "topic": "Technology problems",
-    "title": "What should schools, families or governments do about technology problems?",
-    "frequency": "大陆题库",
+    "topic": "发小",
+    "title": "Do you still keep in touch with your friends from childhood? Why or why not?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Shared memories",
+      "Check in on",
+      "Emotional stability",
+      "Long-lasting",
+      "Bond"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that technology problems affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, I do keep in touch with a few childhood friends, mainly because those early bonds were built on trust and shared memories.\n\nAlthough we now live in different cities and have very different lifestyles, we still check in on each other from time to time. I think friendships formed during childhood are often more pure and long-lasting, because they started before we had to worry about things like status or achievement. Staying connected with them reminds me where I came from and gives me a sense of emotional stability.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-154",
     "part": "Part 3",
-    "topic": "Old objects",
-    "title": "Why is old objects important to people today?",
-    "frequency": "大陆题库",
+    "topic": "发小",
+    "title": "How important is childhood friendship to children?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Empathy",
+      "Belonging",
+      "Cooperation",
+      "Boundaries",
+      "Transition"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that old objects affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I think childhood friendship is incredibly important, not just for emotional development, but also for learning how to interact with others.\n\nThrough playing, sharing, and even small arguments, children begin to understand empathy, cooperation, and boundaries. These early experiences help shape their social habits later in life. What’s more, a good childhood friend can be a source of comfort and belonging, especially during difficult times like school transitions or family changes.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-155",
     "part": "Part 3",
-    "topic": "Old objects",
-    "title": "How has old objects changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "发小",
+    "title": "What do you think of communicating via social media?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Emotional nuance",
+      "Substitute",
+      "Convenient",
+      "Limitation",
+      "Update"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that old objects affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Honestly, I think social media is a useful tool for communication, especially for staying in touch across distances, though it does have its limitations.\n\nIt makes connecting faster and more convenient, and it’s great for sharing updates with many people at once. But sometimes, it lacks the depth and emotional nuance of face-to-face conversations. So while I think it has its place, especially in our busy lives, it’s not a complete substitute for more personal interaction.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-156",
     "part": "Part 3",
-    "topic": "Old objects",
-    "title": "What should schools, families or governments do about old objects?",
-    "frequency": "大陆题库",
+    "topic": "发小",
+    "title": "Do you think online communication through social media will replace face-to-face communication?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Replicate",
+      "Body language",
+      "Presence",
+      "Thrive",
+      "In person"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that old objects affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I don’t think it will fully replace face-to-face communication, because there are emotional and human elements that digital tools simply can’t replicate.\n\nYes, online communication is efficient and often necessary, especially when people are far apart. But things like body language, eye contact, and the comfort of physical presence are hard to replace. Human relationships thrive on shared moments, and many of those just feel more real when experienced in person.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-157",
     "part": "Part 3",
-    "topic": "Cooking at home",
-    "title": "Why is cooking at home important to people today?",
-    "frequency": "大陆题库",
+    "topic": "发小",
+    "title": "What's the difference between having younger friends and older friends?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Spontaneous",
+      "Fresh perspective",
+      "Emotional stability",
+      "Thoughtful advice",
+      "Balance"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that cooking at home affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Well, I’d say younger friends often bring energy and fresh perspectives, while older friends usually offer wisdom and emotional stability.\n\nHaving younger friends can keep you open-minded and in touch with new trends or ways of thinking. They tend to be spontaneous, curious, and full of creative ideas. On the other hand, older friends often have more life experience and can give thoughtful advice when you're facing important decisions. So in my opinion, having both types of friends creates a good balance in one’s social life.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-158",
     "part": "Part 3",
-    "topic": "Cooking at home",
-    "title": "How has cooking at home changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "发小",
+    "title": "Has technology changed people's friendships? How?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Long-distance friendships",
+      "Emotional cues",
+      "Intentional",
+      "Convenient",
+      "Shallow"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that cooking at home affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, technology has definitely changed how we maintain friendships—it has made staying in touch easier, but also less personal in some ways.\n\nOn the bright side, messaging apps and social media allow us to communicate instantly, no matter where we are. This is especially helpful for long-distance friendships. However, digital interactions can sometimes feel shallow or rushed, and it’s easy to miss the emotional cues that come with face-to-face conversations. So while tech makes friendships more convenient, we still need to be intentional about keeping them meaningful.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-159",
     "part": "Part 3",
-    "topic": "Cooking at home",
-    "title": "What should schools, families or governments do about cooking at home?",
-    "frequency": "大陆题库",
+    "topic": "想颁布的新法律",
+    "title": "What rules should students follow at school?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Respectful and productive",
+      "Punctual",
+      "Maintaining cleanliness",
+      "Honesty",
+      "Positive atmosphere"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that cooking at home affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Students should adhere to a few fundamental rules at school to ensure a respectful and productive learning environment.\n\nFirstly, students should respect their teachers and peers, which means listening attentively in class and not interrupting others. They should also be punctual, arriving on time for class, which shows respect for everyone’s time. Additionally, maintaining the cleanliness of the school by not littering and participating in keeping the premises tidy is crucial. And of course, honesty in their academic work is essential, avoiding plagiarism and cheating in exams. By following these rules, students help create a positive atmosphere that enhances everyone's educational experience.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-160",
     "part": "Part 3",
-    "topic": "Social media communication",
-    "title": "Why is social media communication important to people today?",
-    "frequency": "大陆题库",
+    "topic": "想颁布的新法律",
+    "title": "Do people in your country usually obey the law?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Legal framework",
+      "Adherence",
+      "Law enforcement",
+      "Circumvent",
+      "Well-entrenched"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that social media communication affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Generally speaking, yes, people in my country tend to obey the law, especially in terms of following basic societal norms and regulations.\n\nIn most cases, there's a strong respect for the legal framework that governs everyday life, from traffic laws to business regulations. This adherence is partly due to effective law enforcement and a general understanding of the importance of maintaining order. However, like anywhere, there are exceptions, and sometimes individuals may circumvent the rules for various reasons. But overall, the commitment to legality is well-entrenched, reflecting a stable and orderly society.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-161",
     "part": "Part 3",
-    "topic": "Social media communication",
-    "title": "How has social media communication changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "想颁布的新法律",
+    "title": "What kinds of behavior are considered as good behavior?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Respectful behavior",
+      "Transparency",
+      "Taking responsibility",
+      "Maturity",
+      "Integrity"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that social media communication affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Good behavior is generally characterized by respect, honesty, and responsibility in various aspects of life.\n\nRespectful behavior towards others, whether in public settings, at work, or in personal relationships, is always viewed positively. Being honest in communications and dealings ensures transparency and trust. Additionally, taking responsibility for one's actions and their consequences is a sign of maturity and integrity. These behaviors not only foster positive relationships but also contribute to a harmonious and functional society.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-162",
     "part": "Part 3",
-    "topic": "Social media communication",
-    "title": "What should schools, families or governments do about social media communication?",
-    "frequency": "大陆题库",
+    "topic": "想颁布的新法律",
+    "title": "Do you think children can learn about the law outside of school?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Facilitated",
+      "Age-appropriate",
+      "Practical insights",
+      "Enforced",
+      "Relatable"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that social media communication affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, children can definitely learn about the law outside of school, and there are various ways through which this learning can be facilitated.\n\nChildren often learn about the law through family discussions, community activities, and media. Parents can play a significant role by discussing legal issues at an age-appropriate level and encouraging questions. Additionally, television programs and online resources can offer educational content designed to make the law more understandable and relatable for young people.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-163",
     "part": "Part 3",
-    "topic": "Friendship across ages",
-    "title": "Why is friendship across ages important to people today?",
-    "frequency": "大陆题库",
+    "topic": "想颁布的新法律",
+    "title": "What are the benefits for people to obey rules?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Social order",
+      "Ensuring safety",
+      "Predictable environment",
+      "Legal consequences",
+      "Fostering a sense of fairness"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that friendship across ages affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Obeying rules provides numerous benefits, including maintaining social order, ensuring safety, and fostering a predictable and stable environment.\n\nWhen people follow rules, it helps to prevent chaos and conflict, allowing society to function smoothly. For example, traffic rules prevent accidents and facilitate the efficient flow of vehicles. Additionally, obeying rules can protect individuals from legal consequences and foster a sense of fairness and equality in the community. Overall, rule obedience enhances the quality of life by creating a safe and orderly community where everyone knows what is expected of them.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-164",
     "part": "Part 3",
-    "topic": "Friendship across ages",
-    "title": "How has friendship across ages changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "想颁布的新法律",
+    "title": "How can parents teach children to obey rules?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Setting a good example",
+      "Reasons behind rules",
+      "Reinforcing positive behaviors",
+      "Emulate",
+      "Compassionate guidance"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that friendship across ages affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Parents can teach children to obey rules by setting a good example, explaining the reasons behind rules, and reinforcing positive behaviors.\n\nModeling the behavior you want to see is crucial. When children see their parents consistently following rules and acting ethically, they are more likely to emulate that behavior. Explaining why rules exist helps children understand their purpose and the benefits of following them, such as safety and respect for others. Additionally, when children follow rules, providing positive reinforcement through praise or rewards can encourage them to continue behaving appropriately. Overall, consistent, clear, and compassionate guidance from parents can effectively teach children the importance of rule obedience.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-165",
     "part": "Part 3",
-    "topic": "Friendship across ages",
-    "title": "What should schools, families or governments do about friendship across ages?",
-    "frequency": "大陆题库",
+    "topic": "近期改变的计划",
+    "title": "Do people often change their plans?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Unpredictable",
+      "Flexibility",
+      "Adjust",
+      "Circumstances",
+      "Opportunity"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that friendship across ages affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, I think people do often change their plans, especially considering how unpredictable life can be nowadays.\n\nTo be fair, although most people try their best to stick to their original plans, unexpected events, new opportunities, or sudden challenges can lead them to adjust their decisions accordingly. In fact, flexibility in planning can sometimes be beneficial, as it allows individuals to better respond to changing circumstances and ultimately achieve their goals. For example, someone might plan to study abroad but later decide to stay due to family responsibilities or a good local opportunity.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-166",
     "part": "Part 3",
-    "topic": "Tourism and cities",
-    "title": "Why is tourism and cities important to people today?",
-    "frequency": "大陆题库",
+    "topic": "近期改变的计划",
+    "title": "Would you tell others if you change your plan?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Clear communication",
+      "Consideration",
+      "Misunderstandings",
+      "Notify",
+      "Alternatives"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that tourism and cities affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, I definitely would inform others if I changed my plans, because clear communication is essential for maintaining trust and respect.\n\nTo be honest, whenever plans involve others, letting them know about any changes promptly shows consideration for their time and feelings. Besides, openly communicating plan changes prevents misunderstandings and keeps relationships healthy. For instance, if I had planned a meeting with friends but later realized I couldn't make it, I’d immediately notify them and suggest alternatives, which helps everyone adjust accordingly.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-167",
     "part": "Part 3",
-    "topic": "Tourism and cities",
-    "title": "How has tourism and cities changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "近期改变的计划",
+    "title": "Why do you think parents still make plans for their children nowadays?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Guide",
+      "Responsible",
+      "Intentions",
+      "Balance"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that tourism and cities affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "I believe parents still make plans for their children mainly out of a desire to guide them toward a successful future.\n\nHonestly speaking, parents naturally feel responsible for their children’s well-being and happiness. They often believe their experience can help children avoid certain difficulties or mistakes. However, while this kind of planning usually comes from good intentions, sometimes it’s important for parents to balance guidance with giving children enough freedom to make their own choices and learn independently. For instance, many parents plan extra-curricular activities for their kids, hoping these will provide valuable life skills or opportunities for personal growth.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-168",
     "part": "Part 3",
-    "topic": "Tourism and cities",
-    "title": "What should schools, families or governments do about tourism and cities?",
-    "frequency": "大陆题库",
+    "topic": "近期改变的计划",
+    "title": "How does technology help people make plans?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Convenient",
+      "Coordinate",
+      "Facilitate",
+      "Efficient"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that tourism and cities affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Technology significantly helps people make plans by offering convenient tools for organization, communication, and time management.\n\nNowadays, thanks to smartphones and apps, people can easily schedule tasks, set reminders, and coordinate activities with others. Additionally, technology facilitates quick adjustments to plans through instant messaging or video calls. In short, tech not only makes planning more efficient, but it also helps minimize conflicts or misunderstandings caused by miscommunication.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-169",
     "part": "Part 3",
-    "topic": "Work and careers",
-    "title": "Why is work and careers important to people today?",
-    "frequency": "大陆题库",
+    "topic": "重要的决定",
+    "title": "Do you think children sometimes have to make important decisions?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Critical thinking skills",
+      "Empowered",
+      "Take responsibility"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that work and careers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, I believe that children, at times, do need to make important decisions, especially when it comes to their education or relationships with others. While they may not be fully mature in their decision-making, it’s important to involve them in the process to build their critical thinking skills.\n\nFor instance, a child might have to decide whether to join a certain extracurricular activity or choose between two friends who are in conflict. These decisions, although they might seem small to adults, can shape their social and emotional development. Encouraging children to make decisions with guidance allows them to feel empowered and take responsibility for their actions.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-170",
     "part": "Part 3",
-    "topic": "Work and careers",
-    "title": "How has work and careers changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "重要的决定",
+    "title": "What important decisions do teenagers need to make after graduation?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Open doors to",
+      "Gaining work experience",
+      "Reflect on",
+      "Long-term goals",
+      "Support from family and mentors"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that work and careers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "After graduation, teenagers must make key decisions about their future, mainly regarding further education and career choices.\n\nDeciding whether to go to college or start working is a major one. Higher education can open doors to better job opportunities, but some might choose to gain work experience right away, depending on their goals and financial situation.\n\nAnother important decision is choosing a career path. Teenagers need to reflect on their interests, strengths, and long-term goals. For example, someone passionate about technology may pursue a career in engineering, while someone interested in design may choose a creative field. Making these decisions may be difficult, but with support from family and mentors, teenagers can make informed choices that align with their values.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-171",
     "part": "Part 3",
-    "topic": "Work and careers",
-    "title": "What should schools, families or governments do about work and careers?",
-    "frequency": "大陆题库",
+    "topic": "重要的决定",
+    "title": "Who can children turn to for help when making a decision?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Tough decision",
+      "Valuable perspectives",
+      "Life experiences",
+      "Objective advice",
+      "Support system"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that work and careers affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Well, I believe when children are faced with a tough decision, they can turn to several trusted individuals for help, including their parents, teachers, and sometimes close friends.\n\nThese people often offer valuable perspectives that help the child think through the situation. Parents, being the most influential figures in a child's life, typically offer guidance based on their own life experiences. Teachers, on the other hand, may provide more objective advice, especially if the decision involves academics or school-related issues. In some cases, close friends can also be a support system, especially if the decision concerns personal matters or social relationships. Ultimately, a mix of advice from various sources helps children see the bigger picture and make a well-rounded decision.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-172",
     "part": "Part 3",
-    "topic": "Consumer choices",
-    "title": "Why is consumer choices important to people today?",
-    "frequency": "大陆题库",
+    "topic": "重要的决定",
+    "title": "Do you think advertisements can influence our decisions when shopping?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Significant influence",
+      "Appeal to our emotions",
+      "Persuasive language",
+      "Sense of urgency",
+      "Swayed by advertising tactics"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that consumer choices affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Yes, advertisements can have a significant influence on our shopping decisions, especially because they are designed to appeal to our emotions and desires.\n\nFor instance, many advertisements use attractive visuals, persuasive language, or celebrity endorsements to make products seem more appealing. When we see an advertisement that connects with our personal needs or aspirations, we are often persuaded to make a purchase, even if we didn't plan on it initially. Additionally, advertisements can create a sense of urgency by offering limited-time discounts or highlighting the scarcity of a product, making us feel like we might miss out on a good opportunity. It’s important, however, to stay aware and make decisions based on actual needs rather than being swayed by advertising tactics.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-173",
     "part": "Part 3",
-    "topic": "Consumer choices",
-    "title": "How has consumer choices changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "重要的决定",
+    "title": "Do you think the influence of advertising is good?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Exaggerate the benefits",
+      "Manipulate consumers",
+      "Unnecessary purchases",
+      "Consumerism",
+      "Ethical"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that consumer choices affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "The influence of advertising can be both good and bad, depending on how it is used.\n\nOn the one hand, advertising can help inform consumers about useful products or services, which can improve their lives. For example, if an ad promotes a new health product that benefits people, it can be seen as a positive influence.\n\nOn the other hand, some advertisements may exaggerate the benefits of a product or manipulate consumers into buying things they don’t really need. This can lead to unnecessary purchases and contribute to consumerism, which can be harmful to both individuals and the environment. Ultimately, the influence of advertising is only good if it is ethical and serves to inform rather than deceive.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-174",
     "part": "Part 3",
-    "topic": "Consumer choices",
-    "title": "What should schools, families or governments do about consumer choices?",
-    "frequency": "大陆题库",
+    "topic": "重要的决定",
+    "title": "How do people usually make important decisions?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Weigh the pros and cons",
+      "Logical and emotional factors",
+      "Align with personal values",
+      "Seek advice"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that consumer choices affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "People usually make important decisions by carefully considering their options, weighing the pros and cons, and sometimes seeking advice from trusted individuals.\n\nThe process often involves a combination of logic and emotions, as individuals take both practical factors and personal values into account. For example, when deciding on a new job, a person may consider factors like salary, location, and job satisfaction, but they might also think about how the job aligns with their long-term career goals and personal values. Seeking advice from friends, family, or colleagues can also play a role in helping them make more informed decisions.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-175",
     "part": "Part 3",
-    "topic": "Public spaces",
-    "title": "Why is public spaces important to people today?",
-    "frequency": "大陆题库",
+    "topic": "去过的无聊地方",
+    "title": "Why do most children think education is boring?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that public spaces affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think many children find education boring when learning feels too repetitive or disconnected from real life.\n\nA lot of traditional classrooms still focus heavily on memorization and test results, which can make students feel passive rather than curious. Children are naturally energetic and imaginative, so if lessons don’t involve interaction, creativity, or practical examples, it’s easy for them to lose interest. On top of that, some students may struggle to see how certain subjects relate to their future lives. Personally, I think education becomes much more engaging when students are encouraged to ask questions, explore ideas, and learn through experience instead of simply receiving information.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-176",
     "part": "Part 3",
-    "topic": "Public spaces",
-    "title": "How has public spaces changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "去过的无聊地方",
+    "title": "Why aren’t young people willing to listen to the experiences of older people?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that public spaces affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Young people sometimes hesitate to listen to older generations because they feel the world today is very different from the past.\n\nTechnology, social values, and career paths are changing so quickly that many young people believe older experiences may no longer apply to modern life. Besides that, younger people often want to make their own decisions and learn through personal experience rather than advice. That said, I think there’s still a lot of wisdom worth listening to. Older people may not fully understand today’s trends, but they often have valuable insights about relationships, resilience, and human nature, which remain timeless.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-177",
     "part": "Part 3",
-    "topic": "Public spaces",
-    "title": "What should schools, families or governments do about public spaces?",
-    "frequency": "大陆题库",
+    "topic": "去过的无聊地方",
+    "title": "What can people do when they feel bored?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that public spaces affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "When people feel bored, trying something new or reconnecting with meaningful activities can really help refresh the mind.\n\nFor example, some people read books, exercise, cook, or learn a new skill to break their routine. Others might spend time with friends or go outdoors to change their environment a little. Honestly, boredom isn’t always a bad thing. Sometimes it’s a signal that people need rest, creativity, or a different perspective on life. In fact, a little boredom can even encourage self-reflection and lead to new ideas if we handle it positively.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-178",
     "part": "Part 3",
-    "topic": "Cultural exchange",
-    "title": "Why is cultural exchange important to people today?",
-    "frequency": "大陆题库",
+    "topic": "去过的无聊地方",
+    "title": "Why are some teachers’ classes boring? Are there any solutions?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that cultural exchange affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Some classes become boring when teaching is too one-sided and students don’t feel involved in the learning process.\n\nIf a teacher only reads from slides or focuses entirely on theory, students may struggle to stay focused, especially for long periods. Different students also learn in different ways, so a single teaching style may not work for everyone. I think one effective solution is to make lessons more interactive through discussions, games, group work, or real-life examples. At the same time, teachers should try to understand students’ interests and adjust their methods accordingly. Even small changes in classroom atmosphere can make a huge difference.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-179",
     "part": "Part 3",
-    "topic": "Cultural exchange",
-    "title": "How has cultural exchange changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "喜欢或不喜欢的高建筑",
+    "title": "Are there many tall buildings in your country?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that cultural exchange affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, there are quite a lot of tall buildings in my country, especially in large cities and economically developed areas.\n\nIn cities like Shanghai, Shenzhen, or Guangzhou, skyscrapers have become part of the urban identity. Many of these buildings are used as offices, shopping centers, hotels, or luxury apartments. I think tall buildings are often seen as symbols of modernization and economic growth. At the same time, though, some people feel that cities filled entirely with high-rises can start to feel crowded or emotionally distant. So nowadays, many urban planners are also trying to create greener and more human-centered spaces alongside these developments.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-180",
     "part": "Part 3",
-    "topic": "Cultural exchange",
-    "title": "What should schools, families or governments do about cultural exchange?",
-    "frequency": "大陆题库",
+    "topic": "喜欢或不喜欢的高建筑",
+    "title": "What are the differences between those tall buildings in your country?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that cultural exchange affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "The differences usually reflect the city’s culture, economic level, and the purpose of the buildings themselves.\n\nFor example, in financial districts, tall buildings are often designed with glass exteriors and modern architecture to create a professional image. In residential areas, however, high-rise apartments are usually more practical and designed for daily living. Some newer buildings also focus on sustainability, using energy-saving technology and green materials. Meanwhile, older skyscrapers may look simpler because they were built during earlier stages of urban development. So honestly, these differences tell a story about how cities evolve over time.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-181",
     "part": "Part 3",
-    "topic": "Education and schools",
-    "title": "Why is education and schools important to people today?",
-    "frequency": "大陆题库",
+    "topic": "喜欢或不喜欢的高建筑",
+    "title": "Why are different places laid out and designed differently?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that education and schools affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Different places are designed differently because every region has its own climate, culture, lifestyle, and practical needs.\n\nFor instance, cities with hot weather may include wider streets, more shade, and better ventilation in their design. Historical cities often preserve traditional architecture to protect cultural heritage, while modern business districts focus more on efficiency and transportation. Population density also matters a lot. Some places need compact layouts to save space, while others prioritize open areas and natural scenery. I think good urban design should respect local identity instead of making every city look exactly the same.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-182",
     "part": "Part 3",
-    "topic": "Education and schools",
-    "title": "How has education and schools changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "早起的经历",
+    "title": "Do you know anyone who likes to get up early?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that education and schools affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, actually, one of my friends is a real morning person and genuinely enjoys getting up early every day.\n\nShe usually wakes up around six in the morning to exercise, prepare breakfast, and plan her day before work starts. According to her, mornings feel quieter and more peaceful, which helps her stay focused and productive. Honestly, I can understand why some people enjoy that lifestyle. Starting the day slowly and calmly probably feels much healthier than rushing around at the last minute.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-183",
     "part": "Part 3",
-    "topic": "Education and schools",
-    "title": "What should schools, families or governments do about education and schools?",
-    "frequency": "大陆题库",
+    "topic": "早起的经历",
+    "title": "Why do people get up early?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that education and schools affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "People get up early for different reasons, but usually it’s because they want more time, better routines, or fewer distractions.\n\nSome people wake up early for work or school, while others do it to exercise, study, or simply enjoy a quiet start to the day. In many cultures, early rising is also associated with discipline and good habits. Besides that, mornings are often calmer and less noisy, so people may feel mentally refreshed and more motivated. Of course, everyone has different body clocks, so what works for one person may not work for another.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-184",
     "part": "Part 3",
-    "topic": "Health and exercise",
-    "title": "Why is health and exercise important to people today?",
-    "frequency": "大陆题库",
+    "topic": "早起的经历",
+    "title": "What kinds of occasions need people to arrive early?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that health and exercise affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Usually, important or formal occasions require people to arrive early out of respect and preparation.\n\nFor example, job interviews, weddings, exams, flights, and business meetings are situations where being late can create problems or leave a bad impression. Arriving early also gives people time to relax, prepare mentally, and handle unexpected situations like traffic or long lines. In some cultures, punctuality is closely connected to professionalism and politeness, so arriving early is often seen as a sign of responsibility.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-185",
     "part": "Part 3",
-    "topic": "Health and exercise",
-    "title": "How has health and exercise changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "早起的经历",
+    "title": "Why do some people like to stay up late?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that health and exercise affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Some people enjoy staying up late because nighttime feels quieter, freer, and more relaxing to them.\n\nAfter a busy day, late at night may be the only time when they can truly focus on hobbies, entertainment, or personal thoughts without interruption. Some people are also naturally more energetic in the evening due to their biological rhythm. However, staying up too late regularly can negatively affect health, concentration, and sleep quality. So while night owls may enjoy the peaceful atmosphere, maintaining balance is still very important.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-186",
     "part": "Part 3",
-    "topic": "Health and exercise",
-    "title": "What should schools, families or governments do about health and exercise?",
-    "frequency": "大陆题库",
+    "topic": "想从事医疗行业的人",
+    "title": "Do you think being a doctor is easy or difficult?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that health and exercise affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think being a doctor is extremely challenging because it requires not only medical knowledge, but also responsibility, patience, and emotional strength.\n\nDoctors often work long hours and have to make important decisions under pressure. They need years of education and training before they can treat patients independently. What’s more, they deal with people’s pain, anxiety, and sometimes even life-and-death situations on a daily basis. So honestly, I really admire people in the medical profession. It’s a career that demands both intelligence and compassion.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-187",
     "part": "Part 3",
-    "topic": "Modern lifestyles",
-    "title": "Why is modern lifestyles important to people today?",
-    "frequency": "大陆题库",
+    "topic": "想从事医疗行业的人",
+    "title": "Do you think learning biology is interesting for children?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that modern lifestyles affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think biology can be very interesting for children because it helps them understand the living world around them.\n\nChildren are naturally curious about animals, plants, the human body, and nature, so biology often matches their interests quite well. Through biology, they can learn how living things grow, survive, and interact with the environment. In addition, hands-on activities like experiments or observing insects can make lessons much more engaging. I think when science is taught in a vivid and practical way, children are much more likely to enjoy it.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-188",
     "part": "Part 3",
-    "topic": "Modern lifestyles",
-    "title": "How has modern lifestyles changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "喜欢在家/花园种植物的人",
+    "title": "What are the advantages of growing vegetables or flowers at home?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that modern lifestyles affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Growing vegetables or flowers at home can bring both practical benefits and emotional satisfaction.\n\nFor one thing, home-grown vegetables are often fresher and people feel more confident about what they eat because they know exactly how the food was grown. Flowers and plants can also make living spaces feel calmer and more beautiful. Besides that, gardening itself can be very relaxing. Many people see it as a healthy hobby that helps reduce stress and gives them a break from screens and busy routines.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-189",
     "part": "Part 3",
-    "topic": "Modern lifestyles",
-    "title": "What should schools, families or governments do about modern lifestyles?",
-    "frequency": "大陆题库",
+    "topic": "喜欢在家/花园种植物的人",
+    "title": "Do many people grow vegetables or flowers at home in your country?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that modern lifestyles affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, quite a lot of people do, especially older adults or families living in smaller cities and suburban areas.\n\nIn urban apartments, people usually grow flowers, herbs, or small plants on balconies because space is limited. In rural areas, though, it’s still common for families to grow vegetables in their yards. Recently, more young people have also become interested in gardening because of social media and the growing awareness of healthy lifestyles. So I’d say it’s becoming more popular across different age groups.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-190",
     "part": "Part 3",
-    "topic": "The environment and responsibility",
-    "title": "Why is the environment and responsibility important to people today?",
-    "frequency": "大陆题库",
+    "topic": "喜欢在家/花园种植物的人",
+    "title": "Is it easy to grow plants at home?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that the environment and responsibility affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think it depends on the type of plant and how much time and patience people are willing to invest.\n\nSome plants, like cactus or pothos, are relatively easy to care for and don’t require much attention. However, vegetables or flowers can be more demanding because they need proper sunlight, water, and sometimes protection from insects. Beginners may fail at first, but honestly, that’s part of the learning process. With enough practice and basic knowledge, most people can gradually become good at it.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-191",
     "part": "Part 3",
-    "topic": "The environment and responsibility",
-    "title": "How has the environment and responsibility changed in recent years?",
-    "frequency": "大陆题库",
+    "topic": "喜欢在家/花园种植物的人",
+    "title": "Why do some people like to grow plants?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
-    "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
-    ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that the environment and responsibility affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Many people enjoy growing plants because it gives them a sense of peace, achievement, and connection with nature.\n\nWatching a plant grow over time can be surprisingly rewarding. Some people also enjoy the routine of watering, trimming, and caring for something regularly. In today’s fast-paced world, gardening allows people to slow down and focus on simple things. For others, plants are a way to make their homes feel more lively and comforting.",
+    "source": "Tencent Docs original speaking library"
   },
   {
     "id": "p3-192",
     "part": "Part 3",
-    "topic": "The environment and responsibility",
-    "title": "What should schools, families or governments do about the environment and responsibility?",
-    "frequency": "大陆题库",
+    "topic": "喜欢在家/花园种植物的人",
+    "title": "Why do some people prefer to grow their own fruits and vegetables instead of buying them from the market?",
+    "frequency": "高频",
     "type": "深入讨论",
     "region": "大陆",
-    "hint": "先给明确观点，再解释一个原因，最后补充例子或例外情况。不要只罗列观点。",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Some people prefer growing their own food because they value freshness, safety, and the satisfaction of producing something themselves.\n\nHome-grown fruits and vegetables are often seen as healthier since people can avoid excessive chemicals or pesticides. In addition, growing food can save money over time, especially for families with enough outdoor space. But honestly, I think emotional reasons matter too. Eating something you planted and cared for yourself feels more meaningful than simply buying it from a store.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-193",
+    "part": "Part 3",
+    "topic": "去过的最喜欢的城市",
+    "title": "Which is more suitable for young people, urban life or rural life, and which is more suitable for old people?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think urban life is generally more suitable for young people, while rural life may be more comfortable for many older adults.\n\nYoung people are usually looking for educational opportunities, career development, entertainment, and social connections, all of which are more concentrated in cities. Urban areas also tend to have better public transport and access to new technology. Older people, on the other hand, may prefer a quieter and slower lifestyle with cleaner air and less stress, which rural areas can often provide. Of course, this also depends on personality and lifestyle preferences, since not everyone enjoys the same environment.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-194",
+    "part": "Part 3",
+    "topic": "去过的最喜欢的城市",
+    "title": "How do people choose a city to travel to?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "People usually choose travel destinations based on their interests, budget, available time, and the kind of experience they want.\n\nSome travelers prefer modern cities with shopping malls, nightlife, and convenience, while others are more interested in nature, local culture, or historical landmarks. Social media and travel blogs also influence people’s decisions a lot nowadays. Besides that, practical factors like transportation, safety, weather, and travel costs are also important. Personally, I think the best trips often happen when a place matches someone’s personality and travel style.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-195",
+    "part": "Part 3",
+    "topic": "去过的最喜欢的城市",
+    "title": "Do you think a tourist city is also a good place to live? Why?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "In some cases yes, but it depends on whether the city can balance tourism with the daily needs of local residents.\n\nTourist cities are often beautiful, well-developed, and full of cultural attractions, which can make life more enjoyable. They usually have good restaurants, transportation, and public facilities because they need to serve visitors. However, tourism can also create problems like overcrowding, high living costs, and noise, especially during peak seasons. So while tourist cities may seem attractive, living there long-term can feel very different from visiting for a few days.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-196",
+    "part": "Part 3",
+    "topic": "去过的最喜欢的城市",
+    "title": "Do most people prefer traveling to a modern city or a historical city?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think preferences vary, but many people are attracted to historical cities because they offer unique culture and stories that modern cities sometimes lack.\n\nHistorical cities often allow travelers to experience traditional architecture, museums, ancient streets, and local customs. They can feel more meaningful and memorable because they connect people with the past. That said, modern cities are also very popular, especially among younger travelers who enjoy shopping, technology, nightlife, and convenience. Honestly, many tourists today try to combine both experiences in one trip.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-197",
+    "part": "Part 3",
+    "topic": "有趣视频",
+    "title": "What kind of videos do people in your country like to watch?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "People in my country enjoy a wide variety of videos, but short entertainment clips, food content, travel vlogs, and educational videos are especially popular nowadays.\n\nA lot of young people spend time watching funny short videos or lifestyle content on social media platforms because they’re relaxing and easy to consume. Meanwhile, cooking videos, travel videos, and fitness content are also gaining popularity because people want practical inspiration for daily life. Older adults, on the other hand, may prefer news programs, health-related videos, or traditional TV dramas. Honestly, with smartphones becoming so common, video content has become part of everyday life for almost everyone.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-198",
+    "part": "Part 3",
+    "topic": "有趣视频",
+    "title": "Which is more helpful, watching videos or reading books?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think both are helpful in different ways, and the better choice depends on the purpose of learning.\n\nVideos are usually more visual and engaging, so they can explain practical skills or complex ideas more quickly. For example, tutorials and documentaries are often easier to follow through video. Books, however, encourage deeper thinking and concentration because readers need to imagine, analyze, and reflect more actively. Personally, I think combining both methods is probably the most effective approach.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-199",
+    "part": "Part 3",
+    "topic": "有趣视频",
+    "title": "What skills can people learn from watching videos?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "People can learn many practical and creative skills from videos, especially now that educational content is so accessible online.\n\nFor instance, people often learn cooking, photography, language skills, coding, or fitness routines through online videos. Video learning is convenient because viewers can pause, replay, and follow instructions step by step. Besides practical skills, some videos also teach communication skills, critical thinking, or cultural knowledge. Of course, viewers still need to choose reliable sources carefully because not all online content is accurate.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-200",
+    "part": "Part 3",
+    "topic": "有趣视频",
+    "title": "Are there any differences between the videos that young people and old people like to watch?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, there are definitely some differences because people of different ages usually have different interests and habits.\n\nYoung people tend to enjoy fast-paced and entertaining content, such as short videos, gaming streams, celebrity content, or social media trends. Older adults, meanwhile, often prefer news programs, traditional dramas, documentaries, or health-related videos. Another difference is viewing style. Younger viewers are more likely to watch content on phones and social media apps, while older people may still prefer television or longer-form programs. That said, the gap is becoming smaller as technology becomes more familiar to everyone.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-201",
+    "part": "Part 3",
+    "topic": "拥有成功商业的人",
+    "title": "Why do some people start their own business?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Many people start their own business because they want more independence, creative freedom, or the chance to pursue something they truly believe in.\n\nSome people become entrepreneurs because they’re passionate about a product or idea and want to turn it into a career. Others may feel limited in traditional jobs and hope to have more control over their schedule and decisions. Of course, starting a business also comes with risks and pressure, but for many people, the opportunity to build something meaningful makes it worthwhile. In a way, entrepreneurship is often connected to both ambition and personal fulfillment.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-202",
+    "part": "Part 3",
+    "topic": "拥有成功商业的人",
+    "title": "Should governments provide financial support to start-ups?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think reasonable financial support from governments can help start-ups survive and encourage innovation.\n\nNew businesses often struggle in the beginning because they lack funding, experience, or market connections. Government support, such as low-interest loans, tax reductions, or training programs, can help entrepreneurs develop their ideas and create jobs. At the same time, though, governments should carefully evaluate which projects deserve support to avoid wasting public resources. Ideally, assistance should encourage long-term growth rather than short-term dependence.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-203",
+    "part": "Part 3",
+    "topic": "拥有成功商业的人",
+    "title": "Do most people prefer shopping at big stores or small stores?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think most people nowadays tend to prefer big stores because they offer more convenience, variety, and competitive prices.\n\nLarge supermarkets or shopping malls usually have a wider selection of products, which saves people time and effort. They also tend to provide discounts, modern facilities, and longer business hours. However, small stores still have their own advantages. Many people enjoy the personal service, unique products, and friendly atmosphere that local shops provide. So while big stores are probably more popular overall, small businesses still play an important role in communities.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-204",
+    "part": "Part 3",
+    "topic": "拥有成功商业的人",
+    "title": "What makes a business successful?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "A successful business usually combines a good product, strong management, and the ability to adapt to customers’ needs.\n\nEven the best ideas may fail without proper planning or teamwork. Successful companies often pay attention to product quality, customer experience, and long-term reputation rather than only focusing on profit. In addition, businesses need to stay flexible because markets and consumer preferences change quickly. I think trust is also extremely important. Once customers trust a brand, they’re much more likely to stay loyal to it.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-205",
+    "part": "Part 3",
+    "topic": "拥有成功商业的人",
+    "title": "What makes a business fail?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Businesses often fail because of poor management, lack of market demand, or an inability to adapt to change.\n\nSome companies spend too much money without careful planning, while others misunderstand what customers actually want. In today’s fast-changing world, businesses that ignore technology or market trends can quickly fall behind competitors. Financial pressure is another common reason, especially for small businesses. Honestly, even talented entrepreneurs can fail if timing, strategy, and management are not handled properly.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-206",
+    "part": "Part 3",
+    "topic": "收到特殊蛋糕",
+    "title": "In your country, do people nowadays cook at home as frequently as people did in the past?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
     "keywords": [
-      "In my view",
-      "One reason is that",
-      "For example"
+      "Convenient alternatives",
+      "Sentimental value"
     ],
-    "answer": "I think it depends, but in general it has a clear influence on people's lives. One reason is that the environment and responsibility affects the choices people make every day. For example, people may behave differently when time, cost or convenience changes. At the same time, individual situations are different, so a balanced approach is usually more realistic than one simple rule."
+    "answer": "Actually, the frequency of cooking at home has decreased compared to the past, largely due to changes in lifestyle and the availability of convenient alternatives.\n\nNowadays, with both parents often working and the rise of fast food and delivery services, families find it less necessary to cook every meal at home. Furthermore, the younger generation tends to prioritize convenience and variety, opting for meals that are quick and easy to prepare or simply ordering online. However, cooking at home still holds sentimental value for many, especially during holidays and family gatherings.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-207",
+    "part": "Part 3",
+    "topic": "收到特殊蛋糕",
+    "title": "What do you think of people using their mobile phones during a meal?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [
+      "Meaningful interaction",
+      "Strengthen relationships"
+    ],
+    "answer": "Personally, I think using mobile phones during meals can detract from the quality of the dining experience and the opportunity for meaningful interaction.\n\nMeals are a time for connection and sharing, and constant phone use can interrupt this social interaction, making it harder to engage in conversations. It's important to set aside distractions and focus on the people you're dining with, which helps strengthen relationships and create cherished memories. Nevertheless, I understand that sometimes it's necessary to stay connected for urgent matters.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-208",
+    "part": "Part 3",
+    "topic": "收到特殊蛋糕",
+    "title": "What are the differences between special food in China and other countries?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [
+      "Cultural heritage",
+      "Embody"
+    ],
+    "answer": "Special foods in China often carry significant cultural and historical meanings, which may differ considerably from those in other countries.\n\nIn China, foods are often associated with specific festivals or historical events, such as mooncakes during the Mid-Autumn Festival or zongzi during the Dragon Boat Festival. These foods not only offer unique flavors but also embody the cultural heritage of the festival or event they represent. In contrast, special foods in other countries might focus more on seasonal availability or regional specialties without the same depth of cultural significance.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-209",
+    "part": "Part 3",
+    "topic": "收到特殊蛋糕",
+    "title": "Is there any food in your country that is eaten at special times or on special occasions?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [
+      "Symbolize",
+      "Cultural roots"
+    ],
+    "answer": "Yes, in my country, certain foods are traditionally eaten during specific times or on special occasions, which enriches our cultural celebrations.\n\nFor example, during the Spring Festival, it is customary to eat dumplings, which symbolize wealth and prosperity for the coming year. Another example is the eating of tangyuan during the Lantern Festival, which symbolizes family unity and completeness. These foods not only enhance the festive atmosphere but also connect us to our cultural roots and the significance of these occasions.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-210",
+    "part": "Part 3",
+    "topic": "收到特殊蛋糕",
+    "title": "Why are some people willing to spend a lot of money on meals on special days?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [
+      "Investment",
+      "Memorable experiences"
+    ],
+    "answer": "Many people see spending money on meals during special days as an investment in creating memorable experiences and strengthening relationships.\n\nSpecial occasions like anniversaries, birthdays, and holidays are seen as opportunities to gather with loved ones and celebrate together. Investing in a lavish meal can be seen as a gesture of love and appreciation, enhancing the sense of occasion. Moreover, these meals often feature gourmet foods that provide a unique culinary experience, making the event even more special and unforgettable.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-211",
+    "part": "Part 3",
+    "topic": "收到特殊蛋糕",
+    "title": "Do you think it’s good to communicate when eating with your family?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [
+      "Catch up",
+      "Family bonds"
+    ],
+    "answer": "Definitely, communicating during meals with family is not only beneficial but essential for maintaining strong family bonds and understanding.\n\nEating together provides a perfect opportunity for family members to catch up on each other's lives, share stories, and discuss matters of importance. These interactions help to build trust and support among family members, reinforcing the family unit. It’s through these daily conversations that we learn more about each other, showing care and interest, which is crucial for a harmonious family life.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-212",
+    "part": "Part 3",
+    "topic": "喜欢的现场体育赛事",
+    "title": "Why do some people like to watch sports events?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think many people enjoy watching sports events because they’re exciting, emotional, and bring people together.\n\nSports have a way of creating suspense because you never really know what will happen next. One moment a team seems to be losing, and the next moment everything changes. Also, people often feel emotionally connected to a team or athlete, almost like they’re sharing the journey with them. For some, watching sports is also a social activity, since it gives friends and families something fun to talk about and enjoy together. And honestly, in a busy world, sports can be a healthy form of entertainment and stress relief.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-213",
+    "part": "Part 3",
+    "topic": "喜欢的现场体育赛事",
+    "title": "Where do people normally watch sports events?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Nowadays, people watch sports events in many different places, but most commonly at home or in public venues.\n\nA lot of people prefer staying at home because it’s comfortable and convenient. They can relax on the sofa, order food, and enjoy the match without spending much money. At the same time, some fans enjoy watching games in sports bars, restaurants, or even outdoor public screenings because the atmosphere feels more exciting. Of course, if people are lucky enough, they may watch matches live in stadiums, which feels much more energetic and memorable.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-214",
+    "part": "Part 3",
+    "topic": "喜欢的现场体育赛事",
+    "title": "What are the advantages of watching sports events online?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Watching sports online is convenient, flexible, and often much more affordable.\n\nPeople can watch matches anytime and anywhere, which is especially useful for busy students or workers. Also, online platforms usually provide replays, highlights, and even different camera angles, which improve the viewing experience. Another advantage is cost, because streaming is often cheaper than buying stadium tickets. Plus, online chats and fan communities allow people to discuss the game in real time, which makes it feel more interactive.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-215",
+    "part": "Part 3",
+    "topic": "喜欢的现场体育赛事",
+    "title": "What sports matches are suitable for children to attend?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think family-friendly sports events, such as football, basketball, or swimming competitions, are usually suitable for children.\n\nThese sports are exciting but generally safe and easy to understand. Kids can enjoy the atmosphere, learn teamwork, and maybe even feel inspired to try sports themselves. However, I think it’s important to choose matches with a positive environment, since some highly competitive games may become too intense or noisy. In the end, sports events can be educational for children if parents guide them properly.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-216",
+    "part": "Part 3",
+    "topic": "喜欢的现场体育赛事",
+    "title": "Why do some people spend a lot going to other countries to watch sports events?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "For passionate fans, watching a major sports event in person can feel like a once-in-a-lifetime experience.\n\nSome people dream of seeing their favorite athletes or teams live, especially during international competitions like the Olympics or the World Cup. Also, travelling for sports combines two enjoyable things: entertainment and tourism. For many fans, it’s about atmosphere too, because being surrounded by thousands of supporters creates an unforgettable feeling. Even though it costs a lot, people often feel the memories are worth the expense.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-217",
+    "part": "Part 3",
+    "topic": "喜欢的现场体育赛事",
+    "title": "What sports games are popular in your country?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "In my country, sports like basketball, football, badminton, and table tennis are especially popular.\n\nBasketball and football attract many young people, partly because of international leagues and famous athletes. Badminton and table tennis are also very common because they’re affordable and suitable for all ages. In parks, you can often see elderly people doing tai chi or square dancing, which also counts as physical activity. So I’d say sports culture in my country is actually quite diverse, with something for almost everyone.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-218",
+    "part": "Part 3",
+    "topic": "喜欢拜访但不想住的家",
+    "title": "Do Chinese people like to visit others’ homes?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think many Chinese people still enjoy visiting other people’s homes, especially when they have a close relationship.\n\nIn Chinese culture, visiting someone’s home is often seen as a warm and personal way to maintain relationships. For example, people commonly visit relatives during festivals, holidays, or important family occasions. Friends may also visit each other for meals, tea, or simply to spend time together. That said, younger generations in big cities might meet more often in cafés or restaurants because life is busier and people value privacy more than before. Still, home visits remain an important part of social life, especially among families and older generations.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-219",
+    "part": "Part 3",
+    "topic": "喜欢拜访但不想住的家",
+    "title": "What do Chinese people do when they visit others?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Usually, Chinese people bring small gifts, chat over food or tea, and spend time catching up when visiting others.\n\nBringing gifts is considered polite, even if it’s something simple like fruit, snacks, or tea. Once they arrive, people often sit together, drink tea, and talk about daily life, work, family, or recent news. In many cases, the host will prepare food because offering hospitality is highly valued in Chinese culture. Sometimes guests may politely refuse food at first, but honestly, that’s often just part of being modest. Overall, the atmosphere tends to be warm, welcoming, and focused on connection.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-220",
+    "part": "Part 3",
+    "topic": "喜欢拜访但不想住的家",
+    "title": "What kind of place do people in your country like to live in?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think most people prefer places that are convenient, comfortable, and close to daily necessities.\n\nFor younger people, living near workplaces, public transport, shopping centers, or entertainment areas is often important because it saves time. Families, meanwhile, may care more about safety, schools, and quiet neighborhoods. Older people sometimes prefer places with parks or green spaces because they enjoy peaceful surroundings. Interestingly, after experiencing busy city life, some people start dreaming about quieter places with slower lifestyles. So preferences really depend on age, lifestyle, and priorities.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-221",
+    "part": "Part 3",
+    "topic": "喜欢拜访但不想住的家",
+    "title": "What's the difference between homes in cities and those in the countryside?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "In general, city homes tend to be smaller and more modern, while countryside homes are often larger and closer to nature.\n\nIn cities, apartments are usually compact because land is expensive, but they often have better access to transport, shopping, and public services. Countryside homes, on the other hand, may offer bigger spaces, gardens, or quieter environments. However, rural areas sometimes lack convenient facilities like hospitals or entertainment options. Personally, I think both have advantages. City life is efficient and exciting, while countryside life feels more relaxing and peaceful.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-222",
+    "part": "Part 3",
+    "topic": "擅长学习和说语言的人",
+    "title": "Are there many people who can speak foreign languages in your country?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, especially among younger generations, quite a lot of people can speak at least one foreign language, although the level varies.\n\nIn my country, English is the most commonly learned foreign language because it’s part of the education system from a young age. Many university students and office workers can communicate in basic English, especially in large cities or international companies. Besides English, some people also learn Japanese, Korean, French, or Spanish, often because of personal interests, travel, or career goals. However, I think fluency is still relatively limited for many people since daily opportunities to use foreign languages are not always available. So overall, language learning is becoming more common, but confidence in speaking still differs from person to person.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-223",
+    "part": "Part 3",
+    "topic": "擅长学习和说语言的人",
+    "title": "Does speaking other languages help at work?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, speaking another language can be a huge advantage in the workplace, especially in today’s global economy.\n\nMany companies now work with overseas clients, international teams, or foreign markets, so language skills can make communication much smoother. Also, employees who speak multiple languages are sometimes trusted with more opportunities, such as business trips or cross-cultural projects. Beyond practical communication, learning languages also develops problem-solving skills and cultural understanding. Of course, language alone won’t guarantee success, but it definitely makes someone more competitive in many industries.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-224",
+    "part": "Part 3",
+    "topic": "擅长学习和说语言的人",
+    "title": "Do people learn any languages other than English?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, although English is the most popular choice, many people also learn other languages for different reasons.\n\nFor example, Japanese and Korean are quite popular among young people because of anime, dramas, and pop culture. Some people choose French, German, or Spanish because they plan to study abroad or work internationally. Others simply learn languages out of curiosity or personal interest. I think it’s actually becoming more common for people to pick up a third language nowadays. In a way, learning languages has become not only practical, but also a hobby for some.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-225",
+    "part": "Part 3",
+    "topic": "擅长学习和说语言的人",
+    "title": "Why is it easier for children to learn new things than for adults?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think children learn new things more easily because they are naturally curious and less afraid of making mistakes.\n\nYoung children tend to absorb information like sponges, especially when learning languages or practical skills. Their brains are still developing, which makes them more flexible in adapting to new ideas. Adults, on the other hand, often overthink and worry about failure, which can slow down learning. Also, adults usually have less free time because of work and responsibilities. So in many ways, children have both biological and emotional advantages when it comes to learning.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-226",
+    "part": "Part 3",
+    "topic": "擅长学习和说语言的人",
+    "title": "How do people learn new things?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "People learn new things in many ways, but I think curiosity and consistent practice are the key.\n\nNowadays, people can learn through books, online videos, courses, or even social media. Some prefer structured learning with teachers, while others enjoy learning independently through trial and error. I also think discussing ideas with others is helpful because it deepens understanding. For example, when people actually apply what they’ve learned in real life, the knowledge tends to stay longer. So learning is not just about receiving information. It’s also about practicing and reflecting.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-227",
+    "part": "Part 3",
+    "topic": "擅长学习和说语言的人",
+    "title": "What is the most important thing for learning a language well?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "In my opinion, consistency is probably the most important factor in learning a language well.\n\nMany people think talent matters most, but honestly, regular exposure and practice are usually more important. For example, even learning a little every day can be more effective than studying for hours once a week. I also think confidence matters, because being willing to speak—even imperfectly—helps people improve faster. Besides that, motivation is important too. If someone truly enjoys the language or has a clear goal, they’re much more likely to stick with it.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-228",
+    "part": "Part 3",
+    "topic": "最近看过的电视/网络节目",
+    "title": "What are the differences between the TV programs young people like to watch and those old people like to watch?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "In general, young people and older people often prefer different kinds of programs because their interests, lifestyles, and life experiences are quite different.\n\nYoung people usually enjoy fast-paced and entertaining content, such as reality shows, short videos, dramas, gaming streams, or lifestyle vlogs. They tend to prefer programs that feel trendy, visually engaging, or emotionally relatable. Older people, on the other hand, are often more interested in news, historical dramas, documentaries, health-related programs, or traditional TV series. I think this difference mainly comes from priorities. Younger audiences may look for entertainment or inspiration, while older viewers often value information, stability, or nostalgia. That said, there is definitely some overlap. For example, family dramas or talent shows can attract people of all ages.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-229",
+    "part": "Part 3",
+    "topic": "最近看过的电视/网络节目",
+    "title": "What makes a popular TV or online program?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think a popular program usually combines interesting content, emotional connection, and good timing.\n\nFirst of all, people want something entertaining or useful, so the content has to be engaging. Also, audiences are more likely to follow a program if they feel emotionally connected to the story, characters, or topics. For example, reality shows become popular because viewers enjoy seeing authentic emotions and personal growth. On top of that, social media plays a huge role nowadays. If a program becomes widely discussed online or creates trending topics, its popularity can grow very quickly. So honestly, success today is often a mix of quality, timing, and online influence.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-230",
+    "part": "Part 3",
+    "topic": "最近看过的电视/网络节目",
+    "title": "What kinds of TV or online programs are popular in your country?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "In my country, people enjoy a wide range of programs, but entertainment shows, dramas, and short-form online videos are especially popular.\n\nFor younger audiences, short videos on platforms like TikTok or lifestyle content are extremely common because they’re easy to watch and fit busy schedules. Dramas, especially romantic or family-themed ones, also attract huge audiences. Meanwhile, talent shows and reality programs remain popular because people enjoy watching ordinary individuals grow or compete. Older generations often prefer news, documentaries, or traditional TV dramas. So overall, I’d say viewing habits are becoming more diverse, and online platforms are changing the way people consume entertainment.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-231",
+    "part": "Part 3",
+    "topic": "包含动物的故事或书",
+    "title": "Should schools teach children about animals?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I strongly believe schools should teach children about animals because it helps build empathy, responsibility, and environmental awareness.\n\nChildren are naturally curious about animals, so learning about them can be both educational and enjoyable. For example, schools can teach students about animal behavior, habitats, and the importance of protecting endangered species. This kind of knowledge also helps children understand that humans are part of a larger ecosystem, not separate from it. Besides that, learning about animals may encourage kindness and compassion from a young age. In my opinion, education about animals is not just science. It’s also about helping children become more caring and responsible people.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-232",
+    "part": "Part 3",
+    "topic": "包含动物的故事或书",
+    "title": "Some people think pets should not be kept in cities. What do you think?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Personally, I think pets can absolutely be kept in cities, as long as owners are responsible and considerate.\n\nI understand why some people worry, since pets can create problems like noise, hygiene issues, or even safety concerns in crowded neighborhoods. However, I don’t think the solution is to ban pets completely. Instead, pet owners should be educated to care for animals properly and respect public spaces. Also, many pets provide emotional support, especially for people living alone or under stress in busy cities. So honestly, I think the key issue is responsible ownership, not whether pets belong in cities.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-233",
+    "part": "Part 3",
+    "topic": "包含动物的故事或书",
+    "title": "Many people regard pets as members of their family. What do you think?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I can totally understand that, because for many people, pets offer companionship, comfort, and unconditional love.\n\nIn modern life, especially for people who live alone or have busy schedules, pets can become an important emotional presence. Many owners spend years caring for their pets, so naturally they develop deep emotional bonds. Some even celebrate birthdays for their pets or include them in family photos. Of course, pets are still animals and have different needs from humans, but emotionally speaking, I think it’s understandable that people see them as family. In a way, pets often teach people patience, responsibility, and affection.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-234",
+    "part": "Part 3",
+    "topic": "包含动物的故事或书",
+    "title": "Do many people keep pets in your country?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, pet ownership has become increasingly popular in my country, especially among younger people and families.\n\nDogs and cats are definitely the most common pets, although some people also keep fish, rabbits, or even birds. In cities, pets are often seen as companions because many people live alone or work under a lot of pressure. Also, social media has made pet culture more visible, which encourages more people to adopt animals. That said, I think awareness of responsible pet care is still developing, so education is equally important.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-235",
+    "part": "Part 3",
+    "topic": "包含动物的故事或书",
+    "title": "What are the advantages of keeping a pet?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Keeping a pet can bring emotional comfort, teach responsibility, and even improve mental well-being.\n\nFor many people, pets reduce loneliness and provide emotional support during stressful times. Taking care of an animal also teaches patience and responsibility because owners need to feed, clean, and care for them every day. Some pets, especially dogs, encourage people to exercise more through daily walks. Research even suggests that spending time with animals may lower stress levels. So honestly, pets can improve people’s lives in ways that go far beyond simple entertainment.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-236",
+    "part": "Part 3",
+    "topic": "包含动物的故事或书",
+    "title": "Why do people always tell children stories with animals?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think animal stories are popular for children because they are fun, memorable, and easier to understand.\n\nAnimals in stories are often given human personalities, which makes lessons feel more interesting and less serious. For example, a clever fox or a hardworking ant can teach values like wisdom or diligence in a simple way. Children also tend to feel emotionally connected to animals, so the message is easier to remember. Besides, animal stories spark imagination and creativity. In my opinion, they’re a gentle but effective way to teach life lessons.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-237",
+    "part": "Part 3",
+    "topic": "在团队中工作",
+    "title": "Why do some people prefer to work by themselves?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Some people prefer to work by themselves because they value independence, focus, and having full control over their work.\n\nFor some people, working alone simply feels more efficient. They don’t have to spend extra time coordinating with others or dealing with disagreements. Also, independent work allows people to follow their own pace and make decisions more freely, which can feel less stressful. For example, artists, writers, or programmers sometimes enjoy working alone because it gives them space to think deeply. That said, preferring to work alone doesn’t necessarily mean someone dislikes teamwork. Sometimes it just depends on the personality or the type of task involved.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-238",
+    "part": "Part 3",
+    "topic": "在团队中工作",
+    "title": "What should a leader do to make team members want to follow him or her?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think a good leader should build trust, listen carefully, and lead by example.\n\nPeople are more willing to follow someone who treats them with respect rather than simply giving orders. A leader should also communicate clearly and make team members feel valued. For instance, recognizing people’s efforts or listening to their concerns can make a big difference. Besides that, a strong leader stays calm under pressure and helps the team solve problems instead of blaming others. In my opinion, leadership is more about inspiring people than controlling them.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-239",
+    "part": "Part 3",
+    "topic": "在团队中工作",
+    "title": "Should students learn to do group work?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think students should definitely learn to do group work because teamwork is an essential life skill.\n\nIn real life, people rarely work completely alone. Whether in universities or workplaces, collaboration is everywhere. Group work teaches students how to communicate, divide responsibilities, and solve conflicts respectfully. Of course, sometimes it can feel frustrating when not everyone contributes equally, but honestly, that’s also part of learning. Through teamwork, students become more patient and adaptable.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-240",
+    "part": "Part 3",
+    "topic": "在团队中工作",
+    "title": "What group tasks are there in schools?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "There are quite a few group tasks at school, especially projects that require cooperation and discussion.\n\nFor example, students often work together on presentations, science experiments, or drama performances. In some classes, teachers may assign group discussions where students solve problems or share ideas together. Sports activities are also a form of teamwork because students need to cooperate to succeed. These activities are designed not only to improve academic performance, but also to strengthen communication and responsibility.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-241",
+    "part": "Part 3",
+    "topic": "在团队中工作",
+    "title": "What advantages are there for students experiencing teamwork at school?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Experiencing teamwork at school gives students both practical skills and emotional growth.\n\nFor one thing, students learn how to communicate ideas and solve disagreements politely. They also begin to understand that different people have different strengths, which helps build respect and empathy. Another advantage is that teamwork prepares students for future workplaces, where cooperation is often necessary. Besides, working together can make learning more fun and less stressful. In a way, teamwork teaches students not only how to succeed, but also how to get along with others.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-242",
+    "part": "Part 3",
+    "topic": "在团队中工作",
+    "title": "How can you tell if a person is a good leader?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think you can tell a good leader by how they treat people and handle difficult situations.\n\nA good leader listens more than they speak and stays calm when problems appear. They usually encourage teamwork instead of taking all the credit for themselves. Also, people genuinely respect them, not because they’re afraid, but because they trust them. I feel the best leaders are humble enough to admit mistakes and wise enough to learn from others. In the end, leadership is not about power. It’s about responsibility and influence.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-243",
+    "part": "Part 3",
+    "topic": "长久目标/抱负",
+    "title": "What goals should a society have?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think a society should aim to improve people’s quality of life while also creating fairness and sustainability for the future.\n\nIn my opinion, economic growth is important, but it shouldn’t be the only goal. A healthy society should also focus on education, healthcare, environmental protection, and equal opportunities. For example, if people can access good schools and medical services, they are more likely to live fulfilling lives. At the same time, societies should encourage kindness, inclusion, and respect so people feel safe and valued. So honestly, I think the best goal for a society is not only becoming richer, but also becoming healthier and more compassionate.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-244",
+    "part": "Part 3",
+    "topic": "长久目标/抱负",
+    "title": "Do people need to have goals?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think having goals gives people direction, motivation, and a sense of purpose.\n\nWithout goals, it’s easy to feel lost or uncertain about what to work toward. Goals can help people stay focused and make decisions more clearly. Of course, not every goal has to be huge or life-changing. Sometimes small goals, like improving a skill or building a healthier routine, are equally meaningful. That said, I also think people shouldn’t put too much pressure on themselves. It’s okay for goals to change as life changes.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-245",
+    "part": "Part 3",
+    "topic": "长久目标/抱负",
+    "title": "What goals do people at your age have?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think people around my age usually focus on career growth, financial stability, and personal development.\n\nMany young adults are trying to establish themselves professionally, whether by finding a stable job or improving their qualifications. At the same time, financial goals, like saving money or buying a house, are often important. Besides work, a lot of people also care about self-improvement, such as learning new skills, staying healthy, or becoming emotionally mature. Interestingly, compared with the past, I think many young people today are paying more attention to work-life balance too. So success is no longer only about money.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-246",
+    "part": "Part 3",
+    "topic": "长久目标/抱负",
+    "title": "Is it necessary to give advice to children?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think children definitely need guidance, but advice should be given in a supportive rather than controlling way.\n\nChildren are still learning how the world works, so adults can help them avoid mistakes and make better decisions. However, I think simply giving orders is not very effective. Instead, adults should explain reasons and encourage children to think independently. For example, rather than saying “don’t do this,” it may be better to explain the consequences. In that way, children learn responsibility instead of just obedience.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-247",
+    "part": "Part 3",
+    "topic": "长久目标/抱负",
+    "title": "What goals do young people usually have?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Young people often have goals related to education, careers, relationships, and personal happiness.\n\nAt first, many focus on academic success or getting into a good university. Later on, career development becomes more important, such as finding a fulfilling job or earning enough to live independently. At the same time, some young people also hope to travel, build meaningful relationships, or improve their mental well-being. I think today’s generation is becoming more aware that happiness matters just as much as achievement. So goals are becoming more diverse than before.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-248",
+    "part": "Part 3",
+    "topic": "长久目标/抱负",
+    "title": "What should people do to achieve their goals?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think the most important things are having a clear plan, staying consistent, and being patient with yourself.\n\nBig goals can feel overwhelming, so breaking them into smaller steps often makes them more achievable. Also, consistency matters a lot because success usually comes from small efforts repeated over time. Of course, setbacks are normal, and people shouldn’t give up too quickly when things don’t go as planned. I also believe asking for help or advice can be valuable because nobody succeeds completely alone. In the end, achieving goals is often more about persistence than talent.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-249",
+    "part": "Part 3",
+    "topic": "遇到的科技问题",
+    "title": "What are the advantages and disadvantages of AI?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think AI brings many benefits to society, but it also creates challenges that people need to manage carefully.\n\nOn the positive side, AI can improve efficiency, reduce repetitive work, and help people solve problems faster. For example, AI is already being used in healthcare, education, transportation, and customer service. It can save time and make information more accessible. However, there are also concerns about privacy, job replacement, and overdependence on technology. Some people worry that if AI develops too quickly without proper regulation, it could create social inequality or reduce human creativity. So personally, I think AI itself is not “good” or “bad.” What matters most is how humans choose to use it.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-250",
+    "part": "Part 3",
+    "topic": "遇到的科技问题",
+    "title": "Do you think people today should learn about AI technology?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think understanding basic AI knowledge is becoming increasingly important in modern society.\n\nAI is already influencing many parts of daily life, even for people who don’t work in technology. For example, recommendation systems, voice assistants, and online translation tools all rely on AI. If people understand how these systems work, they can use them more wisely and critically. Also, learning about AI may help people prepare for future jobs and technological changes. Of course, not everyone needs to become an engineer, but basic awareness is definitely valuable.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-251",
+    "part": "Part 3",
+    "topic": "遇到的科技问题",
+    "title": "Should children learn to use AI?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think children should learn how to use AI, but they also need guidance and clear boundaries.\n\nAI can be a very useful educational tool because it provides quick information and personalized support. For example, children can use AI to practice languages, solve math problems, or explore creative ideas. However, I don’t think they should rely on it for everything. Kids still need to develop independent thinking, creativity, and problem-solving skills on their own. So in my opinion, AI should support learning, not replace genuine learning experiences.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-252",
+    "part": "Part 3",
+    "topic": "遇到的科技问题",
+    "title": "How can AI help in our lives?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "AI can help make life more convenient, efficient, and accessible in many different ways.\n\nFor instance, AI-powered tools can help people translate languages, organize schedules, or find information quickly. In healthcare, AI can assist doctors in analyzing medical data more accurately. In education, students can receive customized learning support based on their needs. AI is also useful for people with disabilities, such as voice assistants helping visually impaired users. So overall, I think AI has the potential to improve daily life significantly if used responsibly.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-253",
+    "part": "Part 3",
+    "topic": "遇到的科技问题",
+    "title": "Do you think students are overly reliant on AI?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "In some cases, yes, I think certain students are becoming a bit too reliant on AI tools.\n\nBecause AI can generate answers quickly, some students may stop thinking deeply or doing independent research themselves. For example, instead of writing essays from scratch, they may simply copy AI-generated content. Over time, this could weaken creativity and critical thinking skills. However, I don’t think AI itself is the problem. The real issue is whether students are using it as a learning assistant or as a shortcut to avoid effort.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-254",
+    "part": "Part 3",
+    "topic": "遇到的科技问题",
+    "title": "What can teachers do to stop students from relying too much on AI?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think teachers should guide students to use AI responsibly rather than simply banning it completely.\n\nFor example, teachers can design assignments that require personal opinions, creativity, or classroom discussion, which are harder for AI to replace. They can also encourage students to explain their thought processes instead of only giving final answers. Another important thing is teaching digital literacy, so students understand both the strengths and limitations of AI. In my opinion, education should adapt to technology instead of pretending it doesn’t exist. The goal is to help students think independently while still using technology wisely.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-255",
+    "part": "Part 3",
+    "topic": "坏掉的电子设备",
+    "title": "Why are people keen on buying new electronic devices?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think people are keen on buying new electronic devices mainly because technology makes life more convenient, efficient, and entertaining.\n\nNowadays, many electronic products are designed to improve everyday experiences, whether it’s faster communication, better cameras, or smarter features. Also, companies release new versions very frequently, which naturally creates curiosity and excitement. Some people buy new devices because they genuinely need better performance for work or study, while others simply enjoy trying the latest trends. At the same time, social influence plays a role too. When people see friends using newer gadgets, they may feel encouraged to upgrade their own. That said, I think it’s important to buy technology based on actual needs rather than pure impulse.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-256",
+    "part": "Part 3",
+    "topic": "坏掉的电子设备",
+    "title": "What impact do electronic devices have on people?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Electronic devices have both positive and negative impacts, depending on how people use them.\n\nOn the positive side, they make communication easier, provide quick access to information, and improve efficiency in work and study. For example, smartphones and laptops allow people to learn online, work remotely, and stay connected with family and friends no matter the distance. However, there are also downsides. Spending too much time on screens may affect physical health, sleep quality, and even concentration. Some people also become overly dependent on devices, which can reduce face-to-face interaction. So personally, I think electronic devices are powerful tools, but using them wisely is the key.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-257",
+    "part": "Part 3",
+    "topic": "名人出演的广告",
+    "title": "What are the advantages and disadvantages of advertisements?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think advertisements can be both helpful and problematic, depending on how they are designed and used.\n\nOn the positive side, advertisements help people discover new products, services, or useful information that they might not otherwise know about. For example, ads can introduce educational tools, health products, or discounts that genuinely improve daily life. They also help businesses grow by reaching potential customers. However, some advertisements can be misleading or overly persuasive, making people buy things they don’t actually need. In addition, constant exposure to ads may sometimes feel overwhelming, especially online. So personally, I think advertising is useful, but it should be honest and responsible.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-258",
+    "part": "Part 3",
+    "topic": "名人出演的广告",
+    "title": "Why are many advertisements endorsed by celebrities? How useful are they?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Many companies use celebrities in advertisements because famous people attract attention and influence public trust.\n\nWhen consumers see someone they admire promoting a product, they may feel more curious or confident about trying it. Celebrities also help advertisements spread faster because fans tend to discuss or share related content online. That said, I don’t think celebrity endorsements always work. If the product doesn’t match the celebrity’s image or feels inauthentic, people may not trust it. So I’d say celebrity advertising can be effective, but product quality still matters much more in the long run.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-259",
+    "part": "Part 3",
+    "topic": "名人出演的广告",
+    "title": "What is the most important factor in an advertisement?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "In my opinion, the most important factor in an advertisement is credibility.\n\nNo matter how creative or visually attractive an advertisement is, people won’t trust it if it feels dishonest. A good advertisement should clearly explain what a product does and why it might be useful. At the same time, it should connect emotionally with consumers without exaggerating too much. I also think simplicity matters because people are surrounded by information and usually don’t have much patience. So honestly, a trustworthy and clear message is probably the key to effective advertising.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-260",
+    "part": "Part 3",
+    "topic": "名人出演的广告",
+    "title": "Why are some advertisements boring?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think some advertisements feel boring because they are repetitive, uncreative, or not relevant to the audience.\n\nNowadays, people see so many ads every day that it’s hard to stand out. If an advertisement keeps repeating the same message or looks too similar to others, viewers may quickly lose interest. Also, ads that feel overly commercial without telling an interesting story are often ignored. I think people respond better to advertisements that are funny, emotional, or genuinely useful. So creativity and understanding the audience are really important.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-261",
+    "part": "Part 3",
+    "topic": "名人出演的广告",
+    "title": "Is advertising important for a company? Why?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think advertising is extremely important because it helps companies build awareness and attract customers.\n\nEven a great product may struggle to succeed if people don’t know it exists. Advertising helps businesses communicate their values, explain their products, and stand out in a competitive market. It can also strengthen brand identity and build customer trust over time. Of course, advertising alone isn’t enough because product quality still matters. But without effective promotion, many businesses would find it difficult to grow.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-262",
+    "part": "Part 3",
+    "topic": "名人出演的广告",
+    "title": "Which is more effective, online advertising or offline advertising?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Personally, I think online advertising is generally more effective nowadays, although offline advertising still has value in some situations.\n\nOnline advertisements can reach larger audiences quickly and are often more personalized because companies can target specific users. For example, people often see ads based on their interests or shopping history. Also, online campaigns are easier to measure because companies can track clicks and engagement. However, offline advertising, such as billboards or TV commercials, can still be powerful for building brand recognition. So honestly, I think the best approach is often a combination of both.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-263",
+    "part": "Part 3",
+    "topic": "特别场合的食物",
+    "title": "Why are there special foods on special occasions or events?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think special foods exist because they help people express emotions, traditions, and shared cultural values during important moments.\n\nFood is not only about nutrition. On special occasions, it often becomes a symbol of celebration, reunion, or good wishes. For example, in China, dumplings during the Spring Festival symbolize wealth, while birthday noodles represent longevity. Also, preparing or sharing certain dishes can strengthen emotional bonds among family members. In a way, these foods create a sense of ritual, making important days feel more meaningful and memorable.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-264",
+    "part": "Part 3",
+    "topic": "特别场合的食物",
+    "title": "What are the differences between everyday food and festival food?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Generally speaking, everyday food is simpler and more practical, while festival food tends to be richer and more symbolic.\n\nOn normal days, people usually focus on convenience, nutrition, and saving time. Meals are often lighter and easier to prepare. During festivals, however, food becomes more elaborate because people want to celebrate and show hospitality. There are often more dishes, higher-quality ingredients, and stronger cultural meanings behind what is served. So honestly, festival food feels less like daily survival and more like an experience.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-265",
+    "part": "Part 3",
+    "topic": "特别场合的食物",
+    "title": "Are there any differences between the food people eat today and the food people ate in the past?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think there are quite a few differences, mainly because lifestyles and technology have changed so much.\n\nIn the past, people usually ate simpler and fresher foods because ingredients were locally grown and processed less. Nowadays, there are far more choices thanks to globalization and food delivery services. People can enjoy cuisines from around the world without leaving their city. However, modern diets also include more processed foods and sugary drinks, which may not always be healthy. So while today’s food is more convenient and diverse, some people feel the past had a healthier and more natural way of eating.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-266",
+    "part": "Part 3",
+    "topic": "特别场合的食物",
+    "title": "Do people today prefer eating at home or in a restaurant?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think it really depends on the situation, but many people today probably enjoy both for different reasons.\n\nEating at home feels more comfortable, affordable, and often healthier. It’s also a chance for families to spend time together. On the other hand, restaurants are popular because they’re convenient and offer a different atmosphere. People often go out for celebrations, social gatherings, or simply when they’re too tired to cook. So, I wouldn’t say one is replacing the other. Instead, people seem to choose based on mood, budget, and occasion.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-267",
+    "part": "Part 3",
+    "topic": "推荐旅行过的地方",
+    "title": "Where do people in your country often go for holidays?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "In my country, people often travel to scenic cities, coastal areas, or culturally rich destinations during holidays.\n\nFor shorter holidays, many people prefer nearby cities or natural attractions because they’re easier to reach and less tiring. For example, beaches, mountains, historical towns, or theme parks are all quite popular. During longer holidays, some families travel abroad, especially to nearby countries in Asia. I’ve also noticed that more people now enjoy “slow travel,” where they stay in one place longer to relax rather than rushing through tourist attractions. So overall, people usually choose destinations based on time, budget, and personal interests.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-268",
+    "part": "Part 3",
+    "topic": "推荐旅行过的地方",
+    "title": "What is the ideal length for a holiday?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Personally, I think a holiday of around one to two weeks is probably ideal for most people.\n\nA very short holiday may not feel relaxing because people are still thinking about work or rushing through plans. On the other hand, if a holiday becomes too long, some people may start feeling bored or stressed about unfinished responsibilities. I think one or two weeks gives people enough time to rest, travel, and mentally recharge without losing their daily rhythm completely. Also, it allows time for both relaxation and meaningful experiences. Of course, the ideal length can vary depending on a person’s schedule or budget.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-269",
+    "part": "Part 3",
+    "topic": "推荐旅行过的地方",
+    "title": "How do people usually plan holidays?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Nowadays, most people plan holidays by researching online and comparing different options carefully.\n\nPeople often begin by deciding on a destination and setting a budget. After that, they may look for transportation, hotels, restaurants, and attractions through travel apps or social media. Many travelers also watch videos or read reviews to avoid common mistakes and find hidden gems. Some people prefer detailed schedules, while others like leaving room for spontaneity. So I’d say holiday planning today is much more convenient because of technology.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-270",
+    "part": "Part 3",
+    "topic": "推荐旅行过的地方",
+    "title": "Is it important to plan a holiday?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think planning a holiday is quite important because it helps save time, money, and unnecessary stress.\n\nWithout a plan, people may struggle to find accommodation, overspend, or miss interesting places. Even a simple plan can help travelers feel more organized and prepared. For example, booking transport and hotels in advance often saves money and avoids disappointment during busy seasons. That said, I also think holidays shouldn’t be overplanned because too much structure can make travel feel tiring. So personally, I prefer having a basic plan while still leaving some flexibility.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-271",
+    "part": "Part 3",
+    "topic": "保护环境的法律",
+    "title": "What kinds of rules do schools in China have?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Schools in China usually have rules related to behavior, attendance, academic performance, and personal discipline.\n\nFor example, students are expected to arrive at school on time, wear proper uniforms in some schools, and respect teachers and classmates. There are also rules about homework, classroom behavior, and sometimes even phone usage. In addition, schools often encourage values like responsibility, teamwork, and respect for others through daily routines. Of course, different schools may have slightly different policies, but overall, the goal is to create an organized and supportive learning environment. I think most school rules are designed not only to maintain order, but also to help students develop good habits.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-272",
+    "part": "Part 3",
+    "topic": "保护环境的法律",
+    "title": "Do you think school rules are important?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think school rules are very important because they help create fairness, safety, and structure for students.\n\nWithout rules, classrooms might become chaotic and make learning difficult. Rules help students understand boundaries and learn how to respect others in a shared environment. Also, school is not only about academic knowledge. It’s one of the first places where children learn social responsibility and self-discipline. That said, I think rules should also be reasonable and flexible rather than overly strict. When students understand the purpose behind rules, they’re usually more willing to follow them.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-273",
+    "part": "Part 3",
+    "topic": "保护环境的法律",
+    "title": "Are children unhappy with the school rules?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Sometimes yes, especially when children feel rules are too strict or unfair.\n\nYoung people naturally value freedom, so restrictions on phones, homework, or free time may feel frustrating to them. However, I think many children only dislike rules at first because they don’t fully understand the reasons behind them. As they grow older, they often realize that certain rules were actually meant to help them stay focused or safe. Of course, schools should also listen to students’ opinions because unfair or outdated rules may create unnecessary stress. So I’d say children are not always unhappy with rules. It often depends on how rules are communicated.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-274",
+    "part": "Part 3",
+    "topic": "保护环境的法律",
+    "title": "How can parents and teachers help children understand and follow rules?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think the best way is to explain rules patiently and lead by example.\n\nInstead of simply saying “because I said so,” adults should explain why a rule exists and what might happen if it’s ignored. Children are usually more cooperative when they understand the logic behind something. Also, parents and teachers need to model good behavior themselves because children learn a lot by observing adults. Positive encouragement is important too. Praising children when they follow rules often works better than constant criticism. In my opinion, understanding and trust are much more effective than fear.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-275",
+    "part": "Part 3",
+    "topic": "保护环境的法律",
+    "title": "What are the rules people should obey at work?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "At work, people should follow rules related to professionalism, respect, responsibility, and safety.\n\nFor example, employees are usually expected to arrive on time, complete tasks responsibly, and communicate respectfully with colleagues. Many workplaces also have confidentiality rules to protect private information. In some industries, safety regulations are especially important because mistakes may lead to serious consequences. I think workplace rules are necessary because they help organizations function smoothly and fairly. At the same time, a healthy workplace should balance clear expectations with mutual respect.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-276",
+    "part": "Part 3",
+    "topic": "保护环境的法律",
+    "title": "What is the purpose of punishment?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "In my opinion, the purpose of punishment should be to educate and correct behavior, rather than simply to make people suffer.\n\nA reasonable punishment helps people understand the consequences of their actions and encourages better choices in the future. For children especially, punishment works best when it is fair, consistent, and combined with explanation. If punishment is too harsh, people may become fearful or rebellious instead of actually learning. I also think forgiveness and guidance are important because mistakes are part of growing up. So ideally, punishment should focus on learning and improvement, not humiliation.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-277",
+    "part": "Part 3",
+    "topic": "很久没收到回复的信息",
+    "title": "In what situations do people spend a long time responding to others’ messages?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think people usually take a long time to reply when they are busy, unsure how to respond, or emotionally overwhelmed.\n\nFor example, someone may delay replying because of work, study, or personal responsibilities. Sometimes people also need time to think, especially if the message is serious or emotionally complicated. In other cases, they may simply forget after reading a message and plan to reply later. Of course, not all delayed replies mean a lack of respect or interest. I think people’s communication habits are different, and sometimes life just becomes overwhelming. So personally, I try not to take slow replies too personally unless it becomes a repeated pattern.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-278",
+    "part": "Part 3",
+    "topic": "很久没收到回复的信息",
+    "title": "In what situations do people not respond to messages at all?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Sometimes people don’t reply at all because they are uncomfortable, uninterested, or unsure how to continue the conversation.\n\nFor instance, if a message feels awkward, overly sensitive, or confrontational, some people may avoid responding to prevent conflict. Others may simply lose interest, especially in casual conversations that don’t feel meaningful to them. Unfortunately, there are also cases where people unintentionally ignore messages because they are too busy or distracted. That said, I think completely ignoring someone repeatedly can sometimes hurt feelings. Even a short and polite response is often better than silence.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-279",
+    "part": "Part 3",
+    "topic": "很久没收到回复的信息",
+    "title": "What would you do if you did not receive a reply after sending out a message?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Personally, I would probably wait for a while and then send a polite follow-up message if necessary.\n\nI think it’s important not to jump to conclusions too quickly because people may genuinely be busy or forgetful. If the message is urgent, I might send a gentle reminder or even make a phone call. However, if someone repeatedly ignores my messages without explanation, I would probably give them some space. Relationships should involve mutual respect and communication. So I try to stay understanding, but I also believe it’s okay to protect your own feelings.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-280",
+    "part": "Part 3",
+    "topic": "很久没收到回复的信息",
+    "title": "Why do some people prefer sending a message instead of making a call?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think many people prefer messaging because it feels more convenient, less intrusive, and gives them time to think.\n\nUnlike phone calls, messages don’t demand an immediate response, so both sides can reply when they are free. Also, some people feel nervous speaking on the phone and find texting less stressful. Messages are useful too because they create a written record, which can help avoid misunderstandings. Besides that, younger generations are often more used to digital communication. So in many situations, messaging simply feels easier and more comfortable.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-281",
+    "part": "Part 3",
+    "topic": "很久没收到回复的信息",
+    "title": "How do you show your respect in your messages?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think showing respect in messages mainly comes from being polite, considerate, and thoughtful about tone.\n\nFor example, I try to greet people properly, use polite language, and avoid sounding too demanding. If I’m asking for help, I usually explain things clearly and say “thank you” afterward. I also think replying within a reasonable time shows respect because it tells people their message matters. At the same time, respecting boundaries is important too, such as not sending messages too late at night unless it’s urgent. Small details in communication often make a big difference.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-282",
+    "part": "Part 3",
+    "topic": "很久没收到回复的信息",
+    "title": "Why do some people feel angry when others don’t reply to their message?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think people often feel upset because a lack of reply may feel like being ignored or unimportant.\n\nWhen someone takes time to send a message, they usually expect at least some kind of acknowledgment. If there is no response, people may start overthinking and wondering whether they said something wrong. In close relationships, delayed replies can sometimes trigger insecurity or misunderstandings. Of course, not replying doesn’t always mean something negative, but emotions are often involved in communication. So I think being honest and communicating expectations clearly can help reduce unnecessary frustration.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-283",
+    "part": "Part 3",
+    "topic": "想要颁布的环保法律",
+    "title": "How does technology affect the law?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think technology affects the law in a very significant way because new inventions often create new legal challenges and responsibilities.\n\nFor example, the rise of artificial intelligence, social media, and online shopping has introduced issues related to privacy, copyright, cybercrime, and misinformation. As technology develops, governments often need to update laws to protect people while still encouraging innovation. In some cases, technology even helps the legal system work more efficiently, such as through online legal services or digital evidence in court. At the same time, making laws for technology can be difficult because innovation often moves faster than regulation. So in my opinion, law and technology need to evolve together to keep society fair and safe.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-284",
+    "part": "Part 3",
+    "topic": "想要颁布的环保法律",
+    "title": "What kinds of rules do schools in China have?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Schools in China generally have rules related to discipline, behavior, academic responsibility, and mutual respect.\n\nFor instance, students are expected to attend classes on time, complete homework, and follow classroom rules. Some schools also have policies regarding uniforms, phone use, and respectful behavior toward teachers and classmates. Beyond academics, schools often encourage teamwork, honesty, and responsibility through daily routines and activities. I think these rules are mainly designed to create a stable and focused learning environment. Of course, different schools may have different approaches, but most share the same goal of helping students grow.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-285",
+    "part": "Part 3",
+    "topic": "想要颁布的环保法律",
+    "title": "Will there be a law that is universally accepted?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Honestly, I think it is very difficult for any law to be universally accepted because people’s values and cultures are so different.\n\nWhat feels fair or reasonable in one country may not be viewed the same way somewhere else. For example, laws about privacy, education, or even social behavior can vary greatly depending on cultural beliefs and historical backgrounds. That said, I think there are some basic principles that many societies generally agree on, such as laws against violence, theft, or discrimination. These kinds of laws are often linked to human rights and social safety. So while complete agreement may be unrealistic, shared values are still possible.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-286",
+    "part": "Part 3",
+    "topic": "想要颁布的环保法律",
+    "title": "What environmental laws does your country already have?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "My country already has several environmental laws, especially those related to pollution control, waste management, and wildlife protection.\n\nFor example, there are regulations to reduce air pollution and improve water quality, particularly in large cities. Plastic reduction policies, such as restrictions on disposable plastic bags, have also become more common in recent years. In addition, there are laws aimed at protecting endangered species and preserving natural habitats. Of course, implementation can sometimes be challenging, and some people feel enforcement could be stronger. Still, I think public awareness of environmental protection is gradually improving.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-287",
+    "part": "Part 3",
+    "topic": "改变重要想法",
+    "title": "When do most children begin to have their own opinions?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think most children start developing their own opinions quite early, but they usually become much stronger during their teenage years.\n\nEven young children often show preferences, like what clothes they want to wear or what games they enjoy. However, as they grow older, especially during adolescence, they begin to think more independently and question the views around them. At that stage, children often become more aware of identity, friendships, and personal values. Of course, family background and personality also influence how early children express opinions confidently. In my view, having independent opinions is actually a healthy part of growing up, as long as children are also open to guidance.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-288",
+    "part": "Part 3",
+    "topic": "改变重要想法",
+    "title": "Whose opinions are more important to children, their parents' or teachers'?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think both parents’ and teachers’ opinions are important, but their influence may change depending on the child’s age and situation.\n\nWhen children are young, parents usually have a stronger influence because they spend more time together and shape daily habits and values. As children grow older, teachers may become increasingly important, especially in areas like learning, discipline, or future planning. Also, some children may trust teachers more when discussing school-related problems. That said, I think the ideal situation is when parents and teachers work together rather than giving conflicting messages. Children often benefit most when adults around them provide consistent guidance.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-289",
+    "part": "Part 3",
+    "topic": "改变重要想法",
+    "title": "Do children communicate more with teachers or with parents?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think it depends on the topic, but generally speaking, children probably communicate more with parents in daily life.\n\nAt home, children naturally spend more time with parents, so conversations about daily routines, emotions, or personal issues are quite common. However, teachers also play an important role, especially regarding academic progress or school-related challenges. Interestingly, some children may feel more comfortable talking to teachers about problems they find hard to discuss at home. On the other hand, strong family communication often helps children feel emotionally supported. So honestly, I think both relationships are important in different ways.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-290",
+    "part": "Part 3",
+    "topic": "改变重要想法",
+    "title": "Who do young people like to share opinions with?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think young people usually prefer sharing opinions with close friends, although family members still matter too.\n\nFriends often feel easier to talk to because they are closer in age and may share similar experiences or interests. Young people may discuss relationships, school stress, or future plans with friends because they feel less judged. That said, many still seek advice from parents, siblings, or mentors when facing important decisions. Social media also gives young people spaces to express opinions, although online discussions are not always supportive. So in my opinion, trust matters more than age. People usually open up to whoever makes them feel understood.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-291",
+    "part": "Part 3",
+    "topic": "当地新闻",
+    "title": "Do people read the newspaper where you live?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, although fewer people read traditional newspapers nowadays, many still follow news through digital versions or social media.\n\nIn the past, newspapers were one of the main ways people stayed informed, especially among older generations. However, with smartphones and faster internet, many people now prefer reading news online because it feels more convenient and immediate. Younger people, in particular, are more likely to get information through news apps, short videos, or social media platforms. That said, some people still trust newspapers more because they believe traditional media is usually more reliable and carefully edited. So I’d say people still care about news, but the way they consume it has changed quite a lot.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-292",
+    "part": "Part 3",
+    "topic": "当地新闻",
+    "title": "Do people prefer local or international news?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think most people tend to prefer local news because it affects their daily lives more directly.\n\nFor example, people usually care about transportation changes, local policies, education, or public safety because these issues influence everyday routines. However, international news is also important, especially when it relates to major global events, economics, or international conflicts. Nowadays, because of globalization, many people are becoming more interested in what happens in other countries too. Personally, I think having a balance between local and international news is ideal because it helps people stay informed both about their communities and the wider world.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-293",
+    "part": "Part 3",
+    "topic": "当地新闻",
+    "title": "Do you think it's important to have a national identity?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "Yes, I think having a sense of national identity is important because it helps people feel connected to their culture, history, and community.\n\nA national identity can give people a sense of belonging and shared values, especially during important events or difficult times. It may also encourage people to contribute positively to society and care more about their country’s future. However, I also think it’s important to keep an open mind and respect other cultures at the same time. National identity should bring people together, not create division or prejudice. So in my opinion, a healthy sense of national identity is meaningful as long as it remains inclusive and respectful.",
+    "source": "Tencent Docs original speaking library"
+  },
+  {
+    "id": "p3-294",
+    "part": "Part 3",
+    "topic": "当地新闻",
+    "title": "How can people develop their national identity?",
+    "frequency": "高频",
+    "type": "深入讨论",
+    "region": "大陆",
+    "hint": "腾讯文档原文高分回答。先理解观点和论证，再用自己的语速复述。",
+    "keywords": [],
+    "answer": "I think people can develop their national identity by learning about history, culture, and participating in community life.\n\nFor example, schools often teach students about national history, traditions, and important historical events, which helps build cultural understanding. Celebrating festivals, speaking local languages, or enjoying traditional food can also strengthen people’s connection to their culture. In addition, volunteering or taking part in local activities may help people feel more involved in society. That said, I believe national identity grows naturally through everyday experiences rather than being forced. In the end, people usually feel connected to a country when they feel respected and included in it.",
+    "source": "Tencent Docs original speaking library"
   }
 ];
