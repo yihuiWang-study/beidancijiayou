@@ -332,6 +332,7 @@ body[data-mode="speaking"] .speaking-part-3 #term {
   color: var(--ink);
   font-weight: 700;
   line-height: 1.65;
+  white-space: pre-wrap;
 }
 
 .hint {
