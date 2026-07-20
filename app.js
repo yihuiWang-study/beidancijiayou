@@ -210,6 +210,7 @@ function formatTime(totalSeconds) {
 
 function renderWriting() {
   document.body.dataset.mode = "writing";
+  $("speakingControls").hidden = true;
   $("writingWorkspace").hidden = false;
   $("writingTimer").textContent = formatTime(state.writingSeconds);
   document.querySelectorAll(".writing-filter").forEach((button) => button.classList.toggle("active", button.dataset.writingFilter === state.writingFilter));
