@@ -22,6 +22,16 @@ for (const file of requiredWritingLibraryFiles) {
   }
 }
 
+const vocabData = {
+  reading: JSON.parse(readFileSync("data/ielts-reading-538.json", "utf8")),
+  listening: JSON.parse(readFileSync("data/ielts-listening-179.json", "utf8")),
+};
+writeFileSync(
+  "data/vocab-data.js",
+  `window.VOCAB_DATA = ${JSON.stringify(vocabData, null, 2)};\n`,
+  "utf8",
+);
+
 rmSync("dist", { recursive: true, force: true });
 mkdirSync("dist/data", { recursive: true });
 mkdirSync("dist/server", { recursive: true });
