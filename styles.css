@@ -241,6 +241,13 @@ body[data-mode="speaking"] .speaking-part-3 #term {
   line-height: 1.5;
 }
 
+.card-synonyms {
+  color: #0b8f7a;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.55;
+}
+
 .synonyms {
   padding: 18px;
   border-left: 4px solid var(--teal);
