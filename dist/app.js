@@ -145,6 +145,8 @@ function render() {
   if (!state.current) {
     $("term").textContent = state.mode === "mistakes" ? "错词本是空的" : "词库为空";
     $("meaning").textContent = "";
+    $("cardSynonyms").textContent = "";
+    $("cardSynonyms").hidden = true;
     $("synonyms").textContent = "";
     $("questionCue").hidden = true;
     $("answer").hidden = true;
@@ -166,6 +168,8 @@ function render() {
   $("term").textContent = state.current.term || state.current.title;
   if (state.mode === "speaking") {
     $("meaning").textContent = `${state.current.part} · ${state.current.frequency || "常规"} · ${state.current.type || "练习题"}`;
+    $("cardSynonyms").textContent = "";
+    $("cardSynonyms").hidden = true;
     const cuePoints = state.current.part === "Part 2" && (state.current.cuePoints || []).length
       ? `<strong>You should say:</strong><ul class="cue-points">${state.current.cuePoints.map((point) => `<li>${point}</li>`).join("")}</ul><br>`
       : "";
@@ -187,6 +191,10 @@ function render() {
   } else {
     $("questionCue").hidden = true;
     $("meaning").textContent = state.current.meaning || "暂无中文释义";
+    $("cardSynonyms").textContent = state.current.synonyms
+      ? `真题同义替换：${state.current.synonyms}`
+      : "真题同义替换：暂无";
+    $("cardSynonyms").hidden = false;
     $("synonyms").textContent = state.current.synonyms ? `同义替换：${state.current.synonyms}` : "暂无同义替换";
     $("wrongBtn").textContent = "不会";
     $("rightBtn").textContent = "会";
