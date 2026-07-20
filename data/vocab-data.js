@@ -3956,7 +3956,7 @@ window.VOCAB_DATA = {
       "number": 4,
       "term": "adjust",
       "meaning": "调整；改变",
-      "synonyms": "change, alter, modify, shift"
+      "synonyms": "change, alter, modify, shift, revert"
     },
     {
       "id": "listening-005",
@@ -3977,21 +3977,21 @@ window.VOCAB_DATA = {
       "number": 7,
       "term": "because",
       "meaning": "因为",
-      "synonyms": "why, as a result, therefore, cause a variety of, a number of, a range"
+      "synonyms": "why, as a result, therefore, cause"
     },
     {
       "id": "listening-008",
       "number": 8,
       "term": "diversity",
       "meaning": "多样性",
-      "synonyms": "of, various, different money, cost, price, expense, budget"
+      "synonyms": "a variety of, a number of, a range of, various, different"
     },
     {
       "id": "listening-009",
       "number": 9,
-      "term": "fee ",
-      "meaning": "费用,花销",
-      "synonyms": "fund, financial, economic"
+      "term": "fee",
+      "meaning": "费用，花销",
+      "synonyms": "money, cost, price, expense, budget, fund, financial, economic"
     },
     {
       "id": "listening-010",
@@ -4003,35 +4003,35 @@ window.VOCAB_DATA = {
     {
       "id": "listening-011",
       "number": 11,
-      "term": "move, relocate",
-      "meaning": "转移",
-      "synonyms": ""
+      "term": "transfer",
+      "meaning": "搬，移动",
+      "synonyms": "move, relocate"
     },
     {
       "id": "listening-012",
       "number": 12,
       "term": "habitat",
       "meaning": "栖息地",
-      "synonyms": "live, territory international"
+      "synonyms": "live, territory"
     },
     {
       "id": "listening-013",
       "number": 13,
-      "term": "countries, continents, global",
+      "term": "international",
       "meaning": "国际的",
-      "synonyms": ""
+      "synonyms": "countries, continents, global"
     },
     {
       "id": "listening-014",
       "number": 14,
-      "term": "export ",
-      "meaning": "”出口",
+      "term": "export",
+      "meaning": "出口",
       "synonyms": "abroad, overseas"
     },
     {
       "id": "listening-015",
       "number": 15,
-      "term": "vegetation Lved3e'teU（e）n]",
+      "term": "vegetation",
       "meaning": "植被",
       "synonyms": "plant, tree, forest, botanic"
     },
@@ -4061,35 +4061,35 @@ window.VOCAB_DATA = {
       "number": 19,
       "term": "food",
       "meaning": "食物",
-      "synonyms": "feed on. eat"
+      "synonyms": "feed on, eat"
     },
     {
       "id": "listening-020",
       "number": 20,
       "term": "allergic",
       "meaning": "过敏的",
-      "synonyms": "can't eat health, medical, sickness, illness"
+      "synonyms": "can’t eat"
     },
     {
       "id": "listening-021",
       "number": 21,
       "term": "fitness",
       "meaning": "健康",
-      "synonyms": "gym custom, convention. local culture"
+      "synonyms": "health, medical, sickness, illness, gym"
     },
     {
       "id": "listening-022",
       "number": 22,
       "term": "tradition",
       "meaning": "传统",
-      "synonyms": "lifestyle entertainment"
+      "synonyms": "custom, convention, local culture, lifestyle"
     },
     {
       "id": "listening-023",
       "number": 23,
-      "term": "recreatio",
-      "meaning": "leisure 娱乐",
-      "synonyms": ""
+      "term": "entertainment",
+      "meaning": "娱乐",
+      "synonyms": "recreation, leisure"
     },
     {
       "id": "listening-024",
@@ -4101,7 +4101,7 @@ window.VOCAB_DATA = {
     {
       "id": "listening-025",
       "number": 25,
-      "term": "online ",
+      "term": "online",
       "meaning": "网络",
       "synonyms": "Internet, website"
     },
@@ -4117,14 +4117,14 @@ window.VOCAB_DATA = {
       "number": 27,
       "term": "picture",
       "meaning": "照片",
-      "synonyms": "photo, photograph, camera, image rings, bracelets, necklaces, precious"
+      "synonyms": "photo, photograph, camera, image"
     },
     {
       "id": "listening-028",
       "number": 28,
       "term": "jewellery",
       "meaning": "珠宝",
-      "synonyms": "stones, gem, diamond, luxurious"
+      "synonyms": "rings, bracelets, necklaces, precious stones, gem, diamond, luxurious"
     },
     {
       "id": "listening-029",
@@ -4144,43 +4144,43 @@ window.VOCAB_DATA = {
       "id": "listening-031",
       "number": 31,
       "term": "movie",
-      "meaning": "电影 film, documentary, cinema geology n.地质学；",
-      "synonyms": ""
+      "meaning": "电影",
+      "synonyms": "film, documentary, cinema"
     },
     {
       "id": "listening-032",
       "number": 32,
-      "term": "cliff, fossil,",
-      "meaning": ", landscape 地质情况",
-      "synonyms": ""
+      "term": "geology",
+      "meaning": "地质学；地质情况",
+      "synonyms": "cliff, fossil, rock, landscape"
     },
     {
       "id": "listening-033",
       "number": 33,
-      "term": "countryside fkAntrisaid]",
-      "meaning": "乡村",
+      "term": "countryside",
+      "meaning": "乡村的",
       "synonyms": "rural area"
     },
     {
       "id": "listening-034",
       "number": 34,
-      "term": "urban （‘3：ben]",
+      "term": "urban",
       "meaning": "城市的",
-      "synonyms": "city, metropolitan 2"
+      "synonyms": "city, metropolitan"
     },
     {
       "id": "listening-035",
       "number": 35,
-      "term": "coastline 海岸线 shore, seaside environment",
-      "meaning": "",
-      "synonyms": ""
+      "term": "coastline",
+      "meaning": "海岸线",
+      "synonyms": "shore, seaside"
     },
     {
       "id": "listening-036",
       "number": 36,
-      "term": "neighbourhood, surrounding",
+      "term": "environment",
       "meaning": "周围环境",
-      "synonyms": ""
+      "synonyms": "neighbourhood, surrounding"
     },
     {
       "id": "listening-037",
@@ -4200,8 +4200,8 @@ window.VOCAB_DATA = {
       "id": "listening-039",
       "number": 39,
       "term": "outdoor",
-      "meaning": "户夕卜的",
-      "synonyms": "gardens, park, open air accommodation"
+      "meaning": "户外的",
+      "synonyms": "gardens, park, open air"
     },
     {
       "id": "listening-040",
@@ -4215,7 +4215,7 @@ window.VOCAB_DATA = {
       "number": 41,
       "term": "place",
       "meaning": "地点",
-      "synonyms": "where, spot, location. area"
+      "synonyms": "where, spot, location, area"
     },
     {
       "id": "listening-042",
@@ -4235,8 +4235,8 @@ window.VOCAB_DATA = {
       "id": "listening-044",
       "number": 44,
       "term": "advantage",
-      "meaning": "优点 benefit, positive, good thing, strength disadvantage drawback, shortcoming, negative, 45 n.缺点",
-      "synonyms": "problem"
+      "meaning": "优点",
+      "synonyms": "benefit, positive, good thing, strength"
     },
     {
       "id": "listening-045",
@@ -4250,14 +4250,14 @@ window.VOCAB_DATA = {
       "number": 46,
       "term": "education",
       "meaning": "教育",
-      "synonyms": "schools, colleges, institution people, inhabitants, the public, men"
+      "synonyms": "schools, colleges, institution"
     },
     {
       "id": "listening-047",
       "number": 47,
       "term": "ordinary people",
       "meaning": "公众",
-      "synonyms": "and women"
+      "synonyms": "people, inhabitants, the public, men and women"
     },
     {
       "id": "listening-048",
@@ -4298,36 +4298,36 @@ window.VOCAB_DATA = {
       "id": "listening-053",
       "number": 53,
       "term": "extensive",
-      "meaning": "广泛的 comprehensive, a lot of, many expertise n.能力",
-      "synonyms": ""
+      "meaning": "广泛",
+      "synonyms": "comprehensive, a lot of, many"
     },
     {
       "id": "listening-054",
       "number": 54,
-      "term": "ability, skill",
-      "meaning": "专长",
-      "synonyms": ""
+      "term": "expertise",
+      "meaning": "能力，专长",
+      "synonyms": "ability, skill"
     },
     {
       "id": "listening-055",
       "number": 55,
-      "term": "group n..团队 team associate",
-      "meaning": "与...",
-      "synonyms": ""
+      "term": "group",
+      "meaning": "团队",
+      "synonyms": "team"
     },
     {
       "id": "listening-056",
       "number": 56,
-      "term": ", relate",
-      "meaning": ", connect, link 相关",
-      "synonyms": ""
+      "term": "associate",
+      "meaning": "与……相关",
+      "synonyms": "relate to, connect, link"
     },
     {
       "id": "listening-057",
       "number": 57,
       "term": "approach",
       "meaning": "方法",
-      "synonyms": "way, how, method 3"
+      "synonyms": "way, how, method"
     },
     {
       "id": "listening-058",
@@ -4340,14 +4340,14 @@ window.VOCAB_DATA = {
       "id": "listening-059",
       "number": 59,
       "term": "improve",
-      "meaning": "提升；改善",
+      "meaning": "提升",
       "synonyms": "develop, promote"
     },
     {
       "id": "listening-060",
       "number": 60,
       "term": "overlook",
-      "meaning": "忽视；忽略",
+      "meaning": "低估",
       "synonyms": "underestimate, neglect"
     },
     {
@@ -4361,36 +4361,36 @@ window.VOCAB_DATA = {
       "id": "listening-062",
       "number": 62,
       "term": "find",
-      "meaning": "发现 discover, detect, spot, see, sight opportunity n.机",
-      "synonyms": ""
+      "meaning": "发现",
+      "synonyms": "discover, detect, spot, see, sight"
     },
     {
       "id": "listening-063",
       "number": 63,
-      "term": "八",
-      "meaning": "",
-      "synonyms": "odds, hope"
+      "term": "opportunity",
+      "meaning": "机会",
+      "synonyms": "chance, odds, hope"
     },
     {
       "id": "listening-064",
       "number": 64,
       "term": "difficult",
-      "meaning": "困难的 problem, hard, not easy, not simple ,「",
-      "synonyms": "avoid, stop, escape, forbid, out of"
+      "meaning": "困难的",
+      "synonyms": "problem, hard, not easy, not simple"
     },
     {
       "id": "listening-065",
       "number": 65,
       "term": "prevent",
       "meaning": "阻止，避免",
-      "synonyms": "bounds misunderstand wrong idea, confuse, puzzle"
+      "synonyms": "avoid, stop, escape, forbid, out of bounds"
     },
     {
       "id": "listening-066",
       "number": 66,
-      "term": "人",
-      "meaning": "误解，误会",
-      "synonyms": "perplex"
+      "term": "misunderstand",
+      "meaning": "理解错误",
+      "synonyms": "wrong idea, confuse, puzzle, perplex"
     },
     {
       "id": "listening-067",
@@ -4404,7 +4404,7 @@ window.VOCAB_DATA = {
       "number": 68,
       "term": "feedback",
       "meaning": "反馈",
-      "synonyms": "response, reaction. reply"
+      "synonyms": "response, reaction, reply"
     },
     {
       "id": "listening-069",
@@ -4425,14 +4425,14 @@ window.VOCAB_DATA = {
       "number": 71,
       "term": "result",
       "meaning": "结果",
-      "synonyms": "outcome, consequence, conclusion deal with, cope with, figure out, work"
+      "synonyms": "outcome, consequence, conclusion"
     },
     {
       "id": "listening-072",
       "number": 72,
       "term": "handle",
       "meaning": "处理",
-      "synonyms": "out, take care of"
+      "synonyms": "deal with, cope with, figure out, work out, take care of"
     },
     {
       "id": "listening-073",
@@ -4466,21 +4466,21 @@ window.VOCAB_DATA = {
       "id": "listening-077",
       "number": 77,
       "term": "similar",
-      "meaning": "相似的 like, compare particular adj.特另ij",
-      "synonyms": ""
+      "meaning": "相似的",
+      "synonyms": "like, compare"
     },
     {
       "id": "listening-078",
       "number": 78,
-      "term": "special, in",
-      "meaning": ", especially 的",
-      "synonyms": ""
+      "term": "particular",
+      "meaning": "特别的",
+      "synonyms": "special, in particular, especially"
     },
     {
       "id": "listening-079",
       "number": 79,
       "term": "copy",
-      "meaning": "重复； 抄写",
+      "meaning": "重复",
       "synonyms": "repeat, reproduce"
     },
     {
@@ -4495,28 +4495,28 @@ window.VOCAB_DATA = {
       "number": 81,
       "term": "maximum",
       "meaning": "最大值",
-      "synonyms": "up to, at most 4"
+      "synonyms": "up to, at most"
     },
     {
       "id": "listening-082",
       "number": 82,
-      "term": "minimum n.最小值 at least initial",
-      "meaning": "最初的,开",
-      "synonyms": ""
+      "term": "minimum",
+      "meaning": "最小值",
+      "synonyms": "at least"
     },
     {
       "id": "listening-083",
       "number": 83,
-      "term": "at first, start, begi",
-      "meaning": "early on. premiere 始的",
-      "synonyms": "just a few, a little, small, a small"
+      "term": "initial",
+      "meaning": "最初的，开始的",
+      "synonyms": "at first, start, begin, early on, premiere"
     },
     {
       "id": "listening-084",
       "number": 84,
       "term": "limited",
       "meaning": "少量的",
-      "synonyms": "number of, not many, miniature"
+      "synonyms": "just a few, a little, small, a small number of, not many, miniature"
     },
     {
       "id": "listening-085",
@@ -4530,14 +4530,14 @@ window.VOCAB_DATA = {
       "number": 86,
       "term": "decrease",
       "meaning": "降低",
-      "synonyms": "lower, reduce, fewer, drop, fall shortage, insufficient, fewer, not"
+      "synonyms": "lower, reduce, fewer, drop, fall, decrease"
     },
     {
       "id": "listening-087",
       "number": 87,
-      "term": "lack n.l",
+      "term": "lack n./",
       "meaning": "缺乏",
-      "synonyms": "enough"
+      "synonyms": "shortage, insufficient, fewer, not enough"
     },
     {
       "id": "listening-088",
@@ -4563,7 +4563,7 @@ window.VOCAB_DATA = {
     {
       "id": "listening-091",
       "number": 91,
-      "term": "double ",
+      "term": "double",
       "meaning": "两倍",
       "synonyms": "twice"
     },
@@ -4579,14 +4579,14 @@ window.VOCAB_DATA = {
       "number": 93,
       "term": "at present",
       "meaning": "当前",
-      "synonyms": "already, existing, currently, nowadays - upgrade, up to date, more current"
+      "synonyms": "already, existing, currently, nowadays"
     },
     {
       "id": "listening-094",
       "number": 94,
       "term": "update",
       "meaning": "更新",
-      "synonyms": "modern"
+      "synonyms": "upgrade, up to date, more current, modern"
     },
     {
       "id": "listening-095",
@@ -4605,16 +4605,16 @@ window.VOCAB_DATA = {
     {
       "id": "listening-097",
       "number": 97,
-      "term": "out of date过时的 old fashioned ancient",
-      "meaning": "古 老的， medieval, in the past, once, historical, 98 过去的",
-      "synonyms": "old, former"
+      "term": "out of date",
+      "meaning": "过时的",
+      "synonyms": "old fashioned"
     },
     {
       "id": "listening-098",
       "number": 98,
       "term": "ancient",
       "meaning": "古老的，过去的",
-      "synonyms": "medieval, in the past, once, historical, old, former"
+      "synonyms": "medieval, in the past, once, historical, old, ancient, former"
     },
     {
       "id": "listening-099",
@@ -4626,16 +4626,16 @@ window.VOCAB_DATA = {
     {
       "id": "listening-100",
       "number": 100,
-      "term": "deadline n.截止时间 time pressure, on time permanent",
-      "meaning": "长久",
-      "synonyms": ""
+      "term": "deadline",
+      "meaning": "截止时间",
+      "synonyms": "time pressure, on time"
     },
     {
       "id": "listening-101",
       "number": 101,
-      "term": "long-lasting",
-      "meaning": "的",
-      "synonyms": ""
+      "term": "permanent",
+      "meaning": "长久的",
+      "synonyms": "long-lasting"
     },
     {
       "id": "listening-102",
@@ -4663,7 +4663,7 @@ window.VOCAB_DATA = {
       "number": 105,
       "term": "every day",
       "meaning": "每天",
-      "synonyms": "daily 5"
+      "synonyms": "daily"
     },
     {
       "id": "listening-106",
@@ -4675,29 +4675,29 @@ window.VOCAB_DATA = {
     {
       "id": "listening-107",
       "number": 107,
-      "term": "entrance n..入 口 access, main gate, door behind",
-      "meaning": "在",
-      "synonyms": ""
+      "term": "entrance",
+      "meaning": "入口",
+      "synonyms": "access, main gate, door"
     },
     {
       "id": "listening-108",
       "number": 108,
-      "term": "back, rear",
-      "meaning": "后面",
-      "synonyms": ""
+      "term": "behind",
+      "meaning": "在……后面",
+      "synonyms": "back, rear"
     },
     {
       "id": "listening-109",
       "number": 109,
       "term": "below",
-      "meaning": "下面",
+      "meaning": "在……下面",
       "synonyms": "under"
     },
     {
       "id": "listening-110",
       "number": 110,
       "term": "beside",
-      "meaning": "在 旁边",
+      "meaning": "在……旁边",
       "synonyms": "next to, near, border"
     },
     {
@@ -4768,14 +4768,14 @@ window.VOCAB_DATA = {
       "number": 120,
       "term": "injury",
       "meaning": "伤害",
-      "synonyms": "harm, hurt, damage, frighten"
+      "synonyms": "harm, hurt, damage, dangerous, frighten"
     },
     {
       "id": "listening-121",
       "number": 121,
       "term": "military",
       "meaning": "军事的",
-      "synonyms": "battle, weapon. not peaceful"
+      "synonyms": "battle, weapon, not peaceful"
     },
     {
       "id": "listening-122",
@@ -4787,9 +4787,9 @@ window.VOCAB_DATA = {
     {
       "id": "listening-123",
       "number": 123,
-      "term": "rely on依靠 depend o",
-      "meaning": "",
-      "synonyms": "count on"
+      "term": "rely on",
+      "meaning": "依靠",
+      "synonyms": "depend on, count on"
     },
     {
       "id": "listening-124",
@@ -4801,16 +4801,16 @@ window.VOCAB_DATA = {
     {
       "id": "listening-125",
       "number": 125,
-      "term": "space travel空间旅行 aircraft, rocket, satellite vehicle, bus, trai",
-      "meaning": "",
-      "synonyms": "boat, ship, ferry"
+      "term": "space travel",
+      "meaning": "空间旅行",
+      "synonyms": "aircraft, rocket, satellite"
     },
     {
       "id": "listening-126",
       "number": 126,
       "term": "transport",
       "meaning": "交通",
-      "synonyms": "subway"
+      "synonyms": "vehicle, bus, train, boat, ship, ferry, subway"
     },
     {
       "id": "listening-127",
@@ -4830,21 +4830,21 @@ window.VOCAB_DATA = {
       "id": "listening-129",
       "number": 129,
       "term": "clear",
-      "meaning": "清晰的",
+      "meaning": "清晰地",
       "synonyms": "definitive"
     },
     {
       "id": "listening-130",
       "number": 130,
       "term": "freeze",
-      "meaning": "结冰 froze, ice, chill, cold organization n. business, company, corporation 131 公司",
-      "synonyms": "structure 6"
+      "meaning": "结冰",
+      "synonyms": "froze, ice, chill, cold"
     },
     {
       "id": "listening-131",
       "number": 131,
       "term": "organization",
-      "meaning": "公司，组织",
+      "meaning": "公司",
       "synonyms": "business, company, corporation structure"
     },
     {
@@ -4858,27 +4858,27 @@ window.VOCAB_DATA = {
       "id": "listening-133",
       "number": 133,
       "term": "produce",
-      "meaning": "产生 generate, make administer v. 管",
-      "synonyms": ""
+      "meaning": "产生",
+      "synonyms": "generate, make"
     },
     {
       "id": "listening-134",
       "number": 134,
-      "term": "manage",
-      "meaning": "理，治理",
-      "synonyms": ""
+      "term": "administer",
+      "meaning": "管理，治理",
+      "synonyms": "manage"
     },
     {
       "id": "listening-135",
       "number": 135,
       "term": "occupation",
       "meaning": "职位",
-      "synonyms": "profession. job"
+      "synonyms": "profession, job"
     },
     {
       "id": "listening-136",
       "number": 136,
-      "term": "all",
+      "term": "all ages",
       "meaning": "所有年龄的人",
       "synonyms": "young and old"
     },
@@ -4886,7 +4886,7 @@ window.VOCAB_DATA = {
       "id": "listening-137",
       "number": 137,
       "term": "youth",
-      "meaning": "青年人",
+      "meaning": "年轻",
       "synonyms": "young, boy, child, teenager"
     },
     {
@@ -4921,8 +4921,8 @@ window.VOCAB_DATA = {
       "id": "listening-142",
       "number": 142,
       "term": "discount",
-      "meaning": "才丁折 10%",
-      "synonyms": "off, on sale"
+      "meaning": "打折",
+      "synonyms": "10% off, on sale"
     },
     {
       "id": "listening-143",
@@ -4983,43 +4983,43 @@ window.VOCAB_DATA = {
     {
       "id": "listening-151",
       "number": 151,
-      "term": "specialise in 专注于 focus, emphasis, concentrate component, proportio",
-      "meaning": "",
-      "synonyms": "percent"
+      "term": "specialize in",
+      "meaning": "专注于",
+      "synonyms": "focus, emphasis, concentrate"
     },
     {
       "id": "listening-152",
       "number": 152,
-      "term": "part n.吾B 分 section. element, ingredient typical",
-      "meaning": "典型的；",
-      "synonyms": ""
+      "term": "part",
+      "meaning": "部分",
+      "synonyms": "component, proportion, percent, section, element, ingredient"
     },
     {
       "id": "listening-153",
       "number": 153,
-      "term": "representative, common. average 普通的 uncommon",
-      "meaning": "不寻常",
-      "synonyms": ""
+      "term": "typical",
+      "meaning": "典型的；普通的",
+      "synonyms": "representative, common, average"
     },
     {
       "id": "listening-154",
       "number": 154,
-      "term": "以 special,",
-      "meaning": ", unusual, rare 的",
-      "synonyms": ""
+      "term": "uncommon",
+      "meaning": "特别的",
+      "synonyms": "special, unique, unusual, rare"
     },
     {
       "id": "listening-155",
       "number": 155,
       "term": "accurately",
       "meaning": "精确地",
-      "synonyms": "precisely 7"
+      "synonyms": "precisely"
     },
     {
       "id": "listening-156",
       "number": 156,
       "term": "expand",
-      "meaning": "扩建;扩张",
+      "meaning": "扩建；扩张",
       "synonyms": "add, enlarge, increase spaces"
     },
     {
@@ -5039,7 +5039,7 @@ window.VOCAB_DATA = {
     {
       "id": "listening-159",
       "number": 159,
-      "term": "power ",
+      "term": "power",
       "meaning": "力量",
       "synonyms": "force, energy"
     },
@@ -5144,7 +5144,7 @@ window.VOCAB_DATA = {
     {
       "id": "listening-174",
       "number": 174,
-      "term": "visualise",
+      "term": "visualize",
       "meaning": "想象",
       "synonyms": "imagine"
     },

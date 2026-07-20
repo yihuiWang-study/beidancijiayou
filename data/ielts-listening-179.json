@@ -1,0 +1,1255 @@
+[
+  {
+    "id": "listening-001",
+    "number": 1,
+    "term": "reserve",
+    "meaning": "预订",
+    "synonyms": "book"
+  },
+  {
+    "id": "listening-002",
+    "number": 2,
+    "term": "in advance",
+    "meaning": "提前",
+    "synonyms": "ahead, before"
+  },
+  {
+    "id": "listening-003",
+    "number": 3,
+    "term": "have to",
+    "meaning": "必须",
+    "synonyms": "must, should, need, require, necessary, be supposed to, demand, order"
+  },
+  {
+    "id": "listening-004",
+    "number": 4,
+    "term": "adjust",
+    "meaning": "调整；改变",
+    "synonyms": "change, alter, modify, shift, revert"
+  },
+  {
+    "id": "listening-005",
+    "number": 5,
+    "term": "and",
+    "meaning": "和",
+    "synonyms": "and also, as well as, with, in addition"
+  },
+  {
+    "id": "listening-006",
+    "number": 6,
+    "term": "but",
+    "meaning": "但是",
+    "synonyms": "however, yet, instead"
+  },
+  {
+    "id": "listening-007",
+    "number": 7,
+    "term": "because",
+    "meaning": "因为",
+    "synonyms": "why, as a result, therefore, cause"
+  },
+  {
+    "id": "listening-008",
+    "number": 8,
+    "term": "diversity",
+    "meaning": "多样性",
+    "synonyms": "a variety of, a number of, a range of, various, different"
+  },
+  {
+    "id": "listening-009",
+    "number": 9,
+    "term": "fee",
+    "meaning": "费用，花销",
+    "synonyms": "money, cost, price, expense, budget, fund, financial, economic"
+  },
+  {
+    "id": "listening-010",
+    "number": 10,
+    "term": "establish",
+    "meaning": "建造",
+    "synonyms": "build, create, construct, set up, install"
+  },
+  {
+    "id": "listening-011",
+    "number": 11,
+    "term": "transfer",
+    "meaning": "搬，移动",
+    "synonyms": "move, relocate"
+  },
+  {
+    "id": "listening-012",
+    "number": 12,
+    "term": "habitat",
+    "meaning": "栖息地",
+    "synonyms": "live, territory"
+  },
+  {
+    "id": "listening-013",
+    "number": 13,
+    "term": "international",
+    "meaning": "国际的",
+    "synonyms": "countries, continents, global"
+  },
+  {
+    "id": "listening-014",
+    "number": 14,
+    "term": "export",
+    "meaning": "出口",
+    "synonyms": "abroad, overseas"
+  },
+  {
+    "id": "listening-015",
+    "number": 15,
+    "term": "vegetation",
+    "meaning": "植被",
+    "synonyms": "plant, tree, forest, botanic"
+  },
+  {
+    "id": "listening-016",
+    "number": 16,
+    "term": "animal",
+    "meaning": "动物",
+    "synonyms": "mammal, wildlife, creature, species"
+  },
+  {
+    "id": "listening-017",
+    "number": 17,
+    "term": "feature",
+    "meaning": "特点",
+    "synonyms": "characteristic, trait, property"
+  },
+  {
+    "id": "listening-018",
+    "number": 18,
+    "term": "emigrate",
+    "meaning": "迁徙",
+    "synonyms": "move, go away"
+  },
+  {
+    "id": "listening-019",
+    "number": 19,
+    "term": "food",
+    "meaning": "食物",
+    "synonyms": "feed on, eat"
+  },
+  {
+    "id": "listening-020",
+    "number": 20,
+    "term": "allergic",
+    "meaning": "过敏的",
+    "synonyms": "can’t eat"
+  },
+  {
+    "id": "listening-021",
+    "number": 21,
+    "term": "fitness",
+    "meaning": "健康",
+    "synonyms": "health, medical, sickness, illness, gym"
+  },
+  {
+    "id": "listening-022",
+    "number": 22,
+    "term": "tradition",
+    "meaning": "传统",
+    "synonyms": "custom, convention, local culture, lifestyle"
+  },
+  {
+    "id": "listening-023",
+    "number": 23,
+    "term": "entertainment",
+    "meaning": "娱乐",
+    "synonyms": "recreation, leisure"
+  },
+  {
+    "id": "listening-024",
+    "number": 24,
+    "term": "press",
+    "meaning": "媒体",
+    "synonyms": "media, TV, newspaper, radio"
+  },
+  {
+    "id": "listening-025",
+    "number": 25,
+    "term": "online",
+    "meaning": "网络",
+    "synonyms": "Internet, website"
+  },
+  {
+    "id": "listening-026",
+    "number": 26,
+    "term": "publicity",
+    "meaning": "宣传",
+    "synonyms": "website, media, news, marketing"
+  },
+  {
+    "id": "listening-027",
+    "number": 27,
+    "term": "picture",
+    "meaning": "照片",
+    "synonyms": "photo, photograph, camera, image"
+  },
+  {
+    "id": "listening-028",
+    "number": 28,
+    "term": "jewellery",
+    "meaning": "珠宝",
+    "synonyms": "rings, bracelets, necklaces, precious stones, gem, diamond, luxurious"
+  },
+  {
+    "id": "listening-029",
+    "number": 29,
+    "term": "artwork",
+    "meaning": "艺术品",
+    "synonyms": "painting, drawing, craft"
+  },
+  {
+    "id": "listening-030",
+    "number": 30,
+    "term": "statue",
+    "meaning": "雕像",
+    "synonyms": "sculpture, carving"
+  },
+  {
+    "id": "listening-031",
+    "number": 31,
+    "term": "movie",
+    "meaning": "电影",
+    "synonyms": "film, documentary, cinema"
+  },
+  {
+    "id": "listening-032",
+    "number": 32,
+    "term": "geology",
+    "meaning": "地质学；地质情况",
+    "synonyms": "cliff, fossil, rock, landscape"
+  },
+  {
+    "id": "listening-033",
+    "number": 33,
+    "term": "countryside",
+    "meaning": "乡村的",
+    "synonyms": "rural area"
+  },
+  {
+    "id": "listening-034",
+    "number": 34,
+    "term": "urban",
+    "meaning": "城市的",
+    "synonyms": "city, metropolitan"
+  },
+  {
+    "id": "listening-035",
+    "number": 35,
+    "term": "coastline",
+    "meaning": "海岸线",
+    "synonyms": "shore, seaside"
+  },
+  {
+    "id": "listening-036",
+    "number": 36,
+    "term": "environment",
+    "meaning": "周围环境",
+    "synonyms": "neighbourhood, surrounding"
+  },
+  {
+    "id": "listening-037",
+    "number": 37,
+    "term": "noisy",
+    "meaning": "吵闹的",
+    "synonyms": "disturbing, not quiet"
+  },
+  {
+    "id": "listening-038",
+    "number": 38,
+    "term": "capacity",
+    "meaning": "容量",
+    "synonyms": "volume, room, space, size"
+  },
+  {
+    "id": "listening-039",
+    "number": 39,
+    "term": "outdoor",
+    "meaning": "户外的",
+    "synonyms": "gardens, park, open air"
+  },
+  {
+    "id": "listening-040",
+    "number": 40,
+    "term": "accommodation",
+    "meaning": "住宿",
+    "synonyms": "living, dwelling, dorm"
+  },
+  {
+    "id": "listening-041",
+    "number": 41,
+    "term": "place",
+    "meaning": "地点",
+    "synonyms": "where, spot, location, area"
+  },
+  {
+    "id": "listening-042",
+    "number": 42,
+    "term": "near",
+    "meaning": "附近的",
+    "synonyms": "close, not far from, nearby"
+  },
+  {
+    "id": "listening-043",
+    "number": 43,
+    "term": "remote",
+    "meaning": "偏远的",
+    "synonyms": "isolated, distant"
+  },
+  {
+    "id": "listening-044",
+    "number": 44,
+    "term": "advantage",
+    "meaning": "优点",
+    "synonyms": "benefit, positive, good thing, strength"
+  },
+  {
+    "id": "listening-045",
+    "number": 45,
+    "term": "disadvantage",
+    "meaning": "缺点",
+    "synonyms": "drawback, shortcoming, negative, problem"
+  },
+  {
+    "id": "listening-046",
+    "number": 46,
+    "term": "education",
+    "meaning": "教育",
+    "synonyms": "schools, colleges, institution"
+  },
+  {
+    "id": "listening-047",
+    "number": 47,
+    "term": "ordinary people",
+    "meaning": "公众",
+    "synonyms": "people, inhabitants, the public, men and women"
+  },
+  {
+    "id": "listening-048",
+    "number": 48,
+    "term": "student",
+    "meaning": "学生",
+    "synonyms": "pupil, undergraduate, postgraduate"
+  },
+  {
+    "id": "listening-049",
+    "number": 49,
+    "term": "purpose",
+    "meaning": "目标",
+    "synonyms": "aim, goal, target, key areas"
+  },
+  {
+    "id": "listening-050",
+    "number": 50,
+    "term": "learn",
+    "meaning": "学习",
+    "synonyms": "acquire, get, obtain"
+  },
+  {
+    "id": "listening-051",
+    "number": 51,
+    "term": "structure",
+    "meaning": "结构大纲",
+    "synonyms": "outline, framework"
+  },
+  {
+    "id": "listening-052",
+    "number": 52,
+    "term": "reference materials",
+    "meaning": "参考资料",
+    "synonyms": "books, journals, magazines"
+  },
+  {
+    "id": "listening-053",
+    "number": 53,
+    "term": "extensive",
+    "meaning": "广泛",
+    "synonyms": "comprehensive, a lot of, many"
+  },
+  {
+    "id": "listening-054",
+    "number": 54,
+    "term": "expertise",
+    "meaning": "能力，专长",
+    "synonyms": "ability, skill"
+  },
+  {
+    "id": "listening-055",
+    "number": 55,
+    "term": "group",
+    "meaning": "团队",
+    "synonyms": "team"
+  },
+  {
+    "id": "listening-056",
+    "number": 56,
+    "term": "associate",
+    "meaning": "与……相关",
+    "synonyms": "relate to, connect, link"
+  },
+  {
+    "id": "listening-057",
+    "number": 57,
+    "term": "approach",
+    "meaning": "方法",
+    "synonyms": "way, how, method"
+  },
+  {
+    "id": "listening-058",
+    "number": 58,
+    "term": "motivate",
+    "meaning": "鼓励，促进",
+    "synonyms": "encourage, stimulate, keep active, boost, help"
+  },
+  {
+    "id": "listening-059",
+    "number": 59,
+    "term": "improve",
+    "meaning": "提升",
+    "synonyms": "develop, promote"
+  },
+  {
+    "id": "listening-060",
+    "number": 60,
+    "term": "overlook",
+    "meaning": "低估",
+    "synonyms": "underestimate, neglect"
+  },
+  {
+    "id": "listening-061",
+    "number": 61,
+    "term": "omit",
+    "meaning": "省掉",
+    "synonyms": "leave out, cancel"
+  },
+  {
+    "id": "listening-062",
+    "number": 62,
+    "term": "find",
+    "meaning": "发现",
+    "synonyms": "discover, detect, spot, see, sight"
+  },
+  {
+    "id": "listening-063",
+    "number": 63,
+    "term": "opportunity",
+    "meaning": "机会",
+    "synonyms": "chance, odds, hope"
+  },
+  {
+    "id": "listening-064",
+    "number": 64,
+    "term": "difficult",
+    "meaning": "困难的",
+    "synonyms": "problem, hard, not easy, not simple"
+  },
+  {
+    "id": "listening-065",
+    "number": 65,
+    "term": "prevent",
+    "meaning": "阻止，避免",
+    "synonyms": "avoid, stop, escape, forbid, out of bounds"
+  },
+  {
+    "id": "listening-066",
+    "number": 66,
+    "term": "misunderstand",
+    "meaning": "理解错误",
+    "synonyms": "wrong idea, confuse, puzzle, perplex"
+  },
+  {
+    "id": "listening-067",
+    "number": 67,
+    "term": "try hard",
+    "meaning": "努力",
+    "synonyms": "make efforts, hard working"
+  },
+  {
+    "id": "listening-068",
+    "number": 68,
+    "term": "feedback",
+    "meaning": "反馈",
+    "synonyms": "response, reaction, reply"
+  },
+  {
+    "id": "listening-069",
+    "number": 69,
+    "term": "affect",
+    "meaning": "影响",
+    "synonyms": "impact, influence, effect"
+  },
+  {
+    "id": "listening-070",
+    "number": 70,
+    "term": "analysis",
+    "meaning": "分析，认知",
+    "synonyms": "perspective, understand, perceive, know"
+  },
+  {
+    "id": "listening-071",
+    "number": 71,
+    "term": "result",
+    "meaning": "结果",
+    "synonyms": "outcome, consequence, conclusion"
+  },
+  {
+    "id": "listening-072",
+    "number": 72,
+    "term": "handle",
+    "meaning": "处理",
+    "synonyms": "deal with, cope with, figure out, work out, take care of"
+  },
+  {
+    "id": "listening-073",
+    "number": 73,
+    "term": "support",
+    "meaning": "帮助",
+    "synonyms": "help, assistance, aid, tip"
+  },
+  {
+    "id": "listening-074",
+    "number": 74,
+    "term": "ideal",
+    "meaning": "完美的",
+    "synonyms": "perfect"
+  },
+  {
+    "id": "listening-075",
+    "number": 75,
+    "term": "rigorous",
+    "meaning": "严格的",
+    "synonyms": "strict, demanding"
+  },
+  {
+    "id": "listening-076",
+    "number": 76,
+    "term": "restrict",
+    "meaning": "限制",
+    "synonyms": "limit, not permit"
+  },
+  {
+    "id": "listening-077",
+    "number": 77,
+    "term": "similar",
+    "meaning": "相似的",
+    "synonyms": "like, compare"
+  },
+  {
+    "id": "listening-078",
+    "number": 78,
+    "term": "particular",
+    "meaning": "特别的",
+    "synonyms": "special, in particular, especially"
+  },
+  {
+    "id": "listening-079",
+    "number": 79,
+    "term": "copy",
+    "meaning": "重复",
+    "synonyms": "repeat, reproduce"
+  },
+  {
+    "id": "listening-080",
+    "number": 80,
+    "term": "statistics",
+    "meaning": "统计学",
+    "synonyms": "data, figure"
+  },
+  {
+    "id": "listening-081",
+    "number": 81,
+    "term": "maximum",
+    "meaning": "最大值",
+    "synonyms": "up to, at most"
+  },
+  {
+    "id": "listening-082",
+    "number": 82,
+    "term": "minimum",
+    "meaning": "最小值",
+    "synonyms": "at least"
+  },
+  {
+    "id": "listening-083",
+    "number": 83,
+    "term": "initial",
+    "meaning": "最初的，开始的",
+    "synonyms": "at first, start, begin, early on, premiere"
+  },
+  {
+    "id": "listening-084",
+    "number": 84,
+    "term": "limited",
+    "meaning": "少量的",
+    "synonyms": "just a few, a little, small, a small number of, not many, miniature"
+  },
+  {
+    "id": "listening-085",
+    "number": 85,
+    "term": "shorten",
+    "meaning": "截短",
+    "synonyms": "cut down"
+  },
+  {
+    "id": "listening-086",
+    "number": 86,
+    "term": "decrease",
+    "meaning": "降低",
+    "synonyms": "lower, reduce, fewer, drop, fall, decrease"
+  },
+  {
+    "id": "listening-087",
+    "number": 87,
+    "term": "lack n./",
+    "meaning": "缺乏",
+    "synonyms": "shortage, insufficient, fewer, not enough"
+  },
+  {
+    "id": "listening-088",
+    "number": 88,
+    "term": "large",
+    "meaning": "大的",
+    "synonyms": "big, huge"
+  },
+  {
+    "id": "listening-089",
+    "number": 89,
+    "term": "amount of",
+    "meaning": "大量",
+    "synonyms": "lots of, large quantities of, loads of"
+  },
+  {
+    "id": "listening-090",
+    "number": 90,
+    "term": "majority",
+    "meaning": "绝大部分",
+    "synonyms": "most"
+  },
+  {
+    "id": "listening-091",
+    "number": 91,
+    "term": "double",
+    "meaning": "两倍",
+    "synonyms": "twice"
+  },
+  {
+    "id": "listening-092",
+    "number": 92,
+    "term": "more than",
+    "meaning": "超过",
+    "synonyms": "over, beyond, exceed, above"
+  },
+  {
+    "id": "listening-093",
+    "number": 93,
+    "term": "at present",
+    "meaning": "当前",
+    "synonyms": "already, existing, currently, nowadays"
+  },
+  {
+    "id": "listening-094",
+    "number": 94,
+    "term": "update",
+    "meaning": "更新",
+    "synonyms": "upgrade, up to date, more current, modern"
+  },
+  {
+    "id": "listening-095",
+    "number": 95,
+    "term": "newest",
+    "meaning": "最新的",
+    "synonyms": "latest"
+  },
+  {
+    "id": "listening-096",
+    "number": 96,
+    "term": "soon",
+    "meaning": "将来",
+    "synonyms": "later, in the future"
+  },
+  {
+    "id": "listening-097",
+    "number": 97,
+    "term": "out of date",
+    "meaning": "过时的",
+    "synonyms": "old fashioned"
+  },
+  {
+    "id": "listening-098",
+    "number": 98,
+    "term": "ancient",
+    "meaning": "古老的，过去的",
+    "synonyms": "medieval, in the past, once, historical, old, ancient, former"
+  },
+  {
+    "id": "listening-099",
+    "number": 99,
+    "term": "temporary",
+    "meaning": "暂时的",
+    "synonyms": "a short time"
+  },
+  {
+    "id": "listening-100",
+    "number": 100,
+    "term": "deadline",
+    "meaning": "截止时间",
+    "synonyms": "time pressure, on time"
+  },
+  {
+    "id": "listening-101",
+    "number": 101,
+    "term": "permanent",
+    "meaning": "长久的",
+    "synonyms": "long-lasting"
+  },
+  {
+    "id": "listening-102",
+    "number": 102,
+    "term": "more often",
+    "meaning": "频繁",
+    "synonyms": "frequent"
+  },
+  {
+    "id": "listening-103",
+    "number": 103,
+    "term": "annual",
+    "meaning": "年度的",
+    "synonyms": "every year"
+  },
+  {
+    "id": "listening-104",
+    "number": 104,
+    "term": "every month",
+    "meaning": "每个月",
+    "synonyms": "monthly, four weeks"
+  },
+  {
+    "id": "listening-105",
+    "number": 105,
+    "term": "every day",
+    "meaning": "每天",
+    "synonyms": "daily"
+  },
+  {
+    "id": "listening-106",
+    "number": 106,
+    "term": "classify",
+    "meaning": "分类",
+    "synonyms": "category, sort, type, kind"
+  },
+  {
+    "id": "listening-107",
+    "number": 107,
+    "term": "entrance",
+    "meaning": "入口",
+    "synonyms": "access, main gate, door"
+  },
+  {
+    "id": "listening-108",
+    "number": 108,
+    "term": "behind",
+    "meaning": "在……后面",
+    "synonyms": "back, rear"
+  },
+  {
+    "id": "listening-109",
+    "number": 109,
+    "term": "below",
+    "meaning": "在……下面",
+    "synonyms": "under"
+  },
+  {
+    "id": "listening-110",
+    "number": 110,
+    "term": "beside",
+    "meaning": "在……旁边",
+    "synonyms": "next to, near, border"
+  },
+  {
+    "id": "listening-111",
+    "number": 111,
+    "term": "available",
+    "meaning": "可用的",
+    "synonyms": "have, accessible, not close, open"
+  },
+  {
+    "id": "listening-112",
+    "number": 112,
+    "term": "boring",
+    "meaning": "无趣的",
+    "synonyms": "not interesting, boredom"
+  },
+  {
+    "id": "listening-113",
+    "number": 113,
+    "term": "trend",
+    "meaning": "倾向",
+    "synonyms": "possibility, likely, tendency"
+  },
+  {
+    "id": "listening-114",
+    "number": 114,
+    "term": "risky",
+    "meaning": "危险的",
+    "synonyms": "dangerous, not safe, hazard"
+  },
+  {
+    "id": "listening-115",
+    "number": 115,
+    "term": "poisonous",
+    "meaning": "有毒的",
+    "synonyms": "toxic, dangerous"
+  },
+  {
+    "id": "listening-116",
+    "number": 116,
+    "term": "warning",
+    "meaning": "警报",
+    "synonyms": "alarm, alert"
+  },
+  {
+    "id": "listening-117",
+    "number": 117,
+    "term": "care",
+    "meaning": "谨慎",
+    "synonyms": "caution"
+  },
+  {
+    "id": "listening-118",
+    "number": 118,
+    "term": "steal",
+    "meaning": "偷窃",
+    "synonyms": "theft"
+  },
+  {
+    "id": "listening-119",
+    "number": 119,
+    "term": "protect",
+    "meaning": "保护",
+    "synonyms": "safeguard, shelter, preserve"
+  },
+  {
+    "id": "listening-120",
+    "number": 120,
+    "term": "injury",
+    "meaning": "伤害",
+    "synonyms": "harm, hurt, damage, dangerous, frighten"
+  },
+  {
+    "id": "listening-121",
+    "number": 121,
+    "term": "military",
+    "meaning": "军事的",
+    "synonyms": "battle, weapon, not peaceful"
+  },
+  {
+    "id": "listening-122",
+    "number": 122,
+    "term": "tactics",
+    "meaning": "策略",
+    "synonyms": "strategy, method"
+  },
+  {
+    "id": "listening-123",
+    "number": 123,
+    "term": "rely on",
+    "meaning": "依靠",
+    "synonyms": "depend on, count on"
+  },
+  {
+    "id": "listening-124",
+    "number": 124,
+    "term": "travel",
+    "meaning": "旅行",
+    "synonyms": "tourism, trip, passenger, flight"
+  },
+  {
+    "id": "listening-125",
+    "number": 125,
+    "term": "space travel",
+    "meaning": "空间旅行",
+    "synonyms": "aircraft, rocket, satellite"
+  },
+  {
+    "id": "listening-126",
+    "number": 126,
+    "term": "transport",
+    "meaning": "交通",
+    "synonyms": "vehicle, bus, train, boat, ship, ferry, subway"
+  },
+  {
+    "id": "listening-127",
+    "number": 127,
+    "term": "specific",
+    "meaning": "具体的",
+    "synonyms": "detail, particular, example"
+  },
+  {
+    "id": "listening-128",
+    "number": 128,
+    "term": "request",
+    "meaning": "询问",
+    "synonyms": "ask for, inquiry"
+  },
+  {
+    "id": "listening-129",
+    "number": 129,
+    "term": "clear",
+    "meaning": "清晰地",
+    "synonyms": "definitive"
+  },
+  {
+    "id": "listening-130",
+    "number": 130,
+    "term": "freeze",
+    "meaning": "结冰",
+    "synonyms": "froze, ice, chill, cold"
+  },
+  {
+    "id": "listening-131",
+    "number": 131,
+    "term": "organization",
+    "meaning": "公司",
+    "synonyms": "business, company, corporation structure"
+  },
+  {
+    "id": "listening-132",
+    "number": 132,
+    "term": "organize",
+    "meaning": "组织，安排",
+    "synonyms": "arrange, plan"
+  },
+  {
+    "id": "listening-133",
+    "number": 133,
+    "term": "produce",
+    "meaning": "产生",
+    "synonyms": "generate, make"
+  },
+  {
+    "id": "listening-134",
+    "number": 134,
+    "term": "administer",
+    "meaning": "管理，治理",
+    "synonyms": "manage"
+  },
+  {
+    "id": "listening-135",
+    "number": 135,
+    "term": "occupation",
+    "meaning": "职位",
+    "synonyms": "profession, job"
+  },
+  {
+    "id": "listening-136",
+    "number": 136,
+    "term": "all ages",
+    "meaning": "所有年龄的人",
+    "synonyms": "young and old"
+  },
+  {
+    "id": "listening-137",
+    "number": 137,
+    "term": "youth",
+    "meaning": "年轻",
+    "synonyms": "young, boy, child, teenager"
+  },
+  {
+    "id": "listening-138",
+    "number": 138,
+    "term": "mate",
+    "meaning": "伙伴",
+    "synonyms": "friend, peer"
+  },
+  {
+    "id": "listening-139",
+    "number": 139,
+    "term": "staff",
+    "meaning": "员工",
+    "synonyms": "recruit, worker, employee"
+  },
+  {
+    "id": "listening-140",
+    "number": 140,
+    "term": "sale",
+    "meaning": "销售",
+    "synonyms": "retail"
+  },
+  {
+    "id": "listening-141",
+    "number": 141,
+    "term": "cheap",
+    "meaning": "便宜的",
+    "synonyms": "low price"
+  },
+  {
+    "id": "listening-142",
+    "number": 142,
+    "term": "discount",
+    "meaning": "打折",
+    "synonyms": "10% off, on sale"
+  },
+  {
+    "id": "listening-143",
+    "number": 143,
+    "term": "round",
+    "meaning": "圆",
+    "synonyms": "curve, circle"
+  },
+  {
+    "id": "listening-144",
+    "number": 144,
+    "term": "order",
+    "meaning": "顺序",
+    "synonyms": "sequence"
+  },
+  {
+    "id": "listening-145",
+    "number": 145,
+    "term": "renovate",
+    "meaning": "修理；翻新",
+    "synonyms": "fix, repair"
+  },
+  {
+    "id": "listening-146",
+    "number": 146,
+    "term": "alone",
+    "meaning": "单独的",
+    "synonyms": "single, by themselves"
+  },
+  {
+    "id": "listening-147",
+    "number": 147,
+    "term": "hospitality",
+    "meaning": "招待",
+    "synonyms": "treatment, prepare refreshment"
+  },
+  {
+    "id": "listening-148",
+    "number": 148,
+    "term": "shape like",
+    "meaning": "像",
+    "synonyms": "look like, seem"
+  },
+  {
+    "id": "listening-149",
+    "number": 149,
+    "term": "depress",
+    "meaning": "失望，使沮丧",
+    "synonyms": "disappoint, dispirit, frustrate, discourage"
+  },
+  {
+    "id": "listening-150",
+    "number": 150,
+    "term": "well-known",
+    "meaning": "有名的",
+    "synonyms": "famous, fame"
+  },
+  {
+    "id": "listening-151",
+    "number": 151,
+    "term": "specialize in",
+    "meaning": "专注于",
+    "synonyms": "focus, emphasis, concentrate"
+  },
+  {
+    "id": "listening-152",
+    "number": 152,
+    "term": "part",
+    "meaning": "部分",
+    "synonyms": "component, proportion, percent, section, element, ingredient"
+  },
+  {
+    "id": "listening-153",
+    "number": 153,
+    "term": "typical",
+    "meaning": "典型的；普通的",
+    "synonyms": "representative, common, average"
+  },
+  {
+    "id": "listening-154",
+    "number": 154,
+    "term": "uncommon",
+    "meaning": "特别的",
+    "synonyms": "special, unique, unusual, rare"
+  },
+  {
+    "id": "listening-155",
+    "number": 155,
+    "term": "accurately",
+    "meaning": "精确地",
+    "synonyms": "precisely"
+  },
+  {
+    "id": "listening-156",
+    "number": 156,
+    "term": "expand",
+    "meaning": "扩建；扩张",
+    "synonyms": "add, enlarge, increase spaces"
+  },
+  {
+    "id": "listening-157",
+    "number": 157,
+    "term": "climb",
+    "meaning": "上升",
+    "synonyms": "go up, increase"
+  },
+  {
+    "id": "listening-158",
+    "number": 158,
+    "term": "enhance",
+    "meaning": "增强",
+    "synonyms": "improve, increase"
+  },
+  {
+    "id": "listening-159",
+    "number": 159,
+    "term": "power",
+    "meaning": "力量",
+    "synonyms": "force, energy"
+  },
+  {
+    "id": "listening-160",
+    "number": 160,
+    "term": "fuel",
+    "meaning": "燃料",
+    "synonyms": "coal, firewood, petrol, gas"
+  },
+  {
+    "id": "listening-161",
+    "number": 161,
+    "term": "refurbish",
+    "meaning": "重新装修",
+    "synonyms": "redecorate"
+  },
+  {
+    "id": "listening-162",
+    "number": 162,
+    "term": "preference",
+    "meaning": "偏爱；优先权",
+    "synonyms": "like, priority"
+  },
+  {
+    "id": "listening-163",
+    "number": 163,
+    "term": "trust",
+    "meaning": "信任",
+    "synonyms": "less suspicious, believe"
+  },
+  {
+    "id": "listening-164",
+    "number": 164,
+    "term": "computer",
+    "meaning": "电脑",
+    "synonyms": "laptop"
+  },
+  {
+    "id": "listening-165",
+    "number": 165,
+    "term": "handy",
+    "meaning": "方便的",
+    "synonyms": "convenient"
+  },
+  {
+    "id": "listening-166",
+    "number": 166,
+    "term": "demonstrate",
+    "meaning": "展示",
+    "synonyms": "display, show, exhibition"
+  },
+  {
+    "id": "listening-167",
+    "number": 167,
+    "term": "important",
+    "meaning": "主要的",
+    "synonyms": "significant, major, main, primary"
+  },
+  {
+    "id": "listening-168",
+    "number": 168,
+    "term": "straightforward",
+    "meaning": "简单直接的",
+    "synonyms": "direct, first-hand, simple"
+  },
+  {
+    "id": "listening-169",
+    "number": 169,
+    "term": "disused",
+    "meaning": "废弃的",
+    "synonyms": "empty, abandoned"
+  },
+  {
+    "id": "listening-170",
+    "number": 170,
+    "term": "donate",
+    "meaning": "捐赠",
+    "synonyms": "charity, give"
+  },
+  {
+    "id": "listening-171",
+    "number": 171,
+    "term": "work",
+    "meaning": "作品",
+    "synonyms": "item"
+  },
+  {
+    "id": "listening-172",
+    "number": 172,
+    "term": "turn",
+    "meaning": "转动",
+    "synonyms": "switch"
+  },
+  {
+    "id": "listening-173",
+    "number": 173,
+    "term": "information",
+    "meaning": "信息",
+    "synonyms": "details, data, graph, chart"
+  },
+  {
+    "id": "listening-174",
+    "number": 174,
+    "term": "visualize",
+    "meaning": "想象",
+    "synonyms": "imagine"
+  },
+  {
+    "id": "listening-175",
+    "number": 175,
+    "term": "repetition",
+    "meaning": "重复",
+    "synonyms": "over and over"
+  },
+  {
+    "id": "listening-176",
+    "number": 176,
+    "term": "poor",
+    "meaning": "弱的",
+    "synonyms": "weak"
+  },
+  {
+    "id": "listening-177",
+    "number": 177,
+    "term": "durable",
+    "meaning": "耐用的",
+    "synonyms": "stronger, longer"
+  },
+  {
+    "id": "listening-178",
+    "number": 178,
+    "term": "pollutant",
+    "meaning": "污染物",
+    "synonyms": "contaminant"
+  },
+  {
+    "id": "listening-179",
+    "number": 179,
+    "term": "continue",
+    "meaning": "继续",
+    "synonyms": "ahead, go on, keep doing"
+  }
+]
