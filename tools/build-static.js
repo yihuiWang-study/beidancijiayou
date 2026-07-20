@@ -1,4 +1,26 @@
-import { cpSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
+import { copyFileSync, cpSync, existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
+
+function copyDirectory(source, destination) {
+  mkdirSync(destination, { recursive: true });
+  for (const entry of readdirSync(source, { withFileTypes: true })) {
+    const from = `${source}/${entry.name}`;
+    const to = `${destination}/${entry.name}`;
+    if (entry.isDirectory()) copyDirectory(from, to);
+    else copyFileSync(from, to);
+  }
+}
+
+const requiredWritingLibraryFiles = [
+  "data/writing-library/library.css",
+  "data/writing-library/task1/index.html",
+  "data/writing-library/task2/index.html",
+];
+
+for (const file of requiredWritingLibraryFiles) {
+  if (!existsSync(file)) {
+    throw new Error(`Missing required writing-library asset: ${file}`);
+  }
+}
 
 rmSync("dist", { recursive: true, force: true });
 mkdirSync("dist/data", { recursive: true });
@@ -13,8 +35,10 @@ for (const file of ["vocab-data.js", "speaking-data.js", "writing-data.js", "iel
   cpSync(`data/${file}`, `dist/data/${file}`);
 }
 
-for (const file of ["ielts-task-1-soro.pdf", "ielts-task-2-soro.pdf"]) {
-  if (existsSync(`data/${file}`)) cpSync(`data/${file}`, `dist/data/${file}`);
+copyDirectory("data/writing-library", "dist/data/writing-library");
+
+if (existsSync("data/speaking-source")) {
+  copyDirectory("data/speaking-source", "dist/data/speaking-source");
 }
 
 if (existsSync(".openai/hosting.json")) {
